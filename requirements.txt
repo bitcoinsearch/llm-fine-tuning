@@ -1,0 +1,11 @@
+requests~=2.31.0
+tqdm~=4.66.1
+tiktoken~=0.5.1
+python-dotenv~=1.0.0
+openai~=0.28.0
+loguru~=0.7.2
+elasticsearch~=8.7.0
+pytz~=2023.3.post1
+python-dateutil~=2.8.2
+numpy~=1.25.2
+pandas~=2.1.0
