@@ -11,6 +11,7 @@ import ast
 import sys
 import time
 from openai.error import APIError, PermissionError, AuthenticationError, InvalidAPIType, ServiceUnavailableError
+
 from src.config import ES_CLOUD_ID, ES_USERNAME, ES_PASSWORD, ES_INDEX
 from src.utils import preprocess_email, ElasticSearchClient, tiktoken_len, clean_text, split_prompt_into_chunks, empty_dir
 
@@ -42,6 +43,8 @@ def generate_topics_for_text(text, topic_list):
     2. Output should be a Python list of relevant keywords from the TOPIC_LIST that describe the CONTENT.
     3. If the provided CONTENT does not contain any relevant keywords from the given TOPIC_LIST output an empty Python List ie., [].
     \nPlease provide the list of relevant topics:"""
+
+    time.sleep(2)
     logger.info(f"token length: {tiktoken_len(topic_modeling_prompt)}")
 
     response = openai.ChatCompletion.create(

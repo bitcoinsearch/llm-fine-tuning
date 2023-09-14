@@ -1,18 +1,69 @@
 import os
 import re
+from dotenv import load_dotenv
 import shutil
-
 from dateutil.parser import parse
 from elasticsearch import Elasticsearch
+from datetime import datetime
 import time
 from loguru import logger
-from dotenv import load_dotenv
 import warnings
 import tiktoken
+import pytz
+import xml.etree.ElementTree as ET
+
 from src.config import TOKENIZER, ES_DATA_FETCH_SIZE
 
 warnings.filterwarnings("ignore")
 load_dotenv()
+
+
+class XMLReader:
+    def __init__(self) -> None:
+        self.month_dict = {
+            1: "Jan", 2: "Feb", 3: "March", 4: "April", 5: "May", 6: "June",
+            7: "July", 8: "Aug", 9: "Sept", 10: "Oct", 11: "Nov", 12: "Dec"
+        }
+
+    def get_id(self, id):
+        return str(id).split("-")[-1]
+
+    def clean_title(self, xml_name):
+        special_characters = ['/', ':', '@', '#', '$', '*', '&', '<', '>', '\\', '?']
+        xml_name = re.sub(r'[^A-Za-z0-9]+', '-', xml_name)
+        for sc in special_characters:
+            xml_name = xml_name.replace(sc, "-")
+        return xml_name
+
+    def get_xml_summary(self, data, dev_name):
+        number = self.get_id(data["_source"]["id"])
+        title = data["_source"]["title"]
+        xml_name = self.clean_title(title)
+        published_at = datetime.strptime(data['_source']['created_at'], '%Y-%m-%dT%H:%M:%S.%fZ')
+        published_at = pytz.UTC.localize(published_at)
+        month_name = self.month_dict[int(published_at.month)]
+        str_month_year = f"{month_name}_{int(published_at.year)}"
+        current_directory = os.getcwd()
+        file_path = f"static/{dev_name}/{str_month_year}/{number}_{xml_name}.xml"
+        full_path = os.path.join(current_directory, file_path)
+
+        try:
+            if os.path.exists(full_path):
+                namespaces = {'atom': 'http://www.w3.org/2005/Atom'}
+                tree = ET.parse(full_path)
+                root = tree.getroot()
+                summ_list = root.findall(".//atom:entry/atom:summary", namespaces)
+                if summ_list:
+                    summ = "\n".join([summ.text for summ in summ_list])
+                    return summ, f"Summary text found: {full_path}"
+                else:
+                    return None, f"No summary found: {full_path}"
+            else:
+                return None, f"No xml file found: {full_path}"
+        except Exception as e:
+            ex_message = f"Error: {e} at file path: {full_path}"
+            logger.error(ex_message)
+            return None, ex_message
 
 
 class ElasticSearchClient:
@@ -25,75 +76,6 @@ class ElasticSearchClient:
             cloud_id=self._es_cloud_id,
             http_auth=(self._es_username, self._es_password),
         )
-
-    # def fetch_data_based_on_empty_keywords(self, es_index, start_date_str, current_date_str):
-    #     logger.info(f"fetching the data based on empty keywords ... ")
-    #     output_list = []
-    #     start_time = time.time()
-    #
-    #     if self._es_client.ping():
-    #         logger.success("connected to the ElasticSearch")
-    #
-    #         if start_date_str and current_date_str:
-    #             query = {
-    #                 "query": {
-    #                     "bool": {
-    #                         "must": [
-    #                             {
-    #                                 "range": {
-    #                                     "created_at": {
-    #                                         "gte": f"{start_date_str}T00:00:00.000Z",
-    #                                         "lte": f"{current_date_str}T23:59:59.999Z"
-    #                                     }
-    #                                 }
-    #                             }
-    #                         ],
-    #                         "must_not": {
-    #                             "exists": {
-    #                                 "field": "primary_topics"
-    #                             }
-    #                         }
-    #                     }
-    #                 }
-    #             }
-    #         else:
-    #             query = {
-    #                 "query": {
-    #                     "bool": {
-    #                         "must_not": {
-    #                             "exists": {
-    #                                 "field": "primary_topics"
-    #                             }
-    #                         }
-    #                     }
-    #                 }
-    #             }
-    #
-    #         # Initialize the scroll
-    #         scroll_response = self._es_client.search(index=es_index, body=query, size=self._es_data_fetch_size,
-    #                                                  scroll='1m')
-    #         scroll_id = scroll_response['_scroll_id']
-    #         results = scroll_response['hits']['hits']
-    #
-    #         # Dump the documents into the json file
-    #         logger.info(f"Starting dumping of {es_index} data in json...")
-    #         while len(results) > 0:
-    #             # Save the current batch of results
-    #             for result in results:
-    #                 output_list.append(result)
-    #
-    #             # Fetch the next batch of results
-    #             scroll_response = self._es_client.scroll(scroll_id=scroll_id, scroll='1m')
-    #             scroll_id = scroll_response['_scroll_id']
-    #             results = scroll_response['hits']['hits']
-    #
-    #         logger.info(
-    #             f"Dumping of {es_index} data in json has completed and has taken {time.time() - start_time:.2f} seconds.")
-    #
-    #         return output_list
-    #     else:
-    #         logger.warning('Could not connect to Elasticsearch')
-    #         return output_list
 
     def fetch_data_for_empty_keywords(self, es_index, url=None, start_date_str=None, current_date_str=None):
         logger.info(f"fetching the data based on empty keywords ... ")
@@ -213,6 +195,105 @@ class ElasticSearchClient:
         else:
             logger.warning('Could not connect to Elasticsearch')
             return output_list
+
+    def fetch_all_data_for_url(self, es_index, url):
+        logger.info(f"fetching all the data")
+        output_list = []
+        start_time = time.time()
+
+        if self._es_client.ping():
+            logger.info("connected to the ElasticSearch")
+            query = {
+                "query": {
+                    "match_phrase": {
+                        "domain": str(url)
+                    }
+                }
+            }
+
+            # Initialize the scroll
+            scroll_response = self._es_client.search(index=es_index, body=query, size=self._es_data_fetch_size,
+                                                     scroll='1m')
+            scroll_id = scroll_response['_scroll_id']
+            results = scroll_response['hits']['hits']
+
+            # Dump the documents into the json file
+            logger.info(f"Starting dumping of {es_index} data in json...")
+            while len(results) > 0:
+                # Save the current batch of results
+                for result in results:
+                    output_list.append(result)
+
+                # Fetch the next batch of results
+                scroll_response = self._es_client.scroll(scroll_id=scroll_id, scroll='1m')
+                scroll_id = scroll_response['_scroll_id']
+                results = scroll_response['hits']['hits']
+
+            logger.info(
+                f"Dumping of {es_index} data in json has completed and has taken {time.time() - start_time:.2f} seconds.")
+
+            return output_list
+        else:
+            logger.info('Could not connect to Elasticsearch')
+            return None
+
+    def extract_data_from_es(self, es_index, url, start_date_str, current_date_str):
+        output_list = []
+        start_time = time.time()
+
+        if self._es_client.ping():
+            logger.success("connected to the ElasticSearch")
+            query = {
+                "query": {
+                    "bool": {
+                        "must": [
+                            {
+                                "prefix": {  # Using prefix query for domain matching
+                                    "domain.keyword": str(url)
+                                }
+                            },
+                            {
+                                "range": {
+                                    "created_at": {
+                                        "gte": f"{start_date_str}T00:00:00.000Z",
+                                        "lte": f"{current_date_str}T23:59:59.999Z"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            }
+
+            # Initialize the scroll
+            scroll_response = self._es_client.search(
+                index=es_index,
+                body=query,
+                size=self._es_data_fetch_size,
+                scroll='1m'
+            )
+            scroll_id = scroll_response['_scroll_id']
+            results = scroll_response['hits']['hits']
+
+            # Dump the documents into the json file
+            logger.info(f"Starting dumping of {es_index} data in json...")
+            while len(results) > 0:
+                # Save the current batch of results
+                for result in results:
+                    output_list.append(result)
+
+                # Fetch the next batch of results
+                scroll_response = self._es_client.scroll(scroll_id=scroll_id, scroll='1m')
+                scroll_id = scroll_response['_scroll_id']
+                results = scroll_response['hits']['hits']
+
+            logger.info(
+                f"Dumping of {es_index} data in json has completed and has taken {time.time() - start_time:.2f} seconds.")
+
+            return output_list
+        else:
+            logger.info('Could not connect to Elasticsearch')
+            return None
 
     @property
     def es_client(self):
