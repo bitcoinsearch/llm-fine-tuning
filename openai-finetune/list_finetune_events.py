@@ -14,8 +14,19 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 openai.organization = OPENAI_ORG_KEY
 openai.api_key = OPENAI_API_KEY
 
-# Enter fine-tuning job id (i.e., "ftjob-8fVPvtgokefrgSFRdvyGIAzc")
+# ENTER THE FINE-TUNING JOB ID (i.e., "ftjob-8fVPvtgokefrgSFRdvyGIAzc")
 FINETUNING_JOB_ID = "ftjob-8fVPvtgokefrgSFRdvyGIAzc"
+
+
+def cancel_finetune(fine_tuning_job_id):
+    cancel_ft = openai.FineTuningJob.cancel(fine_tuning_job_id)
+    logger.info(cancel_ft)
+
+
+def delete_uploaded_file(file_id):
+    # file_id = "file-U0gadd9sL2JAShVh8oEaKZXJ"
+    pprint(openai.File.delete(file_id))
+    pprint(openai.File.list())
 
 
 if __name__ == "__main__":
@@ -30,18 +41,13 @@ if __name__ == "__main__":
             logger.success(f"Fine-tuned model name: {retrieved_ft['fine_tuned_model']}")
 
         else:
-            # logger.info(retrieved_ft)
             pprint(openai.FineTuningJob.list_events(FINETUNING_JOB_ID))
             logger.info(f"Fine-Tuning Status: {retrieved_ft['status']}")
 
     except Exception as ex:
         logger.error(ex)
 
-    # # to delete uploaded file
-    # file_name = "file-U0gadd9sL2JAShVh8oEaKZXJ"
-    # pprint(openai.File.delete(file_name))
-    # pprint(openai.File.list())
-
-    # # to cancel finetune job
-    # cancel_ft = openai.FineTuningJob.cancel(FINETUNING_JOB_ID)
-    # logger.info(cancel_ft)
+    '''
+    # use below code to cancel the fine-tuning job
+    cancel_finetune(FINETUNING_JOB_ID)
+    '''

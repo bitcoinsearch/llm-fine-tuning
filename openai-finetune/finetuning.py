@@ -25,13 +25,25 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 openai.organization = OPENAI_ORG_KEY
 openai.api_key = OPENAI_API_KEY
 
-
 if __name__ == "__main__":
 
-    # if production is set to False, elasticsearch will fetch all the docs in the index
-    PRODUCTION = True
+    ### VARIABLES TOBE CONFIGURE AS PER USER'S NEED
+    # if APPLY_DATE_RANGE is set to False, elasticsearch will fetch all the docs in the index
+    APPLY_DATE_RANGE = False
+    # path for the file to be saved after data preparation
+    JSONL_FILE_PATH = "data.jsonl"
+    # number of epochs you want to fune-tune the model
+    NUM_EPOCHS = 1
+    # custom suffix you want to add to name a new fine-tuning model (not more than 18 characters)
+    FINE_TUNING_MODEL_SUFFIX = "custom-suffix"
+    # add the fine-tuned model name if you want to add more data to the fine-tuned model
+    FINETUNING_MODEL_NAME = "gpt-3.5-turbo"
+    # 'fine_tuned_model' from https://platform.openai.com/docs/api-reference/fine-tuning/retrieve
 
-    # workflow
+    if os.path.exists(JSONL_FILE_PATH):
+        os.remove(JSONL_FILE_PATH)
+
+    ### DATA COLLECTION
     xml_reader = XMLReader()
     elastic_search = ElasticSearchClient(es_cloud_id=ES_CLOUD_ID, es_username=ES_USERNAME,
                                          es_password=ES_PASSWORD)
@@ -44,7 +56,7 @@ if __name__ == "__main__":
     for dev_url in dev_urls:
         logger.info(f"dev_url: {dev_url}")
 
-        if PRODUCTION:
+        if APPLY_DATE_RANGE:
             current_date_str = None
             if not current_date_str:
                 current_date_str = datetime.now().strftime("%Y-%m-%d")
@@ -52,30 +64,16 @@ if __name__ == "__main__":
             start_date_str = start_date.strftime("%Y-%m-%d")
             logger.info(f"start_date: {start_date_str}")
             logger.info(f"current_date_str: {current_date_str}")
-
             docs_list = elastic_search.extract_data_from_es(ES_INDEX, dev_url, start_date_str, current_date_str)
-
         else:
             docs_list = elastic_search.fetch_all_data_for_url(ES_INDEX, dev_url)
 
         dev_name = dev_url.split("/")[-2]
         logger.success(f"Total threads received for {dev_name}: {len(docs_list)}")
 
-        # variables
-        # docs_list = docs_list[:10]  # delete this line after testing
-        JSONL_FILE_PATH = "data.jsonl"
-        NUM_EPOCHS = 1
+        # docs_list = docs_list[:10]  # for testing on small dataset
 
-        # custom suffix you want to add to name a new fine-tuning model (not more than 18 characters)
-        FINE_TUNING_MODEL_SUFFIX = "2808-test"
-
-        # add the fine-tuned model name if you want to add more data to the fine-tuned model
-        # https://platform.openai.com/docs/api-reference/fine-tuning/create#suffix
-        FINETUNING_MODEL_NAME = "gpt-3.5-turbo"  # 'fine_tuned_model' from https://platform.openai.com/docs/api-reference/fine-tuning/retrieve
-
-        if os.path.exists(JSONL_FILE_PATH):
-            os.remove(JSONL_FILE_PATH)
-
+        ### DATA PREPARATION (INTO JSONL FORMAT)
         for doc in tqdm.tqdm(docs_list):
             res = None
             try:
@@ -85,7 +83,6 @@ if __name__ == "__main__":
                 if email_body and email_summary:
                     preprocessed_email_body = preprocess_email(email_body=email_body)
 
-                    # PREPARE DATA TO JSONL FORMAT
                     prompt_with_context = f"""Suppose you are a programmer and you are enriched by programming knowledge. You will be going through other programmers mail sent to you and you will be extracting all the important information out of the mail and composing a blog post. Even if the mail is divided into parts and parts, your extraction summary should not be in bullet points. It should be in multiple paragraphs. I repeat, never in bullet points. You have to follow some rules while giving a detailed summary. 
                     The rules are below:
                         1. While extracting, avoid using phrases referring to the context. Instead, directly present the information or points covered.  Do not introduce sentences with phrases like: "The context discusses...", "In this context..." or "The context covers..." or "The context questions..." etc
@@ -119,24 +116,27 @@ if __name__ == "__main__":
 
         logger.success(f"JSONL file generated successfully!: {JSONL_FILE_PATH}")
 
-        # CHECK JSONL DATA FORMATTING
+        ### CHECK JSONL DATA FORMATTING
         logger.info(f"checking jsonl data formatting...")
         data_report = check_jsonl_data_format(file_path=JSONL_FILE_PATH)
 
-        # JSONL PRICE STATS
+        ### JSONL PRICE STATS
         get_jsonl_data_stats(file_path=JSONL_FILE_PATH, n_epochs=NUM_EPOCHS)
 
+        ### FINE-TUNING PROCESS
+        # no errors in dataformat, move on to fine-tuning steps
         if data_report:
-            # no errors in dataformat, move on to fine-tuning steps
             logger.info(f"uploading the file for fine-tuning...")
 
-            # upload the file
+            # UPLOAD THE FILE
             upload_response = openai.File.create(
                 file=open(JSONL_FILE_PATH, "rb"),
                 purpose='fine-tune'
             )
             logger.info(f"upload_response: {upload_response}")
-            '''{
+            '''
+            here is the sample upload response:
+            {
               "id": "file-abc123",
               "object": "file",
               "bytes": 140,
@@ -144,7 +144,8 @@ if __name__ == "__main__":
               "filename": "mydata.jsonl",
               "purpose": "fine-tune",
               "status": "uploaded" | "processed" | "pending" | "error"
-            }'''
+            }
+            '''
 
             # get uploaded file id
             uploaded_file_id = upload_response['id']
@@ -172,8 +173,9 @@ if __name__ == "__main__":
                     # n_epochs=NUM_EPOCHS,
                     suffix=FINE_TUNING_MODEL_SUFFIX
                 )
-
-                '''{
+                '''
+                here is the sample response of creating fine-tuning job:
+                {
                   "object": "fine_tuning.job",
                   "id": "ft-AF1WoRqd3aJAHsqc9NY7iL8F",
                   "model": "gpt-3.5-turbo-0613",

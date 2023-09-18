@@ -26,10 +26,17 @@ openai.api_key = OPENAI_API_KEY
 
 if __name__ == "__main__":
 
-    # if production is set to False, elasticsearch will fetch all the docs in the index
-    PRODUCTION = True
+    ### VARIABLES TO BE CONFIGURED BY USER
+    # file path to be saved for prepared dataset
+    CSV_FILE_PATH = "data.csv"
 
-    # workflow
+    if os.path.exists(CSV_FILE_PATH):
+        os.remove(CSV_FILE_PATH)
+
+    # if APPLY_DATE_RANGE is set to False, elasticsearch will fetch all the docs in the index
+    APPLY_DATE_RANGE = False
+
+    ### DATA COLLECTION
     xml_reader = XMLReader()
     elastic_search = ElasticSearchClient(es_cloud_id=ES_CLOUD_ID, es_username=ES_USERNAME,
                                          es_password=ES_PASSWORD)
@@ -42,7 +49,7 @@ if __name__ == "__main__":
     for dev_url in dev_urls:
         logger.info(f"dev_url: {dev_url}")
 
-        if PRODUCTION:
+        if APPLY_DATE_RANGE:
             current_date_str = None
             if not current_date_str:
                 current_date_str = datetime.now().strftime("%Y-%m-%d")
@@ -59,13 +66,7 @@ if __name__ == "__main__":
         dev_name = dev_url.split("/")[-2]
         logger.success(f"Total threads received for {dev_name}: {len(docs_list)}")
 
-        # variables
-        # docs_list = docs_list[:100]  # delete this line after testing
-        CSV_FILE_PATH = "data.csv"
-
-        if os.path.exists(CSV_FILE_PATH):
-            os.remove(CSV_FILE_PATH)
-
+        # docs_list = docs_list[:100]  # for testing on small dataset
         dataset = []
 
         for doc in tqdm.tqdm(docs_list):

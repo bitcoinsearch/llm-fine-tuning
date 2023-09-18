@@ -370,6 +370,8 @@ def clean_text(text):
     text = regex_url.sub('', text.lower())  # remove urls and convert to lower case
     text = regex_non_alpha.sub('', text)  # remove non-alphanumeric characters
     text = regex_spaces.sub(' ', text).strip()  # replace whitespace sequences with a single space
+    # # to avoid SyntaxError: unterminated string literal due to ' and "
+    # text = text.replace("'", '\'')
     return text
 
 

@@ -28,8 +28,11 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 openai.organization = OPENAI_ORG_KEY
 openai.api_key = OPENAI_API_KEY
 
+os.makedirs("logs", exist_ok=True)
+os.makedirs("gpt_output/topic_modeling", exist_ok=True)
+
 # logs automatically rotate too big file
-empty_dir(file_path="logs")
+# empty_dir(file_path="logs")
 logger.add(f"logs/es_update_topics_{datetime.now().strftime('%Y_%m_%d_%H_%M_%S')}.log", rotation="1000 MB")
 
 
@@ -77,6 +80,7 @@ def get_keywords_for_text(text_chunks, topic_list):
             if keywords == "[]" or keywords == "['']":
                 continue
 
+            # if keywords.startswith("['") and (not keywords.endswith("']") or not keywords.endswith('"]')):
             if keywords.startswith("['") and not keywords.endswith("']"):
                 logger.warning(f"Model hallucination: {keywords}")
 
@@ -100,7 +104,7 @@ def get_keywords_for_text(text_chunks, topic_list):
             if isinstance(keywords, str):
                 keywords = ast.literal_eval(keywords)
             else:
-                logger.warning(f"keywords type: {keywords}")
+                logger.warning(f"Keywords Type: {keywords}")
 
             keywords_list.extend(keywords)
 
@@ -113,9 +117,9 @@ def get_keywords_for_text(text_chunks, topic_list):
 
         except (APIError, PermissionError, AuthenticationError, InvalidAPIType, ServiceUnavailableError) as ex:
             logger.error(f'Other error occurred: {str(ex)}')
-            sys.exit(str(ex))
+            # sys.exit(str(ex))
 
-    logger.success(f"Total generated keywords: {keywords_list}")
+    logger.success(f"Generated keywords: {keywords_list}")
     return list(set(keywords_list))
 
 
@@ -146,17 +150,20 @@ if __name__ == "__main__":
                                          es_password=ES_PASSWORD)
 
     dev_urls = [
-        # "https://lists.linuxfoundation.org/pipermail/bitcoin-dev/",
-        "https://lists.linuxfoundation.org/pipermail/lightning-dev/"
+        "https://lists.linuxfoundation.org/pipermail/bitcoin-dev/",
+        # "https://lists.linuxfoundation.org/pipermail/lightning-dev/"
     ]
 
     for dev_url in dev_urls:
         logger.info(f"dev_url: {dev_url}")
 
-        # if production is set to False, elasticsearch will fetch all the docs in the index
-        PRODUCTION = False
+        # if APPLY_DATE_RANGE is set to False, elasticsearch will fetch all the docs in the index
+        APPLY_DATE_RANGE = False
+        SAVE_CSV = True
+        UPDATE_ES = False
+        PREV_CSV_FILE = "tm_bd_combined_3.csv"
 
-        if PRODUCTION:
+        if APPLY_DATE_RANGE:
             current_date_str = None
             if not current_date_str:
                 current_date_str = datetime.now().strftime("%Y-%m-%d")
@@ -169,19 +176,34 @@ if __name__ == "__main__":
             current_date_str = None
 
         docs_list = elastic_search.fetch_data_for_empty_keywords(ES_INDEX, dev_url, start_date_str, current_date_str)
+        logger.success(f"TOTAL THREADS RECEIVED WITH AN EMPTY KEYWORDS: {len(docs_list)}")
 
         if docs_list:
-            logger.success(f"Total threads received with an empty keywords: {len(docs_list)}")
+            dev_name = dev_url.split("/")[-2]
+            dataset = []
 
-            for doc in tqdm.tqdm(docs_list):
+            if PREV_CSV_FILE:
+                prev_df = pd.read_csv(PREV_CSV_FILE)
+                logger.info(prev_df.shape)
+                prev_source_ids = prev_df['source_id'].to_list()
+                logger.info(len(prev_source_ids))
+
+            for idx, doc in enumerate(tqdm.tqdm(docs_list)):
+                doc_source_id = doc['_source']['id']
+
+                if PREV_CSV_FILE:
+                    if doc_source_id in prev_source_ids:
+                        continue
+
                 doc_id = doc['_id']
                 doc_index = doc['_index']
+
                 doc_body = doc['_source'].get('summary')
                 if not doc_body:
                     doc_body = doc['_source'].get('body')
                     doc_body = preprocess_email(email_body=doc_body)
 
-                logger.info(doc_id)
+                logger.info(f"Doc Id: {doc_id}")
                 if not doc['_source'].get('primary_topics'):
                     doc_text = ""
                     if doc_body:
@@ -193,55 +215,139 @@ if __name__ == "__main__":
                             # get keywords
                             primary_kw, secondary_kw = apply_topic_modeling(text=doc_text, topic_list=btc_topics_list)
 
-                            # primary keywords to ES
-                            if primary_kw:
-                                elastic_search.es_client.update(
-                                    index=doc_index,
-                                    id=doc_id,
-                                    body={
-                                        'doc': {
-                                            "primary_topics": primary_kw
-                                        }
-                                    }
-                                )
-                            else:
-                                elastic_search.es_client.update(
-                                    index=doc_index,
-                                    id=doc_id,
-                                    body={
-                                        'doc': {
-                                            "primary_topics": []
-                                        }
-                                    }
-                                )
+                            if SAVE_CSV and not UPDATE_ES:
+                                row_data = {
+                                    'primary_topics': primary_kw if primary_kw else [],
+                                    'secondary_topics': secondary_kw if secondary_kw else [],
+                                    'source_id': doc_source_id if doc_source_id else None
+                                }
+                                dataset.append(row_data)
 
-                            # secondary keywords to ES
-                            if secondary_kw:
-                                elastic_search.es_client.update(
-                                    index=doc_index,
-                                    id=doc_id,
-                                    body={
-                                        'doc': {
-                                            "secondary_topics": secondary_kw
+                                if idx % 100 == 0:
+                                    df = pd.DataFrame(dataset)
+                                    csv_save_path = f"gpt_output/topic_modeling/topic_modeling_{dev_name}_{idx}.csv"
+                                    df.to_csv(csv_save_path, index=False)
+                                    logger.info(f"csv file saved at path: {csv_save_path}")
+                                    time.sleep(delay)
+
+                            elif UPDATE_ES and not SAVE_CSV:
+                                if primary_kw:
+                                    elastic_search.es_client.update(
+                                        index=doc_index,
+                                        id=doc_id,
+                                        body={
+                                            'doc': {
+                                                "primary_topics": primary_kw
+                                            }
                                         }
-                                    }
-                                )
-                            else:
-                                elastic_search.es_client.update(
-                                    index=doc_index,
-                                    id=doc_id,
-                                    body={
-                                        'doc': {
-                                            "secondary_topics": []
+                                    )
+                                else:
+                                    elastic_search.es_client.update(
+                                        index=doc_index,
+                                        id=doc_id,
+                                        body={
+                                            'doc': {
+                                                "primary_topics": []
+                                            }
                                         }
-                                    }
-                                )
+                                    )
+                                if secondary_kw:
+                                    elastic_search.es_client.update(
+                                        index=doc_index,
+                                        id=doc_id,
+                                        body={
+                                            'doc': {
+                                                "secondary_topics": secondary_kw
+                                            }
+                                        }
+                                    )
+                                else:
+                                    elastic_search.es_client.update(
+                                        index=doc_index,
+                                        id=doc_id,
+                                        body={
+                                            'doc': {
+                                                "secondary_topics": []
+                                            }
+                                        }
+                                    )
+
+                            elif SAVE_CSV and UPDATE_ES:
+                                # update es index
+                                if primary_kw:
+                                    elastic_search.es_client.update(
+                                        index=doc_index,
+                                        id=doc_id,
+                                        body={
+                                            'doc': {
+                                                "primary_topics": primary_kw
+                                            }
+                                        }
+                                    )
+                                else:
+                                    elastic_search.es_client.update(
+                                        index=doc_index,
+                                        id=doc_id,
+                                        body={
+                                            'doc': {
+                                                "primary_topics": []
+                                            }
+                                        }
+                                    )
+                                if secondary_kw:
+                                    elastic_search.es_client.update(
+                                        index=doc_index,
+                                        id=doc_id,
+                                        body={
+                                            'doc': {
+                                                "secondary_topics": secondary_kw
+                                            }
+                                        }
+                                    )
+                                else:
+                                    elastic_search.es_client.update(
+                                        index=doc_index,
+                                        id=doc_id,
+                                        body={
+                                            'doc': {
+                                                "secondary_topics": []
+                                            }
+                                        }
+                                    )
+
+                                # store in csv file
+                                row_data = {
+                                    'primary_topics': primary_kw if primary_kw else [],
+                                    'secondary_topics': secondary_kw if secondary_kw else [],
+                                    'source_id': doc_source_id if doc_source_id else None
+                                }
+                                dataset.append(row_data)
+
+                                if idx % 100 == 0:
+                                    df = pd.DataFrame(dataset)
+                                    csv_save_path = f"gpt_output/topic_modeling/topic_modeling_{dev_name}_{idx}.csv"
+                                    df.to_csv(csv_save_path, index=False)
+                                    logger.info(f"csv file saved at path: {csv_save_path}")
+                                    time.sleep(delay)
+
+                            else:  # not SAVE_CSV and not UPDATE_ES
+                                pass
 
                         except Exception as ex:
                             logger.error(f"Error: apply_topic_modeling: {traceback.format_exc()}")
+                            df = pd.DataFrame(dataset)
+                            csv_save_path = f"gpt_output/topic_modeling/topic_modeling_{dev_name}_exception_{idx}.csv"
+                            df.to_csv(csv_save_path, index=False)
+                            logger.info(f"csv file saved at path: {csv_save_path}")
                             time.sleep(delay)
                     else:
                         logger.info(f"Doc body text not found: {doc_id}")
-                # break
-        else:
-            logger.success(f"Total threads received with an empty keywords: {len(docs_list)}")
+
+            df = pd.DataFrame(dataset)
+            csv_save_path = f"gpt_output/topic_modeling_{dev_name}_final.csv"
+            df.to_csv(csv_save_path, index=False)
+            logger.info(f"csv file saved at path: {csv_save_path}")
+            time.sleep(delay)
+
+        logger.success(f"Process complete for dev_url: {dev_url}")
+

@@ -1,4 +1,10 @@
 logs
+merge_multiple_csv.py
+gpt_output/ld
+gpt_output/bd
+gpt_output/topic_modeling
+tm_*.csv
+#topic_modeling_*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
