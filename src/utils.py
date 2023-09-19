@@ -1,7 +1,9 @@
 import os
 import re
-from dotenv import load_dotenv
 import shutil
+import traceback
+import pandas as pd
+from dotenv import load_dotenv
 from dateutil.parser import parse
 from elasticsearch import Elasticsearch
 from datetime import datetime
@@ -12,7 +14,9 @@ import tiktoken
 import pytz
 import xml.etree.ElementTree as ET
 
-from src.config import TOKENIZER, ES_DATA_FETCH_SIZE
+from src.config import TOKENIZER, ES_DATA_FETCH_SIZE\
+
+
 
 warnings.filterwarnings("ignore")
 load_dotenv()
@@ -370,8 +374,6 @@ def clean_text(text):
     text = regex_url.sub('', text.lower())  # remove urls and convert to lower case
     text = regex_non_alpha.sub('', text)  # remove non-alphanumeric characters
     text = regex_spaces.sub(' ', text).strip()  # replace whitespace sequences with a single space
-    # # to avoid SyntaxError: unterminated string literal due to ' and "
-    # text = text.replace("'", '\'')
     return text
 
 
@@ -390,3 +392,41 @@ def split_prompt_into_chunks(prompt, chunk_size=2100):
             chunks.append(current_chunk)
         tokens = tokens[chunk_size:]
     return chunks
+
+
+def merge_multiple_csv_from_dir(dir_path, csv_save_path):
+    # get a list of all the csv files
+    csv_files = [f for f in os.listdir(dir_path) if f.endswith('.csv')]
+    logger.info(f"Total csv files found: {len(csv_files)}")
+
+    # initialize a list to store dataframes
+    dfs = []
+
+    # loop through the list of csv files
+    for file in csv_files:
+        try:
+            # read the csv file
+            curr_df = pd.read_csv(dir_path + file)
+            logger.info(f"individual file shape bfr:{curr_df.shape}")
+
+            # drop duplicate rows based on the 'source_id' column
+            curr_df.drop_duplicates(subset='source_id', keep='first', inplace=True)
+            logger.info(f"individual file shape aft:{curr_df.shape}")
+
+            # append the current df to the list
+            dfs.append(curr_df)
+        except Exception as ex:
+            logger.error(f"Error Occurred: {ex}")
+            logger.error(traceback.format_exc())
+
+    # concatenate all dataframes in the list
+    df = pd.concat(dfs, ignore_index=True)
+    logger.info(f"main file shape bfr:{df.shape}")
+
+    # drop duplicates from the final dataframe
+    df.drop_duplicates(subset='source_id', keep='first', inplace=True)
+    logger.info(f"main file shape aft:{df.shape}")
+
+    # write the final dataframe to a csv file
+    df.to_csv(f"{csv_save_path}", index=False)
+    logger.success(f"file saved at path: {csv_save_path}")

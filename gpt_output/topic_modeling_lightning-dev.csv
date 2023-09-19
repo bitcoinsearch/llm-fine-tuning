@@ -4093,3 +4093,8 @@ primary_topics,secondary_topics,source_id
 "['Lightning', 'Payment', 'Fees', 'Mempool', 'Mining']",[],mailing-list-lightning-2023-May-003940
 "['double-spend', 'Lightning', 'mempool']","['LSPs', 'funding transaction', 'PTLCs', 'griefing attack', 'Just-In-Time channels', 'adaptor signatures']",mailing-list-lightning-2023-May-003941
 ['UTXO'],"['0-conf', 'double-spending', 'soft-locked', 'opportunistic 0-conf', 'dual-funded transactions', 'option_zeroconf channels', 'liquidity griefing']",mailing-list-lightning-2023-May-003942
+"['Covenants', 'Bitcoin Core', 'Consensus', 'Lightning', 'Blockchain']",[],mailing-list-lightning-2023-September-004102
+"['Lightning', 'Covenants']",[],mailing-list-lightning-2023-September-004103
+"['Lightning', 'Covenants']",['Scaling'],mailing-list-lightning-2023-September-004104
+"['Lightning', 'Covenants']",[],mailing-list-lightning-2023-September-004105
+"['Lightning', 'Covenants']",[],mailing-list-lightning-2023-September-004106
