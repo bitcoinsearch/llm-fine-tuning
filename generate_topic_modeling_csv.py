@@ -152,12 +152,20 @@ if __name__ == "__main__":
 
     dev_urls = [
         "https://lists.linuxfoundation.org/pipermail/lightning-dev/",
-        "https://lists.linuxfoundation.org/pipermail/bitcoin-dev/"
+        "https://lists.linuxfoundation.org/pipermail/bitcoin-dev/",
+        # "all_data",  # uncomment this line if you want to generate topic modeling on all docs
     ]
 
     for dev_url in dev_urls:
+
+        if dev_url == "all_data":
+            dev_name = "all_data"
+            dev_url = None
+        else:
+            dev_name = dev_url.split("/")[-2]
+
         logger.info(f"dev_url: {dev_url}")
-        dev_name = dev_url.split("/")[-2]
+        logger.info(f"dev_name: {dev_name}")
 
         # if APPLY_DATE_RANGE is set to False, elasticsearch will fetch all the docs in the index
         APPLY_DATE_RANGE = False
