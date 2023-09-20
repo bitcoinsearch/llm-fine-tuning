@@ -160,6 +160,7 @@ class ElasticSearchClient:
                         }
                     }
                 }
+            # not url and not start_date_str and not current_date_str
             else:
                 logger.info(f"Url: {url}, Start Date: {start_date_str}, Current Date: {current_date_str}")
                 query = {

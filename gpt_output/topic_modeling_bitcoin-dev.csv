@@ -21941,3 +21941,5 @@ primary_topics,secondary_topics,source_id
 "['Signature', 'Covenants', 'Lightning']",[],mailing-list-bitcoin-2023-September-021965
 "['Covenants', 'Lightning']",[],mailing-list-bitcoin-2023-September-021966
 ['Forks'],['BIP66'],mailing-list-bitcoin-2015-July-009331
+"['Lightning', 'Covenants', 'MuSig']",[],mailing-list-bitcoin-2023-September-021967
+['Lightning'],['BIP21 URIs'],mailing-list-bitcoin-2023-September-021968
