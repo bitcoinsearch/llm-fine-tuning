@@ -177,7 +177,7 @@ class ElasticSearchClient:
 
             # Initialize the scroll
             scroll_response = self._es_client.search(index=es_index, body=query, size=self._es_data_fetch_size,
-                                                     scroll='1m')
+                                                     scroll='5m')
             scroll_id = scroll_response['_scroll_id']
             results = scroll_response['hits']['hits']
 
@@ -189,7 +189,7 @@ class ElasticSearchClient:
                     output_list.append(result)
 
                 # Fetch the next batch of results
-                scroll_response = self._es_client.scroll(scroll_id=scroll_id, scroll='1m')
+                scroll_response = self._es_client.scroll(scroll_id=scroll_id, scroll='5m')
                 scroll_id = scroll_response['_scroll_id']
                 results = scroll_response['hits']['hits']
 
