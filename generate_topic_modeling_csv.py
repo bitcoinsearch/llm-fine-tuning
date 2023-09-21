@@ -150,6 +150,9 @@ if __name__ == "__main__":
     btc_topics_list = pd.read_csv("btc_topics.csv")
     btc_topics_list = btc_topics_list['Topics'].to_list()
 
+    elastic_search = ElasticSearchClient(es_cloud_id=ES_CLOUD_ID, es_username=ES_USERNAME,
+                                         es_password=ES_PASSWORD)
+
     dev_urls = [
         "https://lists.linuxfoundation.org/pipermail/lightning-dev/",
         "https://lists.linuxfoundation.org/pipermail/bitcoin-dev/",
@@ -331,6 +334,6 @@ if __name__ == "__main__":
             stored_df.drop_duplicates(subset='source_id', keep='first', inplace=True)
             stored_df.to_csv(CSV_FILE_PATH, index=False)
             time.sleep(delay)
-            logger.success(f"Final CSV file saved at PATH: {CSV_FILE_PATH}")
+            logger.success(f"FINAL CSV FILE SAVED AT PATH: {CSV_FILE_PATH}")
 
-        logger.success(f"Process complete for dev_url: {dev_url}")
+        logger.info(f"Process completed for dev_url: {dev_url}")
