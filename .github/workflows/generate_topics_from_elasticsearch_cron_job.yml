@@ -48,7 +48,7 @@ jobs:
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
-          git pull --rebase origin main
+          git pull
           git commit -m "Updated csv files with topics from latest ES docs"
           git push
         fi
