@@ -2,7 +2,7 @@ name: Daily Push Topics From CSV Files to ES INDEX
 
 on:
   schedule:
-    - cron: "0 5 * * *"
+    - cron: "0 4 * * *"
   workflow_dispatch:
   repository_dispatch:
 
