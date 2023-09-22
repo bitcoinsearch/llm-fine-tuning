@@ -4099,3 +4099,7 @@ primary_topics,secondary_topics,source_id
 "['Lightning', 'Covenants']",[],mailing-list-lightning-2023-September-004105
 "['Lightning', 'Covenants']",[],mailing-list-lightning-2023-September-004106
 "['Lightning', 'Covenants', 'MuSig']",[],mailing-list-lightning-2023-September-004107
+"['Consensus', 'Research', 'Sidechains', 'Lightning', 'Routing']",[],mailing-list-lightning-2023-September-004108
+"['Lightning', 'Musig', 'Routing']",['Commitment Transactions'],mailing-list-lightning-2023-September-004109
+"['privacy', 'security', 'scalability']","['multi-signature schemes', 'cryptographic protocol', 'single-singer adaptor', 'signature adaptation', 'MuSig2', 'adaptor signature']",mailing-list-lightning-2023-September-004110
+"['Cryptography', 'MuSig', 'Script', 'Taproot']",[],mailing-list-lightning-2023-September-004111
