@@ -21943,3 +21943,5 @@ primary_topics,secondary_topics,source_id
 ['Forks'],['BIP66'],mailing-list-bitcoin-2015-July-009331
 "['Lightning', 'Covenants', 'MuSig']",[],mailing-list-bitcoin-2023-September-021967
 ['Lightning'],['BIP21 URIs'],mailing-list-bitcoin-2023-September-021968
+"['Merkle Trees', 'Accumulators', 'Taproot']","['Eltoo Mechanism', 'Taproot Tree', 'Fidelity Bond', 'Transition', 'Payment Pools', 'Coordinator', 'Partition', 'Scriptpubkey', 'Signature Aggregation', 'CoinPool', 'Witness', 'Refresh Transaction', 'Equivocation', 'Liveliness', 'Off-chain Balances', 'Fraud Proofs', 'Chain Space', 'Cut-through', 'Channel Factories']",mailing-list-bitcoin-2023-September-021969
+['Taproot'],[],mailing-list-bitcoin-2023-September-021970
