@@ -300,6 +300,61 @@ class ElasticSearchClient:
             logger.info('Could not connect to Elasticsearch')
             return None
 
+    def fetch_docs_with_keywords(self, es_index, url, keyword):
+        output_list = []
+        start_time = time.time()
+
+        if self._es_client.ping():
+            logger.success("connected to the ElasticSearch")
+            query = {
+                "query": {
+                    "bool": {
+                        "must": [
+                            {
+                                "prefix": {
+                                    "domain.keyword": str(url)
+                                }
+                            },
+                            {
+                                "match": {
+                                    "summary": str(keyword)
+                                }
+                            }
+                        ]
+                    }
+                }
+            }
+
+            # Initialize the scroll
+            scroll_response = self._es_client.search(
+                index=es_index,
+                body=query,
+                size=self._es_data_fetch_size,
+                scroll='1m'
+            )
+            scroll_id = scroll_response['_scroll_id']
+            results = scroll_response['hits']['hits']
+
+            # Dump the documents into the json file
+            logger.info(f"Starting dumping of {es_index} data in json...")
+            while len(results) > 0:
+                # Save the current batch of results
+                for result in results:
+                    output_list.append(result)
+
+                # Fetch the next batch of results
+                scroll_response = self._es_client.scroll(scroll_id=scroll_id, scroll='5m')
+                scroll_id = scroll_response['_scroll_id']
+                results = scroll_response['hits']['hits']
+
+            logger.info(
+                f"Dumping of {es_index} data in json has completed and has taken {time.time() - start_time:.2f} seconds.")
+
+            return output_list
+        else:
+            logger.info('Could not connect to Elasticsearch')
+            return None
+
     @property
     def es_client(self):
         return self._es_client
