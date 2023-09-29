@@ -14,12 +14,18 @@ import tiktoken
 import pytz
 import xml.etree.ElementTree as ET
 
-from src.config import TOKENIZER, ES_DATA_FETCH_SIZE\
-
-
+from src.config import TOKENIZER, ES_DATA_FETCH_SIZE
 
 warnings.filterwarnings("ignore")
 load_dotenv()
+
+
+def clean_title(xml_name):
+    special_characters = ['/', ':', '@', '#', '$', '*', '&', '<', '>', '\\', '?']
+    xml_name = re.sub(r'[^A-Za-z0-9]+', '-', xml_name)
+    for sc in special_characters:
+        xml_name = xml_name.replace(sc, "-")
+    return xml_name
 
 
 class XMLReader:
