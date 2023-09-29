@@ -4099,3 +4099,13 @@ primary_topics,secondary_topics,source_id
 "['Lightning', 'Covenants']",[],mailing-list-lightning-2023-September-004105
 "['Lightning', 'Covenants']",[],mailing-list-lightning-2023-September-004106
 "['Lightning', 'Covenants', 'MuSig']",[],mailing-list-lightning-2023-September-004107
+"['Consensus', 'Research', 'Sidechains', 'Lightning', 'Routing']",[],mailing-list-lightning-2023-September-004108
+"['Lightning', 'Musig', 'Routing']",['Commitment Transactions'],mailing-list-lightning-2023-September-004109
+"['privacy', 'security', 'scalability']","['multi-signature schemes', 'cryptographic protocol', 'single-singer adaptor', 'signature adaptation', 'MuSig2', 'adaptor signature']",mailing-list-lightning-2023-September-004110
+"['Cryptography', 'MuSig', 'Script', 'Taproot']",[],mailing-list-lightning-2023-September-004111
+['Lightning'],['Link'],mailing-list-lightning-2023-September-004112
+['libsecp256k1'],['MuSig API'],mailing-list-lightning-2023-September-004113
+[],"['Probing', 'Core-Lightning Plugin', 'PTLC', 'Balance Discovery Attack', 'Payment Splitting & Switching', 'Route Changes', 'LN Simulator', 'Information Gain', 'Jamming', 'Cryptology ePrint Archive', 'Amount Changes', 'Link MPP', 'Attacker']",mailing-list-lightning-2023-September-004114
+"['Lightning', 'Covenants']",[],mailing-list-lightning-2023-September-004115
+[],"['Payment Splitting', 'Balance Discovery Attacks']",mailing-list-lightning-2023-September-004116
+"['Covenants', 'Lightning', 'Scalability']","['Cut-through', 'Channel jamming', 'Cryptographic accumulator', 'Equivocation', 'TP-channel factories', 'Thundering herd problem', 'Security model', 'Pool rebalancing', 'Transaction-relay changes', 'Timeout-trees', 'Time-dilation', 'Fault-tolerance', 'Double-spending', 'Timevalue cost', 'Off-chain constructions', 'Payment pool advancements']",mailing-list-lightning-2023-September-004117

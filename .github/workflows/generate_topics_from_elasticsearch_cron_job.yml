@@ -2,7 +2,7 @@ name: Daily Topic Modeling on Elasticsearch Index
 
 on:
   schedule:
-    - cron: "0 4 * * *"
+    - cron: "0 3 * * *"
   workflow_dispatch:
   repository_dispatch:
 
