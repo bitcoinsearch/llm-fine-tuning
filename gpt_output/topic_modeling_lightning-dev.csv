@@ -4109,3 +4109,5 @@ primary_topics,secondary_topics,source_id
 "['Lightning', 'Covenants']",[],mailing-list-lightning-2023-September-004115
 [],"['Payment Splitting', 'Balance Discovery Attacks']",mailing-list-lightning-2023-September-004116
 "['Covenants', 'Lightning', 'Scalability']","['Cut-through', 'Channel jamming', 'Cryptographic accumulator', 'Equivocation', 'TP-channel factories', 'Thundering herd problem', 'Security model', 'Pool rebalancing', 'Transaction-relay changes', 'Timeout-trees', 'Time-dilation', 'Fault-tolerance', 'Double-spending', 'Timevalue cost', 'Off-chain constructions', 'Payment pool advancements']",mailing-list-lightning-2023-September-004117
+"['Covenants', 'Lightning']",[],mailing-list-lightning-2023-September-004118
+"['Covenants', 'Lightning']",[],mailing-list-lightning-2023-September-004119
