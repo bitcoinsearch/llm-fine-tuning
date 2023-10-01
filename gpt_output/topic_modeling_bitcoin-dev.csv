@@ -21949,3 +21949,4 @@ primary_topics,secondary_topics,source_id
 "['Lightning', 'Security', 'Scalability', 'Covenants']","['Livelihood', 'Fault-tolerance']",mailing-list-bitcoin-2023-September-021972
 "['Lightning', 'Covenants']",[],mailing-list-bitcoin-2023-September-021973
 [],"['Opcode', 'On-chain transactions', 'Bitcoin Script']",mailing-list-bitcoin-2023-September-021974
+"['BIP', 'softfork', 'fees', 'SHA256']","['Transaction Hash', 'opcode', 'resource usage', 'sighash calculations', 'caching strategy', 'tapscript', 'TxHash', 'hashing', 'complex sighash constructions', 'TxFieldSelector', 'OP_CHECKTEMPLATEVERIFY', 'prefix hashing', 'transaction chain']",mailing-list-bitcoin-2023-September-021975
