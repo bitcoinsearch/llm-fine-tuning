@@ -322,7 +322,7 @@ class ElasticSearchClient:
                                 }
                             },
                             {
-                                "match": {
+                                "match_phrase": {
                                     "summary": str(keyword)
                                 }
                             }
