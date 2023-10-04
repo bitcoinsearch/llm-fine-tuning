@@ -224,7 +224,7 @@ class ElasticSearchClient:
 
             # Initialize the scroll
             scroll_response = self._es_client.search(index=es_index, body=query, size=self._es_data_fetch_size,
-                                                     scroll='1m')
+                                                     scroll='5m')
             scroll_id = scroll_response['_scroll_id']
             results = scroll_response['hits']['hits']
 
@@ -236,7 +236,7 @@ class ElasticSearchClient:
                     output_list.append(result)
 
                 # Fetch the next batch of results
-                scroll_response = self._es_client.scroll(scroll_id=scroll_id, scroll='1m')
+                scroll_response = self._es_client.scroll(scroll_id=scroll_id, scroll='5m')
                 scroll_id = scroll_response['_scroll_id']
                 results = scroll_response['hits']['hits']
 
@@ -281,7 +281,7 @@ class ElasticSearchClient:
                 index=es_index,
                 body=query,
                 size=self._es_data_fetch_size,
-                scroll='1m'
+                scroll='5m'
             )
             scroll_id = scroll_response['_scroll_id']
             results = scroll_response['hits']['hits']
@@ -294,7 +294,7 @@ class ElasticSearchClient:
                     output_list.append(result)
 
                 # Fetch the next batch of results
-                scroll_response = self._es_client.scroll(scroll_id=scroll_id, scroll='1m')
+                scroll_response = self._es_client.scroll(scroll_id=scroll_id, scroll='5m')
                 scroll_id = scroll_response['_scroll_id']
                 results = scroll_response['hits']['hits']
 
@@ -336,7 +336,7 @@ class ElasticSearchClient:
                 index=es_index,
                 body=query,
                 size=self._es_data_fetch_size,
-                scroll='1m'
+                scroll='5m'
             )
             scroll_id = scroll_response['_scroll_id']
             results = scroll_response['hits']['hits']
@@ -492,3 +492,42 @@ def merge_multiple_csv_from_dir(dir_path, csv_save_path):
     # write the final dataframe to a csv file
     df.to_csv(f"{csv_save_path}", index=False)
     logger.success(f"file saved at path: {csv_save_path}")
+
+
+def convert_to_dataframe(docs_list):
+    dict_list = []
+    for i in docs_list:
+        src = i.get("_source")
+        i_data = {
+            "index": str(i.get("_index", "")),
+            "_id": str(i.get("_id", "")),
+            "_score": str(i.get("_score", "")),
+            "title": str(src.get("title", "")),
+            "body": str(src.get("body", "")),
+            "indexed_at": str(src.get("indexed_at", "")),
+            "created_at": str(src.get("created_at", "")),
+            "transcript_by": str(src.get("transcript_by", "")),
+            "domain": str(src.get("domain", "")),
+            "body_type": str(src.get("body_type", "")),
+            "id": str(src.get("id", "")),
+            "categories": str(src.get("categories", "")),
+            "url": str(src.get("url", "")),
+            "tags": str(src.get("tags", "")),
+            "body_formatted": str(src.get("body_formatted", ""))
+        }
+        dict_list.append(i_data)
+
+    df = pd.DataFrame(dict_list)
+    return df
+
+
+def get_duplicated_docs_ids(df):
+    df_copy = df.copy()
+    cols = ['index', 'title', 'body', 'transcript_by', 'created_at', 'domain', 'body_type', 'id', 'url', 'body_formatted']
+    df.drop_duplicates(subset=cols, keep='first', inplace=True)
+    dropped_df = pd.concat([df, df_copy]).drop_duplicates(keep=False)
+
+    logger.info(f"Total rows: {df_copy.shape[0]}, Unique rows: {df.shape[0]}, Duplicated rows: {dropped_df.shape[0]}")
+    dropped_ids = dropped_df['_id'].to_list()
+    return dropped_ids
+
