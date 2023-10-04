@@ -21,7 +21,6 @@ if __name__ == "__main__":
     ]
 
     for dev_url in dev_urls:
-
         docs_list = elastic_search.fetch_all_data_for_url(ES_INDEX, dev_url)
         logger.success(f"TOTAL THREADS RECEIVED FOR {dev_url}: {len(docs_list)}")
 
@@ -39,7 +38,6 @@ if __name__ == "__main__":
                         logger.info(res)
                     except Exception as ex:
                         logger.error(f"Error deleting the doc: {traceback.format_exc()}")
-
         else:
             logger.info(f"NO THREADS RECEIVED FOR {dev_url}")
 

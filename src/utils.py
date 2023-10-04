@@ -499,21 +499,14 @@ def convert_to_dataframe(docs_list):
     for i in docs_list:
         src = i.get("_source")
         i_data = {
-            "index": str(i.get("_index", "")),
-            "_id": str(i.get("_id", "")),
-            "_score": str(i.get("_score", "")),
-            "title": str(src.get("title", "")),
-            "body": str(src.get("body", "")),
-            "indexed_at": str(src.get("indexed_at", "")),
-            "created_at": str(src.get("created_at", "")),
-            "transcript_by": str(src.get("transcript_by", "")),
-            "domain": str(src.get("domain", "")),
-            "body_type": str(src.get("body_type", "")),
-            "id": str(src.get("id", "")),
-            "categories": str(src.get("categories", "")),
-            "url": str(src.get("url", "")),
-            "tags": str(src.get("tags", "")),
-            "body_formatted": str(src.get("body_formatted", ""))
+            "index": str(i.get("_index", "")).strip(),
+            "_id": str(i.get("_id", "")).strip(),
+            "title": str(src.get("title", "")).strip(),
+            "body": str(src.get("body", "")).strip(),
+            "transcript_by": str(src.get("transcript_by", "")).strip(),
+            "domain": str(src.get("domain", "")).strip(),
+            "body_type": str(src.get("body_type", "")).strip(),
+            "body_formatted": str(src.get("body_formatted", "")).strip()
         }
         dict_list.append(i_data)
 
@@ -523,7 +516,7 @@ def convert_to_dataframe(docs_list):
 
 def get_duplicated_docs_ids(df):
     df_copy = df.copy()
-    cols = ['index', 'title', 'body', 'transcript_by', 'created_at', 'domain', 'body_type', 'id', 'url', 'body_formatted']
+    cols = ['index', 'title', 'body', 'transcript_by', 'domain', 'body_type', 'body_formatted']
     df.drop_duplicates(subset=cols, keep='first', inplace=True)
     dropped_df = pd.concat([df, df_copy]).drop_duplicates(keep=False)
 
