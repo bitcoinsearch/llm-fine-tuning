@@ -21951,3 +21951,5 @@ primary_topics,secondary_topics,source_id
 [],"['Opcode', 'On-chain transactions', 'Bitcoin Script']",mailing-list-bitcoin-2023-September-021974
 "['BIP', 'softfork', 'fees', 'SHA256']","['Transaction Hash', 'opcode', 'resource usage', 'sighash calculations', 'caching strategy', 'tapscript', 'TxHash', 'hashing', 'complex sighash constructions', 'TxFieldSelector', 'OP_CHECKTEMPLATEVERIFY', 'prefix hashing', 'transaction chain']",mailing-list-bitcoin-2023-September-021975
 [],"['Subnode', 'State Transitions', 'State Tree', 'Complexity Notation', 'Optimistic Execution', 'Program Size', 'Mistake Probability', 'Contract Taptree', 'Node Representation', 'Number of Steps']",mailing-list-bitcoin-2023-October-021976
+"['Package Relay', 'Libsecp256k1', 'Bitcoin Core', 'Pools', 'Assumeutxo', 'Mempool', 'FROST', 'Research', 'Libbitcoin Kernel', 'Asmap', 'Silent Payments', 'Fees', 'Stratum-V2...', 'Mining', 'P2pool', 'Privacy', 'Schnorr', 'Lightning', 'Fuzzing', 'Segwit', 'P2P']",[],mailing-list-bitcoin-2023-October-021977
+"['Taproot', 'UTXO', 'Eltoo']",[],mailing-list-bitcoin-2023-October-021978
