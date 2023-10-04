@@ -502,11 +502,10 @@ def convert_to_dataframe(docs_list):
             "index": str(i.get("_index", "")).strip(),
             "_id": str(i.get("_id", "")).strip(),
             "title": str(src.get("title", "")).strip(),
-            "body": str(src.get("body", "")).strip(),
             "transcript_by": str(src.get("transcript_by", "")).strip(),
             "domain": str(src.get("domain", "")).strip(),
-            "body_type": str(src.get("body_type", "")).strip(),
-            "body_formatted": str(src.get("body_formatted", "")).strip()
+            "created_at": str(src.get("created_at", "")).strip(),
+            "body_type": str(src.get("body_type", "")).strip()
         }
         dict_list.append(i_data)
 
@@ -516,10 +515,9 @@ def convert_to_dataframe(docs_list):
 
 def get_duplicated_docs_ids(df):
     df_copy = df.copy()
-    cols = ['index', 'title', 'body', 'transcript_by', 'domain', 'body_type', 'body_formatted']
+    cols = ['index', 'title', 'transcript_by', 'created_at', 'domain', 'body_type']
     df.drop_duplicates(subset=cols, keep='first', inplace=True)
     dropped_df = pd.concat([df, df_copy]).drop_duplicates(keep=False)
-
     logger.info(f"Total rows: {df_copy.shape[0]}, Unique rows: {df.shape[0]}, Duplicated rows: {dropped_df.shape[0]}")
     dropped_ids = dropped_df['_id'].to_list()
     return dropped_ids
