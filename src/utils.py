@@ -494,7 +494,7 @@ def merge_multiple_csv_from_dir(dir_path, csv_save_path):
     logger.success(f"file saved at path: {csv_save_path}")
 
 
-def convert_to_dataframe(docs_list):
+def convert_to_dataframe(docs_list, save_csv=False):
     dict_list = []
     for i in docs_list:
         src = i.get("_source")
@@ -505,20 +505,87 @@ def convert_to_dataframe(docs_list):
             "transcript_by": str(src.get("transcript_by", "")).strip(),
             "domain": str(src.get("domain", "")).strip(),
             "created_at": str(src.get("created_at", "")).strip(),
-            "body_type": str(src.get("body_type", "")).strip()
+            "body_type": str(src.get("body_type", "")).strip(),
+            "url": str(src.get("url", "")).strip()
         }
         dict_list.append(i_data)
 
     df = pd.DataFrame(dict_list)
+    if save_csv:
+        df.to_csv("data_list.csv", index=False)
     return df
 
 
 def get_duplicated_docs_ids(df):
-    df_copy = df.copy()
+    logger.info(f"Shape: {df.shape}")
     cols = ['index', 'title', 'transcript_by', 'created_at', 'domain', 'body_type']
-    df.drop_duplicates(subset=cols, keep='first', inplace=True)
-    dropped_df = pd.concat([df, df_copy]).drop_duplicates(keep=False)
-    logger.info(f"Total rows: {df_copy.shape[0]}, Unique rows: {df.shape[0]}, Duplicated rows: {dropped_df.shape[0]}")
-    dropped_ids = dropped_df['_id'].to_list()
-    return dropped_ids
+    df_grouped = df.groupby(cols)
+
+    ids_to_keep = []
+    for _, dfx in df_grouped:
+
+        # if only one instance keep it
+        if dfx.shape[0] == 1:
+            this_id = dfx['_id'].values[0]
+            ids_to_keep.append(this_id)
+
+        else:
+            urls_ = list(set(dfx['url'].to_list()))
+
+            # check if all urls are same, if yes then keep the last one
+            if len(urls_) == 1:
+                this_id = dfx['_id'].values[-1]
+                ids_to_keep.append(this_id)
+
+            # if all urls are different
+            else:
+                # check if last route of each urls are same, if yes move forward with this operation
+                last_route_urls = list(set([i.split("/")[-1] for i in urls_]))
+
+                if len(last_route_urls) == 1:
+                    base_url = "https://btctranscripts.com/bitcoin-core-dev-tech/"
+                    pattern = re.compile("^https://btctranscripts.com/bitcoin-core-dev-tech/[0-9]{4}-[0-9]{2}/.*")
+
+                    temp_urls = []
+                    for _, r in dfx.iterrows():
+                        this_id = r['_id']
+                        this_url = r['url']
+
+                        if this_url not in temp_urls:
+                            if base_url in this_url:
+                                if pattern.match(this_url):
+                                    ids_to_keep.append(this_id)
+                            else:
+                                ids_to_keep.append(this_id)
+
+                            temp_urls.append(this_url)
+
+                # if last route of each urls are different, take all of them
+                else:
+                    temp_urls = []
+                    for _, r in dfx.iterrows():
+                        this_id = r['_id']
+                        this_url = r['url']
+                        if this_url not in temp_urls:
+                            ids_to_keep.append(this_id)
+                            temp_urls.append(this_url)
+
+    total_ids = set(df['_id'])
+    ids_to_keep_set = set(ids_to_keep)
+    ids_to_drop = list(total_ids - ids_to_keep_set)
+
+    df_to_keep = df[df['_id'].isin(ids_to_keep_set)]
+    df_to_drop = df[df['_id'].isin(ids_to_drop)]
+
+    duplicates = df_to_keep[df_to_keep.duplicated('url', keep=False)]
+    df_to_drop = pd.concat([df_to_drop, duplicates])
+    df_to_keep.drop(duplicates.index, inplace=True)
+
+    ids_to_drop = df_to_drop['_id'].to_list()
+    logger.info(f"Total: {len(total_ids)}, Keeping: {df_to_keep.shape[0]}, Dropping: {len(ids_to_drop)}")
+
+    return ids_to_drop
+
+
+
 
