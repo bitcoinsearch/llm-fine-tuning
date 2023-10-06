@@ -324,6 +324,16 @@ class ElasticSearchClient:
                                 }
                             },
                             {
+                                "match_phrase": {
+                                    "summary": str(keyword)
+                                }
+                            },
+                            {
+                                "match_phrase": {
+                                    "body": str(keyword)
+                                }
+                            },
+                            {
                                 "match": {
                                     "summary": {
                                         "query": str(keyword),
@@ -345,31 +355,6 @@ class ElasticSearchClient:
                     }
                 }
             }
-            '''
-            query = {
-                "query": {
-                    "bool": {
-                        "must": [
-                            {
-                                "prefix": {
-                                    "domain.keyword": str(url)
-                                }
-                            },
-                            {
-                                "match": {
-                                    "summary": str(keyword)
-                                }
-                            },
-                            {
-                                "match": {
-                                    "body": str(keyword)
-                                }
-                            }
-                        ]
-                    }
-                }
-            }
-            '''
 
             # Initialize the scroll
             scroll_response = self._es_client.search(
