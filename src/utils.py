@@ -312,6 +312,40 @@ class ElasticSearchClient:
 
         if self._es_client.ping():
             logger.success("connected to the ElasticSearch")
+
+            query = {
+                "min_score": 1,
+                "query": {
+                    "bool": {
+                        "must": [
+                            {
+                                "prefix": {
+                                    "domain.keyword": str(url)
+                                }
+                            },
+                            {
+                                "match": {
+                                    "summary": {
+                                        "query": str(keyword),
+                                        "minimum_should_match": "95%",
+                                        # "operator": "and"
+                                    }
+                                }
+                            },
+                            {
+                                "match": {
+                                    "body": {
+                                        "query": str(keyword),
+                                        "minimum_should_match": "95%",
+                                        # "operator": "and"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            }
+            '''
             query = {
                 "query": {
                     "bool": {
@@ -322,14 +356,20 @@ class ElasticSearchClient:
                                 }
                             },
                             {
-                                "match_phrase": {
+                                "match": {
                                     "summary": str(keyword)
+                                }
+                            },
+                            {
+                                "match": {
+                                    "body": str(keyword)
                                 }
                             }
                         ]
                     }
                 }
             }
+            '''
 
             # Initialize the scroll
             scroll_response = self._es_client.search(

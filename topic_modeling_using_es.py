@@ -48,7 +48,7 @@ if __name__ == "__main__":
             # fetch all docs that matches the provided topic
             logger.info(f"Fetching docs for topic: {topic}")
             docs_list = elastic_search.fetch_docs_with_keywords(ES_INDEX, dev_url, topic)
-            logger.success(f"TOTAL THREADS RECEIVED WITH A TOPIC {str(topic).upper()}: {len(docs_list)}")
+            logger.success(f"TOTAL THREADS RECEIVED WITH A TOPIC: {str(topic)} = {len(docs_list)}")
 
             if docs_list:
                 if os.path.exists(CSV_FILE_PATH):
