@@ -21958,3 +21958,4 @@ primary_topics,secondary_topics,source_id
 "['Taproot', 'Merkle Trees']",[],mailing-list-bitcoin-2023-October-021981
 "['Lightning', 'Covenants']","['Commitment Transactions', 'Fragmentation Costs', 'Short-cut Transactions', 'On-chain Footprint', 'HTLCs', 'Passive Rollovers', 'Channel Resizing']",mailing-list-bitcoin-2023-October-021982
 ['BIP'],['Bitcoin Improvement Proposal'],mailing-list-bitcoin-2023-October-021983
+['Taproot'],"['on-chain execution', 'off-chain computation', 'Bitcoin contracts']",mailing-list-bitcoin-2023-October-021984
