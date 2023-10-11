@@ -21959,3 +21959,6 @@ primary_topics,secondary_topics,source_id
 "['Lightning', 'Covenants']","['Commitment Transactions', 'Fragmentation Costs', 'Short-cut Transactions', 'On-chain Footprint', 'HTLCs', 'Passive Rollovers', 'Channel Resizing']",mailing-list-bitcoin-2023-October-021982
 ['BIP'],['Bitcoin Improvement Proposal'],mailing-list-bitcoin-2023-October-021983
 ['Taproot'],"['on-chain execution', 'off-chain computation', 'Bitcoin contracts']",mailing-list-bitcoin-2023-October-021984
+"['Fees', 'Mining', 'Multisig', 'Script', 'Privacy', 'Lightning', 'Research', 'Hard Fork', 'Segregated Witness', 'P2P', 'Soft Fork', 'Altcoin', 'Proof-of-Work', 'Proof-of-Stake', 'Testing', 'Taproot', 'Consensus', 'Routing', 'Cryptography', 'Bitcoin Core', 'Scalability', 'Security']",[],mailing-list-bitcoin-2023-October-021985
+"['Fees', 'Mining', 'Multisig', 'Privacy', 'Lightning', 'Schnorr', 'Research', 'Silent Payments', 'P2P', 'Libsecp256k1', 'Segwit', 'Libbitcoin Kernel', 'Package Relay', 'Fuzzing', 'Asmap', 'Stratum-V2', 'Pools', 'FROST', 'Bitcoin Core', 'Mempool', 'P2pool']",[],mailing-list-bitcoin-2023-October-021986
+"['Taproot', 'Bitcoin Core', 'Zero-Knowledge', 'Cryptography', 'Smart Contracts']",[],mailing-list-bitcoin-2023-October-021987

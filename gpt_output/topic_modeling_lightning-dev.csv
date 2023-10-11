@@ -4111,3 +4111,5 @@ primary_topics,secondary_topics,source_id
 "['Covenants', 'Lightning', 'Scalability']","['Cut-through', 'Channel jamming', 'Cryptographic accumulator', 'Equivocation', 'TP-channel factories', 'Thundering herd problem', 'Security model', 'Pool rebalancing', 'Transaction-relay changes', 'Timeout-trees', 'Time-dilation', 'Fault-tolerance', 'Double-spending', 'Timevalue cost', 'Off-chain constructions', 'Payment pool advancements']",mailing-list-lightning-2023-September-004117
 "['Covenants', 'Lightning']",[],mailing-list-lightning-2023-September-004118
 "['Covenants', 'Lightning']",[],mailing-list-lightning-2023-September-004119
+"['Testing', 'Lightning']",[],mailing-list-lightning-2023-October-004120
+"['Covenants', 'Lightning']","['on-chain footprint', 'HTLC-withholding attacks']",mailing-list-lightning-2023-October-004121
