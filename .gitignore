@@ -1,8 +1,5 @@
 logs
 es_topic_modeling_logs
-test/test_3_knowledge_graph_embeddings.py
-test/test_2_knowledge_graph_langchain_neo4j.py
-test/output.csv
 
 merge_multiple_csv.py
 gpt_output/ld
