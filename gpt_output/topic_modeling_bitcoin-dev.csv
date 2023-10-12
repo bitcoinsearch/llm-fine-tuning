@@ -21962,3 +21962,7 @@ primary_topics,secondary_topics,source_id
 "['Fees', 'Mining', 'Multisig', 'Script', 'Privacy', 'Lightning', 'Research', 'Hard Fork', 'Segregated Witness', 'P2P', 'Soft Fork', 'Altcoin', 'Proof-of-Work', 'Proof-of-Stake', 'Testing', 'Taproot', 'Consensus', 'Routing', 'Cryptography', 'Bitcoin Core', 'Scalability', 'Security']",[],mailing-list-bitcoin-2023-October-021985
 "['Fees', 'Mining', 'Multisig', 'Privacy', 'Lightning', 'Schnorr', 'Research', 'Silent Payments', 'P2P', 'Libsecp256k1', 'Segwit', 'Libbitcoin Kernel', 'Package Relay', 'Fuzzing', 'Asmap', 'Stratum-V2', 'Pools', 'FROST', 'Bitcoin Core', 'Mempool', 'P2pool']",[],mailing-list-bitcoin-2023-October-021986
 "['Taproot', 'Bitcoin Core', 'Zero-Knowledge', 'Cryptography', 'Smart Contracts']",[],mailing-list-bitcoin-2023-October-021987
+"['PSBT', 'BIP']",['MuSig2'],mailing-list-bitcoin-2023-October-021988
+['BIP'],['MuSig2 Descriptors'],mailing-list-bitcoin-2023-October-021989
+['Bitcoin Core'],['BIP324'],mailing-list-bitcoin-2023-October-021990
+[],"['MuSig2', 'PSBT Fields']",mailing-list-bitcoin-2023-October-021991
