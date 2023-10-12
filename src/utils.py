@@ -87,6 +87,126 @@ class ElasticSearchClient:
             http_auth=(self._es_username, self._es_password),
         )
 
+    def fetch_data_for_empty_vector_embedding(self, es_index, url=None, start_date_str=None, current_date_str=None):
+        logger.info(f"fetching the data based on empty keywords ... ")
+        output_list = []
+        start_time = time.time()
+
+        if self._es_client.ping():
+            logger.success("connected to the ElasticSearch")
+
+            if url and start_date_str and current_date_str:
+                logger.info(f"Url: {url}, Start Date: {start_date_str}, Current Date: {current_date_str}")
+                query = {
+                    "query": {
+                        "bool": {
+                            "must": [
+                                {
+                                    "range": {
+                                        "created_at": {
+                                            "gte": f"{start_date_str}T00:00:00.000Z",
+                                            "lte": f"{current_date_str}T23:59:59.999Z"
+                                        }
+                                    }
+                                },
+                                {
+                                    "prefix": {
+                                        "domain.keyword": str(url)
+                                    }
+                                }
+                            ],
+                            "must_not": {
+                                "exists": {
+                                    "field": "summary_vector"
+                                }
+                            }
+                        }
+                    }
+                }
+            elif url and not start_date_str and not current_date_str:
+                logger.info(f"Url: {url}, Start Date: {start_date_str}, Current Date: {current_date_str}")
+                query = {
+                    "query": {
+                        "bool": {
+                            "must": [
+                                {
+                                    "prefix": {
+                                        "domain.keyword": str(url)
+                                    }
+                                }
+                            ],
+                            "must_not": {
+                                "exists": {
+                                    "field": "summary_vector"
+                                }
+                            }
+                        }
+                    }
+                }
+            elif not url and start_date_str and current_date_str:
+                logger.info(f"Url: {url}, Start Date: {start_date_str}, Current Date: {current_date_str}")
+                query = {
+                    "query": {
+                        "bool": {
+                            "must": [
+                                {
+                                    "range": {
+                                        "created_at": {
+                                            "gte": f"{start_date_str}T00:00:00.000Z",
+                                            "lte": f"{current_date_str}T23:59:59.999Z"
+                                        }
+                                    }
+                                }
+                            ],
+                            "must_not": {
+                                "exists": {
+                                    "field": "summary_vector"
+                                }
+                            }
+                        }
+                    }
+                }
+            # not url and not start_date_str and not current_date_str
+            else:
+                logger.info(f"Url: {url}, Start Date: {start_date_str}, Current Date: {current_date_str}")
+                query = {
+                    "query": {
+                        "bool": {
+                            "must_not": {
+                                "exists": {
+                                    "field": "summary_vector"
+                                }
+                            }
+                        }
+                    }
+                }
+
+            # Initialize the scroll
+            scroll_response = self._es_client.search(index=es_index, body=query, size=self._es_data_fetch_size,
+                                                     scroll='5m')
+            scroll_id = scroll_response['_scroll_id']
+            results = scroll_response['hits']['hits']
+
+            # Dump the documents into the json file
+            logger.info(f"Starting dumping of {es_index} data in json...")
+            while len(results) > 0:
+                # Save the current batch of results
+                for result in results:
+                    output_list.append(result)
+
+                # Fetch the next batch of results
+                scroll_response = self._es_client.scroll(scroll_id=scroll_id, scroll='5m')
+                scroll_id = scroll_response['_scroll_id']
+                results = scroll_response['hits']['hits']
+
+            logger.info(
+                f"Dumping of {es_index} data in json has completed and has taken {time.time() - start_time:.2f} seconds.")
+
+            return output_list
+        else:
+            logger.warning('Could not connect to Elasticsearch')
+            return output_list
+
     def fetch_data_for_empty_keywords(self, es_index, url=None, start_date_str=None, current_date_str=None):
         logger.info(f"fetching the data based on empty keywords ... ")
         output_list = []
@@ -389,6 +509,20 @@ class ElasticSearchClient:
     @property
     def es_client(self):
         return self._es_client
+
+    def add_vector_field(self, es_index, field_name):
+        res = self._es_client.indices.put_mapping(
+            index=es_index,
+            body={
+                "properties": {
+                    f"{field_name}": {
+                        "type": "dense_vector",
+                        "dims": 1024
+                    }
+                }
+            }
+        )
+        logger.info(f"Field updated: {res}")
 
 
 def empty_dir(file_path):

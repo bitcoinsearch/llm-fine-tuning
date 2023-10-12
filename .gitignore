@@ -1,5 +1,6 @@
 logs
 es_topic_modeling_logs
+es_topic_modeling_output
 
 merge_multiple_csv.py
 gpt_output/ld
