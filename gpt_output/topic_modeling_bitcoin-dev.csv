@@ -21966,3 +21966,7 @@ primary_topics,secondary_topics,source_id
 ['BIP'],['MuSig2 Descriptors'],mailing-list-bitcoin-2023-October-021989
 ['Bitcoin Core'],['BIP324'],mailing-list-bitcoin-2023-October-021990
 [],"['MuSig2', 'PSBT Fields']",mailing-list-bitcoin-2023-October-021991
+"['BIP', 'PSBT']",['adaptor signatures'],mailing-list-bitcoin-2023-October-021992
+"['BIP', 'PSBT']",['MuSig2'],mailing-list-bitcoin-2023-October-021993
+"['Taproot', 'Merkle Trees']","['Coinpool', 'Off-chain Transactions']",mailing-list-bitcoin-2023-October-021994
+"['BIP', 'Schnorr']","['libsecp256k1-zkp', 'MuSig2', 'adaptor signatures']",mailing-list-bitcoin-2023-October-021995
