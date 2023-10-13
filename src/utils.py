@@ -87,6 +87,53 @@ class ElasticSearchClient:
             http_auth=(self._es_username, self._es_password),
         )
 
+    def compute_similar_docs_with_cosine_similarity(self, es_index, model, field_name, question: str, top_k: int = 3):
+        if self._es_client.ping():
+            logger.success("connected to the ElasticSearch")
+
+            logger.info(f"Querying ES index: {question}")
+            question_embedding = model.encode(question, normalize_embeddings=True)
+            script_query = {
+                "script_score": {
+                    "query": {"match_all": {}},
+                    "script": {
+                        "source": f"cosineSimilarity(params.query_vector, '{field_name}') + 1.0",
+                        "params": {"query_vector": question_embedding}
+                    }
+                }
+            }
+
+            logger.info(script_query)
+
+            response = self._es_client.search(
+                index=es_index,
+                body={
+                    "size": top_k,
+                    "query": script_query,
+                    "_source": {"includes": ["title", "summary", "body"]}
+                }
+            )
+
+            logger.info(f"Response: {response}")
+
+            return {
+                "question": question,
+                "matches": [
+                    {
+                        "title": hit['_source'].get('title'),
+                        "summary": hit['_source'].get('summary') if hit['_source'].get('summary') else hit['_source'].get('body'),
+                        "score": hit.get('_score')
+                     } for hit in response['hits']['hits']
+                ]
+            }
+
+        else:
+            logger.warning('Could not connect to Elasticsearch')
+            return {
+                "question": question,
+                "matches": []
+            }
+
     def fetch_data_for_empty_vector_embedding(self, es_index, url=None, start_date_str=None, current_date_str=None):
         logger.info(f"fetching the data based on empty keywords ... ")
         output_list = []
