@@ -21970,3 +21970,5 @@ primary_topics,secondary_topics,source_id
 "['BIP', 'PSBT']",['MuSig2'],mailing-list-bitcoin-2023-October-021993
 "['Taproot', 'Merkle Trees']","['Coinpool', 'Off-chain Transactions']",mailing-list-bitcoin-2023-October-021994
 "['BIP', 'Schnorr']","['libsecp256k1-zkp', 'MuSig2', 'adaptor signatures']",mailing-list-bitcoin-2023-October-021995
+[],"['Validator', 'Bitcoin Consensus', 'Commitments', 'Public Key', 'Prover', 'Transaction', 'Actuarial System', 'BitVM', 'Offchain Mechanisms', 'SIGHASH_ANYPREVOUT', 'Program', 'Decker-Russell-Osuntokun', 'Signatures']",mailing-list-bitcoin-2023-October-021996
+['MuSig'],"['Computational Efficiency', 'Scalars', 'Schnorr Signatures', 'Taproot Tree', 'Scalar', 'NAND Gate', 'Scriptless Script', 'Point Commitment', 'BitVM', 'Preimages', 'Pubkey', 'Adaptor Signatures', 'Tapleaves', 'Points', 'Equivocating Bit Commitments', 'Logic Gate Commitment', 'Hashes']",mailing-list-bitcoin-2023-October-021997
