@@ -21972,3 +21972,8 @@ primary_topics,secondary_topics,source_id
 "['BIP', 'Schnorr']","['libsecp256k1-zkp', 'MuSig2', 'adaptor signatures']",mailing-list-bitcoin-2023-October-021995
 [],"['Validator', 'Bitcoin Consensus', 'Commitments', 'Public Key', 'Prover', 'Transaction', 'Actuarial System', 'BitVM', 'Offchain Mechanisms', 'SIGHASH_ANYPREVOUT', 'Program', 'Decker-Russell-Osuntokun', 'Signatures']",mailing-list-bitcoin-2023-October-021996
 ['MuSig'],"['Computational Efficiency', 'Scalars', 'Schnorr Signatures', 'Taproot Tree', 'Scalar', 'NAND Gate', 'Scriptless Script', 'Point Commitment', 'BitVM', 'Preimages', 'Pubkey', 'Adaptor Signatures', 'Tapleaves', 'Points', 'Equivocating Bit Commitments', 'Logic Gate Commitment', 'Hashes']",mailing-list-bitcoin-2023-October-021997
+"['Privacy', 'Wallet', 'Research']",[],mailing-list-bitcoin-2023-October-021998
+"['Attacks', 'Mempool', 'Smart Contracts', 'Fees', 'Mining', 'Consensus', 'Segwit', 'Routing', 'Security', 'Research', 'Lightning', 'Privacy', 'Testing', 'Soft Fork']",[],mailing-list-bitcoin-2023-October-021999
+['Mempool'],"['Transaction Output', 'HTLC']",mailing-list-bitcoin-2023-October-022000
+"['Multisig', 'Script', 'Mempool', 'Covenants', 'Lightning']",[],mailing-list-bitcoin-2023-October-022001
+"['Lnd', 'Mempool']",[],mailing-list-bitcoin-2023-October-022002

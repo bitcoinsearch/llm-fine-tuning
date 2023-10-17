@@ -4113,3 +4113,4 @@ primary_topics,secondary_topics,source_id
 "['Covenants', 'Lightning']",[],mailing-list-lightning-2023-September-004119
 "['Testing', 'Lightning']",[],mailing-list-lightning-2023-October-004120
 "['Covenants', 'Lightning']","['on-chain footprint', 'HTLC-withholding attacks']",mailing-list-lightning-2023-October-004121
+"['Development', 'Script', 'Mempool', 'Timelocks', 'Security', 'Lightning', 'Research']","['Bitcoin', 'Vulnerabilities', 'Mitigations', 'Pinning attacks', 'Protocols', 'Multi-party transactions']",mailing-list-lightning-2023-October-004122
