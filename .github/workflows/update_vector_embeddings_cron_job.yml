@@ -1,4 +1,4 @@
-name: Daily Push Topics From CSV Files to ES INDEX
+name: Daily Update Vector Embeddings to ES INDEX
 
 on:
   schedule:
