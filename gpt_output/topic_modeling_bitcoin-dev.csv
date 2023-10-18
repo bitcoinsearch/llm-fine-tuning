@@ -21977,3 +21977,16 @@ primary_topics,secondary_topics,source_id
 ['Mempool'],"['Transaction Output', 'HTLC']",mailing-list-bitcoin-2023-October-022000
 "['Multisig', 'Script', 'Mempool', 'Covenants', 'Lightning']",[],mailing-list-bitcoin-2023-October-022001
 "['Lnd', 'Mempool']",[],mailing-list-bitcoin-2023-October-022002
+"['Lightning', 'Mempool']","['Double-spending', 'HTLC']",mailing-list-bitcoin-2023-October-022003
+"['Timelocks', 'Lightning', 'Mempool']","['RBF', 'Plain HTLC', 'Commitment Transaction', 'Revocation Branch', 'CPFPs', 'Poon-Dryja Mechanism', 'Pre-signed Transactions', 'Feerates', 'HTLC']",mailing-list-bitcoin-2023-October-022004
+"['Attacks', 'Fees', 'Covenants', 'Mempool']","['Fee-bumping', 'Channels', 'HTLC']",mailing-list-bitcoin-2023-October-022005
+"['Multisig', 'Covenants', 'Lightning']","['Splice Transaction', 'SIGHASH_ANYPREVOUT', 'Batch Transaction']",mailing-list-bitcoin-2023-October-022006
+"['Covenants', 'Lightning', 'Splicing']",[],mailing-list-bitcoin-2023-October-022007
+['Covenants'],['Splice'],mailing-list-bitcoin-2023-October-022008
+"['Covenants', 'Mempool']","['Splice', 'Commitment Transactions']",mailing-list-bitcoin-2023-October-022009
+"['Threshold Signatures', 'Smart Contracts', 'Academia', 'Submarine Swaps', 'Scalability', 'Validation', 'Pools', 'Layer 2', 'Regulation', 'Custody', 'Stratum-V2', 'Signet', 'P2P', 'Cryptography', 'Lightning', 'Zero-Knowledge', 'IBD', 'Consensus', 'Mempool', 'Hard Fork', 'Libsecp256k1', 'Altcoin', 'Routing Failures', 'PSBT', 'Musig', 'Soft Fork', 'Taproot', 'Update Layer', 'Fees', 'Bitcoin Core', 'Schnorr', 'Covenants', 'Topology', 'Asmap', 'Privacy', 'Silent Payments', 'Fuzzing', 'Attacks', 'Wallet', 'RGB', 'Accumulators', 'FROST', 'Ux', 'Miniscript', 'Sphinx', 'Segwit', 'Hardware Wallet', 'Path-Finding', 'Forks', 'Eclair', 'Multisig', 'Script', 'Routing', 'P2pool', 'Testing', 'Research', 'Lnd', 'Sidechains', 'Limitations', 'Mining', 'Libbitcoin Kernel', 'Fungibility', 'Eltoo', 'C-Lightning', 'Multiple-Path Payments', 'Security', 'Splicing', 'Onion', 'Package Relay']",['Min'],mailing-list-bitcoin-2023-October-022010
+"['Attack', 'Fee Management', 'Core-Lightning', 'Lightning', 'Mempool']",['LDK'],mailing-list-bitcoin-2023-October-022011
+['Mempool'],"['Feerate', 'CPFP', 'Transaction', 'Block Height', 'Sighash_single', 'Child Pays For Parent', 'GitHub', 'Fee Rates', 'HTLC']",mailing-list-bitcoin-2023-October-022012
+"['Lightning', 'Security', 'Mempool']",[],mailing-list-bitcoin-2023-October-022013
+"['Covenants', 'Lightning', 'Package Relay', 'Mempool']",[],mailing-list-bitcoin-2023-October-022014
+"['Attacks', 'Mining', 'P2P', 'Lightning', 'Mempool']",[],mailing-list-bitcoin-2023-October-022015
