@@ -4118,3 +4118,18 @@ primary_topics,secondary_topics,source_id
 "['Attacks', 'Fees', 'Covenants', 'Privacy', 'Lightning', 'Mempool']",[],mailing-list-lightning-2023-October-004124
 "['Replace-By-Fee', 'Lightning']","['commitment transaction', 'on-chain fees', 'CPFP', 'pre-signed transactions', 'feerate', 'RBF', 'anchor output', 'revoked transaction', 'Poon-Dryja mechanism', 'HTLC']",mailing-list-lightning-2023-October-004125
 "['Covenants', 'Withdrawal', 'Lightning']","['Splice Transaction', 'Batching']",mailing-list-lightning-2023-October-004126
+"['Splicing', 'Covenants', 'Lightning']",[],mailing-list-lightning-2023-October-004127
+"['Splicing', 'Covenants']",[],mailing-list-lightning-2023-October-004128
+"['Covenants', 'Mempool']","['Splice', 'Commitment Transactions']",mailing-list-lightning-2023-October-004129
+"['Mempool', 'Core-Lightning', 'Lightning']","['LDK', 'Fee Bumping', 'HTLC']",mailing-list-lightning-2023-October-004130
+"['Mempool', 'Transactions']","['Feebump', 'Anyonecanpay', 'Sighash_single', 'Block Height', 'Fee Rates', 'CPFPs', 'Bitcoin Programming', 'HTLC']",mailing-list-lightning-2023-October-004131
+"['Security', 'Mempool', 'Lightning']",['Disclosure'],mailing-list-lightning-2023-October-004132
+"['Covenants', 'Mempool', 'Package Relay', 'Lightning']",[],mailing-list-lightning-2023-October-004133
+"['P2P', 'Attacks', 'Mempool', 'Mining', 'Lightning']",[],mailing-list-lightning-2023-October-004134
+"['Mempool', 'Fees', 'Stratum-V2', 'Lightning']",[],mailing-list-lightning-2023-October-004135
+"['Routing', 'Scalability', 'Ux', 'Lightning', 'Wallet']",['Channel Reserve'],mailing-list-lightning-2023-October-004136
+"['UX', 'Wallet', 'Lightning']",['Reserves'],mailing-list-lightning-2023-October-004137
+"['Splicing', 'Double-Spend', 'Package Relay', 'Covenants']",['RBF'],mailing-list-lightning-2023-October-004138
+['Lightning'],"['Routing Nodes', 'LSPs', 'Reserve Requirements', 'Wallet Users']",mailing-list-lightning-2023-October-004139
+"['Multisig', 'Wallet']","['Channel', 'Revocation', 'Proof', 'Nodeid']",mailing-list-lightning-2023-October-004140
+['Lightning'],['Reserves'],mailing-list-lightning-2023-October-004141
