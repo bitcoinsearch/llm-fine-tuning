@@ -22005,3 +22005,17 @@ primary_topics,secondary_topics,source_id
 [],[],mailing-list-bitcoin-2023-October-022022
 [],[],mailing-list-bitcoin-2023-October-022023
 [],[],mailing-list-bitcoin-2023-October-022024
+"['Research', 'Taproot']","['Bitcoin Script', 'Collaboration']",mailing-list-bitcoin-2023-October-022031
+"['Mempool', 'Lightning', 'Consensus', 'Bitcoin Core', 'Security']",[],mailing-list-bitcoin-2023-October-022032
+"['Mempool', 'Lightning', 'Replace-By-Fee']",[],mailing-list-bitcoin-2023-October-022033
+['Mempool'],"['Pre-image', 'Timeout', 'Expiration', 'HTLC']",mailing-list-bitcoin-2023-October-022034
+"['Mining', 'Fees', 'Multisig', 'Mempool']",[],mailing-list-bitcoin-2023-October-022035
+['Mempool'],['Double Spend'],mailing-list-bitcoin-2023-October-022036
+"['Taproot', 'Layer 2', 'Script', 'Hashlocks', 'Timelocks']",[],mailing-list-bitcoin-2023-October-022037
+"['Libbitcoin Kernel', 'Mempool', 'Pools', 'Mining', 'P2pool', 'Bitcoin Core', 'Stratum-V2...', 'Asmap', 'Package Relay', 'Silent Payments', 'Research', 'Fees', 'Privacy', 'Lightning', 'Fuzzing', 'Assumeutxo', 'Segwit', 'FROST', 'Schnorr', 'P2P', 'Libsecp256k1']",[],mailing-list-bitcoin-2023-October-022038
+"['Hash', 'UTXO']",[],mailing-list-bitcoin-2023-October-022039
+"['Fees', 'Mempool', 'Script', 'Attacks']",[],mailing-list-bitcoin-2023-October-022040
+"['Bitcoin Core', 'Mempool', 'Lightning']",[],mailing-list-bitcoin-2023-October-022041
+[],"['deadline', 'script evaluation', 'preimage branch', 'delta encoding', 'miner coinbases', 'Coinbase Bit', 'OP_Expire', 'Hashed Time Lock Contracts', 'reorg security', 'HTLC', 'block-height nLockTime', 'soft-fork upgrade']",mailing-list-bitcoin-2023-October-022042
+"['Fees', 'Mempool']",[],mailing-list-bitcoin-2023-October-022043
+"['Mempool', 'Lightning', 'Replace-By-Fee', 'Fees']","['CLTV delta', 'Preimage', 'Transaction Replacement', 'UTXOs', 'HTLC']",mailing-list-bitcoin-2023-October-022044

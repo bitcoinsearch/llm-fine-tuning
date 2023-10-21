@@ -4142,3 +4142,9 @@ primary_topics,secondary_topics,source_id
 [],[],mailing-list-lightning-2023-October-004148
 [],[],mailing-list-lightning-2023-October-004149
 [],[],mailing-list-lightning-2023-October-004150
+"['Fees', 'Mempool']",[],mailing-list-lightning-2023-October-004151
+['Mempool'],['Transaction Fees'],mailing-list-lightning-2023-October-004152
+['Mempool'],"['Double Spend', 'Rebroadcast', 'Attacker', 'Victim', 'HTLC']",mailing-list-lightning-2023-October-004153
+"['Bitcoin Core', 'Mempool', 'Security', 'Lightning']",[],mailing-list-lightning-2023-October-004154
+"['Routing', 'Mempool', 'Bech32', 'Pools', 'Proof-of-Work', 'Mining', 'P2pool', 'Fairness', 'Stratum-V2', 'Layer 2', 'Signet', 'Script', 'PSBT', 'Attacks', 'C-Lightning', 'Validation', 'Hashlocks', 'Security', 'Custody', 'P2sh', 'Lnd', 'Eclair', 'Musig', 'Taproot', 'Forks', 'Sphinx', 'Sidechains', 'Update Layer', 'Routing Failures', 'Accumulators', 'Merkle Trees', 'Hardware Wallet', 'Research', 'Fee Management', 'Miniscript', 'Fees', 'Testing', 'Privacy', 'Regulation', 'Onion', 'Multiple-Path Payments', 'Cryptography', 'Soft Fork', 'Academia', 'Zero-Knowledge', 'Miners', 'Smart Contracts', 'Lightning', 'Consensus', 'Atomic Swaps', 'Fungibility', 'Segwit', 'Path-Finding', 'Eltoo', 'Ux', 'Multisig', 'Timelocks', 'Topology', 'Hard Fork', 'Ethereum', 'Wallet', 'Limitations', 'Build Systems', 'Scalability', 'Splicing', 'Halving', 'Spv', 'Threshold Signatures', 'Submarine Swaps']",['Incent'],mailing-list-lightning-2023-October-004155
+"['Mempool', 'Mining', 'Transactions', 'Multisig', 'Fees']",['HTLCs'],mailing-list-lightning-2023-October-004156
