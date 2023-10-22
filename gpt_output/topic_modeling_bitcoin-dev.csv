@@ -22019,3 +22019,16 @@ primary_topics,secondary_topics,source_id
 [],"['deadline', 'script evaluation', 'preimage branch', 'delta encoding', 'miner coinbases', 'Coinbase Bit', 'OP_Expire', 'Hashed Time Lock Contracts', 'reorg security', 'HTLC', 'block-height nLockTime', 'soft-fork upgrade']",mailing-list-bitcoin-2023-October-022042
 "['Fees', 'Mempool']",[],mailing-list-bitcoin-2023-October-022043
 "['Mempool', 'Lightning', 'Replace-By-Fee', 'Fees']","['CLTV delta', 'Preimage', 'Transaction Replacement', 'UTXOs', 'HTLC']",mailing-list-bitcoin-2023-October-022044
+"['Fees', 'Mempool', 'Bitcoin Core', 'Lightning']","['Policy', 'Transaction Fees']",mailing-list-bitcoin-2023-October-022045
+"['Mempool', 'Schnorr', 'Replace-By-Fee']",['Child-Pays-for-Parent'],mailing-list-bitcoin-2023-October-022046
+"['Nodes', 'Mempool', 'Transactions', 'Lightning']","['Data Storage', 'SIGHASH_SINGLE|ANYONECANPAY', 'HTLC']",mailing-list-bitcoin-2023-October-022047
+"['Lightning', 'Mempool', 'Replace-By-Fee', 'Fees']",[],mailing-list-bitcoin-2023-October-022048
+"['Merkle Trees', 'Script', 'Covenants', 'Taproot', 'Bitcoin Core']",[],mailing-list-bitcoin-2023-October-022049
+"['Blockchain', 'Miners', 'Lightning', 'Consensus']","['Bitcoin', 'HTLC']",mailing-list-bitcoin-2023-October-022050
+"['Replace-By-Fee', 'miners']","['OP_Expire', 'preimage', 'refund', 'signature-less ordinal transactions', 'HTLCs', 'full-RBF', 'Coinbase-Like Behavior', 'anyone-can-spend', 'replacement cycling attack', 'Hashed Time-Lock Contract']",mailing-list-bitcoin-2023-October-022051
+['UTXO'],"['Peer-to-peer sharing', 'Hashing', 'Serialization', 'Compression']",mailing-list-bitcoin-2023-October-022052
+"['BIP', 'Multisig']",['Blockstream'],mailing-list-bitcoin-2023-October-022053
+"['Attacks', 'Mempool']",[],mailing-list-bitcoin-2023-October-022054
+['BIP'],"['opcodes', 'Bitcoin Script']",mailing-list-bitcoin-2023-October-022055
+"['Taproot', 'Script']",[],mailing-list-bitcoin-2023-October-022056
+['Taproot'],['OP_CAT'],mailing-list-bitcoin-2023-October-022057
