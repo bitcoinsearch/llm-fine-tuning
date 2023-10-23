@@ -22032,3 +22032,8 @@ primary_topics,secondary_topics,source_id
 ['BIP'],"['opcodes', 'Bitcoin Script']",mailing-list-bitcoin-2023-October-022055
 "['Taproot', 'Script']",[],mailing-list-bitcoin-2023-October-022056
 ['Taproot'],['OP_CAT'],mailing-list-bitcoin-2023-October-022057
+"['Mempool', 'Bitcoin Core', 'Security', 'P2P', 'Lightning']",['Bitcoin Core Development'],mailing-list-bitcoin-2023-October-022058
+"['Lightning', 'Mempool', 'Bitcoin Core']",[],mailing-list-bitcoin-2023-October-022059
+"['Attack', 'Mempool', 'Script']",['HTLC'],mailing-list-bitcoin-2023-October-022060
+[],"['OP_CheckLockTimeVerify', 'reorg safety', 'OP_RESERVED', 'AntiCheckLockTimeVerify', 'Hash Time-Locked Contracts', 'Coinbase Bit', 'OP_CHECKSEQUENCEVERIFY', 'HTLC', 'OP_Expire', 'soft fork upgrade']",mailing-list-bitcoin-2023-October-022061
+"['Soft Fork', 'Script', 'Covenants', 'Bitcoin Core', 'Taproot']",[],mailing-list-bitcoin-2023-October-022062
