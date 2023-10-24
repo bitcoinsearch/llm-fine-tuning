@@ -4148,3 +4148,22 @@ primary_topics,secondary_topics,source_id
 "['Bitcoin Core', 'Mempool', 'Security', 'Lightning']",[],mailing-list-lightning-2023-October-004154
 "['Routing', 'Mempool', 'Bech32', 'Pools', 'Proof-of-Work', 'Mining', 'P2pool', 'Fairness', 'Stratum-V2', 'Layer 2', 'Signet', 'Script', 'PSBT', 'Attacks', 'C-Lightning', 'Validation', 'Hashlocks', 'Security', 'Custody', 'P2sh', 'Lnd', 'Eclair', 'Musig', 'Taproot', 'Forks', 'Sphinx', 'Sidechains', 'Update Layer', 'Routing Failures', 'Accumulators', 'Merkle Trees', 'Hardware Wallet', 'Research', 'Fee Management', 'Miniscript', 'Fees', 'Testing', 'Privacy', 'Regulation', 'Onion', 'Multiple-Path Payments', 'Cryptography', 'Soft Fork', 'Academia', 'Zero-Knowledge', 'Miners', 'Smart Contracts', 'Lightning', 'Consensus', 'Atomic Swaps', 'Fungibility', 'Segwit', 'Path-Finding', 'Eltoo', 'Ux', 'Multisig', 'Timelocks', 'Topology', 'Hard Fork', 'Ethereum', 'Wallet', 'Limitations', 'Build Systems', 'Scalability', 'Splicing', 'Halving', 'Spv', 'Threshold Signatures', 'Submarine Swaps']",['Incent'],mailing-list-lightning-2023-October-004155
 "['Mempool', 'Mining', 'Transactions', 'Multisig', 'Fees']",['HTLCs'],mailing-list-lightning-2023-October-004156
+"['Bitcoin Core', 'Mempool', 'Lightning']",['Linux Kernel'],mailing-list-lightning-2023-October-004157
+"['Bitcoin Core', 'Mempool', 'Research', 'Lightning']",[],mailing-list-lightning-2023-October-004158
+"['Miners', 'Script', 'Taproot']","['Bitcoin Relay Node', 'Storage Requirements', 'HTLC', 'Consensus Change', 'LN (Lightning Network)', 'RBF (Replace-By-Fee)', 'Full Nodes']",mailing-list-lightning-2023-October-004159
+[],"['Coinbase Bit', 'HTLC', 'OP_Nop', 'reorg safety', 'OP_Expire', 'soft fork upgrade', 'AntiCheckLockTimeVerify', 'CLTV']",mailing-list-lightning-2023-October-004160
+"['Mempool', 'Fees']",[],mailing-list-lightning-2023-October-004161
+"['Bitcoin Core', 'Mempool', 'Lightning']",[],mailing-list-lightning-2023-October-004162
+[],"['block-height nLockTime', 'Coinbase Bit', 'coinbase transactions', 'HTLC', 'OP_Nop', 'reorg safety', 'OP_Expire', 'Delta Encoding Expiration', 'soft-fork upgrade', 'AntiCheckLockTimeVerify', 'CLTV']",mailing-list-lightning-2023-October-004163
+"['Mempool', 'Fees']",[],mailing-list-lightning-2023-October-004164
+"['Mempool', 'Fees']","['Transaction Replacement', 'HTLC', 'LN (Lightning Network)', 'Confirmation', 'Miner', 'UTXOs']",mailing-list-lightning-2023-October-004165
+"['Bitcoin Core', 'Mempool', 'Fees', 'Lightning']",[],mailing-list-lightning-2023-October-004166
+"['Schnorr', 'Mempool', 'Lightning', 'Relay']",['Bitcoin'],mailing-list-lightning-2023-October-004167
+"['Mempool', 'Lightning']",[],mailing-list-lightning-2023-October-004168
+"['Mempool', 'Fees', 'Lightning']",[],mailing-list-lightning-2023-October-004169
+"['miners', 'transactions', 'attack']","['Coinbase-Like Behavior', 'refund', 'RBF', 'commitment transaction', 'OP_Expire', 'signature-less ordinal transactions', 'HTLCs']",mailing-list-lightning-2023-October-004170
+"['Mempool', 'Covenants']",[],mailing-list-lightning-2023-October-004171
+"['Mempool', 'Fees']",[],mailing-list-lightning-2023-October-004172
+"['Mempool', 'Taproot']",[],mailing-list-lightning-2023-October-004173
+['Taproot'],['OP_Expire'],mailing-list-lightning-2023-October-004174
+"['Mempool', 'Miners', 'Lightning', 'Trust']",[],mailing-list-lightning-2023-October-004175

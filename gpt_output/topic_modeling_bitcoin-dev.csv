@@ -22037,3 +22037,20 @@ primary_topics,secondary_topics,source_id
 "['Attack', 'Mempool', 'Script']",['HTLC'],mailing-list-bitcoin-2023-October-022060
 [],"['OP_CheckLockTimeVerify', 'reorg safety', 'OP_RESERVED', 'AntiCheckLockTimeVerify', 'Hash Time-Locked Contracts', 'Coinbase Bit', 'OP_CHECKSEQUENCEVERIFY', 'HTLC', 'OP_Expire', 'soft fork upgrade']",mailing-list-bitcoin-2023-October-022061
 "['Soft Fork', 'Script', 'Covenants', 'Bitcoin Core', 'Taproot']",[],mailing-list-bitcoin-2023-October-022062
+"['Script', 'Bitcoin Core']",[],mailing-list-bitcoin-2023-October-022063
+['BIP'],['OP_CAT'],mailing-list-bitcoin-2023-October-022064
+"['Bitcoin Core', 'BIP']",[],mailing-list-bitcoin-2023-October-022065
+"['soft-fork', 'Script', 'BIP']","['pushing data', '520-bit proposal', 'Ordinals', 'official future version', 'Bitcoin Script', 'Schnorr signature', 'newbies', 'blockchain speed', 'logical gates', 'OP_CAT', '520-byte proposal', 'designing and testing']",mailing-list-bitcoin-2023-October-022066
+"['Mempool', 'Fees']",[],mailing-list-bitcoin-2023-October-022067
+"['Mempool', 'Taproot']","['OP_CHECKEXPIRYTIMEVERIFY', 'OP_EXPIRE']",mailing-list-bitcoin-2023-October-022068
+['BIP'],['OP_CAT'],mailing-list-bitcoin-2023-October-022069
+['BIP'],['OP_CAT'],mailing-list-bitcoin-2023-October-022070
+['BIP'],[],mailing-list-bitcoin-2023-October-022071
+"['Bitcoin Core', 'Lightning', 'BIP']",['OpenTimestamps'],mailing-list-bitcoin-2023-October-022072
+[],"['taproot annex', 'Coinbase-Like Behavior', 'signature covering the field', '_Verify behavior', 'miners incentives', 'design mistake', 'nExpiryHeight', 'OP_Expire', 'nLockTime', 'OP_SuccessX opcode', 'OP_CheckExpiryTime', 'nVersion', 'HTLCs', 'nTime field', 'expiration', 'Transactions Expire Safely']",mailing-list-bitcoin-2023-October-022073
+"['Mempool', 'Miners', 'Lightning', 'Trust']",[],mailing-list-bitcoin-2023-October-022074
+['BIP'],[],mailing-list-bitcoin-2023-October-022075
+[],['BIPs'],mailing-list-bitcoin-2023-October-022076
+"['Research', 'BIP']","['Core developers', 'SLIP', 'Blockstream', 'LN', 'OpenTimestamps']",mailing-list-bitcoin-2023-October-022077
+['BIP'],['PR'],mailing-list-bitcoin-2023-October-022078
+"['Schnorr', 'BIP']",['OP_CAT'],mailing-list-bitcoin-2023-October-022079
