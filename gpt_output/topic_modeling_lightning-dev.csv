@@ -4167,3 +4167,8 @@ primary_topics,secondary_topics,source_id
 "['Mempool', 'Taproot']",[],mailing-list-lightning-2023-October-004173
 ['Taproot'],['OP_Expire'],mailing-list-lightning-2023-October-004174
 "['Mempool', 'Miners', 'Lightning', 'Trust']",[],mailing-list-lightning-2023-October-004175
+"['Protocol', 'Lightning']","['Zero-Reserve Channels', 'Cheating Attacks', 'Channel Interceptor', 'Channel Reserve', 'Blip']",mailing-list-lightning-2023-October-004176
+"['Lightning', 'Covenants']","['Exchange', 'Transaction', 'Channel']",mailing-list-lightning-2023-October-004177
+['Lightning'],"['Channel Reserve', 'bLIP Repository', 'Pull Request']",mailing-list-lightning-2023-October-004178
+['Covenants'],"['Transaction', 'Splice', 'On-chain footprint']",mailing-list-lightning-2023-October-004179
+['Lightning'],"['Reserve', 'Protocol Update']",mailing-list-lightning-2023-October-004180

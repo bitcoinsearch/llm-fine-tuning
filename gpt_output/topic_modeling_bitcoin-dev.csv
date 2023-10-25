@@ -22054,3 +22054,12 @@ primary_topics,secondary_topics,source_id
 "['Research', 'BIP']","['Core developers', 'SLIP', 'Blockstream', 'LN', 'OpenTimestamps']",mailing-list-bitcoin-2023-October-022077
 ['BIP'],['PR'],mailing-list-bitcoin-2023-October-022078
 "['Schnorr', 'BIP']",['OP_CAT'],mailing-list-bitcoin-2023-October-022079
+"['Segregated Witness', 'BIP', 'Research', 'P2SH']",[],mailing-list-bitcoin-2023-October-022080
+['BIP'],['PR'],mailing-list-bitcoin-2023-October-022081
+['BIP'],"['effective_size', 'stack', 'size limits', 'class for the stack', 'OP_CAT', 'interpreter code', 'EvalScript', 'EvalChecksig', 'MAX_STACK_SIZE']",mailing-list-bitcoin-2023-October-022082
+['BIP'],['Ordinals'],mailing-list-bitcoin-2023-October-022083
+['BIP'],['OP_CAT'],mailing-list-bitcoin-2023-October-022084
+['BIP'],['OP_CAT'],mailing-list-bitcoin-2023-October-022085
+['BIP'],['PR'],mailing-list-bitcoin-2023-October-022086
+[],[],mailing-list-bitcoin-2023-October-022087
+['BIP'],['Ethereum Improvement Proposals'],mailing-list-bitcoin-2023-October-022088
