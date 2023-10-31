@@ -4172,3 +4172,129 @@ primary_topics,secondary_topics,source_id
 ['Lightning'],"['Channel Reserve', 'bLIP Repository', 'Pull Request']",mailing-list-lightning-2023-October-004178
 ['Covenants'],"['Transaction', 'Splice', 'On-chain footprint']",mailing-list-lightning-2023-October-004179
 ['Lightning'],"['Reserve', 'Protocol Update']",mailing-list-lightning-2023-October-004180
+[],"['Optimistic Execution', 'Execution Trace', 'State Tree']",mailing-list-lightning-2023-October-021976
+[],"['Optimistic Execution', 'Arbitrary Programs']",mailing-list-lightning-2023-October-021977
+"['Taproot', 'UTXO']",[],mailing-list-lightning-2023-October-021978
+"['Taproot', 'Update Layer']",['Cut-through'],mailing-list-lightning-2023-October-021979
+['Blockchain'],"['Payment Channels', 'Double Spend', 'Fraud Proof', 'Fidelity Bonds', 'Offchain Mechanisms']",mailing-list-lightning-2023-October-021980
+"['Taproot', 'Update Layer']",[],mailing-list-lightning-2023-October-021981
+"['Lightning', 'Covenants']",['HTLCs'],mailing-list-lightning-2023-October-021982
+['BIP'],['TXHASH'],mailing-list-lightning-2023-October-021983
+['Taproot'],"['off-chain computation', 'on-chain execution', 'Bitcoin contracts']",mailing-list-lightning-2023-October-021984
+[],"['Bitcoin', 'BitVM']",mailing-list-lightning-2023-October-021986
+"['Taproot', 'Zero-Knowledge', 'Smart Contracts', 'Cryptography']",[],mailing-list-lightning-2023-October-021987
+"['PSBT', 'BIP']",['MuSig2'],mailing-list-lightning-2023-October-021988
+['BIP'],['MuSig2 Descriptors'],mailing-list-lightning-2023-October-021989
+['Bitcoin Core'],['BIP324'],mailing-list-lightning-2023-October-021990
+[],"['MuSig2', 'PSBT Fields']",mailing-list-lightning-2023-October-021991
+"['PSBT', 'BIP']",['adaptor signatures'],mailing-list-lightning-2023-October-021992
+"['PSBT', 'BIP']",['MuSig2'],mailing-list-lightning-2023-October-021993
+"['Taproot', 'Merkle Trees']","['Coinpool', 'Off-chain Transactions']",mailing-list-lightning-2023-October-021994
+"['Schnorr', 'BIP', 'API']","['MuSig2', 'batch verification', 'libsecp256k1-zkp', 'adaptor signatures']",mailing-list-lightning-2023-October-021995
+[],"['Actuarial System', 'Offchain Mechanisms']",mailing-list-lightning-2023-October-021996
+"['Blockchain', 'MuSig', 'Script', 'Taproot']","['NAND gate', 'Adaptor signatures', 'BitVM', 'Hashes', 'CPU']",mailing-list-lightning-2023-October-021997
+"['Wallet', 'Bitcoin Core', 'Privacy']","['Spoofing', 'Fingerprinting']",mailing-list-lightning-2023-October-021998
+"['Lightning', 'Mempool', 'Fees', 'Package Relay', 'Bitcoin Core']",[],mailing-list-lightning-2023-October-021999
+['Mempool'],"['HTLC', 'Exploit']",mailing-list-lightning-2023-October-022000
+['Mempool'],[],mailing-list-lightning-2023-October-022002
+"['Replace-by-fee', 'Lightning', 'Mempool', 'Consensus']",['HTLC'],mailing-list-lightning-2023-October-022003
+"['Timelocks', 'Mempool', 'Lightning']","['BOLT', 'OP_CSV', 'Anchor Outputs', 'HTLC-success Transaction', 'Onchain Fees', 'OP_CLTV', 'HTLC', 'Pre-signed Transactions', 'Revocation', 'Commitment Transaction', 'Feerates', 'Poon-Dryja Mechanism', 'Channels', 'CPFP', 'OP_HASH160', 'RBF']",mailing-list-lightning-2023-October-022004
+"['Lightning', 'Mempool', 'Fees', 'Privacy', 'Consensus']",[],mailing-list-lightning-2023-October-022005
+"['Lightning', 'Covenants']",[],mailing-list-lightning-2023-October-022006
+"['Splicing', 'Covenants']",[],mailing-list-lightning-2023-October-022007
+"['Splicing', 'Covenants']",[],mailing-list-lightning-2023-October-022008
+"['Mempool', 'Covenants']",[],mailing-list-lightning-2023-October-022009
+"['Cryptography', 'Script', 'Bitcoin Core']",[],mailing-list-lightning-2023-October-022010
+"['Lightning', 'Mempool']",['Channel Policies'],mailing-list-lightning-2023-October-022011
+['Mempool'],"['Commitment Transaction', 'Fee Rates', 'Sighash_single', 'Anchor Output Channels', 'CPFP', 'HTLC', 'Preimage', 'Feerate']",mailing-list-lightning-2023-October-022012
+"['Security', 'Lightning', 'Mempool']",[],mailing-list-lightning-2023-October-022013
+"['Mempool', 'Lightning', 'Package Relay', 'Covenants']",[],mailing-list-lightning-2023-October-022014
+"['P2P', 'Lightning', 'Mempool', 'Miners', 'Mining']",[],mailing-list-lightning-2023-October-022015
+"['Stratum-V2', 'Lightning', 'Mempool', 'Fees']",[],mailing-list-lightning-2023-October-022016
+"['Package Relay', 'Covenants']",[],mailing-list-lightning-2023-October-022017
+"['Mempool', 'Covenants']","['Batch Withdrawal', 'CPFP']",mailing-list-lightning-2023-October-022018
+['Taproot'],"['Mainnet', 'Assets']",mailing-list-lightning-2023-October-022019
+['Taproot'],['Assets'],mailing-list-lightning-2023-October-022020
+"['Lightning', 'Covenants']",[],mailing-list-lightning-2023-October-022021
+"['Lightning', 'Mempool', 'Bitcoin Core']",[],mailing-list-lightning-2023-October-022022
+['Bitcoin Core'],['Release'],mailing-list-lightning-2023-October-022023
+"['Mempool', 'Fees']",[],mailing-list-lightning-2023-October-022024
+['Mempool'],[],mailing-list-lightning-2023-October-022025
+"['Lightning', 'Covenants']",[],mailing-list-lightning-2023-October-022026
+"['Mempool', 'Fees']",[],mailing-list-lightning-2023-October-022027
+"['Mempool', 'Fees']",[],mailing-list-lightning-2023-October-022028
+"['Lightning', 'Mempool', 'Fees']",['Double Spend'],mailing-list-lightning-2023-October-022029
+"['Custody', 'Soft Fork', 'Covenants']",[],mailing-list-lightning-2023-October-022030
+"['Taproot', 'Soft Fork', 'Script']",[],mailing-list-lightning-2023-October-022031
+"['Lightning', 'Mempool', 'Bitcoin Core']",[],mailing-list-lightning-2023-October-022032
+"['Lightning', 'Mempool']","['HTLC', 'Timeout branch']",mailing-list-lightning-2023-October-022034
+"['Musig', 'Mempool', 'Fees']",['HTLCs'],mailing-list-lightning-2023-October-022035
+['Mempool'],['Double Spend'],mailing-list-lightning-2023-October-022036
+"['Taproot', 'Script']",['TaggedCathash'],mailing-list-lightning-2023-October-022037
+"['P2P', 'Research', 'Package Relay', 'Bitcoin Core', 'Pools', 'Mining', 'Stratum-V2...', 'Fees', 'FROST', 'Segwit', 'Libbitcoin Kernel', 'Mempool', 'Libsecp256k1', 'P2pool', 'Schnorr', 'Lightning', 'Assumeutxo', 'Privacy', 'Silent Payments', 'Fuzzing', 'Asmap']",[],mailing-list-lightning-2023-October-022038
+"['UTXO', 'Hash']",[],mailing-list-lightning-2023-October-022039
+"['Mempool', 'Fees']",[],mailing-list-lightning-2023-October-022040
+"['Lightning', 'Mempool', 'Bitcoin Core']",[],mailing-list-lightning-2023-October-022041
+[],"['reorg safety', 'block-height nLockTime', 'AntiCheckLockTimeVerify', 'Coinbase Bit', 'CLTV', 'HTLC', 'soft-fork upgrade', 'OP_Expire', 'coinbase transactions', 'Delta Encoding Expiration']",mailing-list-lightning-2023-October-022042
+"['Mempool', 'Fees']",[],mailing-list-lightning-2023-October-022043
+"['Mempool', 'Fees']","['Confirmation', 'LN (Lightning Network)', 'Transaction Replacement', 'HTLC', 'Miner', 'UTXOs']",mailing-list-lightning-2023-October-022044
+"['Lightning', 'Mempool', 'Bitcoin Core', 'Fees']",[],mailing-list-lightning-2023-October-022045
+"['Schnorr', 'Lightning', 'Mempool', 'Relay']",['Bitcoin'],mailing-list-lightning-2023-October-022046
+"['Lightning', 'Mempool']",[],mailing-list-lightning-2023-October-022047
+"['Lightning', 'Mempool', 'Fees']",[],mailing-list-lightning-2023-October-022048
+"['Taproot', 'Cryptography', 'Soft Fork', 'Script']",[],mailing-list-lightning-2023-October-022049
+"['Script', 'Taproot', 'Miners']","['RBF (Replace-By-Fee)', 'Consensus Change', 'LN (Lightning Network)', 'Full Nodes', 'Storage Requirements', 'HTLC', 'Bitcoin Relay Node']",mailing-list-lightning-2023-October-022050
+"['attack', 'miners', 'transactions']","['HTLCs', 'Coinbase-Like Behavior', 'commitment transaction', 'signature-less ordinal transactions', 'refund', 'RBF', 'OP_Expire']",mailing-list-lightning-2023-October-022051
+"['P2P', 'Research', 'Package Relay', 'Bitcoin Core', 'Pools', 'Mining', 'Stratum-V2...', 'Fees', 'FROST', 'Segwit', 'Libbitcoin Kernel', 'Mempool', 'Libsecp256k1', 'P2pool', 'Schnorr', 'Lightning', 'Assumeutxo', 'Privacy', 'Silent Payments', 'Fuzzing', 'Asmap']",[],mailing-list-lightning-2023-October-022052
+['BIP'],['OP_CAT'],mailing-list-lightning-2023-October-022053
+['Mempool'],[],mailing-list-lightning-2023-October-022054
+['BIP'],['Bitcoin Script'],mailing-list-lightning-2023-October-022055
+['BIP'],['OP_CAT'],mailing-list-lightning-2023-October-022056
+['BIP'],['OP_CAT'],mailing-list-lightning-2023-October-022057
+"['Lightning', 'Mempool', 'Bitcoin Core']",['Linux Kernel'],mailing-list-lightning-2023-October-022058
+"['Research', 'Lightning', 'Mempool', 'Bitcoin Core']",[],mailing-list-lightning-2023-October-022059
+"['Mempool', 'Covenants']",[],mailing-list-lightning-2023-October-022060
+[],"['reorg safety', 'AntiCheckLockTimeVerify', 'soft fork upgrade', 'OP_Nop', 'Coinbase Bit', 'CLTV', 'HTLC', 'OP_Expire']",mailing-list-lightning-2023-October-022061
+"['merkle trees', 'BIP']","['hashed data structures', 'OP_CAT', 'concatenation', 'Vaults', 'Post-Quantum Lamport Signatures', 'References', 'toolbox', 'CheckSigFromStack', 'Tapscript', 'Non-equivocation contracts', 'Unix', 'stack', 'Tree Signatures', 'expressiveness', 'Specification', 'Reference Implementation', 'opcode', 'multisignature script', 'tapscript developer', 'maximum script element size', 'logical spend conditions', 'Schnorr signatures', 'power', 'ECDSA signatures']",mailing-list-lightning-2023-October-022062
+"['Script', 'Bitcoin Core']",[],mailing-list-lightning-2023-October-022063
+"['BIP', 'Bitcoin Core']",[],mailing-list-lightning-2023-October-022065
+['Mempool'],"['OP_Expire', 'HTLC-preimage', 'Timeout transaction']",mailing-list-lightning-2023-October-004182
+"['BIP', 'Script']",['OP_CAT'],mailing-list-lightning-2023-October-022064
+"['blockchain', 'soft-fork']","['no-forks', 'OP_CAT', 'logical gates', 'data pushing', 'Bitcoin Script', 'backward compatibility', 'Schnorr signature', 'NAND', 'syntax', 'Bitcoin ecosystem']",mailing-list-lightning-2023-October-022066
+"['Transactions', 'Mempool', 'Bitcoin Core']",[],mailing-list-lightning-2023-October-022067
+"['Taproot', 'Mempool', 'Bitcoin Core']",[],mailing-list-lightning-2023-October-022068
+"['BIP', 'scriptSig', 'script']","['Bitcoin', 'SHA256SUM', 'script size limits', 'oversized transaction', 'tapscripts', 'scriptPubKey', 'non-standard', 'limit', 'operations', 'single script', 'segwit v0 scripts', 'standard', '10MB', 'verify', 'bytes', '520kB', 'memory']",mailing-list-lightning-2023-October-022069
+['BIP'],['OP_CAT'],mailing-list-lightning-2023-October-022070
+['BIP'],['Bitcoin Improvement Proposals'],mailing-list-lightning-2023-October-022071
+"['Lightning', 'BIP']","['BOLT', 'Bitcoin Improvement Proposal', 'OpenTimestamps']",mailing-list-lightning-2023-October-022072
+"['signature', 'miners']","['taproot annex', 'HTLCs', 'Transactions Expire Safely', '_Verify behavior', 'email address', 'OP_Expire', 'expiration conditional', 'Coinbase-Like Behavior', 'true/false stack element', 'nTime field', 'Peter Todd', 'nExpiryHeight', 'explicit field', 'opcode', 'website', 'nVersion', 'time-based expiration', 'height', 'OP_CheckExpiryTime']",mailing-list-lightning-2023-October-022073
+"['Security', 'Lightning', 'Mempool', 'Consensus', 'Mining']",[],mailing-list-lightning-2023-October-022074
+['BIP'],['Bitcoin Improvement Proposals'],mailing-list-lightning-2023-October-022075
+['BIP'],['Bitcoin Improvement Proposals'],mailing-list-lightning-2023-October-022076
+['BIP'],"['Core maintainers', 'Lightning Network', 'OpenTimestamps', 'SLIP']",mailing-list-lightning-2023-October-022077
+"['Lightning', 'BIP', 'altcoin']","['editor', 'pull requests', 'BOLTs', 'Ordinals', 'SLIP']",mailing-list-lightning-2023-October-022078
+"['Schnorr', 'BIP']","['rolling sha2', 'OP_CAT']",mailing-list-lightning-2023-October-022079
+"['Segregated Witness', 'P2SH']",[],mailing-list-lightning-2023-October-022080
+['BIP'],['Bitcoin Improvement Proposal'],mailing-list-lightning-2023-October-022081
+['BIP'],['OP_CAT'],mailing-list-lightning-2023-October-022082
+['BIP'],[],mailing-list-lightning-2023-October-022083
+['BIP'],"['Looping Technique', 'Performance Optimization']",mailing-list-lightning-2023-October-022084
+['BIP'],['OP_CAT'],mailing-list-lightning-2023-October-022085
+['BIP'],['Pull Requests'],mailing-list-lightning-2023-October-022086
+['BIP'],[],mailing-list-lightning-2023-October-022087
+['BIP'],['Proposal'],mailing-list-lightning-2023-October-022088
+['BIP'],"['OP_SUCCESS126', 'OP_SUCCESS80', 'OP_CAT']",mailing-list-lightning-2023-October-022089
+"['Linux', 'Windows', 'Fees', 'Bitcoin Core']","['macOS', 'bech32 Addresses', 'GitHub Issue Tracker', 'Build System', 'Memory Release', 'Performance Improvements', 'Translations', 'Bug Fixes', 'Upgrade', 'Release', 'macOS Fixes', 'Continuous Integration', 'Dependencies Updates']",mailing-list-lightning-2023-October-022090
+[],"['transaction unpinning', 'vaults', 'OP_CAT', 'opcodes', 'introspection', 'UASF']",mailing-list-lightning-2023-October-022091
+"['Scalability', 'Fees', 'Covenants', 'Eltoo']","['Transaction Recycling', 'OP_CHECKCONTRACTVERIFY', 'PTLCs', 'HTLC', 'Merkle Tree', 'Layer 1', 'Slot Jamming']",mailing-list-lightning-2023-October-022093
+"['BIP', 'soft fork']","['opcodes', 'OP_CAT']",mailing-list-lightning-2023-October-022094
+['BIP'],['Bitcoin Improvement Proposals'],mailing-list-lightning-2023-October-022095
+['BIP'],['Bitcoin Improvement Proposal'],mailing-list-lightning-2023-October-022096
+"['Mempool', 'Testing', 'Bitcoin Core', 'Pools', 'Mining']",[],mailing-list-lightning-2023-October-022097
+['Mempool'],['Bitcoin transactions'],mailing-list-lightning-2023-October-022098
+"['Script', 'Bitcoin Core']","['Opcodes', 'Lisp']",mailing-list-lightning-2023-October-022099
+['BIP'],"['promotion process', 'community engagement', 'quality control', 'centralization', 'Bitcoin Improvement Proposals', 'draft proposals']",mailing-list-lightning-2023-October-022100
+"['BIP', 'Script']","['GitHub', 'CSFS', 'Commit', 'Tests']",mailing-list-lightning-2023-October-022101
+['BIP'],['Bitcoin Improvement Proposals'],mailing-list-lightning-2023-October-022102
+['Script'],"['Address Format', 'Oracles', 'Bitcoin Improvement Proposal']",mailing-list-lightning-2023-October-022103
+['Covenants'],[],mailing-list-lightning-2023-October-004181

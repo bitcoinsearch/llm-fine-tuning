@@ -22063,3 +22063,82 @@ primary_topics,secondary_topics,source_id
 ['BIP'],['PR'],mailing-list-bitcoin-2023-October-022086
 [],[],mailing-list-bitcoin-2023-October-022087
 ['BIP'],['Ethereum Improvement Proposals'],mailing-list-bitcoin-2023-October-022088
+"['Lightning', 'Testing']",['Simulation'],mailing-list-bitcoin-2023-October-004120
+"['Lightning', 'Mempool', 'Fees', 'Package Relay', 'Bitcoin Core']",[],mailing-list-bitcoin-2023-October-004122
+"['Lightning', 'Mempool', 'Fees', 'Privacy', 'Consensus']",[],mailing-list-bitcoin-2023-October-004124
+"['Lightning', 'Covenants']",[],mailing-list-bitcoin-2023-October-004126
+"['Splicing', 'Covenants']",[],mailing-list-bitcoin-2023-October-004128
+"['Lightning', 'Mempool']",['Channel Policies'],mailing-list-bitcoin-2023-October-004130
+"['Security', 'Lightning', 'Mempool']",[],mailing-list-bitcoin-2023-October-004132
+"['P2P', 'Lightning', 'Mempool', 'Fees', 'Mining']",[],mailing-list-bitcoin-2023-October-004134
+"['UX', 'Lightning', 'Eltoo']","['Capital Efficiency', 'Wallet User', 'Routing Nodes', 'Service Provider', 'Channel Reserve', 'LN-Symmetry', 'Penalty Transactions']",mailing-list-bitcoin-2023-October-004136
+"['Package Relay', 'Covenants']",[],mailing-list-bitcoin-2023-October-004138
+"['Wallet', 'Lightning', 'Multisig', 'Privacy']",[],mailing-list-bitcoin-2023-October-004140
+"['Mempool', 'Covenants']","['Batch Withdrawal', 'CPFP']",mailing-list-bitcoin-2023-October-004142
+"['Routing', 'Lightning']",[],mailing-list-bitcoin-2023-October-004144
+"['Custody', 'Wallet', 'Lightning', 'Validation']",[],mailing-list-bitcoin-2023-October-004146
+"['Mempool', 'Fees']",[],mailing-list-bitcoin-2023-October-004148
+"['Mempool', 'Fees']",[],mailing-list-bitcoin-2023-October-004150
+['Mempool'],[],mailing-list-bitcoin-2023-October-004152
+"['Lightning', 'Mempool', 'Bitcoin Core']",[],mailing-list-bitcoin-2023-October-004154
+"['Mempool', 'Fees', 'Multisig']","['HTLCs', 'Commitment Transactions']",mailing-list-bitcoin-2023-October-004156
+"['Research', 'Lightning', 'Mempool', 'Bitcoin Core']",[],mailing-list-bitcoin-2023-October-004158
+[],"['reorg safety', 'AntiCheckLockTimeVerify', 'soft fork upgrade', 'OP_Nop', 'Coinbase Bit', 'CLTV', 'HTLC', 'OP_Expire']",mailing-list-bitcoin-2023-October-004160
+"['Lightning', 'Mempool', 'Bitcoin Core']",[],mailing-list-bitcoin-2023-October-004162
+"['Mempool', 'Fees']",[],mailing-list-bitcoin-2023-October-004164
+"['Lightning', 'Mempool', 'Bitcoin Core', 'Fees']",[],mailing-list-bitcoin-2023-October-004166
+"['Lightning', 'Mempool']",[],mailing-list-bitcoin-2023-October-004168
+"['Transactions', 'Mempool']",[],mailing-list-bitcoin-2023-October-004172
+"['Taproot', 'Miners']",['OP_Expire'],mailing-list-bitcoin-2023-October-004174
+['Lightning'],['Channel Reserves'],mailing-list-bitcoin-2023-October-004176
+"['Wallet', 'Lightning']",[],mailing-list-bitcoin-2023-October-004180
+"['Mempool', 'Nodes', 'Offline']","['Timeout transaction', 'HTLC-preimage', 'Redemption', 'Online', 'OP_Expire']",mailing-list-bitcoin-2023-October-004182
+"['Lightning', 'Covenants']","['Passive Rollovers', 'Channel Resizing', 'Commitment Transactions', 'Timeout-Tree', 'HTLC-Withholding Attacks', 'Fragmentation Costs', 'Short-Cut Transactions']",mailing-list-bitcoin-2023-October-004121
+"['Mempool', 'Taproot', 'Bitcoin Core']","['OP_CHECKEXPIRYTIMEVERIFY', 'OP_EXPIRE']",mailing-list-bitcoin-2023-October-004173
+"['Trust', 'Lightning', 'Mempool']","['HTLCs', 'L2 network', 'Policy restrictions', 'Vulnerability', 'Force-close', 'Miners earnings', 'Chain-spamming', 'Ecosystem']",mailing-list-bitcoin-2023-October-004175
+"['Lightning', 'Covenants']",[],mailing-list-bitcoin-2023-October-004177
+"['Lightning', 'Covenants']",[],mailing-list-bitcoin-2023-October-004179
+['Covenants'],[],mailing-list-bitcoin-2023-October-004181
+"['attack', 'miners', 'transactions']","['HTLCs', 'Coinbase-Like Behavior', 'commitment transaction', 'signature-less ordinal transactions', 'refund', 'RBF', 'OP_Expire']",mailing-list-bitcoin-2023-October-004170
+['Mempool'],[],mailing-list-bitcoin-2023-October-004123
+"['Timelocks', 'Lightning', 'Mempool']","['HTLC Funds', 'HTLC-success Transaction', 'Commitment Transaction', 'Onchain Fees', 'Feerates', 'Poon-Dryja Mechanism', 'Channels', 'CPFP', 'Anchor Outputs', 'Pre-signed Transactions', 'Revocation', 'RBF', 'HTLC-timeout Transaction']",mailing-list-bitcoin-2023-October-004125
+"['Splicing', 'Covenants']",[],mailing-list-bitcoin-2023-October-004127
+"['Mempool', 'Covenants']",[],mailing-list-bitcoin-2023-October-004129
+['Mempool'],"['Commitment Transaction', 'Fee Rates', 'Sighash_single', 'Anchor Output Channels', 'CPFP', 'HTLC', 'Preimage', 'Feerate']",mailing-list-bitcoin-2023-October-004131
+"['Mempool', 'Lightning', 'Package Relay', 'Covenants']",[],mailing-list-bitcoin-2023-October-004133
+"['Stratum-V2', 'Lightning', 'Mempool', 'Fees']",[],mailing-list-bitcoin-2023-October-004135
+"['Wallet', 'Lightning', 'Ux']",[],mailing-list-bitcoin-2023-October-004137
+"['Wallet', 'Lightning', 'Routing']",[],mailing-list-bitcoin-2023-October-004139
+['Lightning'],"['Watch Tower', 'Mobile Wallet']",mailing-list-bitcoin-2023-October-004141
+"['UX', 'Lightning']",[],mailing-list-bitcoin-2023-October-004143
+['Covenants'],[],mailing-list-bitcoin-2023-October-004145
+"['Lightning', 'Mempool', 'Bitcoin Core']",[],mailing-list-bitcoin-2023-October-004147
+"['Lightning', 'Covenants']",[],mailing-list-bitcoin-2023-October-004149
+"['Mempool', 'Fees']",[],mailing-list-bitcoin-2023-October-004151
+"['Lightning', 'Mempool', 'Fees']",['Double Spend'],mailing-list-bitcoin-2023-October-004153
+"['Lightning', 'Mempool']",[],mailing-list-bitcoin-2023-October-004155
+"['Lightning', 'Mempool', 'Bitcoin Core']",['Linux Kernel'],mailing-list-bitcoin-2023-October-004157
+"['Script', 'Miners']","['Relay Node', 'Consensus Change', 'LN (Lightning Network)', 'Storage Requirements', 'HTLC']",mailing-list-bitcoin-2023-October-004159
+"['Mempool', 'Fees']",[],mailing-list-bitcoin-2023-October-004161
+[],"['reorg safety', 'block-height nLockTime', 'AntiCheckLockTimeVerify', 'Coinbase Bit', 'CLTV', 'HTLC', 'soft-fork upgrade', 'OP_Expire', 'coinbase transactions', 'Delta Encoding Expiration']",mailing-list-bitcoin-2023-October-004163
+"['Mempool', 'Fees']","['Confirmation', 'LN (Lightning Network)', 'Transaction Replacement', 'HTLC', 'Miner', 'UTXOs']",mailing-list-bitcoin-2023-October-004165
+"['Schnorr', 'Lightning', 'Mempool', 'Relay']",['Bitcoin'],mailing-list-bitcoin-2023-October-004167
+"['Lightning', 'Mempool', 'Fees']",[],mailing-list-bitcoin-2023-October-004169
+"['Mempool', 'Covenants']",[],mailing-list-bitcoin-2023-October-004171
+['Bitcoin Core'],[],mailing-list-bitcoin-2023-October-022090
+"['covenants', 'BIP', 'Taproot', 'soft-fork']","['alternative approaches', 'partial unvaultings', 'CAT-based approach', 'OP_CAT', 'introspection opcodes', 'batched withdrawals', 'opcodes', 'revaulting', 'CHECKSIGFROMSTACK', 'usability hurdles']",mailing-list-bitcoin-2023-October-022092
+['BIP'],['OP_CAT'],mailing-list-bitcoin-2023-October-022094
+['BIP'],['Bitcoin Improvement Proposal'],mailing-list-bitcoin-2023-October-022096
+['Mempool'],"['Timeout Transaction', 'HTLC-preimage', 'Redemption Transaction', 'OP_Expire']",mailing-list-bitcoin-2023-October-022098
+['BIP'],['Bitcoin Improvement Proposal'],mailing-list-bitcoin-2023-October-022100
+['BIP'],['Bitcoin Improvement Proposals'],mailing-list-bitcoin-2023-October-022102
+"['Taproot', 'Miniscript', 'Script']",['Descriptor Layer'],mailing-list-bitcoin-2023-October-022104
+['BIP'],['OP_CAT'],mailing-list-bitcoin-2023-October-022089
+['BIP'],"['transaction unpinning', 'vaults', 'OP_CAT', 'opcodes', 'introspection', 'UASF']",mailing-list-bitcoin-2023-October-022091
+[],"['chain efficiency', 'channel types', 'HTLC output aggregation', 'OP_CHECKCONTRACTVERIFY', 'commitment transaction', 'transaction recycling', 'preimage', 'merkle tree', 'slot jamming attacks', 'covenant primitives', 'batching timeout claims']",mailing-list-bitcoin-2023-October-022093
+['BIP'],"['RFC', 'centralization']",mailing-list-bitcoin-2023-October-022095
+"['P2P', 'Mempool', 'Fees', 'Bitcoin Core', 'Mining']",[],mailing-list-bitcoin-2023-October-022097
+"['Soft Fork', 'Script', 'Research', 'Bitcoin Core', 'Consensus']",[],mailing-list-bitcoin-2023-October-022099
+['BIP'],['OP_CAT'],mailing-list-bitcoin-2023-October-022101
+[],"['ScriptPubkeys', 'Bitcoin Script']",mailing-list-bitcoin-2023-October-022103
+['Lightning'],['Channel Reserve'],mailing-list-bitcoin-2023-October-004178
