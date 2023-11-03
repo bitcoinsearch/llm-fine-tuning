@@ -22145,3 +22145,8 @@ primary_topics,secondary_topics,source_id
 [],"['Bitcoin Script', 'ScriptPubkeys']",mailing-list-bitcoin-2023-October-022105
 [],"['Collusion', 'APO', 'CTV', 'ScriptPubKey', 'Double Spend', 'Covenant', 'Offchain Mechanisms', 'Preimage', 'Adaptor']",mailing-list-bitcoin-2023-October-022106
 ['Script'],"['Bitcoin Script', 'BIP 345']",mailing-list-bitcoin-2023-October-022107
+"['Bitcoin Core', 'Security', 'Lightning', 'Mempool']",[],mailing-list-bitcoin-2023-November-022109
+"['Lightning', 'Fees']","['HTLC', 'Commitment Transaction', 'Counterparty Malleability', 'Security Risk']",mailing-list-bitcoin-2023-November-022110
+"['Bitcoin Core', 'Miners', 'Lightning', 'Mempool']",[],mailing-list-bitcoin-2023-November-022111
+['Mempool'],['RBF'],mailing-list-bitcoin-2023-November-022112
+"['Bitcoin Core', 'Lightning']",['Transaction Fees'],mailing-list-bitcoin-2023-November-022108

@@ -4304,3 +4304,6 @@ primary_topics,secondary_topics,source_id
 [],"['Bitcoin Script', 'ScriptPubkeys']",mailing-list-lightning-2023-October-022104
 [],"['Bitcoin Script', 'ScriptPubkeys']",mailing-list-lightning-2023-October-022105
 "['Taproot', 'soft-fork', 'covenants', 'BIP']","['CAT-based approach', 'prototype by Burak', 'CHECKSIGFROMSTACK', 'vaults', 'batched withdrawals', 'Andrew', 'introspection opcodes', 'partial unvaultings', 'opcodes', 'design for vaults', 'usability hurdles', 'revaulting', 'alternative solutions', 'OP_CAT', 'paper', 'introspection']",mailing-list-lightning-2023-October-022092
+"['Bitcoin Core', 'Security', 'Lightning', 'Mempool']",[],mailing-list-lightning-2023-November-004183
+"['Lightning', 'Fees']","['HTLC', 'Commitment Transaction', 'Counterparty Malleability', 'Security Risk']",mailing-list-lightning-2023-November-004184
+"['Bitcoin Core', 'Lightning']",['Transaction Fees'],mailing-list-lightning-2023-November-004185
