@@ -22150,3 +22150,11 @@ primary_topics,secondary_topics,source_id
 "['Bitcoin Core', 'Miners', 'Lightning', 'Mempool']",[],mailing-list-bitcoin-2023-November-022111
 ['Mempool'],['RBF'],mailing-list-bitcoin-2023-November-022112
 "['Bitcoin Core', 'Lightning']",['Transaction Fees'],mailing-list-bitcoin-2023-November-022108
+"['Package Relay', 'Mempool']","['Commitment Transaction', 'Preimage', 'CPFP', 'HTLC', 'Timeout', 'Anchor Output']",mailing-list-bitcoin-2023-November-022113
+"['Package Relay', 'P2P', 'Mempool']","['Commitment Transaction', 'HTLC', 'Anchor Output', 'Lightning Network']",mailing-list-bitcoin-2023-November-022114
+"['Security', 'Mining', 'Lightning', 'Fees']",[],mailing-list-bitcoin-2023-November-022115
+"['Mempool', 'Taproot', 'Transactions']","['Network Capacity', 'Transactional Costs', 'Block Size']",mailing-list-bitcoin-2023-November-022116
+"['Fees', 'Mempool', 'Stratum-V2', 'Miners', 'Taproot']","['AI Algorithms', 'Utreexo', 'Decentralized Properties', 'Block Size']",mailing-list-bitcoin-2023-November-022117
+['Bitcoin Core'],['Release'],mailing-list-bitcoin-2023-November-022118
+"['Custody', 'Protocol', 'Privacy', 'Development', 'Scalability']",[],mailing-list-bitcoin-2023-November-022119
+"['Consensus', 'Lightning', 'Mempool', 'Miners']","['Full-nodes', 'RBF', 'Pinning', 'Replacement']",mailing-list-bitcoin-2023-November-022120

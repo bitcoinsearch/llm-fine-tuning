@@ -4307,3 +4307,6 @@ primary_topics,secondary_topics,source_id
 "['Bitcoin Core', 'Security', 'Lightning', 'Mempool']",[],mailing-list-lightning-2023-November-004183
 "['Lightning', 'Fees']","['HTLC', 'Commitment Transaction', 'Counterparty Malleability', 'Security Risk']",mailing-list-lightning-2023-November-004184
 "['Bitcoin Core', 'Lightning']",['Transaction Fees'],mailing-list-lightning-2023-November-004185
+"['Package Relay', 'Mempool']","['Commitment Transaction', 'Preimage', 'CPFP', 'HTLC', 'Timeout', 'Anchor Output']",mailing-list-lightning-2023-November-004186
+"['Package Relay', 'P2P', 'Mempool']","['Commitment Transaction', 'HTLC', 'Anchor Output', 'Lightning Network']",mailing-list-lightning-2023-November-004187
+"['Security', 'Mining', 'Lightning', 'Fees']",[],mailing-list-lightning-2023-November-004188
