@@ -22158,3 +22158,6 @@ primary_topics,secondary_topics,source_id
 ['Bitcoin Core'],['Release'],mailing-list-bitcoin-2023-November-022118
 "['Custody', 'Protocol', 'Privacy', 'Development', 'Scalability']",[],mailing-list-bitcoin-2023-November-022119
 "['Consensus', 'Lightning', 'Mempool', 'Miners']","['Full-nodes', 'RBF', 'Pinning', 'Replacement']",mailing-list-bitcoin-2023-November-022120
+['blockchain'],"['Hash Time Locked Contract', 'refund branch', 'Lightning nodes', 'HTLC', 'preimage', 'OP_Expire', 'blockchain data', 'replacement cycling', 'mempools']",mailing-list-bitcoin-2023-November-022121
+"['Mempool', 'Taproot', 'UTXO', 'Fees']",[],mailing-list-bitcoin-2023-November-022122
+['Covenants'],"['Optimistic PathCoin', 'CTLCs', 'PathCoin', 'Cold channels']",mailing-list-bitcoin-2023-November-022123
