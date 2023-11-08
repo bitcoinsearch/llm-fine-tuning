@@ -22166,3 +22166,30 @@ primary_topics,secondary_topics,source_id
 [],[],mailing-list-bitcoin-2023-November-022126
 "['Soft Fork', 'Custody', 'Privacy']",[],mailing-list-bitcoin-2023-November-022127
 "['Security', 'Value', 'Mining']",[],mailing-list-bitcoin-2023-November-022128
+['Timelocks'],"['Commitment Transaction', 'HTLC']",mailing-list-bitcoin-2023-November-022129
+"['Lightning', 'Mempool', 'Payment']","['Channel State', 'Signature Exchange', 'Commitment Transaction', 'HTLC']",mailing-list-bitcoin-2023-November-022130
+"['Lightning', 'Hard Fork', 'Mining', 'Consensus', 'Soft Fork']",[],mailing-list-bitcoin-2023-November-022131
+[],"['MuSig2', 'Descriptors']",mailing-list-bitcoin-2023-November-022132
+"['Hard Fork', 'Security', 'Fees', 'Halving']","['Inflation', 'Quantum Computers', 'Store-of-Value']",mailing-list-bitcoin-2023-November-022133
+[],"['email communication', 'moderation', 'bitcoin-dev mailing list', 'Linux Foundation', 'Google Groups', 'OSUOSL', 'communication platforms', 'mailing list host', 'groups.io', 'mailman3', 'email software host', 'public-inbox', 'web forums', 'mailing lists', 'bitcoin developers', 'spam filtering', 'mailman2']",mailing-list-bitcoin-2023-November-022134
+[],"['BIP-39', 'Mnemonic']",mailing-list-bitcoin-2023-November-022135
+"['Package Relay', 'Mempool']",[],mailing-list-bitcoin-2023-November-022136
+[],['bitcoin-dev mailing list'],mailing-list-bitcoin-2023-November-022137
+['proof-of-work'],"['nostr client', 'email gateway', 'web portal access', 'moderation', 'bitcoin-dev mailing list', 'nostr', 'web of trust', 'ecosystem', 'archives', 'moderated communities', 'hosting costs', 'mail server blocking']",mailing-list-bitcoin-2023-November-022138
+"['wallet-security', 'mnemonic-seed']",[],mailing-list-bitcoin-2023-November-022139
+[],"['UI', 'Matrix network', 'homeserver', 'E2E encrypted', 'mailing list', 'federated', 'chat system', 'bitcoin-dev mailing list', 'e-mail', 'censorship resistant', 'email server', 'threads', 'Matrix']",mailing-list-bitcoin-2023-November-022140
+[],['bitcoin-dev mailing list'],mailing-list-bitcoin-2023-November-022141
+[],"['new platform', 'discussion groups', 'bitcoin-dev mailing list', 'archives', 'technical discussions', 'Delving Bitcoin', 'shutdown notice']",mailing-list-bitcoin-2023-November-022142
+[],"['web-of-trust', 'PoW', 'spam problem', 'moderation', 'bitcoin-dev mailing list', 'nostr', 'labeling', 'moderated communities model', 'email bridge', 'Subject tag']",mailing-list-bitcoin-2023-November-022143
+[],"['GitHub', 'bitcoin-dev mailing list', 'wallet developers', 'Blockchain Commons', 'Bitcoin wallet interoperability specifications']",mailing-list-bitcoin-2023-November-022144
+"['Bitcoin Core', 'Security']",[],mailing-list-bitcoin-2023-November-022145
+[],['bitcoin-dev mailing list'],mailing-list-bitcoin-2023-November-022146
+[],"['GitHub Discussions', 'bitcoin-dev']",mailing-list-bitcoin-2023-November-022147
+[],['bitcoin-dev mailing list'],mailing-list-bitcoin-2023-November-022148
+[],['bitcoin-dev'],mailing-list-bitcoin-2023-November-022149
+[],['bitcoin-dev mailing list'],mailing-list-bitcoin-2023-November-022150
+['Bitcoin Core'],"['internet connection', 'GitHub', 'user experience', 'bitcoin-dev mailing list', 'cryptographic signatures', 'web forums']",mailing-list-bitcoin-2023-November-022151
+[],['bitcoin-dev mailing list'],mailing-list-bitcoin-2023-November-022152
+[],['bitcoin-dev mailing list'],mailing-list-bitcoin-2023-November-022153
+"['Merkle Trees', 'Script', 'Hashlocks']",['Blake3'],mailing-list-bitcoin-2023-November-022154
+"['package relay', 'softfork']","['CSV', 'OP_Expire', 'covenant', 'CPFP', 'LN-Symmetry', 'HTLCs', 'blockspace', 'anchors', 'SIGHASH_NOINPUT', 'Coinbase-Like Behavior', 'RBF']",mailing-list-bitcoin-2023-November-022155

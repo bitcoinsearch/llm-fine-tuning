@@ -4312,3 +4312,5 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Mining', 'Lightning', 'Fees']",[],mailing-list-lightning-2023-November-004188
 "['Lightning', 'Security', 'Mempool', 'Blockchain', 'Package Relay']",['Refund'],mailing-list-lightning-2023-November-004189
 "['Security', 'Mempool', 'Relay']","['Lightning Network', 'LN Summit', 'Base-layer network']",mailing-list-lightning-2023-November-004190
+"['Routing', 'Lightning', 'Mempool']","['OP_Expire', 'HTLC']",mailing-list-lightning-2023-November-004191
+['Timelocks'],"['Commitment Transaction', 'HTLC']",mailing-list-lightning-2023-November-004192
