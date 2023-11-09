@@ -4314,3 +4314,8 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Mempool', 'Relay']","['Lightning Network', 'LN Summit', 'Base-layer network']",mailing-list-lightning-2023-November-004190
 "['Routing', 'Lightning', 'Mempool']","['OP_Expire', 'HTLC']",mailing-list-lightning-2023-November-004191
 ['Timelocks'],"['Commitment Transaction', 'HTLC']",mailing-list-lightning-2023-November-004192
+"['Package Relay', 'Mempool']",[],mailing-list-lightning-2023-November-004193
+"['network', 'soft-fork', 'wallet-security', 'address-reuse', 'raspberry-pi', 'difficulty', 'p2p', 'script', 'validation', 'payment', 'message-signing', 'Lightning', 'cryptography', 'testnet', 'bitcoin-core', 'privacy', 'value', 'security', 'proof-of-work', 'verification', 'cpu-mining', 'mining-reward', 'spv', 'transaction-input', 'paper-wallet', 'storage', 'hardware-wallet', 'genesis-block', 'hash', 'altcoin', 'segregated-witness', 'full-node', 'smartcontracts', 'mac', 'transactions', 'error', 'testing', 'mempool', 'mining-pools', 'wallet', 'mining-software', 'exchange-rate', 'consensus', 'ethereum', 'transaction-id', 'output', 'connection', 'source-code', 'blockchain', 'timestamp']",[],mailing-list-lightning-2023-November-004194
+"['softfork', 'package relay']","['HTLCs', 'blockspace', 'CSV', 'SIGHASH_NOINPUT', 'OP_Expire', 'LN-Symmetry', 'RBF', 'covenant', 'CPFP', 'Coinbase-Like Behavior', 'anchors']",mailing-list-lightning-2023-November-004195
+[],"['HTLCs', 'Transactions Expire Safely', 'Coinbase-Like Behavior', 'OP_Expire']",mailing-list-lightning-2023-November-004196
+['Lightning'],['Discourse Forum'],mailing-list-lightning-2023-November-004197
