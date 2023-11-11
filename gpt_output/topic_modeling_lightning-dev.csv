@@ -4319,3 +4319,4 @@ primary_topics,secondary_topics,source_id
 "['softfork', 'package relay']","['HTLCs', 'blockspace', 'CSV', 'SIGHASH_NOINPUT', 'OP_Expire', 'LN-Symmetry', 'RBF', 'covenant', 'CPFP', 'Coinbase-Like Behavior', 'anchors']",mailing-list-lightning-2023-November-004195
 [],"['HTLCs', 'Transactions Expire Safely', 'Coinbase-Like Behavior', 'OP_Expire']",mailing-list-lightning-2023-November-004196
 ['Lightning'],['Discourse Forum'],mailing-list-lightning-2023-November-004197
+[],['Proposal'],mailing-list-lightning-2023-November-004198
