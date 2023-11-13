@@ -22202,3 +22202,4 @@ primary_topics,secondary_topics,source_id
 ['BIP'],['Bitcoin Improvement Proposal'],mailing-list-bitcoin-2023-November-022162
 ['Security'],"['Subject Lines', 'Spam', 'Relay System', 'Robust Infrastructure', 'Nostr', 'Email-like Functionality', 'Mailing List', 'Schnorr Signature Authentication', 'Lightning Network Payment', 'Cryptographic Identities', 'Communication Platform', 'Metadata']",mailing-list-bitcoin-2023-November-022163
 "['Altcoin', 'nodes', 'BIP']","['wallets', 'Bitcoin Improvement Proposals', 'cryptocurrency development']",mailing-list-bitcoin-2023-November-022164
+"['Silent Payments', 'Multisignature', 'Taproot', 'Signet', 'Altcoin', 'P2P', 'Mempool', 'Proof-of-Work']","['Moderator', 'K-of-N Multisignature', 'Shared Keys', 'Schnorr Signatures', 'HD Wallet', 'Hashcash', 'Public Key', 'Block Creation']",mailing-list-bitcoin-2023-November-022165
