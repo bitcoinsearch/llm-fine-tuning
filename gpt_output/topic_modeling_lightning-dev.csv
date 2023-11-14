@@ -4320,3 +4320,4 @@ primary_topics,secondary_topics,source_id
 [],"['HTLCs', 'Transactions Expire Safely', 'Coinbase-Like Behavior', 'OP_Expire']",mailing-list-lightning-2023-November-004196
 ['Lightning'],['Discourse Forum'],mailing-list-lightning-2023-November-004197
 [],['Proposal'],mailing-list-lightning-2023-November-004198
+"['Bitcoin Core', 'bitcoin-core-development', 'Lightning', 'Consensus', 'Fees', 'Security', 'Segregated Witness', 'Mempool', 'Attacks', 'Fee Management', 'Hashlocks', 'Replace-by-Fee', 'Privacy', 'Cryptography', 'Research']","['Channel', 'Lightning Network', 'HTLC', 'Transaction Fees', 'Commitment Transaction']",mailing-list-lightning-2023-November-004199
