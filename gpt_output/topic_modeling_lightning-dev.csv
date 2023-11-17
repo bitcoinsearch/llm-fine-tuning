@@ -4323,3 +4323,6 @@ primary_topics,secondary_topics,source_id
 "['Bitcoin Core', 'bitcoin-core-development', 'Lightning', 'Consensus', 'Fees', 'Security', 'Segregated Witness', 'Mempool', 'Attacks', 'Fee Management', 'Hashlocks', 'Replace-by-Fee', 'Privacy', 'Cryptography', 'Research']","['Channel', 'Lightning Network', 'HTLC', 'Transaction Fees', 'Commitment Transaction']",mailing-list-lightning-2023-November-004199
 "['Fees', 'Lightning', 'Security']",[],mailing-list-lightning-2023-November-004200
 "['Mempool', 'Miners', 'Lightning', 'Replace-by-Fee']","['Transaction Fees', 'Commitment Transactions']",mailing-list-lightning-2023-November-004201
+"['Mempool', 'Lightning', 'Scalability', 'Consensus', 'Mining', 'Layer 2', 'Segregated Witness']",[],mailing-list-lightning-2023-November-004202
+"['Lightning', 'Covenants', 'Scalability']",[],mailing-list-lightning-2023-November-004203
+"['Privacy', 'Lightning', 'Security']","['DNS', 'Bitcoin Improvement Proposal']",mailing-list-lightning-2023-November-004204
