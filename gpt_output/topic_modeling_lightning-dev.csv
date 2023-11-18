@@ -4326,3 +4326,9 @@ primary_topics,secondary_topics,source_id
 "['Mempool', 'Lightning', 'Scalability', 'Consensus', 'Mining', 'Layer 2', 'Segregated Witness']",[],mailing-list-lightning-2023-November-004202
 "['Lightning', 'Covenants', 'Scalability']",[],mailing-list-lightning-2023-November-004203
 "['Privacy', 'Lightning', 'Security']","['DNS', 'Bitcoin Improvement Proposal']",mailing-list-lightning-2023-November-004204
+"['Scalability', 'Privacy', 'Lightning']",['LNURL'],mailing-list-lightning-2023-November-004205
+"['Privacy', 'Lightning']",['DNS'],mailing-list-lightning-2023-November-004206
+"['Security', 'Scalability', 'Lightning']","['Decentralized DNS', 'HTTPS', 'DNS']",mailing-list-lightning-2023-November-004207
+"['Scalability', 'Lightning']","['LNURL', 'Bolt11', 'LNDNS', 'Migration', 'Technical Demands', 'Bolt12', 'DNS']",mailing-list-lightning-2023-November-004208
+"['Lightning', 'Scalability']","['DNSSEC', 'Cloud-based', 'Network infrastructure', 'HTTP', 'DNS']",mailing-list-lightning-2023-November-004209
+"['Mining', 'Attacks', 'Security', 'Mempool', 'Bitcoin Core', 'Consensus', 'Lightning', 'P2P']",[],mailing-list-lightning-2023-November-004210
