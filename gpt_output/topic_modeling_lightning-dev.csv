@@ -4332,3 +4332,10 @@ primary_topics,secondary_topics,source_id
 "['Scalability', 'Lightning']","['LNURL', 'Bolt11', 'LNDNS', 'Migration', 'Technical Demands', 'Bolt12', 'DNS']",mailing-list-lightning-2023-November-004208
 "['Lightning', 'Scalability']","['DNSSEC', 'Cloud-based', 'Network infrastructure', 'HTTP', 'DNS']",mailing-list-lightning-2023-November-004209
 "['Mining', 'Attacks', 'Security', 'Mempool', 'Bitcoin Core', 'Consensus', 'Lightning', 'P2P']",[],mailing-list-lightning-2023-November-004210
+"['Scalability', 'Lightning', 'Terminology']","['Domain', 'Trust-on-first-use', 'DNS Record', 'Payment System Design']",mailing-list-lightning-2023-November-004213
+"['Security', 'Lightning']",['DNSSEC'],mailing-list-lightning-2023-November-004214
+['Lightning'],"['LNURL', 'DNS', 'Enterprise', 'Service Providers', 'Sender software', 'Custodial', 'LSP', 'BOLT12', 'TXT record', 'Non-custodial']",mailing-list-lightning-2023-November-004211
+['Lightning'],"['DNS', 'DoH', 'DNSSEC']",mailing-list-lightning-2023-November-004212
+"['Lightning', 'Scalability']","['DNS', 'User Experience']",mailing-list-lightning-2023-November-004215
+"['Lightning', 'Nodes']","['Serialization Format', 'DNSSEC']",mailing-list-lightning-2023-November-004216
+['Lightning'],"['HTLC', 'Lease', 'Fraud Proof Mechanism', 'Channel Fee Caps', 'Commitment Transactions']",mailing-list-lightning-2023-November-004217
