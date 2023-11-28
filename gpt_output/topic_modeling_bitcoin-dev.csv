@@ -22222,3 +22222,4 @@ primary_topics,secondary_topics,source_id
 "['Taproot', 'Mempool', 'BIP', 'Payment', 'Transactions']",['Data Storage'],mailing-list-bitcoin-2023-November-022182
 "['UTXO', 'Mempool']","['Transaction Fees', 'Ordinals', 'Bitcoin Improvement Proposal (BIP)']",mailing-list-bitcoin-2023-November-022183
 "['BIP', 'wallet', 'PSBT', 'Miniscript']","['encoding', 'CBOR']",mailing-list-bitcoin-2023-November-022184
+['Bitcoin Core'],[],mailing-list-bitcoin-2023-November-022185
