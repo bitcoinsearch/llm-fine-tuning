@@ -22223,3 +22223,4 @@ primary_topics,secondary_topics,source_id
 "['UTXO', 'Mempool']","['Transaction Fees', 'Ordinals', 'Bitcoin Improvement Proposal (BIP)']",mailing-list-bitcoin-2023-November-022183
 "['BIP', 'wallet', 'PSBT', 'Miniscript']","['encoding', 'CBOR']",mailing-list-bitcoin-2023-November-022184
 ['Bitcoin Core'],[],mailing-list-bitcoin-2023-November-022185
+['PSBT'],"['transaction process', 'descriptor file', 'signing devices', 'BIP174', 'unsigned transaction', 'coordinating device', 'Bitcoin Improvement Proposal', 'signature verification']",mailing-list-bitcoin-2023-November-022186
