@@ -4347,3 +4347,5 @@ primary_topics,secondary_topics,source_id
 [],"['Discourse instance', 'Mailing List', 'mailman instance', 'Google Groups', 'GitHub discussions']",mailing-list-lightning-2023-November-004223
 [],[],mailing-list-lightning-2023-November-004224
 [],"['Google Group', 'Discourse', 'Mailing List', 'Groups.io']",mailing-list-lightning-2023-November-004225
+"['Fairness', 'Security', 'Splicing']","['Lightning Network', 'Reputable Sellers', 'Buyers', 'Protocol Design', 'Commitment Transaction', 'Hash Time-Locked Contracts (HTLCs)', 'Liquidity Marketplaces', 'Pricing Challenges', 'Lightning Service Providers (LSPs)', 'Integrity', 'Sellers', 'Liquidity Griefing Attacks', 'CheckLockTimeVerify (CLTV)', 'Liquidity Ads', 'Inbound Liquidity', 'CLTV Enforcement']",mailing-list-lightning-2023-December-004227
+[],"['Email Services', 'Machine Learning', 'Collaboration', 'Spam Filtering']",mailing-list-lightning-2023-November-004226
