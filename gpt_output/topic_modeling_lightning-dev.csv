@@ -4351,3 +4351,8 @@ primary_topics,secondary_topics,source_id
 [],"['Email Services', 'Machine Learning', 'Collaboration', 'Spam Filtering']",mailing-list-lightning-2023-November-004226
 ['timelocks'],"['HTLCs', 'CheckLockTimeVerify', 'Hashed Time-Locked Contracts', 'CLTV']",mailing-list-lightning-2023-December-004228
 ['Security'],"['Transaction Outputs', 'Liquidity', 'Ownership', 'CLTV', 'Channel Capacity', 'Dust Limit', 'Flexibility']",mailing-list-lightning-2023-December-004229
+['Lightning'],"['Commitment transactions', 'HTLCs', 'Leases']",mailing-list-lightning-2023-December-004230
+[],"['Discourse', 'Communication Tools', 'Mailing List']",mailing-list-lightning-2023-December-004231
+[],['Mailing List'],mailing-list-lightning-2023-December-004232
+[],"['Archiving', 'Authentication', 'Mailing List', 'Security Measures', 'Email Lists']",mailing-list-lightning-2023-December-004233
+[],['Mailing List'],mailing-list-lightning-2023-December-004234
