@@ -22225,3 +22225,4 @@ primary_topics,secondary_topics,source_id
 ['Bitcoin Core'],[],mailing-list-bitcoin-2023-November-022185
 ['PSBT'],"['transaction process', 'descriptor file', 'signing devices', 'BIP174', 'unsigned transaction', 'coordinating device', 'Bitcoin Improvement Proposal', 'signature verification']",mailing-list-bitcoin-2023-November-022186
 "['Testnet', 'Assumeutxo', 'Wallet', 'Bitcoin Core', 'Pruning']","['Configuration', 'GUI', 'RPC', 'Transaction Serialization']",mailing-list-bitcoin-2023-December-022187
+"['Nodes', 'Transactions', 'Bitcoin Core', 'Lightning', 'Double-spend', 'Consensus', 'Mempool', 'Storage', 'Miners']",['Rebroadcasting'],mailing-list-bitcoin-2023-December-022188
