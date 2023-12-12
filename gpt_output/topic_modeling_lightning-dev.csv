@@ -4364,3 +4364,5 @@ primary_topics,secondary_topics,source_id
 [],"['Ads', 'Griefing', 'Liquidity']",mailing-list-lightning-2023-December-004240
 "['Schnorr', 'Privacy', 'P2pool', 'Stratum-V2...', 'Bitcoin Core', 'Fees', 'Libbitcoin Kernel', 'P2P', 'FROST', 'Pools', 'Libsecp256k1', 'Asmap', 'Segwit', 'Silent Payments', 'Assumeutxo', 'Mempool', 'Mining', 'Package Relay', 'Lightning', 'Fuzzing', 'Research']",[],mailing-list-lightning-2023-December-004241
 ['Lightning'],"['Leased Amount', 'Commitment Transaction', 'Encumbrance', 'HTLC']",mailing-list-lightning-2023-December-004242
+"['Eltoo', 'Scalability', 'Covenants']",[],mailing-list-lightning-2023-December-004243
+['Splicing'],"['Liquidity Allocation', 'Commitment Transactions', 'Quiescence Session', 'CLTV', 'Compatibility Bugs', 'Forced Closures', 'Codebase']",mailing-list-lightning-2023-December-004244
