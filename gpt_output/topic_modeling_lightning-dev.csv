@@ -4366,3 +4366,10 @@ primary_topics,secondary_topics,source_id
 ['Lightning'],"['Leased Amount', 'Commitment Transaction', 'Encumbrance', 'HTLC']",mailing-list-lightning-2023-December-004242
 "['Eltoo', 'Scalability', 'Covenants']",[],mailing-list-lightning-2023-December-004243
 ['Splicing'],"['Liquidity Allocation', 'Commitment Transactions', 'Quiescence Session', 'CLTV', 'Compatibility Bugs', 'Forced Closures', 'Codebase']",mailing-list-lightning-2023-December-004244
+['Lightning'],['Anchor Channels'],mailing-list-lightning-2023-December-004246
+[],"['Liquidity', 'Lightning Network']",mailing-list-lightning-2023-December-004247
+['Package Relay'],"['v3 Transactions', 'Anchor Channels', 'Mempool Race', 'Ephemeral Anchor', 'Transaction Handling', 'HTLCs', 'Technological Advancements', 'Commit Transaction']",mailing-list-lightning-2023-December-004248
+"['Lightning', 'Bitcoin Core']",[],mailing-list-lightning-2023-December-004249
+"['Fees', 'Lightning', 'Incentives', 'Routing', 'Timelocks']",['Liquidity'],mailing-list-lightning-2023-December-004245
+[],"['Memory Pool', 'Anchor Outputs', 'Channel Management', 'Blockchain Channel', 'UTXO Set']",mailing-list-lightning-2023-December-004250
+"['Privacy', 'Research', 'Lightning', 'Stratum-V2...', 'Package Relay', 'Libsecp256k1', 'Libbitcoin Kernel', 'Fuzzing', 'P2pool', 'Pools', 'P2P', 'Assumeutxo', 'Schnorr', 'Asmap', 'Mining', 'Bitcoin Core', 'Fees', 'Segwit', 'Silent Payments', 'Mempool', 'FROST']",[],mailing-list-lightning-2023-December-004251
