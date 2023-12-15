@@ -4373,3 +4373,5 @@ primary_topics,secondary_topics,source_id
 "['Fees', 'Lightning', 'Incentives', 'Routing', 'Timelocks']",['Liquidity'],mailing-list-lightning-2023-December-004245
 [],"['Memory Pool', 'Anchor Outputs', 'Channel Management', 'Blockchain Channel', 'UTXO Set']",mailing-list-lightning-2023-December-004250
 "['Privacy', 'Research', 'Lightning', 'Stratum-V2...', 'Package Relay', 'Libsecp256k1', 'Libbitcoin Kernel', 'Fuzzing', 'P2pool', 'Pools', 'P2P', 'Assumeutxo', 'Schnorr', 'Asmap', 'Mining', 'Bitcoin Core', 'Fees', 'Segwit', 'Silent Payments', 'Mempool', 'FROST']",[],mailing-list-lightning-2023-December-004251
+['Lightning'],"['Channel Management', 'Inbound Liquidity', 'Cooperation', 'Streaming Lease Fees']",mailing-list-lightning-2023-December-004252
+[],"['Channel Management', 'Liquidity Provisions', 'Recurring Payments', 'Liquidity Ads', 'Bolt 12']",mailing-list-lightning-2023-December-004253
