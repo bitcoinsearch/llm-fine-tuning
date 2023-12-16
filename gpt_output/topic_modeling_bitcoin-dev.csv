@@ -22228,3 +22228,5 @@ primary_topics,secondary_topics,source_id
 "['Nodes', 'Transactions', 'Bitcoin Core', 'Lightning', 'Double-spend', 'Consensus', 'Mempool', 'Storage', 'Miners']",['Rebroadcasting'],mailing-list-bitcoin-2023-December-022188
 "['Eltoo', 'Covenants']",[],mailing-list-bitcoin-2023-December-022189
 "['SHA-256', 'validation', 'security', 'OP_RETURN']","['cryptographic protocol design', 'commitment input', 'identity pubkey', 'Proof-of-Reserves', 'current time', 'transparency', 'double SHA-256', 'BIP-0127', 'additional data', 'output scriptPubkey', 'p2wpkh', 'plain JSON data', 'Proof-of-Reserves declaration', 'hashing', 'uniform implementation practices', 'base64-encoded JSON data', 'input malleation', 'lightning anchor outputs']",mailing-list-bitcoin-2023-December-022190
+"['Timelocks', 'Lightning', 'Security', 'Miners']","['Double-Spend Attack', 'Transaction Fees', 'Consensus Rules']",mailing-list-bitcoin-2023-December-022191
+"['Attacks', 'Mining', 'Soft Fork', 'Forks', 'Security', 'Routing', 'Scalability', 'Testing', 'Mempool', 'P2P', 'Hard Fork', 'Consensus', 'Privacy', 'Cryptography']",['Transaction Fees'],mailing-list-bitcoin-2023-December-022192
