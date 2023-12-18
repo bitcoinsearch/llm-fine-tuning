@@ -22230,3 +22230,11 @@ primary_topics,secondary_topics,source_id
 "['SHA-256', 'validation', 'security', 'OP_RETURN']","['cryptographic protocol design', 'commitment input', 'identity pubkey', 'Proof-of-Reserves', 'current time', 'transparency', 'double SHA-256', 'BIP-0127', 'additional data', 'output scriptPubkey', 'p2wpkh', 'plain JSON data', 'Proof-of-Reserves declaration', 'hashing', 'uniform implementation practices', 'base64-encoded JSON data', 'input malleation', 'lightning anchor outputs']",mailing-list-bitcoin-2023-December-022190
 "['Timelocks', 'Lightning', 'Security', 'Miners']","['Double-Spend Attack', 'Transaction Fees', 'Consensus Rules']",mailing-list-bitcoin-2023-December-022191
 "['Attacks', 'Mining', 'Soft Fork', 'Forks', 'Security', 'Routing', 'Scalability', 'Testing', 'Mempool', 'P2P', 'Hard Fork', 'Consensus', 'Privacy', 'Cryptography']",['Transaction Fees'],mailing-list-bitcoin-2023-December-022192
+"['Covenants', 'Mempool', 'Script', 'Taproot', 'Fees', 'Lightning']","['HTLC', 'Transaction', 'Double-spending']",mailing-list-bitcoin-2023-December-022197
+"['Covenants', 'Smart Contracts', 'Mining', 'Privacy', 'Consensus', 'Hashlocks', 'Timelocks', 'Fees', 'Lightning', 'Segregated Witness']",[],mailing-list-bitcoin-2023-December-022198
+"['Fees', 'Mining']",['Collusion'],mailing-list-bitcoin-2023-December-022199
+"['BIP', 'PSBT']",['Output Descriptors'],mailing-list-bitcoin-2023-December-022200
+['BIP'],['Bitcoin Improvement Proposals'],mailing-list-bitcoin-2023-December-022193
+"['P2P', 'Mempool', 'Mining', 'Fees']","['BIP-133', 'Altruistic Transaction Broadcasting', 'Bandwidth']",mailing-list-bitcoin-2023-December-022194
+"['UTXO', 'Mempool', 'Bitcoin Core', 'Mining', 'Fees']",[],mailing-list-bitcoin-2023-December-022195
+"['Pools', 'Replace-by-Fee', 'Mining', 'Fees']",['Transaction Fee Estimation'],mailing-list-bitcoin-2023-December-022196
