@@ -22238,3 +22238,7 @@ primary_topics,secondary_topics,source_id
 "['P2P', 'Mempool', 'Mining', 'Fees']","['BIP-133', 'Altruistic Transaction Broadcasting', 'Bandwidth']",mailing-list-bitcoin-2023-December-022194
 "['UTXO', 'Mempool', 'Bitcoin Core', 'Mining', 'Fees']",[],mailing-list-bitcoin-2023-December-022195
 "['Pools', 'Replace-by-Fee', 'Mining', 'Fees']",['Transaction Fee Estimation'],mailing-list-bitcoin-2023-December-022196
+"['hash', 'block', 'storage', 'UTXO']","['processing', 'preimage', 'Argon2', 'elliptic curve cryptography', 'transaction signing process', 'dual-key system', 'Lamport chain', 'miner', 'penalty payment', 'Layer 1', 'commitment', 'memory-hard hashing function', 'hash size', 'Lamport Scheme', 'blockchain protocols', 'data inclusion', 'blockchain transactions', 'ECC key', 'transaction', 'Unspent Transaction Output']",mailing-list-bitcoin-2023-December-022201
+"['UTXO', 'Fees']","['Secure Email Communications', 'Initial Block Download', 'Full Nodes']",mailing-list-bitcoin-2023-December-022202
+"['Blockchain', 'Cryptography']","['FawkesCoin', 'Cryptocurrency Systems', 'MAVE', 'Digital Currency', 'Efficiency', 'Signature Scheme', 'Guy Fawkes Protocol', 'MAVEPAY', 'Digital Signatures']",mailing-list-bitcoin-2023-December-022203
+"['Security', 'Schnorr']",[],mailing-list-bitcoin-2023-December-022204

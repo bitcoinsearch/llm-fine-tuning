@@ -4376,3 +4376,5 @@ primary_topics,secondary_topics,source_id
 ['Lightning'],"['Channel Management', 'Inbound Liquidity', 'Cooperation', 'Streaming Lease Fees']",mailing-list-lightning-2023-December-004252
 [],"['Channel Management', 'Liquidity Provisions', 'Recurring Payments', 'Liquidity Ads', 'Bolt 12']",mailing-list-lightning-2023-December-004253
 "['Timelocks', 'Lightning', 'Blockchain']","['Transaction Fees', 'Bitcoin', 'Consensus Rules']",mailing-list-lightning-2023-December-004254
+"['Mempool', 'Fees', 'Script', 'Covenants', 'Taproot']","['Linux Foundation', 'Double-Spend Attack', 'Witness Size Growth', 'Lightning Network', 'Accumulator', 'HTLC']",mailing-list-lightning-2023-December-004255
+"['Lightning', 'Consensus', 'Timelocks']","['Payment Pools', 'Forced Expiration Spam', 'Miner Collusion', 'Blockchain Congestion', 'Game Theory', 'Penalty Scripts', 'HTLC Output', 'Feerate', 'Reorg-safety', 'Channel Factories', 'Claim Grace Period', 'Off-chain Construction']",mailing-list-lightning-2023-December-004256
