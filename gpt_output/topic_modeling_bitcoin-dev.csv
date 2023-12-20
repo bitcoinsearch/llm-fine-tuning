@@ -22242,3 +22242,9 @@ primary_topics,secondary_topics,source_id
 "['UTXO', 'Fees']","['Secure Email Communications', 'Initial Block Download', 'Full Nodes']",mailing-list-bitcoin-2023-December-022202
 "['Blockchain', 'Cryptography']","['FawkesCoin', 'Cryptocurrency Systems', 'MAVE', 'Digital Currency', 'Efficiency', 'Signature Scheme', 'Guy Fawkes Protocol', 'MAVEPAY', 'Digital Signatures']",mailing-list-bitcoin-2023-December-022203
 "['Security', 'Schnorr']",[],mailing-list-bitcoin-2023-December-022204
+"['Schnorr', 'ASIC', 'security']","['hash rate', 'hash calculations', 'Lamport']",mailing-list-bitcoin-2023-December-022205
+"['Security', 'UTXO']",[],mailing-list-bitcoin-2023-December-022206
+"['Smart contracts', 'Encryption', 'Transactions']","['Cryptographic elements', 'Signatures', 'Hashing', 'Mining fees', 'Bitcoin addresses', 'Bundle', 'Lamport']",mailing-list-bitcoin-2023-December-022207
+"['Multi-Signature', 'Security', 'Custody']","['Inheritance Protocols', 'Kerckhoffian Protocol', 'Coercion-Resistance', 'Cryptosystem', 'Lightning Network', 'Shamir Secret Sharing Scheme']",mailing-list-bitcoin-2023-December-022208
+"['Schnorr', 'Taproot']",['Lamport'],mailing-list-bitcoin-2023-December-022209
+[],"['Entropy Derivation', 'Lamport Scheme', 'Fingerprint', 'LSIG Miner', 'Hash Values', 'Transaction Timing', 'ECCPUB', 'Addresses', 'Schnorr Keys']",mailing-list-bitcoin-2023-December-022210
