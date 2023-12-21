@@ -22248,3 +22248,7 @@ primary_topics,secondary_topics,source_id
 "['Multi-Signature', 'Security', 'Custody']","['Inheritance Protocols', 'Kerckhoffian Protocol', 'Coercion-Resistance', 'Cryptosystem', 'Lightning Network', 'Shamir Secret Sharing Scheme']",mailing-list-bitcoin-2023-December-022208
 "['Schnorr', 'Taproot']",['Lamport'],mailing-list-bitcoin-2023-December-022209
 [],"['Entropy Derivation', 'Lamport Scheme', 'Fingerprint', 'LSIG Miner', 'Hash Values', 'Transaction Timing', 'ECCPUB', 'Addresses', 'Schnorr Keys']",mailing-list-bitcoin-2023-December-022210
+"['Transactions', 'Taproot', 'UTXO']","['Child Pays for Parent', 'Hash Time-Locked Contracts']",mailing-list-bitcoin-2023-December-022213
+['UTXO'],"['Cryptocurrency', 'Bitcoin Development', 'Lightning Network', 'Anchor Channels']",mailing-list-bitcoin-2023-December-022214
+"['Smart Contracts', 'Lightning', 'Taproot', 'Layer 2']","['Virtual Bytes', 'Transaction Pinning', 'Transaction Fees']",mailing-list-bitcoin-2023-December-022211
+"['Musig', 'Taproot']",[],mailing-list-bitcoin-2023-December-022212
