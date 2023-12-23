@@ -22259,3 +22259,9 @@ primary_topics,secondary_topics,source_id
 "['CPU-Mining', 'Mining', 'Proof-of-Work', 'ASIC', 'Hashlocks', 'Cryptography']",[],mailing-list-bitcoin-2023-December-022219
 ['Libsecp256k1'],[],mailing-list-bitcoin-2023-December-022220
 [],"['Altruistic Rebroadcasting', 'Cycling Mitigation']",mailing-list-bitcoin-2023-December-022221
+"['Lightning', 'Smart Contracts', 'Security', 'Segwit', 'Cryptography', 'Fees', 'Mining', 'Privacy', 'Scalability', 'Research']",[],mailing-list-bitcoin-2023-December-022225
+['BIP'],"['Activation', 'Bitcoin Improvement Proposal']",mailing-list-bitcoin-2023-December-022226
+"['Consensus', 'Mining', 'Soft Fork', 'Bitcoin Core']",['User-Activated Soft Fork'],mailing-list-bitcoin-2023-December-022222
+['UTXO'],"['Double Spending', 'Chain Reorganization']",mailing-list-bitcoin-2023-December-022223
+"['Attack', 'UTXO', 'Mempool']","['Security Measures', 'Transaction', 'Node Behavior']",mailing-list-bitcoin-2023-December-022224
+[],"['Double-Spending Attack', 'Blockchain Bloat', 'Hash Function', 'Lamport Scheme', 'Entropy Calculation']",mailing-list-bitcoin-2023-December-022227
