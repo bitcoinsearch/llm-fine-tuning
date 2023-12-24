@@ -22265,3 +22265,7 @@ primary_topics,secondary_topics,source_id
 ['UTXO'],"['Double Spending', 'Chain Reorganization']",mailing-list-bitcoin-2023-December-022223
 "['Attack', 'UTXO', 'Mempool']","['Security Measures', 'Transaction', 'Node Behavior']",mailing-list-bitcoin-2023-December-022224
 [],"['Double-Spending Attack', 'Blockchain Bloat', 'Hash Function', 'Lamport Scheme', 'Entropy Calculation']",mailing-list-bitcoin-2023-December-022227
+"['Consensus', 'Lightning', 'Mining', 'Fees']",[],mailing-list-bitcoin-2023-December-022229
+"['Privacy', 'Covenants']","['Activation', 'Application Development', 'CTV', 'Scaling', 'Bounty', 'Proof-of-Concept', 'GitHub Issue', 'Developer Community', 'Timeline', 'TXHASH']",mailing-list-bitcoin-2023-December-022230
+"['Address', 'Signature', 'Cryptography']","['Technical Communications', 'Entropy']",mailing-list-bitcoin-2023-December-022231
+['Lightning'],"['Scaling', 'Feerate-Dependent Timelocks']",mailing-list-bitcoin-2023-December-022228
