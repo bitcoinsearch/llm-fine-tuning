@@ -22269,3 +22269,4 @@ primary_topics,secondary_topics,source_id
 "['Privacy', 'Covenants']","['Activation', 'Application Development', 'CTV', 'Scaling', 'Bounty', 'Proof-of-Concept', 'GitHub Issue', 'Developer Community', 'Timeline', 'TXHASH']",mailing-list-bitcoin-2023-December-022230
 "['Address', 'Signature', 'Cryptography']","['Technical Communications', 'Entropy']",mailing-list-bitcoin-2023-December-022231
 ['Lightning'],"['Scaling', 'Feerate-Dependent Timelocks']",mailing-list-bitcoin-2023-December-022228
+"['Privacy', 'Segwit', 'Soft Fork', 'Consensus', 'Mining', 'Fees']",[],mailing-list-bitcoin-2023-December-022232
