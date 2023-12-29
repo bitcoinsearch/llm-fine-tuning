@@ -22270,3 +22270,7 @@ primary_topics,secondary_topics,source_id
 "['Address', 'Signature', 'Cryptography']","['Technical Communications', 'Entropy']",mailing-list-bitcoin-2023-December-022231
 ['Lightning'],"['Scaling', 'Feerate-Dependent Timelocks']",mailing-list-bitcoin-2023-December-022228
 "['Privacy', 'Segwit', 'Soft Fork', 'Consensus', 'Mining', 'Fees']",[],mailing-list-bitcoin-2023-December-022232
+"['decentralization', 'blockchain']","['inefficiencies', 'transaction-processing']",mailing-list-bitcoin-2023-December-022235
+[],[],mailing-list-bitcoin-2023-December-022236
+"['UTXO', 'Incentives', 'Storage']",['Blockchain Systems'],mailing-list-bitcoin-2023-December-022233
+"['Bitcoin Core', 'Segregated Witness', 'Taproot']",['Transaction Fees'],mailing-list-bitcoin-2023-December-022234
