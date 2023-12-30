@@ -22274,3 +22274,9 @@ primary_topics,secondary_topics,source_id
 [],[],mailing-list-bitcoin-2023-December-022236
 "['UTXO', 'Incentives', 'Storage']",['Blockchain Systems'],mailing-list-bitcoin-2023-December-022233
 "['Bitcoin Core', 'Segregated Witness', 'Taproot']",['Transaction Fees'],mailing-list-bitcoin-2023-December-022234
+['Cryptography'],['Bitcoin Improvement Proposal (BIP)'],mailing-list-bitcoin-2023-December-022237
+"['Security', 'Blockchain', 'Consensus', 'Miners', 'Lightning']",[],mailing-list-bitcoin-2023-December-022238
+"['Fees', 'Security', 'Mining', 'Privacy', 'Lightning']",[],mailing-list-bitcoin-2023-December-022239
+"['OP_RETURN', 'Segregated Witness', 'Blockchain']","['Issues', 'Pull Requests', 'Bitcoin Network', 'Bitcoin Improvement Proposals']",mailing-list-bitcoin-2023-December-022240
+"['Soft Fork', 'Lightning', 'SegWit']","['Merkle Inclusion Proof', 'Coinbase Transactions', 'Consensus Rules', 'ASIC Miners', 'Pruned Full Nodes', 'Peer-to-Peer Protocol']",mailing-list-bitcoin-2023-December-022241
+"['Layer 2', 'Mining', 'Lightning', 'Decentralization']","['Censorship Resistance', 'Transaction Relays', 'Fee Payments']",mailing-list-bitcoin-2023-December-022242
