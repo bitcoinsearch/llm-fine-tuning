@@ -22280,3 +22280,11 @@ primary_topics,secondary_topics,source_id
 "['OP_RETURN', 'Segregated Witness', 'Blockchain']","['Issues', 'Pull Requests', 'Bitcoin Network', 'Bitcoin Improvement Proposals']",mailing-list-bitcoin-2023-December-022240
 "['Soft Fork', 'Lightning', 'SegWit']","['Merkle Inclusion Proof', 'Coinbase Transactions', 'Consensus Rules', 'ASIC Miners', 'Pruned Full Nodes', 'Peer-to-Peer Protocol']",mailing-list-bitcoin-2023-December-022241
 "['Layer 2', 'Mining', 'Lightning', 'Decentralization']","['Censorship Resistance', 'Transaction Relays', 'Fee Payments']",mailing-list-bitcoin-2023-December-022242
+"['Multisig', 'Soft Fork', 'Decentralization', 'Testing', 'Security']",[],mailing-list-bitcoin-2023-December-022248
+"['Transactions', 'Scalability']",['Bitcoin'],mailing-list-bitcoin-2023-December-022249
+['eltoo'],"['CTV', 'APO']",mailing-list-bitcoin-2023-December-022250
+"['Bitcoin Core', 'Fuzzing', 'Consensus', 'Research', 'Limitations', 'Testing', 'Covenants']",[],mailing-list-bitcoin-2023-December-022244
+"['Taproot', 'Merkle Trees']","['Lightning Network', 'Bitcoin transactions']",mailing-list-bitcoin-2023-December-022245
+"['Transactions', 'Miners', 'Fees', 'Lightning', 'Mining']",[],mailing-list-bitcoin-2023-December-022246
+"['Fees', 'Lightning', 'Timelocks']",['Scaling'],mailing-list-bitcoin-2023-December-022247
+"['Fees', 'Lightning', 'Mining']","['Discount', 'Transaction Fees']",mailing-list-bitcoin-2023-December-022243
