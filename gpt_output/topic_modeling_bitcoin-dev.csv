@@ -22289,3 +22289,6 @@ primary_topics,secondary_topics,source_id
 "['Fees', 'Lightning', 'Timelocks']",['Scaling'],mailing-list-bitcoin-2023-December-022247
 "['Fees', 'Lightning', 'Mining']","['Discount', 'Transaction Fees']",mailing-list-bitcoin-2023-December-022243
 "['Cryptography', 'Signature', 'Hard fork', 'Soft fork']","['Innovation', 'Community consensus', 'Adjustment period', 'Serialization', 'Peer review', 'Block space', 'Bitcoin evolution']",mailing-list-bitcoin-2023-December-022251
+"['Fees', 'Seed', 'Miners', 'Blockchain', 'Signature', 'UTXO', 'Hash']","['Public Key', 'Decryption', 'Private Key', 'Transaction', 'Addresses', 'Lamport', 'Double-spending', 'Symmetric Key']",mailing-list-bitcoin-2023-December-022252
+"['Smart Contracts', 'Bitcoin Core', 'Cryptography', 'Consensus', 'Security', 'Mining']",[],mailing-list-bitcoin-2024-January-022253
+"['Taproot', 'Bitcoin Core', 'Soft Fork', 'Hard Fork']","['Transaction Size', 'Peer Review', 'Onchain Data Size', 'Hash Functions', 'Modification']",mailing-list-bitcoin-2024-January-022254

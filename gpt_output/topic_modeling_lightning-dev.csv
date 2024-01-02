@@ -4378,3 +4378,14 @@ primary_topics,secondary_topics,source_id
 "['Timelocks', 'Lightning', 'Blockchain']","['Transaction Fees', 'Bitcoin', 'Consensus Rules']",mailing-list-lightning-2023-December-004254
 "['Mempool', 'Fees', 'Script', 'Covenants', 'Taproot']","['Linux Foundation', 'Double-Spend Attack', 'Witness Size Growth', 'Lightning Network', 'Accumulator', 'HTLC']",mailing-list-lightning-2023-December-004255
 "['Lightning', 'Consensus', 'Timelocks']","['Payment Pools', 'Forced Expiration Spam', 'Miner Collusion', 'Blockchain Congestion', 'Game Theory', 'Penalty Scripts', 'HTLC Output', 'Feerate', 'Reorg-safety', 'Channel Factories', 'Claim Grace Period', 'Off-chain Construction']",mailing-list-lightning-2023-December-004256
+"['Timelocks', 'Fee Management', 'Security', 'Lightning']","['Hash Time-Locked Contracts (HTLCs)', 'Lightning Network']",mailing-list-lightning-2023-December-004258
+"['Fees', 'Validation', 'Privacy', 'Consensus', 'Miners', 'Scalability', 'Mining', 'Lightning']",[],mailing-list-lightning-2023-December-004259
+['Lightning'],"['Feerate-Dependent Timelocks', 'Scaling']",mailing-list-lightning-2023-December-004260
+['Lightning'],"['SDK', 'Integration Tests', 'Public Beta Version', 'Node']",mailing-list-lightning-2023-December-004261
+['Covenants'],[],mailing-list-lightning-2023-December-004257
+[],['Mailing List Future'],mailing-list-lightning-2023-December-004262
+"['Wallet', 'Lightning']",['Address Format'],mailing-list-lightning-2023-December-004263
+"['Security', 'Timelocks', 'Lightning']",[],mailing-list-lightning-2023-December-004264
+"['Fees', 'Privacy', 'Consensus', 'Security', 'Mining', 'Lightning', 'Segregated Witness']",[],mailing-list-lightning-2023-December-004265
+"['Timelocks', 'Lightning']",['Scaling'],mailing-list-lightning-2023-December-004266
+"['Fees', 'Blockchain', 'Lightning', 'Segregated Witness', 'Soft Fork']","['Pruned Nodes', 'Consensus Rules', 'Activation Period']",mailing-list-lightning-2023-December-004267
