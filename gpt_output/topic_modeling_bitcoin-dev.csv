@@ -22292,3 +22292,12 @@ primary_topics,secondary_topics,source_id
 "['Fees', 'Seed', 'Miners', 'Blockchain', 'Signature', 'UTXO', 'Hash']","['Public Key', 'Decryption', 'Private Key', 'Transaction', 'Addresses', 'Lamport', 'Double-spending', 'Symmetric Key']",mailing-list-bitcoin-2023-December-022252
 "['Smart Contracts', 'Bitcoin Core', 'Cryptography', 'Consensus', 'Security', 'Mining']",[],mailing-list-bitcoin-2024-January-022253
 "['Taproot', 'Bitcoin Core', 'Soft Fork', 'Hard Fork']","['Transaction Size', 'Peer Review', 'Onchain Data Size', 'Hash Functions', 'Modification']",mailing-list-bitcoin-2024-January-022254
+"['Covenants', 'Multisig', 'Taproot']",[],mailing-list-bitcoin-2024-January-022255
+"['Attacks', 'Protocol', 'Lightning']",['Transaction Fees'],mailing-list-bitcoin-2024-January-022256
+"['Covenants', 'Scalability']",[],mailing-list-bitcoin-2024-January-022257
+"['Segwit', 'Assumeutxo', 'Mining', 'Fees', 'Fuzzing', 'Bitcoin Core', 'P2pool', 'Stratum-V2...', 'Mempool', 'Pools', 'Asmap', 'Research', 'P2P', 'Libbitcoin Kernel', 'Lightning', 'Schnorr', 'Privacy', 'Silent Payments', 'Libsecp256k1', 'FROST', 'Package Relay']",[],mailing-list-bitcoin-2024-January-022258
+"['Fees', 'Network', 'Bitcoin Core']","['Payment System', 'Transaction Fees', 'Payment Processors', 'Block Size Increase', 'Scaling']",mailing-list-bitcoin-2024-January-022259
+[],"['Bitcoin', 'CTV']",mailing-list-bitcoin-2024-January-022260
+[],"['CTV', 'smart contract language', 'alternative cryptocurrencies', 'Lightning Network', 'Bitcoin network', 'layer-two solutions', 'BIP8', 'utxos.org', 'Bitcoin infrastructure', 'deployment', 'Sapio']",mailing-list-bitcoin-2024-January-022261
+['Lightning'],"['Force Closures', 'HTLCs', 'Economic Management']",mailing-list-bitcoin-2024-January-022262
+"['Security', 'Transactions', 'Lightning']",[],mailing-list-bitcoin-2024-January-022263
