@@ -22306,3 +22306,8 @@ primary_topics,secondary_topics,source_id
 "['Silent Payments', 'Pools', 'Asmap', 'Assumeutxo', 'Segwit', 'Schnorr', 'Libbitcoin Kernel', 'P2P', 'Mining', 'Bitcoin Core', 'Libsecp256k1', 'FROST', 'Research', 'Package Relay', 'Lightning', 'Fees', 'P2pool', 'Mempool', 'Fuzzing', 'Stratum-V2...', 'Privacy']",[],mailing-list-bitcoin-2024-January-022267
 "['Layer 2', 'Covenants']","['Blockchain Transactions', 'Scaling']",mailing-list-bitcoin-2024-January-022268
 "['Silent Payments', 'Pools', 'Asmap', 'Assumeutxo', 'Segwit', 'Schnorr', 'Libbitcoin Kernel', 'P2P', 'Mining', 'Bitcoin Core', 'Libsecp256k1', 'FROST', 'Research', 'Package Relay', 'Lightning', 'Fees', 'P2pool', 'Mempool', 'Fuzzing', 'Stratum-V2...', 'Privacy']",[],mailing-list-bitcoin-2024-January-022264
+"['Taproot', 'Bitcoin Core', 'Blockchain']","['Legacy Transactions', 'Compressed Transactions']",mailing-list-bitcoin-2024-January-022269
+['Taproot'],"['Legacy Transactions', 'Optimal Compression', 'Transaction Metadata', 'Blockchain Research', 'Compression Techniques', 'Compressed Transactions', 'Bandwidth Optimization']",mailing-list-bitcoin-2024-January-022270
+['security'],"['updates', 'upgrade', 'interactions', 'communication', 'migration', 'bitcoin-dev mailing list', 'Linux Foundation', 'uncertainty', 'discussions', 'collaboration', 'mailing lists', 'decision-making process', 'Mailman', 'functionality', 'guidance', 'hosting solution']",mailing-list-bitcoin-2024-January-022271
+[],"['Scheme', 'Transaction', 'Authentication', 'Lamport']",mailing-list-bitcoin-2024-January-022272
+[],[],mailing-list-bitcoin-2024-January-022273
