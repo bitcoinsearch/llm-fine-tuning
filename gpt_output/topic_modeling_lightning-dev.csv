@@ -4389,3 +4389,569 @@ primary_topics,secondary_topics,source_id
 "['Fees', 'Privacy', 'Consensus', 'Security', 'Mining', 'Lightning', 'Segregated Witness']",[],mailing-list-lightning-2023-December-004265
 "['Timelocks', 'Lightning']",['Scaling'],mailing-list-lightning-2023-December-004266
 "['Fees', 'Blockchain', 'Lightning', 'Segregated Witness', 'Soft Fork']","['Pruned Nodes', 'Consensus Rules', 'Activation Period']",mailing-list-lightning-2023-December-004267
+"['Bitcoin Core', 'Scalability', 'UTXO', 'Lightning', 'Covenants']",[],combined_Scaling-Lightning-With-Simple-Covenants
+['Taproot'],"['Mainnet', 'Assets']",combined_Taproot-Assets-on-Mainnet-Announcing-tapd-v0-3-0-alpha
+"['Lightning', 'Covenants']",[],combined_Batch-exchange-withdrawal-to-lightning-requires-covenants
+"['Taproot', 'Eltoo', 'Merkle Trees']","['Bitcoin-dev Mailing List', 'Authentication', 'Coinpool', 'Unilateral Exit', 'OP_CHECKCONTRACTVERIFY', 'Exit Scripts', 'Offline Users', 'Cut-through Update']",combined_Solving-CoinPool-high-interactivity-issue-with-cut-through-update-of-Taproot-leaves
+"['Script', 'Taproot', 'Soft Fork']",[],combined_Examining-ScriptPubkeys-in-Bitcoin-Script
+"['Libbitcoin Kernel', 'P2P', 'Package Relay', 'Mining', 'Research', 'Asmap', 'Pools', 'Assumeutxo', 'Segwit', 'Fees', 'Mempool', 'Lightning', 'Privacy', 'Bitcoin Core', 'FROST', 'Libsecp256k1', 'Stratum-V2...', 'P2pool', 'Silent Payments', 'Fuzzing', 'Schnorr']",[],combined_Proposed-BIP-for-MuSig2-PSBT-Fields
+"['Libbitcoin Kernel', 'P2P', 'Package Relay', 'Mining', 'Research', 'Asmap', 'Pools', 'Assumeutxo', 'Segwit', 'Fees', 'Mempool', 'Lightning', 'Privacy', 'Bitcoin Core', 'FROST', 'Libsecp256k1', 'Stratum-V2...', 'P2pool', 'Silent Payments', 'Fuzzing', 'Schnorr']",[],combined_Breaking-change-in-calculation-of-hash-serialized-2
+"['Scalability', 'Lightning']","['Reserve', 'Routing Nodes', 'LN-Penalty', 'Capital Efficiency', 'Mobile Wallets', 'To_Self_Delay', 'User Experience', 'Cheating Attacks', 'Watch Tower', 'Channel_Update', 'Revoked Commitments', 'LN-Symmetry']",combined_Removing-channel-reserve-for-mobile-wallet-users
+"['MuSig', 'Smart Contracts']","['High-level Language', 'Zero-Knowledge Proofs', 'Adaptor Signatures', 'BitVM', 'Logic Gates', 'NAND Circuit', 'Simplicity', 'Tapleafs', 'Scriptless Script']",combined_BitVM-Compute-Anything-on-Bitcoin
+"['Bitcoin Core', 'Research', 'Mempool', 'UTXO', 'Security', 'Lightning', 'Miners']",[],combined_On-solving-pinning-replacement-cycling-and-mempool-issues-for-bitcoin-second-layers
+[],"['script size limits', 'OP_CAT', 'code modifications', 'opcode support']",combined_Proposed-BIP-for-OP-CAT
+"['consensus', 'Lightning', 'security', 'fee management', 'package relay']","['time-sensitive transactions', 'advanced replacement cycling attacks', 'nExpiryHeight', 'miner manipulation', 'CPFP', 'smart contract execution', 'transaction fees', 'block space', 'OP_Expire', 'op_expiry', 'reverse time-locks', 'consensus and policy changes', 'HTLCs', 'UTXO set growth', 'Bitcoin transactions', 'vulnerabilities', 'RBF replacements', 'multi-asset blockchain implementations', 'transaction propagation', 'double-spending attacks', 'time-based expiration', 'commitment transactions', 'peer-to-peer trades', 'Coinbase Bit soft-fork upgrade']",combined_OP-Expire-and-Coinbase-Like-Behavior-Making-HTLCs-Safer-by-Letting-Transactions-Expire-Safely
+"['Scalability', 'Taproot', 'Security', 'Eltoo', 'Layer 2', 'Lightning', 'Covenants']","['HTLC', 'Cryptosystems', 'Payment Pools']",combined_HTLC-output-aggregation-as-a-mitigation-for-tx-recycling-jamming-and-on-chain-efficiency-covenants-
+"['Mempool', 'Lightning', 'Hashlocks', 'Miners']","['Transaction-relay jamming attacks', 'Schnorr signatures', 'Security vulnerabilities', 'Transaction fees', 'HTLCs', 'LN channels', 'Layer 2 protocols', 'Replacement-by-Fee (RBF)', 'Bitcoin Core development', 'Child-Pays-for-Parent (CPFP)']",combined_Full-Disclosure-CVE-2023-40231-CVE-2023-40232-CVE-2023-40233-CVE-2023-40234-All-your-mempool-are-belong-to-us-
+[],"['OP_CHECKSIGFROMSTACK', 'Equivocation', 'Counterparty', 'Fidelity Bonds', 'Transaction Confirmation', 'Program Validation', 'Factory', 'BitVM', 'Balance Keys', 'Fee Costs', 'Unavailability', 'SIGHASH_ANYPREVOUT', 'Offchain Mechanisms', 'Validator', 'Prover', 'Funds Allocation', 'Bitcoin Consensus', 'Fraud Proof System', 'Spent Outpoint', 'Cheating', 'Signatures', 'Actuarial System', 'Partial Transaction Template', 'Coordinator']",combined_Actuarial-System-To-Reduce-Interactivity-In-N-of-N-N-2-Multiparticipant-Offchain-Mechanisms
+[],"['Subnodes', 'Challenge Protocol', 'Computation', 'Commitment', 'Optimistic Execution', 'Diagram Correction', 'State Tree', 'Program Size', 'Complexity Analysis', 'Error Detection']",combined_MATT-demo-Optimistic-execution-of-arbitrary-programs
+['network'],"['governance', 'implementation', 'decision-making', 'Bitcoin Improvement Proposals', 'specification', 'consequences', 'BIP repository', 'BOLT process', 'BIP numbers', 'experimental', 'optional', 'Outcomes Improvement Proposals', 'BIPs', 'Lightning protocol', 'core protocol']",combined_Ordinals-BIP-PR
+[],[],combined_-no-subject-
+"['Libbitcoin Kernel', 'P2P', 'Package Relay', 'Mining', 'Research', 'Asmap', 'Pools', 'Assumeutxo', 'Segwit', 'Fees', 'Mempool', 'Lightning', 'Privacy', 'Bitcoin Core', 'FROST', 'Libsecp256k1', 'Stratum-V2...', 'P2pool', 'Silent Payments', 'Fuzzing', 'Schnorr']",[],combined_CPFP-Carve-Out-for-Fee-Prediction-Issues-in-Contracting-Applications-eg-Lightning-
+"['package relay', 'Lightning', 'soft fork', 'Taproot']","['base layer', 'CPFP', 'fee sponsorship', 'annex', 'Package RBF', 'L2', 'transaction mutation', 'cross-layer security issues', 'Child Pays For Parent', 'SIGHASH_IOMAP', 'RBF', 'hints', 'L2 security philosophy design', 'witness replacement', 'CBlockPolicyEstimator', 'BIP 125 RBF', 'DLCs', 'transaction packages']",combined_Last-week-s-second-IRC-workshop-on-L2-onchain-support-and-wrap-up
+['taproot'],"['lightning network', 'BIP118', 'SIGHASH_ANYPREVOUT']",combined_BIP118-confusion-SIGHASH-NOINPUT-is-now-SIGHASH-ANYPREVOUT-i-think-
+"['Libbitcoin Kernel', 'P2P', 'Package Relay', 'Mining', 'Research', 'Asmap', 'Pools', 'Assumeutxo', 'Segwit', 'Fees', 'Mempool', 'Lightning', 'Privacy', 'Bitcoin Core', 'FROST', 'Libsecp256k1', 'Stratum-V2...', 'P2pool', 'Silent Payments', 'Fuzzing', 'Schnorr']",[],combined_Waiting-SIGHASH-ANYPREVOUT-and-Packing-Packages
+"['Mining', 'P2P', 'Topology', 'Research', 'Atomic Swaps', 'lightning-network', 'Post-Quantum', 'address', 'unconfirmed-transactions', 'Hashlocks', 'Timelocks', 'bitcoin-core', 'segregated-witness', 'Soft Fork', 'Hard Fork', 'Stratum-V2', 'Zero-Knowledge', 'electrum', 'bitcoind', 'Halving', 'Ux', 'Validation', 'mining-pools', 'Wallet', 'P2sh', 'Fees', 'Ethereum', 'Proof-of-Work', 'Custody', 'Layer 2', 'block', 'Lightning', 'C-Lightning', 'Merkle Trees', 'blockchain', 'public-key', 'Privacy', 'wallet', 'transactions', 'client', 'security', 'Bitcoin Core', 'Build Systems', 'network', 'api', 'Segregated Witness', 'exchanges', 'Fungibility', 'Multisig', 'transaction-fees', 'Miners', 'Script', 'Incentives', 'Cryptography', 'Scalability', 'Taproot', 'hash', 'P2pkh', 'Eclair', 'Security', 'Proof-of-Stake', 'Spv', 'multi-signature', 'Timestamping', 'Consensus', 'Bech32', 'Routing', 'private-key', 'blockchain.info']",[],combined_Why-OpenTimestamps-does-not-linearize-its-transactions
+"['Taproot', 'UTXO', 'Lightning']","['Serialization', 'Bitcoin transaction', 'RGB protocol']",combined_Taro-A-Taproot-Asset-Representation-Overlay
+"['Libbitcoin Kernel', 'P2P', 'Package Relay', 'Mining', 'Research', 'Asmap', 'Pools', 'Assumeutxo', 'Segwit', 'Fees', 'Mempool', 'Lightning', 'Privacy', 'Bitcoin Core', 'FROST', 'Libsecp256k1', 'Stratum-V2...', 'P2pool', 'Silent Payments', 'Fuzzing', 'Schnorr']",[],combined_Inherited-IDs-A-safer-more-powerful-alternative-to-BIP-118-ANYPREVOUT-for-scaling-Bitcoin
+"['Smart Contracts', 'Security']","['Rounding Bitcoin Transactions', 'Block Validation', 'Channel Factories', 'Regulatory Implications', 'Bridge Servers', 'Node Operators', 'Traditional Currency', 'Consensus Rules', 'Relay Policy', 'Inheritability', 'Transaction Fees', 'Dust Limit', 'BitDevs Conference', 'LN Side', 'Value of Dust', 'HTLC-Claim Fee', 'Bitcoin Denominations', 'Colored Coin Protocols', 'Economically Irrational Behavior', 'DoS Attacks', 'Efficiency', 'Spam', 'UTXO Set Size', 'Network Centralization', 'Bitcoin-dev mailing list', 'Merkle Tree', 'Mining Cost', 'Commitment Outputs', 'Lightning Channels', 'Full Nodes', 'Fingerprinting Attacks']",combined_Removing-the-Dust-Limit
+"['Segregated Witness', 'Lightning', 'Soft Fork', 'BIP']",['P2WSH'],combined_New-BIP-Dealing-with-OP-IF-and-OP-NOTIF-malleability-in-P2WSH
+['Taproot'],"['SIGHASH_NOINPUT', 'BIP-118', 'bip-anyprevout']",combined_Continuing-the-discussion-about-noinput-anyprevout
+['Merkle trees'],"['tagged SHA256', 'efficiency comparison', 'midstate', 'data concatenation', 'Bitcoin protocols', 'signatures', 'malleability issue', 'OP_SETPUBKEYSIGHASH', 'OP_CAT', 'OP_SHA256STREAM', 'SIGHASH flags', 'security implications', 'transaction sizes']",combined_OP-CAT-was-Re-Continuing-the-discussion-about-noinput-anyprevout
+"['Bitcoin Core', 'Privacy']","['Lightning Network', 'SIGHASH_NOINPUT', 'Transaction Malleability']",combined_BIP-sighash-noinput
+"['Scalability', 'Security', 'Lightning', 'Privacy', 'Decentralization']","['Trust-Minimization', 'Installation and Configuration', 'Backup Nodes', 'Mobile LN Clients', 'Economic Weight', 'Peer Services', 'BIP 157', 'Light Clients', 'Full Node', 'Payment Channels']",combined_On-the-scalability-issues-of-onboarding-millions-of-LN-mobile-clients
+"['Segregated Witness', 'Lightning']","['SIGHASH flag', 'HTLC', 'Merkelized Abstract Syntax Trees', 'Redeem HTLC outputs', 'Replay attacks', 'ScriptPubKey', 'Bitcoin transactions']",combined_SIGHASH-NOINPUT-in-Segregated-Witness
+['Lightning'],"['General Discussion', 'CTV']",combined_BIP-119-CTV-Meeting-3-Draft-Agenda-for-Tuesday-February-8th-at-12-00-PT
+"['Bitcoin Core', 'Security', 'Layer 2', 'Lightning']",['RBF'],combined_Lightning-and-other-layer-2-projects-with-multiple-RBF-policies
+"['Timestamping', 'Smart Contracts']","['Bitcoin Protocol', 'Bitcoin Transactions', 'Blockchain Schemes', 'Transaction Pinning Attacks', 'OpenTimestamps', 'RBF', 'Fee Accounts']",combined_-Pre-BIP-Fee-Accounts
+"['Libbitcoin Kernel', 'P2P', 'Package Relay', 'Mining', 'Research', 'Asmap', 'Pools', 'Assumeutxo', 'Segwit', 'Fees', 'Mempool', 'Lightning', 'Privacy', 'Bitcoin Core', 'FROST', 'Libsecp256k1', 'Stratum-V2...', 'P2pool', 'Silent Payments', 'Fuzzing', 'Schnorr']",[],combined_A-suggestion-to-periodically-destroy-or-remove-to-secondary-storage-for-Archiving-reasons-dust-Non-standard-UTXOs-and-also-detected-burn
+['Security'],"['Lightning Network', 'Drivechain', 'Miner-theft', 'Maximalist groups', 'Altcoin investors']",combined_A-Comparison-Of-LN-and-Drivechain-Security-In-The-Presence-Of-51-Attackers
+"['Bitcoin Core', 'Consensus', 'Lightning']","['Bitcoin Knots', 'Core Lightning', 'Codebase']",combined_A-new-Bitcoin-implementation-integrated-with-Core-Lightning
+"['Mining', 'P2P', 'Bitcoin Core', 'Fees', 'Security', 'Consensus', 'Lightning', 'Privacy', 'Blockchain']",[],combined_Scaling-Lightning-Safely-With-Feerate-Dependent-Timelocks
+"['Merkle Trees', 'UTXO']",[],combined_Storing-the-Merkle-Tree-in-a-compact-way
+"['Libbitcoin Kernel', 'P2P', 'Package Relay', 'Mining', 'Research', 'Asmap', 'Pools', 'Assumeutxo', 'Segwit', 'Fees', 'Mempool', 'Lightning', 'Privacy', 'Bitcoin Core', 'FROST', 'Libsecp256k1', 'Stratum-V2...', 'P2pool', 'Silent Payments', 'Fuzzing', 'Schnorr']",[],combined_Take-2-Removing-the-Dust-Limit
+"['eltoo', 'locktime']","['Lightning Network', 'penalty-based invalidation mechanism', 'transaction scheme', 'SIGHASH_NOINPUT', 'update transactions', 'drop-in replacement', 'ratchet mechanism', 'UNIX timestamp', 'counter', 'relative locktime', 'Bitcoin Core developer', 'denial-of-service attacks', 'cooperative close']",combined_eltoo-A-Simplified-update-Mechanism-for-Lightning-and-Off-Chain-Contracts
+['Miners'],"['Vulnerabilities', 'Low fee-rate transaction packages', 'Hashlock smart contract', 'Transaction fees', 'Bitcoin mempool', 'Privacy advantages', 'HTLC spends', 'Pointlocked timelock contracts (PTLCs)', 'Denial-of-service attacks', 'Centralization', 'Network topology', 'RBF Pinning', 'Mining pools', 'Bribe system', 'Absolute timeouts', 'Off-chain constructions', 'Pay-to-preimage transactions', 'Blind child transactions', 'Lightning Network (LN)', 'Development resources']",combined_RBF-Pinning-with-Counterparties-and-Competing-Interest
+[],"['Bitcoin scalability', 'Moderator', 'Moderation', 'Non-censorship', 'Clear moderation policies', 'Peer-review policies', 'Incentive-based moderation', 'Fair and transparent communication', 'Abuse of powers', 'Privacy protocol', 'Failing moderators']",combined_Bitcoin-mail-list-needs-an-explicit-moderation-policy
+"['Package Relay', 'Mempool']","['security disclosures', 'L2 protocols onchain security design', 'design and deployment of higher Bitcoin layers', 'BIPs', 'mempools improvements', 'technical consensus', 'tx-relay', 'security incident response policy']",combined_L2s-Onchain-Support-IRC-Workshop
+"['Fees', 'Lightning']","['UTXO set', 'Chess', 'Block space', 'Bitcoin transactions']",combined_Pawn-chess-piece-Breaking-bitcoin-by-playing-chess
+"['OP_RETURN', 'Scalability', 'Multisig', 'RGB']","['Bitcoin Lightning', 'Non-Fungible Tokens (NFTs)', 'Single Use Seals', 'On-chain aggregation seals']",combined_Sending-OP-RETURN-via-Bitcoin-Lightning
+"['privacy', 'Taproot', 'eltoo', 'taproot']","['Lightning Network', 'SIGHASH_NOINPUT', 'NOINPUT', 'CLTV', 'HTLC', 'BIP118', 'BIP-68', 'OP_CSV', 'MAST', 'Poon-Dryja channels', 'Watchtower', 'output tagging']",combined_More-thoughts-on-NOINPUT-safety
+"['Eltoo', 'Lightning', 'Privacy']","['Contract Enforcement', 'On-chain Fees', 'Liveness', 'Off-chain Transactions', 'Channel Splicing']",combined_Reconciling-the-off-chain-and-on-chain-models-with-eltoo
+"['Lightning', 'Bech32', 'Segwit']",[],combined_-RFC-Lightning-invoice-payment-format-draft
+"['Locktime', 'Eltoo']",['Sequence Tagged Keys'],combined_Eltoo-Anyprevout-Baked-in-Sequences
+"['Libbitcoin Kernel', 'P2P', 'Package Relay', 'Mining', 'Research', 'Asmap', 'Pools', 'Assumeutxo', 'Segwit', 'Fees', 'Mempool', 'Lightning', 'Privacy', 'Bitcoin Core', 'FROST', 'Libsecp256k1', 'Stratum-V2...', 'P2pool', 'Silent Payments', 'Fuzzing', 'Schnorr']",[],combined_A-Universal-Coin-Swap-system-based-on-bitcoin-and-a-Bitcoin-NFT-system
+"['fees', 'Lightning']","['economic loss', 'Replace-By-Fee (RBF) transaction', 'on-chain', 'Hash Time-Locked Contracts (HTLCs)', 'channel factories', 'flood and loot']",combined_Lightning-Is-HTLC-vulnerable-And-mention-of-Channel-Factories
+"['Scalability', 'Routing']","['Lightning Network', 'Cryptographic Primitives', 'Value Privacy']",combined_General-question-on-routing-difficulties
+"['Lightning', 'Nodes', 'Routing']","['Routing Fees', 'UI', 'Hubs', 'Channel Funding']",combined_Lightning-dev-Digest-Vol-28-Issue-9
+"['Lightning', 'Fees']",['Payment Channels'],combined_Refilling-a-channel-by-sending-a-payment-to-yourself-
+"['Lightning', 'Decentralization']","['Mesh Network', 'Payment Limits', 'Channels']",combined_General-questions-about-channels
+['Lightning'],"['Marketplace', 'Multi-hop Payments', 'Short-term Loans', 'Payment Obligations', 'Transaction Fees']",combined_LN-public-marketplaces-exchanges-
+"['P2P', 'Mining', 'Topology', 'Research', 'Testing', 'Atomic Swaps', 'lightning-network', 'hashpower', 'payment', 'signature', 'Onion', 'address', 'exchange-rate', 'Hashlocks', 'Timelocks', 'segregated-witness', 'Hard Fork', 'Soft Fork', 'Path-Finding', 'consensus', 'mining-pools', 'Validation', 'protocol', 'difficulty', 'doublespend', 'Fees', 'bitcoin-cli', 'python', 'Proof-of-Work', 'Regulation', 'block', 'testnet', 'Lightning', 'Attacks', 'Merkle Trees', 'blockchain', 'script', 'Limitations', 'Privacy', 'trading', 'wallet', 'litecoin', 'transactions', 'privacy', 'security', 'cryptography', 'full-node', 'network', 'Segregated Witness', 'Sidechains', 'Academia', 'exchanges', 'Update Layer', 'Multisig', 'Smart Contracts', 'transaction-fees', 'bitcoin-cash', 'mining-hardware', 'utxo', 'Miners', 'Fee Management', 'Incentives', 'Cryptography', 'development', 'Security', 'Proof-of-Stake', 'Spv', 'multi-signature', 'Consensus', 'Timestamping', 'nodes', 'altcoin', 'Bech32', 'Routing']",[],combined_Peer-selection
+"['Fees', 'UTXO', 'Segregated Witness', 'Lightning']",['Double Spend'],combined_reducing-the-number-of-blockchain-transactions-used-by-the-LN-and-the-fees-paid-to-confirm-them
+"['Scalability', 'Lightning', 'Path-Finding', 'Routing']",['Distributed Hash Table'],combined_Every-node-must-be-aware-of-all-other-nodes-scalability-problem-
+"['Lightning', 'API']","['Unicode', 'BOLT#11', 'Test Cases', 'Payment Request', 'Node.js', 'Description', 'UTF-8', 'Implementation']",combined_Comments-on-BOLT-11
+"['Fees', 'Lightning', 'Privacy']","['Transaction Batching', 'Bitcoin', 'Channels']",combined_Is-it-possible-to-fund-multiple-channels-using-single-transaction-with-multiple-output-
+"['Receiving', 'Fees', 'Balance', 'Lightning', 'Routing', 'Schnorr']","['Channel', 'Opening Fees']",combined_Directionality-of-the-transaction-fees
+"['Fees', 'Lightning', 'API', 'Java']","['Routing Fees', 'Node Announcement', 'Liquidity', 'Advertising', 'Channel', 'Node Announcements', 'CLTV-encumberance', 'Dual Funding', 'Commitment Transactions', 'Protocol Modifications', 'Capacity Requests', 'Inbound Capacity']",combined_Proposal-for-Advertising-Channel-Liquidity
+"['Security', 'Multisig', 'Privacy']","['Lightning Network', 'Hash Function', 'Payment Channels', 'Escrow']",combined_Escrow-Over-Lightning-
+"['Protocol', 'Lightning']",[],combined_BOLT-3-Shouldn-t-timeout-be-included-in-the-script-of-Offered-HTLC-Outputs-for-the-local-node-
+['Lightning'],"['Node Events', 'Payment Times', 'Padding', 'Probing', 'Background Probing', 'Routes', 'Reliability', 'Penalizing Channels', 'Past Performance', 'Error Attribution', 'Failure Message Format', 'Synchronization Requirement']",combined_Improve-Lightning-payment-reliability-through-better-error-attribution
+"['Fees', 'Onion', 'Lightning', 'Routing Failures']",['Simultaneous Payments'],combined_-PROPOSAL-FAST-Forked-Away-Simultaneous-Transactions
+"['Security', 'Encryption', 'MAC', 'Payment', 'Lightning', 'API', 'Privacy']","['Denial-of-Service Attacks', 'Incompatibility', 'Escrow System', 'Guidelines', 'Pre-Image Recovery', 'Zero-Knowledge Proof', 'FEC-Encoding', 'Data Replacement', 'Error Correction']",combined_Proposal-Lightning-Pre-Image-Encryption-Standard
+['C-lightning'],"['BOLT #4', 'value randomization', 'grinding', 'rendezvous routing', 'brute force', 'amount_to_forward', 'invoices', 'iteration', 'preimage generation', 'payment confirmation', 'common secrets', 'channel ID', 'metadata field', 'short channel id', 'routing payment', 'routing information', 'vending machines', 'ephemeral key', 'online node', 'tips', 'bolt 11', 'offline vending machines', 'HTLC offer', 'invoice face value', 'ECDH', 'donation payments']",combined_ECDH-for-spontaneous-payments-and-offline-vending-machines
+"['Privacy', 'Security']","['ACK-key turnaround', 'Exchange', 'Trampoline', 'BOLT', 'Censorship', 'Stuckless Payments', 'Pre-Settlement', 'Decorrelate payments', 'American Call Option', 'Wormhole attacks', 'Corrective actions', 'Rendezvous', 'PTLCs', 'HTLC', 'Latency', 'Onion packet', 'AMP', 'Refund']",combined_Proposal-for-Stuckless-Payment
+['Lightning'],"['Refund Invoice', 'TLV Specification']",combined_Possibility-to-Include-refund-invoice-in-lightning-payments
+"['Lightning', 'Routing', 'Topology', 'Onion']",[],combined_Jamming-mitigation-call
+"['Privacy', 'Lightning', 'Routing']","['Credentials', 'Reputation']",combined_Mitigating-Channel-Jamming-with-Reputation-Credentials-a-Protocol-Sketch
+['Lightning'],"['Routing Nodes', 'Queue Mode', 'HTLC', 'Spamming', 'Channel Jamming', 'Jamming Attacks', 'Circuitbreaker', 'Congestion Control']",combined_Jamming-against-Channel-Jamming
+"['Research', 'Fees', 'Security', 'Privacy', 'Lightning', 'Routing']",[],combined_Unjamming-lightning-new-research-paper-
+['Lightning'],"['Onion Routing', 'Reputation', 'Path Tracing']",combined_Mitigating-Channel-Jamming-with-Reputation-Credentials-a-Protocol-Sketch-Antoine-Riard-
+"['Lightning', 'Routing']","['Transaction', 'Channel', 'Commitment Transaction']",combined_Unclear-HTLC-scenario
+"['Scalability', 'Lightning']","['HTLC', 'Factory-Optimized Protocols', 'Bitcoin']",combined_Factory-Optimized-Protocols-For-Lightning
+"['Mempool', 'Eltoo', 'Lightning', 'Attacks', 'Miners', 'Routing']",['Double Spend'],combined_-Updates-Overflow-Attacks-against-Two-Party-Eltoo-
+['eltoo'],"['Lightning Network', 'adaptor signature', 'watchtowers', 'CTV-like approach', 'payment channels', 'multiparty channels']",combined_Two-party-eltoo-w-punishment
+"['Research', 'Security', 'Lightning', 'Path-Finding', 'Privacy']",['Optimization'],combined_Towards-more-reliable-payment-path-finding-via-probabilistic-modeling-the-uncertainty-of-channel-balance
+"['Lightning', 'Ethereum']",[],combined_Lightning-network-implementation-with-ethereum
+['Lightning'],"['BOLT', 'Web Payments Working Group', 'invoice ID', 'BOLT 12', 'URL', 'lightningnetwork/lightning-rfc', 'payment use cases']",combined_A-protocol-for-requesting-invoices
+"['Fees', 'Privacy', 'Lightning', 'Routing']","['Capacity', 'Atomic Multi-Path', 'Ping Mechanism', 'Payment Failures']",combined_Pinging-a-route-for-capacity
+"['Lightning', 'Privacy']",['Refunds'],combined_refunds-was-Re-BOLT-11-real-time-micro-payments-and-route-redundancy
+[],"['Query Semantics', 'Specification', 'Pull Request', 'DNS Seed', 'Open Source Development', 'BOLT10']",combined_DNS-Seed-query-semantics-clarification
+"['Lightning', 'Multisig', 'Schnorr']","['Discreet Log Contracts', 'Channel Monitoring']",combined_Fwd-Post-Schnorr-lightning-txes
+['Lightning'],"['Algorithm', 'Reachability', 'Centralization', 'Coordination Mechanisms', 'Simulations', 'Network Efficiency']",combined_Towards-a-gridlike-Lightning-Network
+['Lightning'],"['Symmetry', 'Adaptor Signatures', 'Space-Heavy', 'Transferable Proof-of-Payment', 'Scriptless Scripts', 'BIP32 HD Keys', 'Well-Behaved Nodes', 'Flexibility', 'Commitment Transactions', 'Atomic Multipath Payments', 'Primitive', 'Graftroot', 'Reblinding', 'Taproot Construction', 'Output Spend Conditions']",combined_AMP-via-HD-BN-SS-and-TR
+"['C-lightning', 'Lightning', 'blockchain', 'pruning', 'bitcoind']",[],combined_Can-I-try-Lightning-without-running-a-fully-fledged-bitcoin-block-chain-
+[],"['Lightning Network', 'Duplex Micropayment Channels', 'Revocation Key Solution']",combined_Christian-Deckers-Duplex-Micropayment-Channels-vs-Lightning-networks-revocation-key-solution
+"['Lightning', 'Development', 'Bitcoin Core']",[],combined_Another-Implementation
+"['Lightning', 'mining', 'blockchain']","['payment channels', '51% attack']",combined_New-form-of-51-attack-via-lightning-s-revocation-system-possible-
+"['Fees', 'Payment', 'Lightning', 'Routing']",['Channel Update'],combined_High-level-fee-mechanics
+"['Lightning', 'Scalability']","['Channel restructuring', 'Off-chain transactions']",combined_An-Idea-to-Improve-Connectivity-of-the-Graph
+"['Lightning', 'Nodes', 'Routing']","['Connectedness', 'Transaction Fees']",combined_Opening-channels-with-neighbors-for-cost-connectivity-benefit
+['Segwit'],"['Anchor transactions', 'Symmetrically funded channels', 'nTimelock', 'nLocktime']",combined_Anchor-transaction-for-no-expiration-channels-without-segwit
+['Lightning'],"['Account Management Software', 'Payment Hash', 'Custodial Wallets', 'Invoice Integrity', 'Invoices', 'Security Measures', 'Software Update', 'Payment Processors', 'Backend', 'Exploit', 'Vulnerability', 'LNbits']",combined_Potential-vulnerability-in-Lightning-backends-BOLT-11-payment-hash-does-not-commit-to-payment-
+"['Libbitcoin Kernel', 'P2P', 'Package Relay', 'Mining', 'Research', 'Asmap', 'Pools', 'Assumeutxo', 'Segwit', 'Fees', 'Mempool', 'Lightning', 'Privacy', 'Bitcoin Core', 'FROST', 'Libsecp256k1', 'Stratum-V2...', 'P2pool', 'Silent Payments', 'Fuzzing', 'Schnorr']",[],combined_LN-Summit-2023-Notes
+[],"['Onion Routing', 'Blinding Factors', 'PTLC', 'Trampoline']",combined_Computing-Blinding-Factors-in-a-PTLC-and-Trampoline-World
+"['Lightning', 'Privacy']",[],combined_Blinded-Paths-Doom-Scenario
+"['Lightning', 'Security']","['Buffer', 'Packet Size']",combined_Equalizing-Packet-Size
+[],"['KeySend Protocol', 'Multipath Payments']",combined_Multipath-Keysend
+['Lightning'],"['HTLC', 'Reputation', 'Jamming Mitigation']",combined_HTLC-Endorsement-for-Jamming-Mitigation
+['Lightning'],"['identicon', 'QR code', 'public key', 'user-facing wallets']",combined_visual-identification-of-payee-node-id
+"['Routing', 'Custody', 'Fees']",['Lightning Network'],combined_Routing-fees-under-custodial-conditions-was-Mandatory-d-or-h-UX-issues-
+['Lightning'],"['Node Announcements', 'Routing Features', 'Peer Features']",combined_Unification-of-feature-bits-
+"['Timestamping', 'Lightning', 'Routing']","['Optimizing traffic efficiency', 'Synchronization of routing tables', 'Redundant information']",combined_Quick-analysis-of-channel-update-data
+"['Lightning', 'UX']","['Bolt11', 'Payment Protocol']",combined_Mandatory-d-or-h-UX-issues
+['Lightning'],['RPC'],combined_lightning-c-RPC
+['Lightning'],"['BOLT', 'Rendezvous routing', 'Bitcoin wallet']",combined_lnurl-to-enable-payer-payee-interactions
+['Lightning'],"['Vocabulary', 'Ontology', 'LightningJoule', 'W3C Payment Group', 'Data Structures', 'Semantic Web', 'Naming Conventions', 'Self-Describing Data', 'Integration', 'Solid', 'BOLT 07']",combined_Lightning-and-the-semantic-web
+[],"['OP_CSFS', 'Revocations', 'signed sequence commitments']",combined_Revocations-with-OP-CSFS-signed-sequence-commitments
+"['Lightning', 'Privacy']","['Bloom Filters', 'Database Lookup', 'Probes']",combined_Network-probes
+"['Fees', 'Lightning']","['Liquidity', 'Single Asset Lightning Network', 'American Call Options', 'Payment Requirement', 'Cross-Asset Exchange', 'Multi-Asset Lightning Network', 'Timelock', 'Exchange Rate Fluctuations', 'Hashlocked Timelocked Contracts']",combined_An-Argument-For-Single-Asset-Lightning-Network
+"['Wallet', 'Lightning', 'Privacy']","['User Identification', 'Authentication']",combined_Lightning-network-user-identification
+"['Security', 'Payment', 'Lightning']","['Proof-of-Payment', 'BOLT11']",combined_Reuse-of-payment-hash-in-lightning-invoices
+[],"['Lightning Implementations', 'Lite client']",combined_Lite-client-considerations-for-Lightning-Implementations
+"['Lightning', 'Routing', 'Privacy', 'Onion']",[],combined_Spontaneous-transfers
+['Lightning'],['RFC'],combined_Minor-editorial-fixes-to-lightning-rfc
+['Lightning'],"['Signature Verification', 'Encoding', 'Payment Requests', 'Tag-based Format', 'Optimization']",combined_-RFC-Lightning-payment-format
+"['Lightning', 'SHA256', 'Schnorr']",['BIP32'],combined_Deterministic-generation-of-H
+['Lightning'],"['Order Book', 'Exchange Rates', 'Cross-Chain Payments', 'Bitcoin', 'Proportional Routing Fees']",combined_Generalizing-proportional-routing-fees-to-exchange-rates
+['Lightning'],"['HTLC', 'BOLT', 'Channel', 'Onion Routing', 'Patch', 'Spellcheck', 'Force-Close', 'Cooperation', 'Blinding Messages', 'Github', 'Noise Protocol']",combined_-PATCH-Add-spellcheck-tool-requires-aspell-also-spellcheck-
+"['Onion', 'Lightning']","['Top-up', 'Funds', 'Channel', 'Splice-in', 'Splice-out', 'Micropayment Channel', 'Commitment Transaction']",combined_Channel-top-up
+"['Soft Fork', 'SegWit']","['Lightning Network', 'Trusted Watchers', 'Denial-of-Service Attacks', 'Burn Coins', 'Fraudulent Receivers', 'Revocable Output', 'Bounty Hunters', 'TX_NOINPUT Sighash Flag', 'Transaction Malleability', 'Spending Periods', 'Revocation Keys']",combined_Transaction-revocation-within-transaction-malleability-via-anyone-can-revoke-hashlocks
+"['Taproot', 'Lightning']","['Safety', 'Zero-Knowledge Proofs', 'Africa', 'Medical Precautions', 'Logistics', 'Event Organization', 'Visa', 'Travel', 'LN Summit', 'Collaboration']",combined_LN-Summit-2024-Organization
+"['Lightning', 'Submarine swaps', 'Electrum']","['Regulatory guidelines', 'Keysend payments', 'ACINQ', 'Splice-out', 'Lightning Service Provider (LSP) protocols', 'Denial-of-service attacks', 'Payment protocols', 'On-chain fee incurrence', 'Mining fee attacks', 'Backward compatibility', 'BOLT-11', 'Semantics', 'Preimages', 'HTLCs', 'European MICA', 'Standardization efforts', 'Innovation', 'Non-custodial exchanges', 'LND instances', 'Theft', 'BOLT-12', 'Lightning Labs']",combined_Proposal-Bundled-payments
+"['Security', 'Decentralization']","['Forum', 'Authentication', 'Mailing List', 'Archiving', 'Accessibility']",combined_Mailing-List-Future
+"['Splicing', 'Fees', 'Security', 'Lightning']","['Commitments', 'Fraud Proofs', 'Renegotiations', 'CLN Hack Week']",combined_Liquidity-Ads-Updated-Spec-Posted-please-review
+"['Terminology', 'Lightning', 'Scalability', 'Security']","['LNDNS', 'User Experience', 'Expiration Times', 'Autonomy', 'Oblivious HTTP', 'Blinded Paths', 'Subdomains', 'Messaging Systems', 'Bolt12', 'Dynamic Method', 'DNSSEC', 'Lightning Address Protocol', 'QR Codes', 'Efficiency', 'Addresses', 'DNS', 'LNURL', 'Payment Systems', 'Self-Hosting', 'Privacy Concerns', 'Service Providers']",combined_Lightning-Address-in-a-Bolt-12-world
+"['Taproot', 'Lightning']","['Payment Points', 'Multi-Hop', 'Hodl Invoices', 'Physical Delivery', 'Blinding']",combined_complementing-lightning-with-with-a-discreet-physical-delivery-protocol-
+"['Libbitcoin Kernel', 'P2P', 'Package Relay', 'Mining', 'Research', 'Asmap', 'Pools', 'Assumeutxo', 'Segwit', 'Fees', 'Mempool', 'Lightning', 'Privacy', 'Bitcoin Core', 'FROST', 'Libsecp256k1', 'Stratum-V2...', 'P2pool', 'Silent Payments', 'Fuzzing', 'Schnorr']",[],combined_Interactive-tx-construction-and-UTXO-privacy-some-thoughts
+['Lightning'],"['Payment Latency', 'Fast Forwards']",combined_Improving-Payment-Latency-by-Fast-Forwards
+['Lightning'],"['Zero-Conf Channels', 'Channel Funding']",combined_Turbo-channels-spec-
+"['Tor', 'Bitcoin Core', 'Onion']",['Lightning Network'],combined_Dropping-Tor-v2-onion-services-from-node-announcement
+['Lightning'],"['app layer', 'BIP-0002', 'new pathfinding heuristics', 'innovations', 'lnurl variants', 'dynamic commitments', 'interoperability', 'remote node connection standards', 'BOLTs', 'Ryan Gentry', 'security risks', 'AMP', 'on-the-fly channel opens', 'standardization', 'TLV', 'p2p messaging formats', 'bLIPs', 'flexibility', 'fragmentation', 'Bitcoin Lightning Improvement Proposal', 'collaboration', 'podcast payment metadata', 'usability']",combined_bLIPs-A-proposal-for-community-driven-app-layer-and-protocol-extension-standardization
+"['Security', 'Custody', 'Lightning', 'Privacy']",['Usability'],combined_Lightning-Mints
+"['Taproot', 'Splicing', 'Multi-signature', 'Privacy', 'Lightning', 'Schnorr']","['Rate Limiting', 'LN-URL', 'BOLT 12', 'Reliability', 'Efficiency']",combined_LN-Summit-2022-Notes-Summary-Commentary
+"['Security', 'Lightning']","['TLV', 'Fragmentation', 'Transmission', 'Efficiency', 'DataSig', 'DataStruct']",combined_DataSig-Data-signatures-over-Lightning
+"['Privacy', 'Lightning', 'Fuzzing', 'Fee Management', 'Routing']",[],combined_Solving-the-Price-Of-Anarchy-Problem-Or-Cheap-AND-Reliable-Payments-Via-Forwarding-Fee-Economic-Rationality
+[],"['Gossip Propagation', 'Anti-spam', 'Lightning Network', 'Set Reconciliation']",combined_Gossip-Propagation-Anti-spam-and-Set-Reconciliation
+['Lightning'],"['Channel Balances', 'Low Fee Forwarding', 'Wall Strategy', 'Forwarding Nodes', 'Passive Rebalance']",combined_Three-Strategies-for-Lightning-Forwarding-Nodes
+"['UTXO', 'Lightning']","['Channel Privacy', 'SCIDs', 'Probe', 'Unannounced Channels', 'Error Codes']",combined_Preliminary-Hidden-Lightning-Network-Analysis
+"['Onion', 'Tor']","['Lightning Network', 'Rate Limiting', 'Forwarding Pass Approach', 'Backpressure', 'Hash Time-Locked Contracts (HTLCs)', 'DoS Attacks']",combined_Onion-messages-rate-limiting
+['bech32'],"['Lightning Network', 'implementation', 'IBEX Mercado', 'Fast Bitcoins', 'JSON', 'BTCpay', 'adoption', 'specifications', 'interoperable', 'POS', 'open standard', 'Coincorner', 'user experience', 'LNURL', 'NFC', 'bLIP']",combined_LNURL-withdrawPOS-bLIP-A-reference-flow-for-open-source-implementations-of-POS-devices-able-to-read-LNURL-withdraw-links-via-NFC
+"['Taproot', 'Splicing', 'Lightning']","['Routing Fees', 'Signal', 'Wait Time', 'Channel Closure', 'Gossip Propagation', 'Gossip', 'Ratelimiting']",combined_Achieving-Zero-Downtime-Splicing-in-Practice-via-Chain-Signals
+['splicing'],"['to_self_delay parameter', 'non-cooperative close transaction', 'LSPs', 'Lightning Network team', 'capital efficiency', 'Lightning protocol', 'pre-signed ""splice"" transaction', 'Watchtower-Free', 'WF protocol', 'protocol change']",combined_Watchtower-Free-Lightning-Channels-For-Casual-Users
+"['Fees', 'Lightning', 'Routing', 'Blockchain']","['Liquidity Markets', 'Channel']",combined_Forwardable-Peerswaps-Improving-Network-Health-Via-Pressure-Release-Valve
+"['Lightning', 'UTXO', 'Fee Management']",[],combined_A-pragmatic-unsatisfying-work-around-for-anchor-outputs-fee-bumping-reserve-requirements
+"['Taproot', 'Segregated Witness', 'Lightning', 'Protocol', 'SegWit']","['Upgrade', 'Commitments', 'Dynamic Commitments', 'Adapter Commitment', 'Channels']",combined_Dynamic-Commitments-Part-2-Taprooty-Edition
+['Lightning'],"['Error Attribution', 'Failure Message', 'HMACs']",combined_Fat-Errors
+['Lightning'],"['Lightning Labs', 'Github', 'open-source protocol']",combined_Removing-lnd-s-source-code-from-the-Lightning-specs-repository
+['Lightning'],"['Payment Routing', 'Node Capacity', 'Channel Jamming', 'Liquidity Probing']",combined_In-protocol-liquidity-probing-and-channel-jamming-mitigation
+"['Lightning', 'C-Lightning', 'RGB']","['Liquidity Improvement', 'Decentralized Exchanges', 'Asset Issuance', 'Stablecoins']",combined_Issue-assets-on-lightning
+"['Security', 'Proof-of-Work', 'Lightning']","['Payment Latency', 'Routing Nodes', 'Network Upgrade', 'Hashed Time-Locked Contract', 'Onion Routing', 'Flexibility', 'Denial-of-Service']",combined_Ask-First-Shoot-PTLC-HTLC-Later
+"['Bitcoin Core', 'Lightning']","['Vulnerabilities', 'Mitigations', 'LDK']",combined_Full-Disclosure-CVE-2021-41591-CVE-2021-41592-CVE-2021-41593-Dust-HTLC-Exposure-Considered-Harmful-
+"['Seed', 'Lightning', 'MuSig', 'Privacy', 'Blockchain']",['Channel Keys'],combined_Deriving-channel-keys-deterministically-from-seed-musig-and-channel-establishment-v2
+"['Lightning', 'Onion']","['HTLCs', 'PTLCs']",combined_A-Mobile-Lightning-User-Goes-to-Pay-a-Mobile-Lightning-User-
+"['Taproot', 'Eltoo', 'Lightning', 'MuSig']","['Payment Channel', 'Revocable Signatures', 'Layering of Payments', 'Child Pays for Parent (CPFP)', 'Deterministic Nonces', 'PTLC', 'Scorched Earth Punishments', 'Generalized Payment Channels', 'BOLT#3']",combined_Lightning-over-taproot-with-PTLCs
+"['Fees', 'Lightning', 'Routing']","['Inbound fees', 'Liquidity', 'HTLCs', 'Failed payments', 'Reliability', 'Fee structure', 'Network traffic']",combined_Inbound-channel-routing-fees
+['Lightning'],"['Wumbo message', 'BOLT 8', 'Message transmission']",combined_Using-BOLT-8-to-Send-Wumbo-Messages
+"['Testing', 'Onion', 'Sphinx', 'Fee Management', 'Routing']","['DHT', 'HORNET', 'Graph', 'Min-Cost Flow', 'Dynamic Ranking', 'Channels']",combined_Testing-a-Flare-like-routing-implementation-on-2500-AWS-nodes
+"['Lightning', 'UTXO']","['Onion Routing', 'Payment Channels']",combined_Payment-presentation-strawmen-
+"['Onion', 'Lightning', 'Routing', 'Schnorr']",['Bitcoin'],combined_-BOLT-Draft-Onion-Routing-Spec
+"['Atomic Swaps', 'Fees', 'Privacy', 'Lightning', 'Routing']",[],combined_Atomic-payment-to-multiple-parties-and-payment-amount-obfuscation
+['Lightning'],"['HTLC', 'Research Paper Writing']",combined_Minutes-of-Dev-Meeting-2017-07-10
+['Lightning'],"['W3C Web Payments Working Group', 'Payment Request API', 'Bitcoin']",combined_W3C-Web-Payments-Working-Group-Payment-Request-API
+"['Topology', 'Lightning', 'C-Lightning', 'Network']","['Listchannels', 'Gossip Dump', 'Explorer Sites', 'LN Node', 'Listnodes']",combined_Measuring-Lightning-Nodes
+"['Libbitcoin Kernel', 'P2P', 'Package Relay', 'Mining', 'Research', 'Asmap', 'Pools', 'Assumeutxo', 'Segwit', 'Fees', 'Mempool', 'Lightning', 'Privacy', 'Bitcoin Core', 'FROST', 'Libsecp256k1', 'Stratum-V2...', 'P2pool', 'Silent Payments', 'Fuzzing', 'Schnorr']",[],combined_Lack-of-capacity-field-in-channel-announcement-makes-life-difficult-Why-is-it-not-there-
+['Lightning'],"['Flow Network', 'Routing Payments', 'Node Centrality']",combined_Measuring-centrality-of-nodes-in-LN-graph
+"['Lightning', 'smart contracts']","['Poon-Dryja', 'HTLC', 'Decker-Wattenhofer', 'Decker-Osuntokun-Russell']",combined_Arbitrary-Bitcoin-Contracts-over-LN
+"['Splicing', 'Fees', 'Lightning']","['Redundancy', 'Onion Routing', 'Rebalancing', 'Channels']",combined_Free-Rebalancing-Proposals
+"['Splicing', 'Protocol']","['Lightning Network', 'BOLT', 'Atomic Multi-Path (AMP) payments', 'Gossip Protocol']",combined_Including-a-Protocol-for-splicing-to-BOLT
+['Lightning'],"['Invoicing', 'Contracts', 'State Updates']",combined_Make-Me-An-Offer-Next-Level-Invoicing
+[],"['Watchtower Hacks', 'Payment for Anchors', 'UTXO Set', 'Commitment Format', 'To_Self_Delay', 'Dust Relay Fee', 'Unbalanced Transactions', 'Commitment Transactions', 'Anchor Outputs', 'Bitcoin Rules', 'Distinct Values', 'Dust Limit', 'Lightning Network Protocol', 'Key Rotation', 'Channel Opening', 'Fee Rate Fluctuations']",combined_-PATCH-First-draft-of-option-simplfied-commitment
+['Multisig'],"['Lightning Network', 'Barrier Escrows', 'Payment Points', 'High AMPs', 'Scriptless Scripts', 'Complex Access Structures', 'Stuckless Payments', 'DLCs', 'Pointlocked Branches', 'Premium-free American Call Option Mitigation', 'Proof of Payment', 'Scripting Languages', 'Commitment Applications', 'Improving Lightning Network', 'Atomic Payments', 'Escrow']",combined_A-Payment-Point-Feature-Family-MultiSig-DLC-Escrow-
+"['Lightning', 'Atomic Swaps']","['Elliptic Curve', 'Secrets Exchange']",combined_Atomic-Secrets-Exchange
+"['Lightning', 'Privacy']","['Communication Channel Security', 'Asynchronous Payments', 'Locked Up Capital']",combined_asynchronous-Lightning-network-payments
+[],"['Rendezvous', 'Lightning Network', 'Trampoline']",combined_Rendez-vous-on-a-Trampoline
+['Lightning'],"['Channel Factory', 'Local Publication', 'Axiom of Terminus']",combined_Unpublished-Channels-and-a-Proposal-for-Local-Channel-Publication
+['Lightning'],"['Payment Points', 'bip-schnorr', 'PTLCs', 'Proof of Payment', 'AMPs']",combined_Proposal-AMPs-With-Proof-of-Payment
+"['Fees', 'Lightning', 'Routing']","['Tools', 'Education']",combined_Increasing-fee-defaults-to-5000-500-for-a-healthier-network-
+"['Lightning', 'Protocol']","['State Machine', 'Enums', 'Bitcoin Network']",combined_A-state-machine-
+"['Fees', 'Privacy', 'Lightning', 'Routing']","['Fraudulent behavior', 'Onion routing', 'Payment channel system', 'Hash Time-Locked Contracts (HTLCs)', 'Collusion', 'Bitcoin transactions', 'Security measures']",combined_Loop-attack-with-onion-routing-
+['Atomic Swaps'],['Lightning Network'],combined_Atomic-swap
+"['Onion', 'sha256', 'MAC', 'Routing']","['Lightning Network', 'Symmetric keys', 'Padding', 'Probing attacks', 'ECDH', 'CTR mode', 'Parallel probes', 'HMAC', 'Transaction routes', 'HTLCs', 'Coffee', 'R value']",combined_Onion-routing-design-
+"['Lightning', 'Timelocks']","['Hashed Time-Locked Contract', 'Malleability Fixes']",combined_Decker-Wattenhofer-channels
+[],"['Lightning Network', 'HTLC Rejection', 'Close ACK Stage', 'Closing Flows and States', 'State Coverage Testing']",combined_Minor-protocol-revisions-
+"['Wallet', 'Fees', 'Security', 'Privacy', 'Consensus', 'Lightning', 'Routing', 'Blockchain']",['Peer-to-peer'],combined_Ionization-Protocol-Flood-Routing
+"['Payment', 'Lightning', 'Protocol']","['Timeout', 'Node', 'Refund']",combined_Payment-and-Refund-Stuck
+"['Bitcoin Core', 'Research', 'Consensus', 'Lightning']","['Git repository', 'RFC-like process']",combined_Standardization
+"['Lightning', 'Routing', 'Topology']",[],combined_network-topology-and-routing
+['Lightning'],"['Trust Relationships', 'Virtual Channels']",combined_Virtual-channels
+"['Libbitcoin Kernel', 'P2P', 'Package Relay', 'Mining', 'Research', 'Asmap', 'Pools', 'Assumeutxo', 'Segwit', 'Fees', 'Mempool', 'Lightning', 'Privacy', 'Bitcoin Core', 'FROST', 'Libsecp256k1', 'Stratum-V2...', 'P2pool', 'Silent Payments', 'Fuzzing', 'Schnorr']",[],combined_Lightning-dev-Digest-Vol-35-Issue-13-sighash-noinput-watchtowers-
+[],"['BOLTs', 'Experimental Features Protocol', 'Lightning Network Improvement Proposals']",combined_proposal-for-Lightning-Network-improvement-proposals
+['Lightning'],['Patents'],combined_Second-Level-Protocols-Lightning-Patents
+"['Lightning', 'Routing Failures', 'Smart Contracts']",['Rebalancing'],combined_Rebalancing-argument
+[],"['HTLC-GP', 'compensation', 'Griefing-Penalty', 'Hashed Timelock Contract', 'payment protocol', 'mitigating griefing attacks', 'Reverse-Griefing attack', 'Bitcoin-compatible PCNs']",combined_Griefing-Penalty-A-proposal-for-mitigating-Griefing-Attack
+"['security', 'Lightning', 'Miners']","['micropayments', 'commitment transaction', 'Dust Inflation attacks', 'channel creation', 'spam-protection efficiency', 'counterparty', 'HTLCs', 'spec change', 'Lightning protocol', 'mining pool', 'collusion', 'forwarding node', 'attack scenario']",combined_Miners-Dust-Inflation-attacks-on-Lightning-Network
+"['Lightning', 'Routing', 'Blockchain']","['Mastering the Lightning Network', 'HTLC', 'Unspent Transaction Outputs', 'BOLT 2', 'BOLT 3']",combined_Force-close-of-channel-with-unresolved-htlc
+[],"['Lightning Network', 'Incremental Collection', 'Pathfinding Algorithms', 'Tenuring', 'Semispace Collection', 'Garbage Collection', 'Cheney', 'Array-based Routemap Representation', 'Tri-color Abstraction']",combined_Array-based-Routemap-Representation-and-the-Advantages-of-Cheney-2-Finger-Garbage-Collection
+['Lightning'],"['Invoices', 'Subscription-based services', 'Machine-to-machine payments']",combined_Machine-to-machine-LN-payments
+"['Libbitcoin Kernel', 'P2P', 'Package Relay', 'Mining', 'Research', 'Asmap', 'Pools', 'Assumeutxo', 'Segwit', 'Fees', 'Mempool', 'Lightning', 'Privacy', 'Bitcoin Core', 'FROST', 'Libsecp256k1', 'Stratum-V2...', 'P2pool', 'Silent Payments', 'Fuzzing', 'Schnorr']",[],combined_Single-funder-anchor-model-
+['Lightning'],"['Revocable Transactions', 'OP_CSV', 'HTLCs', 'Hash Time-Locked Contracts', 'Private Keys']",combined_HTLCs-using-OP-CHECKSEQUENCEVERIFY-OP-LOCKTIMEVERIFY-and-revocation-hashes-
+[],"['Lightning Network', 'Timechain', 'Mailing List', 'Spam', 'Time-Lock Encryption']",combined_Timechain-Time-Lock-Encryption
+"['OP_RETURN', 'Lightning']","['nLockTime', 'Cheating', 'HTLC', 'Transaction Size', 'OP_CSV', 'Storage Limitations', 'Pubkeys', 'Anchor Upgrades', 'Payment Channels', 'Commitment Transaction']",combined_commitment-update-steps
+"['Lightning', 'Routing', 'Privacy', 'Fees']",[],combined_Routing-on-the-lightning-network-
+"['Hard Fork', 'Soft Fork', 'Miners']","['Lightning Network', 'Bitcoin Improvement Proposal', 'Vote', 'BIP62', 'OP_CHECKLOCKTIMEVERIFY', 'OP_CHECKSEQUENCEVERIFY', 'Deployment Timeline', 'Linux Kernel Developer']",combined_Lightning-modifications-draft-paper
+"['Locktime', 'P2SH']","['OP_CAT', 'Script Corrections', 'Outsourcing SPV Proofs', 'Signature Verification', 'Bitcoin Community', 'SPV Proof', 'Commitment Transactions', 'Merkle Tree Calculation', 'Lightning Network', 'Prover', 'Revocation', 'Pay-to-Script-Hash', 'Verifier', 'Incentivizing Nodes', 'Economic Security Model', 'Settlement Transactions', 'Txlen Limit', 'Simplified Payment Verification', 'Lightning Technology']",combined_OP-CHECKSPVPROOFVERIFY
+"['Fees', 'Security']","['Pre-Image', 'SIGHASH_NOINPUT', 'CLTV', 'Rebalancing', 'Blockchain Monitoring', 'Contestation Period', 'Reserve Funds', 'Graph Centralization', 'Timelock', 'Invalidation', 'Design of HTLCs', 'Commitment Transaction', 'Lightning Network', 'HTLC', 'Dual-Funder Models', 'OP_CSV', 'OP_CSV Revocation', 'Commitment Transaction Update', 'Dual Anchor/Funding Versions', 'Channel Balance']",combined_Breach-of-contract-
+['Lightning'],"['Third-Party Notification Systems', 'Stealing Transactions', 'Outsourcability']",combined_Stealing-money-from-a-hub-
+"['bitcoinj', 'Lightning', 'Java']","['anchor problem', 'OP_DROP', 'dual anchors', 'OP_CSV', 'redeemscripts', 'trust dependencies', 'LN-Network', 'channel transactions', 'HTLC Receiver Redeemscript', 'output condition']",combined_Thoughts-on-HTLC-Scripts
+"['Segregated Witness', 'Lightning']","['Anchor transactions', 'Bitcoin chain', 'OP_CSV', 'Commitment Transactions', 'LN channels', 'Sighash modes', 'OP_CLTV']",combined_-RFC-Anchor-funding-transactions-without-segregated-witness
+"['Lightning', 'Security', 'Routing', 'Trust']",[],combined_Payment-Re-routing
+['Lightning'],['Channel Funding'],combined_Manual-channel-funding
+['Lightning'],"['Participation', 'BOLT', 'Network Connectivity', 'Trust Issues', 'Dual-Funding Channels', 'Circular Superhubs', 'LN Payments', 'Hubbing Service', 'Funding Channels', 'Channels']",combined_channel-reserve-satoshis-
+['C-Lightning'],"['Mailing List', 'Code Security Practices']",combined_Welcoming-a-New-C-lightning-Core-Team-Member-
+[],"['Lightning Network', 'Atomic Multi-Path Payments']",combined_AMP-Atomic-Multi-Path-Payments-over-Lightning
+"['C-Lightning', 'Security']",['GPG'],combined_-c-lightning-Welcoming-a-New-C-lightning-Core-Team-Member-
+['Lightning-Network'],['Proof-of-Payment'],combined_Proof-of-payment-Re-AMP-Atomic-Multi-Path-Payments-over-Lightning-
+"['Lightning', 'Privacy']","['Onion Routing', 'Proof-of-Payment', 'Identity']",combined_Privacy-issues-with-proof-of-payment
+"['Sphinx', 'Lightning', 'Onion']",[],combined_QuickMaths-for-Onions-Linear-Construction-of-Sphinx-Shared-Secrets
+"['Lightning', 'muSig', 'Schnorr']","['SIGHASH_NOINPUT', 'Channel State Updates', 'Scriptless Scripts', 'Penalty Transactions', 'Timelocked Transactions', 'HTLCs', 'Channel Monitoring', 'Graftroot', 'Elliptic Curve Private Keys']",combined_Post-Schnorr-lightning-txes
+"['Lightning', 'Synchronization']","['Timestamp Mechanism', 'Topology Synchronization', 'Gossip Protocol', 'Initial Sync', 'Channel Announcements', 'IBLT Approach']",combined_Improving-the-initial-gossip-sync
+"['Lightning', 'Routing']","['Channel Rebalancing', 'AMP', 'Connectivity']",combined_channel-rebalancing-support-kind-of-exists-already-
+"['Cryptography', 'Mining', 'P2P', 'Bitcoin Core', 'Research', 'Wallet', 'Testing', 'Fees', 'Security', 'Soft Fork', 'Altcoin', 'Consensus', 'Lightning', 'Multisig', 'Hard Fork', 'Privacy', 'Segwit']",[],combined_Pizza-for-lightning-bitcoins-
+"['Routing', 'Trust']","['Lightning Network', 'Counterparty Risk']",combined_Routing-and-explicit-trust
+"['Lightning', 'Protocol']","['Commitment Scheme', 'Latency', 'HTLCs', 'Node Connectivity']",combined_Simplified-protocol-for-multiple-in-flight-updates-
+"['Lightning', 'Protocol', 'Routing']","['Elkrem', 'Multi-sig transactions', 'Crypto', 'Shachain', 'Wire protocol', 'Inter-node protocol', 'Micro-transaction']",combined_Laundry-list-of-inter-peer-wire-protocol-changes
+"['Lightning', 'Protocol']","['Transaction', 'HTLC', 'Orchestration', 'Commitment Signature']",combined_Protocol-for-multiple-in-flight-updates-
+"['Lightning', 'Fees']","['Vulnerability', 'Countermeasures']",combined_SIGHASH-SINGLE-update-fee-Considered-Harmful
+"['Taproot', 'Lightning', 'Synchronization', 'MuSig', 'Privacy']","['Key Aggregation', 'Revocable Signatures', 'Scriptless Scripts', 'Storage Complexity', 'Simplicity', 'Witness Asymmetric Channels', 'Efficiency', 'HTLC Offers']",combined_Witness-asymmetric-payment-channels
+"['Taproot', 'Eltoo', 'Smart Contracts', 'Privacy']","['State Update', 'Channel Factory', 'Anonymity Set', 'Multi-Party Channel', 'CLTV', 'Commitment', 'Decker-Russell-Osuntokun', 'Zero Knowledge', 'Settlement', 'SIGHASH_ANYPREVOUT', 'Watchtower', 'Escrow']",combined_Simulating-Eltoo-Factories-using-SCU-Escrows-aka-SCUE-d-Eltoo-
+"['Wallet', 'Security', 'Custody', 'Lightning', 'Privacy', 'Blockchain']","['Invoices', 'Description']",combined_Remove-Description-From-Bolt11-Invoices
+"['Onion', 'Lightning']","['Fee Revenue', 'Peer-to-Peer', 'Decentralized', 'Compensation', 'Forwarding Nodes', 'Rate Limiting Policies', 'Node Announcement', 'AMP Payment', 'Network Bandwidth', 'Payment System', 'Incentivizing Nodes', 'Bandwidth Metered Payment', 'Onion Messaging Session', 'bLIP', 'TLV', 'Bookkeeping', 'Pseudonymous Messaging', 'BOLT Tracker', 'Arbitrary Data Transfer', 'HTLC Onion Blob']",combined_A-Proposal-for-Adding-Bandwidth-Metered-Payment-to-Onion-Messages
+['Lightning'],"['Pipelining', 'HTLC', 'Batching', 'Revoke and Ack', 'Chain Fees', 'Concurrent Signatures', 'State Transitions', 'Exchange of Messages', 'Multi-hop Scenario', 'User Latency', 'Off-chain', 'Commitment Transaction']",combined_Normal-operation-questions
+"['Wallet', 'Lightning']","['BOLT', 'AMP', 'bLIP']",combined_Future-of-Atomic-Multi-path-Payments-AMP-
+"['Lightning', 'UTXO', 'Taproot']",['Gossip'],combined_-RFC-Lightning-gossip-alternative
+"['P2P', 'Bitcoin Core', 'Encryption']","['Lightning Network', 'Authentication', 'Review', 'BOLT', 'OpenSSH', 'MITM Attacks', 'Shared Secret', 'Elliptic Curve']",combined_-BOLT-RFC-1-Encryption-spec
+['segregated witness'],"['escape redeem function', 'payment channel script', 'ScriptCode', 'shachain/elkrem', 'multi-party multi-signature', 'signatures', 'compact revocable broadcast script', 'Bitcoin transactions', 'OP_CODESEPARATOR', 'commit transactions', 'Lightning-dev mailing list']",combined_We-don-t-need-R-Value-how-OP-CODESEPARATOR-saves-the-day
+['testing'],"['BOLT #2', 'acknowledge field', 'transport level', 'protocol level', 'HTLC', 'update_commit/authenticate messages', 'Rusty', 'messages', 'restart conversations', 'fee updates', 'update_revocation messages', 'replay', 'lnd-like 64 bits unique id', 'communication']",combined_Acknowledgements-in-BOLT-2
+"['Encryption', 'Lightning', 'Routing']","['DDoS attacks', 'Identity theft', 'Core data']",combined_Maintenance-service-for-Lightning-Network
+"['Lightning', 'Routing', 'Privacy', 'Onion']",[],combined_Probing-final-receiver-with-refund-timeout
+['Lightning'],"['Shachain', 'Deterministic RValue Generation', 'Hashing', 'R-Value']",combined_Backward-deterministic-R-Value
+[],"['CPFP attack', 'Breach tx vulnerability']",combined_Breach-tx-vulnerability-CPFP-attack
+"['Lightning', 'Security', 'Decentralization', 'Blockchain']",[],combined_Lightning-dev-Digest-Vol-10-Issue-14
+"['Lightning', 'Schnorr', 'Soft Fork']",['JoinChannels'],combined_Thoughts-on-JoinChannels-benefits-for-LN-using-Schnorr-sig-
+"['Lightning', 'Security', 'Scalability', 'Decentralization']",[],combined_Proposal-Decentralized-Service-Provider
+"['Transactions', 'Balance', 'Lightning']","['Signature Verification', 'Opcode', 'Sequence Number', 'Bitcoin Scripting System', 'Revocation', 'Hash Preimages', 'LN Protocol', 'Message Signing']",combined_Simplifying-revocation-through-a-new-opcode-for-general-signature-verification-
+['Lightning'],"['Redemption', 'HTLC', 'Documentation', 'Timeouts']",combined_terminology
+"['Splicing', 'Lightning']","['Channel capacity', 'Fast spam prevention', 'Trampoline Routing', 'Payment Route Reservation', 'Circular route', 'Onion Routing', 'Stuckless Payments', 'Routing algorithms', 'Resource usage', 'ASCII graphics', 'Spam prevention', 'Performance', 'Prepayments', 'Node capacity', 'Privacy currencies']",combined_-Proposal-Payment-Route-Reservation
+['Splicing'],"['Lightning Network', '0-conf Splicing', 'Commitment Transactions', 'Double-Spend Risk']",combined_Proposed-changes-to-the-splicing-specification
+"['Onion', 'Privacy']","['Lightning Network', 'Liquidity', 'Routing Hops', 'Network Congestion', 'Payment Probing']",combined_Onion-messages-for-probing-scheme
+"['Fees', 'Lightning', 'Scalability', 'Eltoo', 'Routing']","['Usability', 'Timeout-Trees', 'Max_htlc', 'Dave', 'Tunable Penalties', 'Penalties', 'John Law', 'Feedback', 'Off-Chain', 'Gossiping', 'Channels', 'Factories', 'Paper', 'Community', 'Bitcoin Protocol', 'Efficiency', 'Capacity', 'Cheating', 'Resizing', 'Hierarchical Channels', 'Construction']",combined_Resizing-Lightning-Channels-Off-Chain-With-Hierarchical-Channels
+"['Transactions', 'Fees', 'Lightning']","['HTLC', 'Protocol Change', 'Reputation']",combined_Local-Reputation-to-Mitigate-Slow-Jamming
+"['Lightning', 'Privacy']",['Payment correlation attacks'],combined_Payment-correlation-attacks
+"['Mining', 'Submarine Swaps', 'Research', 'Testing', 'Threshold Signatures', 'Soft Fork', 'Hard Fork', 'Pools', 'Stratum-V2', 'Segwit', 'Ux', 'Wallet', 'Proof-of-Work', 'Layer 2', 'Lightning', 'C-Lightning', 'Privacy', 'IBD', 'Bitcoin Core', 'Segregated Witness', 'Sidechains', 'Multisig', 'Smart Contracts', 'Cryptography', 'P2pool', 'Scalability', 'Taproot', 'Eclair', 'Security', 'Proof-of-Stake', 'Altcoin', 'Consensus', 'Fuzzing', 'Routing']",[],combined_Ptarmigan-mainnet-release
+"['Taproot', 'Eltoo', 'MuSig']","['SIGHASH_NOINPUT', 'SIGHASH_ANYPREVOUT', 'Chaperone signatures', 'Collaborative path']",combined_Eltoo-anyprevout-and-chaperone-signatures
+"['encryption', 'SHA256', 'Lightning']","['malleability', 'filter hint', 'shachain/elkrem', 'Hashed TimeLock Contracts', 'HTLCs', 'hash trees', 'revocation keys', 'channel utilization', 'funding transactions', 'commit script', 'outsourcing work']",combined_Blinded-channel-observation
+['Lightning'],['Public Communication'],combined_A-Note-on-Public-Communication
+"['Mempool', 'Lightning', 'Mining', 'Bitcoin Core']",[],combined_Spending-to-local-output-of-commitment
+"['Validation', 'Testing', 'Lightning']","['Splice', 'Commitment Signed', 'Revoke and Ack', 'Protocol Issue', 'Announcement Signatures', 'Temporary Storage', 'Race Condition', 'Channel Activity']",combined_Splice-Lock-Race-Condition-Solution
+"['Scalability', 'Lightning', 'Smart Contracts']","['Lightning Network', 'Transaction Speed', 'Protocol Development', 'Linux Foundation', 'Bitcoin', 'Design']",combined_Highly-Available-Lightning-Channels
+"['Fees', 'Lightning', 'API']","['TLVs', 'Jamming Mitigation', 'Proof-of-Forwarding', 'GitHub']",combined_Jamming-Mitigation-Call-Summary-02-06
+"['P2P', 'Lightning']","['Rate Limiting', 'Anti-spam', 'Anti-sybil', 'Channels']",combined_3-way-channels-and-0-conf-channels
+[],"['RFC2119', 'protocol design', 'lightning network', 'BOLTs']",combined_BOLTs-and-meaning-of-MUST-in-potentially-adversarial-contexts
+['Fees'],"['CPFP', 'Unilateral Closing', 'Lightning Network']",combined_-Question-Unilateral-closing-during-fee-increase-
+"['Lightning', 'Routing', 'Onion']",['Annotations'],combined_Descriptive-annotations-visible-to-intermediate-nodes
+"['Fees', 'Lightning']","['Channel', 'HTLC', 'BOLT 2', 'Race Condition', 'Channel Parameters', 'Channel Reserve Requirement', 'BOLT 3', 'Commitment Transaction']",combined_Insufficient-funder-balance-for-paying-fees
+"['Bitcoin Core', 'Lightning', 'c-lightning']","['Bitcoinj APIs', 'Lightning Charge API']",combined_How-to-use-LN
+"['Lightning', 'Segregated Witness', 'Layer 2']",[],combined_lnd-on-bitcoind
+"['Forks', 'Altcoin', 'Consensus', 'Lightning', 'Segwit']",[],combined_lightning-operation-during-following-a-chain-fork-e-g-BIP-50-
+"['Lightning', 'Routing', 'Fees']",[],combined_negative-fees-for-HTLC-relay
+"['Lnd', 'Payment', 'Lightning', 'C-Lightning']","['Invoice', 'Mailing List', 'Issue Tracker', 'Amountless Invoices', 'Github']",combined_Invoice-without-amount
+"['Lightning', 'Fees']",[],combined_Fee-disentanglement-for-1-1-spec-
+"['Lightning', 'Nodes', 'Testing']",['Mainnet'],combined_Receiving-node-on-mainnet-
+"['Replace-by-fee', 'Lightning', 'Blockchain']","['BOLT spec', 'Channel', 'Transaction fees']",combined_Replaceable-Funding-Transactions
+"['Segregated Witness', 'Lightning']","['BOLT', 'WatchTower', 'Transaction Malleability', 'BIPs', 'Block Size Limit', 'Transaction Fees', 'Channel Funding']",combined_SegWit-and-LN
+"['Replace-by-fee', 'Lightning', 'Protocol']","['Channel', 'Multi-channel funding', 'Timeout', 'Node software', 'Fundee node', 'Broadcast', 'Opening protocol', 'RBF funding transaction', 'Funding transaction', 'Funder node']",combined_-1-1-Proposed-funding-cancelled-message
+['Lightning'],"['Optimization', 'Specification']",combined_rfc-using-payment-hash-fields-txn-vs-the-others
+"['Wallet', 'Payment', 'Lightning', 'Routing']","['Open Channel', 'Mobile Wallets']",combined_Pay-payment-request-with-an-openchannel-push-sat
+"['Lightning', 'JSON-RPC']","['interoperability testing', 'key rotation', 'communication logs', 'BOLT', 'protocol transcripts', 'Wireshark']",combined_Wireshark-plug-in-for-Lightning-Network-BOLT-protocol
+['Splicing'],['Lightning Network'],combined_Splicing-Proposal-Feedback-please-
+['C-Lightning'],['Release'],combined_-RELEASE-c-lightning-0-6-2-The-Consensus-Loving-Nasal-Daemon
+"['Payment', 'Lightning', 'Routing']","['Circuit', 'HORNET', 'Probe Request', 'Node', 'Revocation', 'BOLT 2', 'Hashed Time-Locked Contracts', 'AMP']",combined_Improving-payment-UX-with-low-latency-route-probing
+"['Fees', 'Security', 'Lightning', 'Protocol']","['Trustless Payments', 'Bitcoin']",combined_RFC-simplifications-and-suggestions-on-open-accept-limits-
+"['Lightning', 'C-Lightning', 'Routing']",[],combined_RouteBoost-Adding-r-fields-to-BOLT-11-invoices-to-flag-capacity
+[],"['local_delayedpubkey', 'OP_TRUE-style output', 'managing on-chain fees', 'Commitment Transaction Format Update Proposals', 'CLTV timeout', 'feerate for commitment transactions', 'CPFP', 'two-stage unhardened BIP-32 derivation', 'on-chain fees', 'local_htlcpubkey', 'static channel backup and recovery workflow', 'commitment_style2 feature', 'peer closing', 'BIP-32-style', 'Lightning Network developers', 'option_data_loss_protect', 'SIGHASH_ANYONECANPAY|SIGHASH_SINGLE for HTLC transactions', 'backup and recovery workflow', 'remote_delayedpubkey', 'initial funder', 'efficiency of the Lightning Network', 'localpubkey', 'fee management process', 'HTLC-timeout and HTLC-success txs sigs', '253 satoshi/Sipa', 'remote_htlcpubkey', 'symmetrical timeouts on the CLTV', 'spikes in on-chain fees', 'remotepubkey', 'channel closures']",combined_Commitment-Transaction-Format-Update-Proposals-
+"['Lightning', 'Routing']","['Syncing', 'Channel Updates']",combined_Proposal-for-syncing-channel-updates
+"['Eltoo', 'Lightning']","['False Positive Nodes', 'Static and Dynamic Channel Backups', 'Recovering Protocol', 'Watchtowers', 'Data Loss Protection']",combined_Recovering-protocol-for-Lightning-network
+"['Nodes', 'Eltoo']","['Lightning Network', 'Peer-to-Peer Network', 'Gossip Protocol', 'Double Spend Attacks', 'Atomic Multipath Protocol', 'Trustless Watchtowers', 'False Positives', 'Remediation Protocol']",combined_The-problem-of-false-positives-for-double-spend-attacks
+"['Lightning', 'Multisig']","['HTLC', 'Scripts', 'Bitcoin transactions', 'Escrow']",combined_2-of-3-Instant-Escrow-or-How-to-Do-2-of-3-Multisig-Contract-Equivalent-on-Lightning
+"['Lightning', 'Onion']",['Git Repositories'],combined_Some-more-lightning-related-git-repos
+['Testing'],"['Lightning Network', 'Version Management', 'Contributions', 'Interoperability', 'Resource Allocation']",combined_INTEROPERABILITY
+"['Lightning', 'Path-Finding', 'Routing', 'Fees']",[],combined_Route-reliability-fee-trade-off-control-parameter
+[],"['Scriptless Multisig', 'Half-Delegation', 'Delegation', 'Chaperone Signatures', 'APO', 'CTV', 'Signing Methods']",combined_Half-Delegation-Chaperones-for-Decker-Channels
+"['Transactions', 'Lightning', 'Incentives']","['Liquidity', 'Funds', 'CLTV', 'HTLC', 'Leases', 'Marketplaces']",combined_Liquidity-Ads-and-griefing-subtleties
+"['Package Relay', 'UTXO', 'Lightning']","['Permissions', 'Mobile Wallets', 'Child Pays for Parent (CPFP)', 'Transaction Construction', 'Implementation Complexity', 'Anchor Outputs', 'Dust Outputs', 'Cleanup Mechanism', 'Mempool Precedence', 'Feasibility', 'HTLCs', 'Vulnerability', 'CSV Delays', 'Wallet Outputs', 'Channel Balance', 'Chain Space Consumption']",combined_The-remote-anchor-of-anchor-channels-is-redundant
+"['Lightning', 'C-Lightning']","['MPP', 'routehints', 'invoices', 'congestion', 'channel capacity']",combined_Thoughts-on-Improving-MPP
+['Lightning'],"['Commitments', 'Bitcoin-dev Mailing List', 'Anchor Commitments', 'On-the-fly Commitment Format Changes', 'Upgrade Transaction', 'Flow-Control', 'TLV Fields', 'Protocol Modification', 'Channel Types']",combined_Dynamic-Commitments-Upgrading-Channels-Without-On-Chain-Transactions
+"['Mining', 'P2P', 'Research', 'Testing', 'Hard Fork', 'Soft Fork', 'Zero-Knowledge', 'Fees', 'Regulation', 'Lightning', 'Attacks', 'Privacy', 'Sidechains', 'Multisig', 'Smart Contracts', 'Script', 'Cryptography', 'Taproot', 'Security', 'Consensus', 'Routing']",[],combined_Proposal-for-skip-channel-confirmation-
+"['Lightning', 'Fees']","['On-Chain Fees', 'HTLCs']",combined_Why-should-funders-always-pay-on-chain-fees-
+"['MuSig', 'Taproot', 'Schnorr']","['Bob', 'Optimal Path', 'Value Ra', 'Payment Forwarding', 'Feedback', 'Parallel Composition', 'Value C', 'Signing Algorithm', 'Original MuSig Paper', 'Alice', 'Commitment Transaction', 'Lightning Network', 'Random Value', 'Value Rb', 'Zeeman', 'Value Sb', 'Sequential Composition', 'Point-Time Locked Contracts', 'Evaluation', 'Scriptless Lightning Protocol', 'Communication', 'Observation', 'Lightning Channels', 'Keys', 'G']",combined_two-round-MuSig-less-dangerous-than-it-seems
+"['Bitcoin Core', 'Lightning', 'Fuzzing']","['State Machine', 'Bugs', 'Splice Negotiation']",combined_-RFC-Simplified-but-less-optimal-HTLC-Negotiation
+"['Lightning', 'Routing']",['Incremental Routing'],combined_Incremental-Routing-Was-Making-some-channel-limits-dynamic-
+"['Signature', 'Bitcoin Core', 'Security', 'Layer 2', 'Lightning', 'Protocol']","['Transaction', 'Vulnerability']",combined_Full-Disclosure-CVE-2020-26895-LND-Hodl-my-Shitsig-
+['Lightning'],"['Spam Attacks', 'HTLC', 'Channel', 'Hold Fees', 'Grace Period', 'Mining Fee', 'Refunds']",combined_Hold-fees-402-Payment-Required-for-Lightning-itself
+"['Onion', 'Lightning', 'Routing']","['Trampoline', 'MPP', 'Channel Parameters']",combined_Making-some-channel-limits-dynamic
+"['Lightning', 'LND']","['Upgrade', 'Vulnerability Disclosure']",combined_Partial-LND-Vulnerability-Disclosure-Upgrade-to-0-11-x
+"['Lightning', 'Protocol']","['Provably Fair Gambling System', 'Stuckless Payments', 'Satoshi Dice', 'Bet', 'Numbers', 'Gambling', 'Capital', 'Payout', 'Stake', 'Payment-Triggered Lightning Contract', 'Spam Defenses', 'PTLC', 'Efficiency', 'Cheating', 'Wager', 'Cryptographic Payout', 'Messages', 'Security Model']",combined_Lightning-dice
+"['Taproot', 'UTXO']","['Lightning Proposal', 'PoDLE', 'Parallel Attacks']",combined_PoDLEs-revisited
+"['Security', 'Lightning']","['Key Management', 'Threshold Cryptography', 'Quorum']",combined_Battlement-A-Quorum-Based-Design-for-Lightning-Network-Key-Management
+"['Bitcoin Core', 'UTXO', 'Lightning', 'PSBT', 'Schnorr']","['RBF', 'JoinMarket']",combined_DRAFT-interactive-tx-construction-protocol
+"['Lightning', 'Routing', 'Privacy']",[],combined_A-New-Routing-Paradigm-Ant-Routing-getroutequick-Trampoline
+"['Lightning', 'Privacy']",[],combined_A-proposal-for-up-front-payments-
+['Lightning'],['Libp2p'],combined_Using-libp2p-as-a-communication-protocol-for-Lightning
+"['Lightning', 'Privacy']","['Short Channel ID', 'Onion Routing', 'Node ID']",combined_Decoy-node-ids-and-short-channel-ids
+"['Fees', 'Onion', 'Lightning', 'Routing', 'Sphinx', 'Privacy']","['Trampoline', 'Rendezvous Routing']",combined_Sphinx-Rendezvous-Update
+"['Lightning', 'Routing', 'Privacy']",[],combined_New-paper-on-ant-routing
+"['Onion', 'Lightning']","['HTLCs', 'Payment Confirmation', 'Channels']",combined_Few-questions
+['Sphinx'],"['Push Notifications', 'Lightning Network']",combined_Sphinx-and-Push-Notifications
+"['Onion', 'Limitations', 'Routing']","['Compression', 'Fee-free Rebalancing', 'Trampoline', 'Upfront Payment', 'Spam Prevention', 'Non-persistent Storage', 'Disruption', 'Specifications', 'HMACs', 'Node', 'Lightning Network', 'Higher-level Protocols', 'Implications', 'Messaging System', 'Circuit', 'Reasonable Timeouts', 'Circular Payment', 'HTLCs', 'Reply', 'Timing Attacks', 'Challenges', 'Rendez-vous Construction', 'Communication', 'Developers', 'Chaumian Tokens']",combined_Direct-Message-draft
+"['Mining', 'Bitcoin Core', 'Package Relay', 'Mempool', 'Security', 'Consensus', 'Lightning', 'Attacks', 'Fee Management', 'Routing']",[],combined_On-massive-channel-closing-and-fee-bumping
+"['Fees', 'Balance', 'Lightning', 'PSBT']",['Channels'],combined_Opening-balanced-channels-using-PSBT
+['Lightning'],"['Stateless Invoices', 'Hash Time-Locked Contracts (HTLCs)', 'Proof-of-Payment', 'BOLT12 Protocol']",combined_Stateless-invoices-with-proof-of-payment
+['Lightning'],"['Payment Optimization', 'Pathfinding Algorithms', 'Base Fees', 'NP-hard Problem']",combined_Do-we-really-want-users-to-solve-an-NP-hard-problem-when-they-wish-to-find-a-cheap-way-of-paying-each-other-on-the-Lightning-Network-
+"['Lightning', 'Path-Finding', 'Protocol']","['MPP Split', 'Balance Transfer', 'LN-Nodes', 'Micropayment System']",combined_Bandwidth-in-Lightning-Network-
+[],"['Lightning Network', 'hierarchical distribution of DNS', 'DNSSEC', 'lnurl-rfc', 'BOLT', 'peer-to-peer gossip protocol', 'LN nodes', 'DNS root servers', 'DNS', 'bLIP']",combined_DNS-records-for-LN-nodes
+"['Cryptography', 'Lightning', 'Bitcoin Core', 'Signature']",[],combined_Negotiating-Committing-Signatures
+"['Mining', 'Bitcoin Core', 'Fees', 'Segregated Witness', 'Lightning', 'Miners']",[],combined_Lightning-fees-vs-miner-fees
+"['Cryptography', 'Encryption', 'Lightning', 'Protocol']",['HMAC'],combined_-PATCH-v3-daemon-encrypted-communication-version-3-
+"['Python', 'Onion', 'sha256', 'Lightning', 'libsecp256k1']","['ECDH', 'Github', 'AES128']",combined_Onion-routing-strawman-proposal
+['Lightning'],"['IRC', 'Pubkey-Channel-Relationships', 'Peer Protocol', 'Node addresses/IP', 'Channel-Status']",combined_Specifications-of-Broadcasting-Layers
+"['Lightning', 'Blockchain', 'Scalability']",['Malleability'],combined_Preventing-MITM-Providing-new-nodes-with-real-pubkeys
+"['Cryptography', 'P2P', 'Security', 'Consensus', 'Lightning', 'Routing']",[],combined_daemon-p2p-protocol
+"['Lightning', 'JSON-RPC']","['grpc', 'clightning/lightning-dev', 'lnsocket', 'Interface Definition Language (IDL)', 'RPC']",combined_Lightning-RPC
+"['Lightning', 'Security', 'Routing']",[],combined_SPSP-Simple-Protocol-for-Spontaneous-Payments
+"['Lightning', 'Routing']","['SDN technologies', 'Mesh network']",combined_Mesh-network-problem
+"['Lightning', 'UTXO', 'Multisig', 'Routing']",[],combined_help
+"['Bitcoin Core', 'Fees', 'Mempool', 'Eclair', 'Lnd', 'Lightning', 'C-Lightning', 'Segwit']",[],combined_Imposing-minimum-253-sat-ksipa-feerate-
+"['Database', 'Payment', 'Lightning', 'Decentralization']",['Redundancy'],combined_New-idea-on-decentralized-identity-and-truth-Re-Numerifides-
+['Lightning'],['Payment Channels'],combined_Single-channel-on-mobile-clients
+"['Lightning', 'Incentives']","['Channel Design', 'DoS', 'Vulnerability', 'Transaction Fees']",combined_Analysis-alternative-DoS-prevention-concept
+"['Security', 'Privacy', 'Onion', 'Payment', 'Lightning', 'Routing']",['Messaging'],combined_Onion-Routing-for-Messages
+"['Routing', 'Scalability']",[],combined_Route-finding
+"['Mining', 'Research', 'Testing', 'Hard Fork', 'Soft Fork', 'Pools', 'Fees', 'Regulation', 'Lightning', 'Attacks', 'Privacy', 'Sidechains', 'Academia', 'Fungibility', 'Multisig', 'Smart Contracts', 'Cryptography', 'Scalability', 'Security', 'Consensus', 'Routing']",[],combined_Lightning-hubs-and-pooled-reserves
+"['Sphinx', 'Routing Failures', 'Cryptography', 'Onion']",[],combined_An-Alternative-Onion-Routing-Proposal
+"['Cryptography', 'Segregated Witness', 'Proof-of-Work', 'Payment', 'Lightning', 'Hash', 'Soft Fork', 'Privacy']","['Zero-Knowledge Proofs', 'Elliptic Curve']",combined_Better-privacy-with-SNARKs
+"['Payment', 'Lightning', 'Decentralization']","['Round-Trip Times', 'Transaction Time', 'Latency', 'Network Proximity', 'Bitcoin Node Latency']",combined_Transaction-time
+"['fees', 'Bitcoin Core', 'Lightning']","['command line', 'LN node management', 'web application', 'RPC interface', 'wallet integration', 'reports on transactions', 'GUI']",combined_GUI-for-Lightning-Network-
+"['Lightning', 'Multisig']","['Revocation Key', 'HTLC', 'Commitment Transactions', 'P2WPKH', 'BOLT2']",combined_Commitment-transaction-format-suggestions-proposals-
+"['Lightning', 'Security', 'Segregated Witness']",[],combined_LN-without-SegWit-less-efficient-or-less-secure-
+"['Lightning', 'Bech32', 'Blockchain']","['Twitter', 'Acinq Research']",combined_A-better-encoding-for-lightning-invoices
+"['lnd', 'Protocol']","['Upgrade', 'UTXO Bloat', 'Force Closing', 'Master Branch', 'Polluting UTXO Set', 'Spec Meeting', 'CSV Delay', 'Anchor Outputs', 'Dynamic Commitment Update Protocol', 'Fee Burden', 'Implementation', 'Commitment Transaction']",combined_Anchor-Outputs-Spec-Implementation-Progress
+"['Security', 'Payment']","['Lightning Development', 'Cheating', 'Barrier-Reveal', 'Invoice Offers', 'Potential Solutions', 'Barrier Escrow', 'Point Commitment', 'Challenges', 'Blog Post', 'Barrier-Commit', 'Mitigation']",combined_Barrier-Escrow-Was-Re-A-Payment-Point-Feature-Family-MultiSig-DLC-Escrow-
+"['Privacy', 'Routing']","['Shared Secrets', 'Blind Paths', 'ECDH Blobs']",combined_Blind-paths-revisited
+"['Lightning', 'Protocol']","['Bitcoin transaction structure', 'ECDSA adaptor signatures', 'Cryptographic constructs', 'Discreet Log Contracts']",combined_DLC-channels-and-integration-in-the-Lightning-Network
+"['Lightning', 'Privacy']","['Proof-of-Closure', 'Payment Points', 'HTLC', 'Payment Decorrelation', 'Collusion', 'PTLC', 'Griefing Attacks']",combined_Proof-of-closure-as-griefing-attack-mitigation
+"['Taproot', 'Privacy', 'Lightning']","['Discreet Log Contracts', 'Equivocation Protection', 'Defiads', 'PTLC', 'Oracles']",combined_An-update-on-PTLCs
+['Lightning'],['Bitcoin'],combined_Lightning-Network
+"['Fees', 'Mempool', 'UTXO', 'Lightning', 'Privacy']",['0-conf'],combined_Liquidity-griefing-for-0-conf-dual-funded-txs
+['Lightning'],"['Africa', 'Bitcoin', 'knowledge transfer', 'collaboration', 'LN Summit', 'communication']",combined_LN-summit-organisation-nully0x-
+['Atomic Swaps'],"['Hashed Time-Lock Contracts', 'Bitcoin Lightning Network']",combined_Locking-of-funds-by-both-parties-in-HTLC-to-enforce-penalty
+"['c-lightning', 'Lightning']","['plugins', 'HTLC', 'BOLT 04 specification', 'DOS attack', 'grieving', 'LND code', 'unresolved HTLCs', 'locktimes']",combined_Difference-between-ignoring-htlc-request-due-to-wrong-payment-hash-vs-refusing-to-release-preimage-in-LND
+"['Lightning', 'Decentralization']","['Merkle Tree', 'Usability', 'Offchain Systems', 'Node Behavior', 'Submarine Swap Network', 'Risk-Sharing', 'Proof-of-Uptime', 'OpenTimeStamps']",combined_Superbolt-Proposal-a-professionally-run-LN-subset-delivering-superior-UX
+"['Attacks', 'Client', 'Services', 'Protocol', 'Server']","['Table of contents', 'Hiring protocol', 'Payment modes', 'Transaction locator', 'Channel breaches', 'Receipt', 'Parameters', 'WatchTower', 'Precautions', 'Encryption key', 'Justice transactions', 'Appointments', 'Basic service', 'Lightning Network', 'Data update', 'Key/locator derivation', 'Signed receipt', 'Quality of Service', 'Encryption algorithms', 'Vulnerability', 'Client/server communication', 'Data encryption', 'Communication', 'No compression', 'Messages', 'Monitoring service', 'Discovery']",combined_-DRAFT-BOLT-13-WatchTower-protocol
+"['Fees', 'Routing']","['Capacity', 'Routing Tables', 'Pulse Protocol', 'False Advertising', 'Beacons', 'Payment Channels']",combined_Fwd-Re-Routing-Beacons
+"['UTXO', 'Lightning', 'Limitations']","['Commitment tx', 'Channel refill', 'Re-anchoring', 'Locked-in channel amount', 'Bitcoin addresses']",combined_Channel-refill
+"['Lightning', 'Offline']","['Flexible multi-party channel', 'On-chain activity', 'Capital', 'Signatures', 'Hubs', 'nLocktime', 'Fraud claim timeouts', 'Long-lasting existence', 'Multi-party channels']",combined_Multi-party-channels
+"['Blockchain', 'Segwit']","['Miner', 'Redeem', 'HTLC', 'Wire Protocol', 'Scripts', 'Node']",combined_Oversize-preimage-attack-
+"['Protocol', 'Lightning', 'Testing']",[],combined_BOLT-2-wire-protocol-YA-acknowledgement-change-
+"['Segregated Witness', 'Lightning']","['Revocation Delay', 'Commitment Design', 'Payment Timeouts']",combined_Updated-commitment-design-Release-thunder-network
+['Sphinx'],"['Packet Version', 'CLTV', 'HTLC', 'Associated Data', 'Replay Attack']",combined_Extending-Associated-Data-in-the-Sphinx-Packet-to-Cover-All-Payment-Details
+['C-Lightning'],"['Lightning Network', 'Proof-of-Payments']",combined_Proof-of-payments
+"['Fees', 'Privacy', 'Fairness', 'Payment', 'Lightning', 'Routing']","['Custodial service', 'BOLT11', 'URI schemes']",combined_Payee-pay-fee
+"['Lnd', 'Onion', 'Lightning', 'C-Lightning']","['Payload', 'TLV', 'ChaCha20']",combined_Multi-frame-sphinx-onion-format
+"['Lightning', 'routing']","['payment ACK', 'higher-level protocols', 'streaming payments', 'SURBs', 'HTLC', 'protocol-level', 'enforcing acknowledgments', 'Assured Message Payment', 'ACKs', 'AMP implementations', 'forward direction', 'subscription payments', 'Sphinx packet', 'black holed']",combined_SURBs-as-a-Solution-for-Protocol-Level-Payment-ACKs
+"['Scalability', 'Lightning']","['SIGHASH_NOINPUT', 'Plasma Chain', 'Efficiency', 'Multiparticipant Payment Channel', 'Simplified Payment Verification (SPV)', 'Neutrino', 'Full Node', 'Payment Channels', 'Fulgurite']",combined_LN-on-top-of-plasma-chain-
+"['Lightning', 'Onion']","['Channel ID', 'Probe']",combined_Making-unannounced-channels-harder-to-probe
+['Lightning'],"['Commitment Transaction', 'HTLC', 'Channel-Jamming Attacks', 'Capital Requirement']",combined_Increase-channel-jamming-capital-requirements-by-not-counting-dust-HTLCs
+"['Lightning', 'Multisig', 'Privacy', 'Bitcoin Core']",[],combined_Questions-on-lightning-chan-closure-privacy
+"['Lightning', 'Backup']","['UTXO set', 'Basepoints', 'Data loss protection protocol', 'Channel establishment workflow', 'Channel recovery']",combined_Recovery-of-Lightning-channels-without-backups
+"['Protocol', 'Lightning']","['Bitcoin', 'BOLTs']",combined_Lightning-Network-Protocol-Suite-Diagram-Request-for-feedback
+"['Lightning', 'Fees']","['Channel', 'BOLT']",combined_BOLT-2-question
+['Lightning'],"['Onion Routing', 'Spam Prevention', 'HTLCs', 'Blame Protocol']",combined_A-blame-ascribing-protocol-towards-ensuring-time-limitation-of-stuck-HTLCs-in-flight-
+"['taproot', 'musig']","['commit_sig', 'adaptor signatures', 'signing new commitments', 'commitment changes', 'feature bit', 'pre-signed HTLC-success transactions', 'update protocol', 'pre-signed HTLC signatures', 'round-trip', 'adaptor signature', 'protocol changes', 'commitment transaction procedures', 'fast-forwards', 'option_simplified_commitment', 'adaptor sigs', 'payment_hashes', 'toxic waste', 'pending PTLCs', 'MuSig2', 'script path', 'Lightning Network', 'PTLCs', 'HTLCs', 'utxo set', 'transaction structure', 'round-trips', 'revkey', 'PTLC outputs', 'signature nonces', 'round trips', 'option_simplified_update', 'messages', 'remote commitment', 'pubkey', 'MuSig spend', 'commitment transactions', 'privacy concerns', 'PTLC-offerrer', 'state information']",combined_PTLCs-early-draft-specification
+"['Lightning', 'Privacy']","['Cryptographic Authentication', 'Sender Authentication', 'Non-repudiation', 'Opt-in', 'Pre-image Hash']",combined_Payment-sender-authentication
+"['Lightning', 'Protocol']","['Payments', 'Invoice', 'Application Level']",combined_Split-payments-within-one-LN-invoice
+"['Miniscript', 'Lightning', 'Script']","['HTLC', 'SIGHASH_ALL', 'bip342']",combined_Interesting-thing-about-Offered-HTLCs
+"['Lightning', 'Privacy']","['Confidential transactions', 'OmniBOLT', 'Coinjoin', 'Bitcoin transactions', 'Stablecoin']",combined_lightning-channels-stablecoins-and-fifty-shades-of-privacy
+"['Transactions', 'Research', 'Lightning', 'Market', 'Routing']","['Heuristic', 'Parallel Channels', 'Piecewise Linearization', 'Channel Balances', 'Finite Number', 'Multi-Part Payments', 'Segmentation', 'Base Fees', 'Mission Control', 'Probabilistic Payment Delivery', 'MPPs', 'Optimized Routing', 'Proximity Results', 'Domain', 'Runtime', 'Minimum Convex Cost Flow', 'Approximation', 'Leftovers', 'lnd-manageJ', 'Pruning Channels']",combined_Code-for-sub-second-runtime-of-piecewise-linarization-to-quickly-approximate-the-minimum-convex-cost-flow-problem-makes-fast-multi-part-payments-with-large-amounts-possible-
+"['Taproot', 'Lightning', 'LND']","['MuSig2', 'channel_announcement2', 'musig2 partial signature', 'Bitcoin keys', 'on-chain output validation', 'P2TR', 'announcement_signatures']",combined_Taproot-aware-Channel-Announcements-Proof-Verification
+['Lightning'],"['Blockstream', 'End-to-end test', 'Misconfiguration', 'Invoicing', 'Demonstration', 'Version 0.5', 'Item delivery', 'Multi-hop payment', 'Web developers', 'Micropayment', 'Bugs', 'Documentation', 'Bitcoin', 'Libraries']",combined_Blockstream-Successfully-Tests-End-to-End-Lightning-Micropayment-Transaction
+"['Lightning', 'Bitcoin Core', 'Fees']",[],combined_Block-chain-fee-proposal-worked-out-in-more-detail
+"['Trust', 'Server']","['Unilateral Close', 'Recovering Data', 'Lost or Stolen', 'Clean Shutdowns', 'Encrypted Data', 'Mobile Devices', 'Channel State', 'Counterparty']",combined_Recovering-a-channel-state
+['Lightning'],['Multiparty Channels'],combined_Nucleus-Capital-efficient-multipeer-Lightning-payment-channels
+"['Lightning', 'Security']","['Usability', 'Code Review']",combined_Disclosure-Fake-channel-DoS-vector
+"['Fraud', 'Backup']","['Electrum Servers', 'Bayes Theorem', 'Data Loss', 'Restoring Wallet', 'Channel State', 'Conditional Probability', 'Probability']",combined_Backing-up-channel-state-with-counterparties
+['Sphinx'],"['KEM', 'Post Quantum', 'Kyber1024', 'Katzenpost Sphinx', 'Diffie-Hellman', 'Bandwidth Overhead', 'X25519', 'IND-CCA2 Security', 'KEM Combiners', 'PRF Function']",combined_faster-NIKE-Sphinx-or-more-secure-KEM-Sphinx
+['Decentralization'],"['Cheating Attempts', 'On-chain Enforcement', 'Backup Solution', 'Resumable Channels', 'Wallet Providers', 'Reputation Loss', 'Symmetric Resumable Channels']",combined_Resumable-channels-using-OP-CHECKSIGFROMSTACK
+"['TOR', 'Mining', 'Proof-of-Work']","['Onion Services', 'Lightning Network', 'Bitcoin']",combined_TOR-enabled-dynamic-Proof-of-Work-defense-for-onion-services
+"['Research', 'Privacy']","['Lightning Network', 'Real-world Data', 'Data Collection', 'Anonymization']",combined_Jamming-Mitigation-Dry-Run
+"['Lightning', 'Network']",[],combined_Paper-Modeling-a-Steady-State-Lightning-Network-Economy
+"['Submarine Swaps', 'Lightning', 'Routing']","['Instant Payment Transactions', 'Trampoline Routing', 'Capital', 'User Experience', 'Automated Inbound Liquidity', 'Just-in-time Routing']",combined_Proposal-Automated-Inbound-Liquidity-With-Invoices
+"['Privacy', 'Routing', 'Incentives']","['Fee Estimation', 'Trampoline Routing', 'Gossip Filters', 'Network Evolution', 'Engineering Trade-off', 'Bitcoin Improvement Proposal 37 (BIP37)']",combined_Fwd-Trampoline-Routing
+"['Scalability', 'Fees', 'Privacy', 'Onion', 'Lightning', 'Routing']","['Trampoline Routing', 'Gossip']",combined_Trampoline-Routing
+"['Lightning', 'Security']","['Upgrade', 'CVEs']",combined_CVEs-assigned-for-lightning-projects-please-upgrade-
+"['Lightning', 'Path-Finding', 'Routing']","['Precomputation', 'Optimizations', 'Caching']",combined_Improving-Lightning-Network-Pathfinding-Latency-by-Path-Splicing-and-Other-Real-Time-Strategy-Game-Techniques
+"['Segregated Witness', 'Lightning', 'Replace-By-Fee']","['Commitment Transaction Outputs', 'Malleability']",combined_BOLT3-Commitment-Transaction-Outputs-is-weak-to-malleability
+"['Consensus', 'Lightning', 'Bitcoin Core', 'Forks']",[],combined_Hello-every-ones-A-message-from-an-unknown-traveller-
+['Lightning'],"['invoice', 'intermediaries', 'time lock', 'payment protocol', 'BIP70', 'BOLT11']",combined_Lightning-dev-Digest-Vol-27-Issue-2
+"['Payment', 'Lightning']","['Fallback address', 'Invoice', 'Poland', 'BOLT 11 QR code', 'Block confirmation time', 'Decremental time lock', 'Bitcoin ATMs', 'BIP70 payment protocol']",combined_Question-Invoice
+"['P2P', 'Mining', 'Bitcoin Core', 'Research', 'Fees', 'Mempool', 'Consensus', 'Lightning', 'Privacy', 'Segwit']",[],combined_Use-it-on-mainnet
+['Lightning'],['Channel Funding'],combined_Bi-directional-or-uni-directional-
+['SegWit'],"['Punishment Transactions', 'SIGHASH_NOINPUT', 'Bitcoin-dev Mailing List', '3rd Party Monitoring Services', 'HTLC Transactions', 'Specification', 'Malleation', 'LN (Lightning Network)', 'Commitment Transactions', 'Keys']",combined_Questions-on-SIGHASH-NOINPUT
+"['Mining', 'Bitcoin Core', 'Taproot', 'Research', 'Fees', 'Security', 'Segregated Witness', 'Lightning', 'Privacy']",[],combined_Disclosure-of-a-fee-blackmail-attack-that-can-make-a-victim-loose-almost-all-funds-of-a-non-Wumbo-channel-and-potential-fixes
+"['Scalability', 'Lightning', 'Pruning', 'Routing']","['Anonymity', 'Quadtree', 'JIT Routing', 'Efficiency', 'Determinism']",combined_Routemap-scaling-was-Just-in-Time-Routing-JIT-Routing-and-a-channel-rebalancing-heuristic-as-an-add-on-for-improved-routing-success-in-BOLT-1-0-
+"['Consensus', 'Lightning']","['Discrete Log Contracts', 'Channel Factories', 'Race Condition']",combined_Broken-Factory-Attack
+"['Eltoo', 'blockchain']","['SIGHASH_NOINPUT', 'NOctaHub', 'Burchert-Decker-Wattenhofer', 'Decker-Russell-Osuntokun', 'Channel Factories', 'offchain cryptocurrency systems', 'Decker-Wattenhofer']",combined_Eltoo-in-a-tree
+"['Scalability', 'Security', 'Onion', 'Lightning', 'Routing']",[],combined_Outsourcing-route-computation-with-trampoline-payments
+"['Bitcoin Core', 'Lightning']","['SIGHASH_NOINPUT', 'Offchain Systems', 'Channel Factories']",combined_Stale-Factory-and-channel-problem
+"['Fees', 'Lightning', 'Blockchain']","['Cheating', 'CTLV', 'Transaction Size', 'CSV', 'Secure Transactions', 'HTLCs', 'Commitment Transactions', 'Timeouts', 'Efficient Transactions', 'Revocation Time', 'Race Conditions']",combined_Return-to-the-Layered-Commit-Transactions-
+"['Bitcoin Core', 'Atomic Swaps', 'Lightning']","['Transaction Fees', 'Crowdfunding']",combined_crowdfunding-with-SIGHASH-ANYONE-CAN-PAY
+"['Segregated Witness', 'Lightning', 'Multisig']","['Malleability Attacks', 'Child-pays-for-parent', 'Pubkeys', 'CPFP']",combined_Payment-channel-without-timeout-protected-from-malleability
+"['Lightning', 'Segregated Witness']",['BIP62'],combined_Lightning-the-death-of-BIP62-and-Segregated-Witness
+"['Security', 'Lightning']","['Commitment', 'Revocation', 'Channel State', 'Payment Disputes']",combined_How-to-exchange-of-Revocation-preimage-atomically-
+"['fees', 'scalability', 'network']","['Lightning Network', 'micropayments', 'Github issue', 'HTLC', 'circular dependency', 'rejected outputs', 'dust amounts', 'commitment', 'minTxRelayFee']",combined_Committing-to-dust
+[],"['Lightning Network', 'WatchTowers', 'BOLT document', 'sweep transactions', 'encrypted blob approach', 'trustless WatchTower system', 'commitment transactions', 'HTLC transactions']",combined_Trustless-WatchTowers-
+"['Blockchain', 'Proof-of-Stake', 'Lightning', 'Namecoin']","['Web of Trust', 'Bitcoin Miners', 'Censorship Resistance']",combined_Proposal-for-Advertising-Lightning-nodes-via-DNS-records-
+['Bech32'],"['Lightning Network', 'QR codes', 'node connections', 'node ID', 'standardization']",combined_QR-of-node-information
+"['Fees', 'Privacy', 'ECDSA', 'Security']","['Proofs', 'Zero-Knowledge Range Proof', 'Bulletproofs', 'Hierarchical Deterministic', 'Bellare-Neven Signature Aggregation', 'Quantum Computing', 'Commitment Transactions', 'Lightning Network', 'Adaptor Signatures', 'Scriptless Scripts', 'BOLT Specification', 'Contracts', 'Routing Implementations', 'Efficiency', 'Schnorr Signatures', 'Mutual Closes', 'Transaction Sizes', 'Atomic Multipath Payments']",combined_Scriptless-Scripts-with-ECDSA
+"['Lightning', 'Ripple']",[],combined_De-geschiedenis-van-Lightning
+[],"['Poon-Dryja', 'invalidation tree', 'HTLC', 'channel factories', 'Decker-Wattenhofer']",combined_Decker-Wattenhofer-channels-was-An-Idea-to-Improve-Connectivity-of-the-Graph-
+"['Lightning', 'C-Lightning', 'Privacy']","['Trusted Server', 'Interoperability', 'Payment Channels', 'Mobile Devices', 'NFC', 'Retail Payments']",combined_Lightning-over-NFC
+['Lightning'],"['Mitigation strategy', 'Symmetric delay', 'Channel closure asymmetry', 'Denial-of-service (DOS) attacks', 'Commitment delay asymmetry', 'Asymmetric delay']",combined_Commitment-delay-asymmetry
+['C-Lightning'],"['Cut-through', 'Reseating', 'Channel Factories']",combined_Closing-Transaction-Cut-through-as-a-Generalization-of-Splice-in-Splice-out
+"['JavaScript', 'bitcoin-cli', 'Lightning', 'lnd', 'c-lightning']","['sockets', 'WebAssembly', 'BOLT', 'Tor Browser Bundle', 'Emscripten', 'Lightning Charge']",combined_Lightning-JavaScript-implementation-that-conforms-BOLT
+['Lightning'],"['Unpublished Channel', 'Channel Update', 'Standardization']",combined_Receiving-via-unpublished-channels
+"['Lightning', 'Privacy']","['Dual Funded Channels', 'Bitcoin']",combined_Potential-Privacy-issue-with-dual-funded-channels
+"['Lightning', 'Routing']","['Channel Rebalancing', 'Base AMP', 'Rebalancing', 'JIT Routing']",combined_Just-in-Time-Routing-JIT-Routing-and-a-channel-rebalancing-heuristic-as-an-add-on-for-improved-routing-success-in-BOLT-1-0
+['Lightning'],"['bitcoin-dev', 'migration', 'Linux Foundation', 'mailing list']",combined_-META-Mailing-list-move
+"['Lightning', 'Fee Management', 'Routing']","['Proportional Fees', 'Channel Balancing']",combined_Fee-structure
+"['Protocol', 'Lightning']",[],combined_Clearing-process-in-BOLT-2
+"['Lightning', 'Routing']",['Beacons'],combined_Routing-Beacons
+[],"['Conflict Resolution', 'Concurrent Signatures', 'Commitment Transactions', 'State Changes', 'Ordering System']",combined_Concurrent-sigs-in-BOLT-2
+"['Topology', 'Scalability', 'Research', 'Fees', 'Consensus', 'Lightning', 'Routing']",[],combined_Principle-Limitations-to-the-reliability-of-the-Lightning-Network-Protocol
+"['UTXO', 'Lightning']","['Blind signers', 'Closing transaction', 'Eclipse attacks', 'HTLC', 'Bitcoin node', 'Compromised nodes', 'Validating Lightning Signer', 'Policy checks', 'Block height', 'Attack surface', 'Revoked transaction', 'Funds loss', 'Transaction broadcast']",combined_Blind-Signing-Considered-Harmful
+"['Lightning', 'Path-Finding', 'Routing']","['MPPs', 'lnd-manageJ', 'Liquidity Estimation', 'Channel Scoring', 'Heuristics']",combined_-PickhardtPayments-implemented-in-lnd-manageJ
+[],"['American Call Option', 'H/PTLCs', 'tokens on Lightning', 'BOLT', 'LN token', 'multi-asset routes', 'multi-network', 'fair competition', 'interoperability', 'TLV extensions', 'Advertising Exchange Rates', 'genericized protocol', 'Taro', 'multi-asset LN-as-rails', 'exchange rates', 'atomic swapping', 'Routing Between Channels Of Different Asset Types', 'Interledger']",combined_Taro-Separating-Taro-concerns-from-LN-token-concerns
+"['Lightning', 'Miniscript']",[],combined_Miniscript-on-LN-was-eltoo-implementation-in-Bitcoin-functional-test-framework-
+"['Eltoo', 'Privacy']","['Poon-Dryja Revocation', 'SIGHASH_NOINPUT', 'Authenticated Session', 'Rusty', 'Shachain', 'Revocations', 'Poisoned Blob Attacks', 'Watchtowers', 'Storage Requirements', 'Multiparticipant Offchain Updateable Cryptocurrency Systems']",combined_Revocations-and-Watchtowers
+"['Bitcoin Core', 'Taproot', 'Forks', 'Miniscript', 'Eltoo', 'Lightning', 'Signet']","['Scripts', 'Message Passing Protocol']",combined_eltoo-implementation-in-Bitcoin-functional-test-framework
+['Timestamping'],"['Lightning Network', 'Merkle Tree', 'Zero-Knowledge Proofs', 'Pedersen Commitments']",combined_Selling-timestamps-via-payment-points-and-scalars-Pedersen-commitments-try2-
+['Lightning'],"['Channel Update', 'Gossiping', 'Rebalancing']",combined_Avoiding-gossip-spam-how-many-updates-do-you-need-
+['Lightning'],"['Payment Protocol', 'UBL']",combined_-VERY-ROUGH-DRAFT-BOLT-12-Offers
+"['Lightning', 'Routing']",['Channel Balances'],combined_Doubt-regarding-payment-channel-capacity
+"['eltoo', 'taproot']","['Lightning Network', 'watchtowers', 'NOINPUT', 'witness script', 'settlement key derivation', 'settlement transaction', 'channel construction', 'BIP32 derivation', 'update transaction']",combined_eltoo-towers-and-implications-for-settlement-key-derivation
+"['Wallet', 'Legal', 'Lightning']","['Feedback', 'Pull Request', 'UTF-8']",combined_BOLT-11-add-optional-vendor-field-
+['Lightning'],"['Mailing List', 'Migration']",combined_Lightning-dev-down
+"['Fees', 'Proof-of-Work', 'Lightning']","['Anti-spam measure', 'Spam']",combined_Proof-of-work-vs-fees
+"['Libbitcoin Kernel', 'P2P', 'Package Relay', 'Mining', 'Research', 'Asmap', 'Pools', 'Assumeutxo', 'Segwit', 'Fees', 'Mempool', 'Lightning', 'Privacy', 'Bitcoin Core', 'FROST', 'Libsecp256k1', 'Stratum-V2...', 'P2pool', 'Silent Payments', 'Fuzzing', 'Schnorr']",[],combined_Payment-points-without-2p-ECDSA-or-Schnorr
+"['Atomic Swaps', 'Lightning']","['Zero Knowledge Proof', 'DLAS', 'Data Transfer', 'Payment Channels']",combined_Data-Lightning-Atomic-Swap-DLAS-down-DLAS-up-
+"['Security', 'Lightning', 'MuSig']","['LN Channel Closure Transaction', 'Blockchain Analysis', 'BIP-Schnorr']",combined_Faking-LN-transactions-to-road-block-chain-analysis-Does-it-make-any-sense-
+"['Research', 'Fees', 'Privacy', 'Lightning', 'Routing']",[],combined_Research-on-proactive-fee-free-channel-rebalancing-in-the-friend-of-a-friend-network-and-roadmap-for-a-protocol-extension
+"['Privacy', 'Lightning', 'Path-Finding', 'Routing', 'Decentralization']",[],combined_On-Path-Privacy
+"['Mining', 'Bitcoin Core', 'Research', 'Security', 'Consensus', 'Lightning', 'Attacks', 'Privacy']",[],combined_Time-Dilation-Attacks-on-Offchain-Protocols
+"['UX', 'Lightning', 'Schnorr']","['Pay-to-Open', 'Double-Spending', 'Bitcoin']",combined_Pay-to-Open-and-UX-improvements
+"['privacy', 'security', 'scalability', 'Taproot', 'Lightning', 'MuSig', 'taproot', 'Schnorr']","['script paths', 'PTLCs', 'efficiency', 'Bitcoin']",combined_Lightning-in-a-Taproot-future
+"['Lightning', 'Nodes']","['Upgrade', 'Commitments', 'Restarted', 'Diagnostics', 'GitHub', 'Reconnection', 'Channels']",combined_Upgrade-on-reestablish-
+"['Mempool', 'Layer 2', 'Lightning', 'Replace-By-Fee']","['Double-Spending', 'Bitcoin Protocols', 'Consensus Checks', 'DOS Attacks']",combined_On-Mempool-Funny-Games-against-Multi-Party-Funded-Transactions
+"['Fees', 'Lightning', 'Routing']","['Moving Funds Outside Lightning Network', 'Liquidity Supply', 'Rebalancing Channels', 'Private Information', 'CLBOSS', 'Payment Flow', 'Token Bucket Rate Limit', 'Channel Balance', 'Monetization', 'Undercutting Fees', 'Forwarding Nodes']",combined_-htlc-maximum-msat-as-a-valve-for-flow-control-on-the-Lightning-Network
+"['Bitcoin Core', 'Mempool', 'UTXO', 'P2SH', 'Lightning', 'Replace-By-Fee']","['Splice', 'Commitment Transaction', 'Feerate', 'CSV', 'Bitcoin Transactions', 'Anchor Outputs', 'RBF']",combined_Splice-Pinning-Prevention-w-o-Anchors
+"['Scalability', 'Lightning', 'Path-Finding', 'Fee Management', 'Privacy']",['Network Capacity'],combined_Fee-Ratecards-your-gateway-to-negativity-
+"['Scalability', 'Bitcoin Core', 'Security', 'Lightning', 'LND']",['Proxying'],combined_Proposal-Add-support-for-proxying-p2p-connections-to-from-LND
+"['Fees', 'Custody', 'Lightning', 'Routing']",['Bitcoin Design'],combined_Supporting-a-custodial-user-who-wishes-to-withdraw-all-sats-from-the-account-
+"['Hardware Wallet', 'Fees', 'UTXO', 'Trust', 'Lightning', 'Storage']","['Channel', 'Node Software', 'APIs', 'Watchtowers']",combined_Speculations-on-hardware-wallet-support-for-Lightning
+"['Lightning', 'Bitcoin Core', 'Privacy']",['Payment Channels'],combined_Reduce-the-amount-of-collateral-locked-by-scripts-for-transferring-funds-in-lightning-network
+['Lightning'],"['Byzantine Nodes', 'Payment Channels']",combined_Byzantine-nodes-in-Lightning-network
+"['Privacy', 'Lightning', 'Routing']","['Channel Capacity', 'Proof-of-Funds-Locked']",combined_Not-revealing-the-channel-capacity-during-opening-of-channel-in-lightning-network
+"['Lightning', 'API']","['LSPS', 'BOLT8', 'JSON']",combined_Call-For-Review-LSPSpec-LSPS1-LSPS2
+"['Lightning', 'Trust']","['PTLCs', 'Griefing Attacks']",combined_Fixing-a-griefing-attack-on-JIT-Channels-using-PTLCs
+"['Market', 'Fees', 'API', 'Protocol']","['Orchestrator', 'Inbound Liquidity', 'Stability', 'Rebalancing', 'Uni-directional Channels', 'Channel Leases', 'Lightning Pool']",combined_Lightning-Pool-A-Non-Custodial-Channel-Lease-Marketplace
+"['Lightning', 'C-Lightning', 'Routing']",[],combined_Lightning-Distributed-Routing
+"['UTXO', 'Lightning', 'Privacy']","['Stake Certificates', 'Sybil Attacks', 'Channel Jamming', 'Loop Attacks']",combined_Mitigating-Channel-Jamming-with-Stake-Certificates
+"['Cryptography', 'Lightning', 'Security']",['Efficiency'],combined_Minor-tweaks-to-blinded-path-proposal
+['Lightning'],"['Mailing List', 'Linux Foundation']",combined_Hello
+"['backup', 'eltoo']","['Lightning Network', 'state', 'data storage', 'layered commitments', 'channel', 'peer-storage', 'loss-of-state', 'cooperative close']",combined_Impact-of-eltoo-loss-of-state
+"['Taproot', 'Eltoo', 'Privacy']","['Resolution Time', 'Burst Mode']",combined_Eltoo-Burst-Mode-Continuations
+[],"['Lightning Network', 'Upgrade', 'Spec meeting', 'Straw proposal', 'HTLC', 'Error handling', 'Enriched errors', 'Error codes', 'End-user', 'Timeouts', 'GitHub', 'Debugging information', 'TLV fields', 'Metadata']",combined_Error-Codes-for-LN
+['Lightning'],"['RFCs', 'BIPs']",combined_bLIPs-A-proposal-for-community-driven-app-layer-and-protocol-extension-stand
+"['Lightning', 'wallet']","['on-chain transfer', 'payment failure', 'invoice pattern', 'LN rates', 'fallback address', 'Bitcoin address', 'payment pathfinding']",combined_Proposal-for-an-invoice-pattern-with-an-embedded-Bitcoin-onchain-address
+[],"['Lightning Network', 'Bitcoin Wallets', 'Recovery Tool', 'Bruteforcing', 'CSV Delay', 'BIP32 Wallet']",combined_-PROPOSAL-Removal-of-proposal-to-make-CSV-delay-symmetric
+"['Lightning', 'Scalability']",['Payment Points'],combined_Selling-Signatures-Another-Reason-to-Move-to-Payment-Points
+['Lightning'],"['Flow Control', 'Multipath Routing', 'Congestion Control']",combined_Congestion-and-Flow-control-for-Multipath-Routing
+"['Transactions', 'Security', 'Lightning']","['Cryptographic Framework', 'Formal Proof', 'UC']",combined_Paper-A-Composable-Security-Treatment-of-the-Lightning-Network
+['Eltoo'],"['Lightning Network', 'Bitcoin Script', 'Transaction Symmetry', 'Punishment', 'Per-Update Credentials']",combined_Using-Per-Update-Credential-to-enable-Eltoo-Penalty
+"['Lightning', 'Privacy', 'Decentralization']","['Off-to-onchain swaps', 'Dual-funded channels', 'Implementation']",combined_Both-side-funded-channels
+"['Address', 'Lightning', 'Blockchain']","['Transaction', 'Channel', 'Traffic Analysis', 'Bitcoin', 'Optimization', 'Payment Channels']",combined_LN-question-real-life-transaction-bundling
+"['Sphinx', 'Onion', 'Lightning', 'Path-Finding', 'Routing Failures']","['Path Decorrelation', 'Shared Secret']",combined_Reason-for-having-HMACs-in-Sphinx
+['Lightning'],"['Channel Updates', 'Non-strict Forwarding', 'Forwarding Hints']",combined_Forwarding-hints-in-channel-update-messages
+"['Onion', 'Lightning', 'Routing']","['BOLT Specification', 'Packet Switching']",combined_Packet-switching-via-intermediary-rendezvous-node
+['Lightning'],"['Rendezvous Routing', 'Link-level Payment Splitting']",combined_Link-level-payment-splitting-via-intermediary-rendezvous-nodes
+"['eclair', 'Lightning', 'lnd', 'c-lightning']","['LN repository', 'lookupinvoice', 'APIs', 'rosetta stone']",combined_lookupinvoice
+"['Privacy', 'Decentralization']","['Lightning Network', 'Rendezvous Routing', 'KYC Requirements']",combined_Proposal-for-rendez-vous-routing
+[],"['Probe Cancellation', 'Payment Routing']",combined_Probe-cancellation
+"['Trust', 'Lightning', 'Offline']","['Hashes', 'Payments', 'Invoice', 'Secret Keys', 'Vending Machines', 'Theft Concerns', 'Proof-of-Payment', 'Lightning Node', 'Preimage', 'Refund']",combined_Offline-Lightning-enabled-Vending-Machines
+"['Mining', 'P2P', 'Submarine Swaps', 'Research', 'Testing', 'Multiple-Path Payments', 'Topology', 'Atomic Swaps', 'Post-Quantum', 'Threshold Signatures', 'Onion', 'Hashlocks', 'Timelocks', 'Hard Fork', 'Soft Fork', 'Pools', 'Stratum-V2', 'Path-Finding', 'Sphinx', 'Zero-Knowledge', 'Segwit', 'Halving', 'Ux', 'Validation', 'Wallet', 'P2sh', 'Fees', 'Ethereum', 'Proof-of-Work', 'Regulation', 'Layer 2', 'Custody', 'Lightning', 'Attacks', 'Musig', 'Merkle Trees', 'Routing Failures', 'Privacy', 'IBD', 'Build Systems', 'Forks', 'FROST', 'Libsecp256k1', 'Schnorr', 'Sidechains', 'Academia', 'Segregated Witness', 'Update Layer', 'Smart Contracts', 'Multisig', 'Miners', 'Fee Management', 'Incentives', 'Cryptography', 'P2pkh', 'Eclair', 'Security', 'Proof-of-Stake', 'Spv', 'Lnd', 'Eltoo', 'Consensus', 'Fairness', 'Accumulators', 'Bech32', 'Routing', 'Covenants']",[],combined_Towards-a-Market-for-Liquidity-Providers-Enforcing-Minimum-Channel-Lifetime
+"['Wallet', 'Fees', 'Lightning']","['SIGHASH_NOINPUT', 'Onchain Wallets', 'Channel Opening Protocol', 'RBF']",combined_Walletless-channel-opens
+"['Schnorr', 'Privacy', 'Onion', 'Payment', 'Lightning', 'Routing']","['Scriptless Scripts', 'BOLT11']",combined_Strawman-BOLT11-static-offer-format-using-probes-
+"['Lightning', 'Routing', 'Incentives']","['Channels', 'Deniability']",combined_Proposal-for-local-channel-announcements-
+[],"['Lightning Network', 'Penalty Transactions', 'Commitment Transactions', 'RBF', 'CPFP', 'BOLT1.1']",combined_Penalty-tx-and-RBF
+[],"['BOLT', 'type,len,value', 'varint']",combined_type-len-value-standard
+"['Lightning', 'Protocol']","['Payments', 'Spec', 'Wumbo', 'Node', 'Channels']",combined_Wumbological-local-AND-global-features
+"['Security', 'Privacy']","['Lightning Network', 'Watchtowers']",combined_Recovering-protocol-with-watchtowers
+['Lightning'],"['Base AMP', 'Payment Paths', 'Partial Payments', 'BOLT11', 'Splitting Payments']",combined_Base-AMP
+"['Lightning', 'Bitcoin Core', 'Bech32']",[],combined_Invoice-Address-Format
+['Splicing'],"['Lightning Network', 'RBF', 'TLV']",combined_Splicing-Proposal-Now-with-RBF
+"['UTXO', 'Lightning']","['Dual Funding', 'RBF', 'Channel Establishment', 'Commitment Signature']",combined_Dual-Funding-Proposal
+"['Secp256k1', 'Lightning', 'Schnorr']","['Hashes', 'Scriptless Scripts', 'Atomic Multi-Path Payments', 'Proof-of-Payment', 'Payment Decorrelation']",combined_BOLT11-In-the-World-of-Scriptless-Scripts
+"['Mempool', 'Lightning']","['Blockchain usage', 'Channel', 'Unspent Transaction Output', 'RBF', 'On-chain fee', 'Cold storage']",combined_RBF-and-dual-fund-interactions
+['Lightning'],"['Wumbo', 'Gossip Improvements', 'Hidden Destinations']",combined_Summary-of-the-Second-Lightning-Development-Summit-2018-Adelaide-
+"['Onion', 'Lightning', 'Path-Finding', 'Routing']","['HTLC', 'Ping']",combined_Proposal-to-include-some-form-of-best-effort-routing-fragmentation-and-local-AMP
+"['Eltoo', 'Privacy']","['Lightning Network', 'Spam Attacks', 'Justice Transactions', 'Breach Detection', 'Watchtowers']",combined_Trustless-Watchtowers
+"['Bitcoin Core', 'Lightning']","['PRs', 'IRC', 'Mailing List', 'Process Rules']",combined_-META-Organization-of-1-1-Spec-Effort
+['Onion'],"['TLV', 'Spontaneous Payments', 'Multi-part Payments']",combined_-DRAFT-Multi-cell-hop-onion-with-TLV-and-example-for-multi-part-payment-
+"['Lightning', 'Routing']","['Feature Masks', 'Global/Local Distinction']",combined_Approximate-assignment-of-option-names-please-fix-
+['Lightning'],"['Proof-of-Payment', 'Contracts', 'BOLT11']",combined_Proposal-for-updateable-revokable-proofs-of-payment
+"['Consensus', 'Lightning', 'Fee Management']",[],combined_Why-do-we-need-fee-estimation-in-the-protocol-
+"['Scalability', 'Privacy']","['Lightning Network', 'Poon-Dryja', 'WatchTower', 'Decker-Russell-Osuntokun']",combined_eltoo-Trustless-WatchTowers
+"['Atomic Swaps', 'Trust', 'Lightning']","['Reputation System', 'Delay Attack', 'Decentralized Exchange']",combined_Preventing-delay-abuse-in-a-Lightning-based-peer-to-peer-exchange
+"['Lightning', 'Routing', 'Privacy']",['Reputation'],combined_Mitigations-for-loop-attacks
+"['Lightning', 'Payment']","['LN-based payment', 'Anonymous Credentials', 'Elgamal', 'KVAC', 'MAC-based construction']",combined_Pay-for-Elgamal-decryption-key-and-its-application-to-Anonymous-Credentials
+"['Lightning', 'Routing', 'Privacy', 'Fees']",[],combined_Hold-fee-rates-as-DoS-protection-channel-spamming-and-jamming-
+"['Bitcoin Core', 'Scalability', 'Security', 'Lightning']",['Implementation'],combined_ThunderNetwork-A-Java-LightningNetwork-Implementation-Working-Today
+['Lightning'],['Double Spend Attacks'],combined_Attacking-the-lightning-network
+"['Lightning', 'Routing', 'Scalability']",[],combined_Python-LightningNetwork-implementation
+['BIP'],"['Lightning Network', 'CLTV', 'CSV', 'OP_CSV', 'median_past_timelock']",combined_Pure-No-Trust-Solution-using-only-OP-CLTV
+['Lightning'],"['Relative Lock-Time', 'Sequence Numbers']",combined_A-couple-questions-about-sequence-number-
+"['Lightning', 'Offline']","['LSP', 'PTLCs', 'Invoice', 'Asynchronous Payments', 'Proof-of-Payment', 'Sender', 'Receiver', 'KeySend']",combined_Async-payments-proof-of-payment-a-wishlist-for-researchers
+"['Taproot', 'UTXO', 'MuSig']","['Lightning Network', 'Swap-in-Potentiam', 'Schnorr signatures', 'Splice-in', 'Onchain', 'Channels']",combined_Swap-in-Potentiam-Moving-Onchain-Funds-Instantly-To-Lightning
+"['Fees', 'Lightning']","['Reputation System', 'Upfront Fees', 'Spamming', 'Circuit Breaker']",combined_Jamming-Mitigation-Call-Summary-01-23
+[],"['Just-In-Time Rebalancing', 'HTLC', 'Balance Disclosure Attacks', 'Rendezvous Routing', 'Key Swap', 'Atomic JIT Rebalancing', 'Payment Splitting']",combined_Revisiting-Link-level-payment-splitting-via-intermediary-rendezvous-nodes
+"['Scalability', 'Algorithms', 'Lightning', 'Path-Finding']","['Min-Cost Flow Problems', 'Transaction Fees']",combined_Fee-Budgets-A-Possible-Path-Towards-Unified-Cost-Functions-For-Lightning-Pathfinding-Problems
+"['Cryptography', 'Mining', 'Bitcoin Core', 'Fees', 'Proof-of-Stake', 'Proof-of-Work', 'Segregated Witness', 'Lightning', 'Zero-Knowledge', 'Routing']",[],combined_Zero-Fee-Routing
+"['Payment', 'Lightning']","['Base Fee', 'MPP', 'HTLC', 'Proportional Fee', 'Split Payments', 'Join Payments', 'Min-Cost Flow', 'LN Protocol']",combined_Handling-nonzerobasefee-when-using-Pickhard-Richter-algo-variants
+"['Lightning', 'Ethereum', 'Layer 2']",[],combined_v0-10-1-eltoo-Ethereum-Layer-Too-
+"['Fees', 'Lightning', 'Routing']","['HTLC', 'Micropayments']",combined_-zerobasefee
+[],"['Lightning Network', 'Peer Selling Private Information', 'Zero-Knowledge Contingent Payments', 'Cooperative Settlement Transaction', 'Hardware Failure', 'Data Loss', 'Static-Key Channels', 'Oblivious Settlement Signatures', 'Recovery System', 'Adaptor Signature', 'YOLO Commitment Transactions', 'Revocable Signature-Based Channels', 'Redundancy in Data Storage', 'Commitment Transaction']",combined_Covert-channel-recovery-with-Oblivious-Signatures
+"['Scalability', 'Topology', 'Lightning', 'Routing']",['Efficiency'],combined_Route-finding-and-route-generation
+['Lightning'],"['Payment Hashes', 'Refund Address', 'BOLT 11']",combined_BOLT-11-real-time-micro-payments-and-route-redundancy
+"['Lightning', 'Hard Fork']",[],combined_Lightning-in-the-setting-of-blockchain-hardforks
+[],"['adaptor signature', 'onion messages', 'HTLC', 'tx format', 'signature adaptation', 'routing gossip', 'MuSig2', 'peer messaging', 'PTLC', 'BOLT Improvement Proposal', 'invoices', 'taproot channels', 'BLIP', 'single-singer adaptor']",combined_Practical-PTLCs-a-little-more-concretely
+"['Validation', 'Hardware Wallet', 'Security', 'Lightning']","['Payment Transactions', 'Open-Source', 'Authentication', 'HSM', 'Mobile Phone', 'Architecture', 'Configuration', 'RPC']",combined_Remotely-control-your-lightning-node-from-your-favorite-HSM
+[],"['Probing Attacks', 'Route Changes', 'Payment Splitting & Switching', 'Balance Discovery Attack', 'Amount Changes', 'Feedback', 'Proof of Concept', 'Attacker', 'Cryptology ePrint Archive', 'Information Gain', 'Real-World Data', 'Core-Lightning Plugin', 'Jamming Attacks', 'PTLC', 'Simulation', 'Link MPP']",combined_Payment-Splitting-Switching-and-its-impact-on-Balance-Discovery-Attacks-preprint-
+"['Lightning', 'Testing']",['Interoperability'],combined_Announcing-the-Lightning-Network-Interoperability-Initiative
+"['Scalability', 'Lightning', 'Privacy']","['Bitcoin', 'Channels']",combined_Sidepools-For-Improving-Payment-Reliability-At-Scale
+['Lightning'],"['Wormhole Attack', 'Invoices', 'Probabilistic Time-Locked Contracts', 'Proof-of-Payment']",combined_Collaborated-stealing-What-happens-when-the-final-recipient-discloses-the-pre-image
+['Lightning'],"['DLC', 'consensus validation', 'HTLC', 'code', 'CSV', 'Burchert-Decker-Wattenhofer', 'BOLT 1.1', 'LN', 'channel gossip', 'Fulgurite']",combined_Fulgurite-ideas-for-making-a-more-flexible-Lightning-Network-protocol
+"['Lightning', 'Fees']",[],combined_Funds-locked-in-channel-and-MAX-HTLC
+"['Wallet', 'Security', 'Payment', 'Lightning', 'Privacy']","['Invoice', 'Vending Machines']",combined_Data-piggybacking-within-the-payment-preimage-for-offline-payments-in-wallets
+"['Cryptography', 'P2P', 'Mining', 'Bitcoin Core', 'Research', 'Fees', 'Taproot', 'Wallet', 'Security', 'Miniscript', 'Layer 2', 'Consensus', 'Lightning', 'Privacy', 'Script', 'Segwit']",[],combined_Minisketch-and-lightning-gossip
+"['Payment', 'Lightning', 'Protocol']","['DNS lookup', 'OpenAlias', 'Invoices', 'CSV', 'Timelocked contracts', 'Shared-ownership update systems', 'Fulgurite', 'Channels']",combined_OpenCAP-alias-integrations-with-invoices-destination
+[],"['Lightning Network', 'Non-Fungible Tokens', 'Colored Coins']",combined_Colored-coins-or-non-fungible-tokens
