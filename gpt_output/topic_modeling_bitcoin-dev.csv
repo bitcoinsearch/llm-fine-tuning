@@ -24404,3 +24404,11 @@ primary_topics,secondary_topics,source_id
 "['Libsecp256k1', 'Mempool', 'Lightning', 'Bitcoin Core', 'Assumeutxo', 'P2P', 'Asmap', 'Stratum-V2...', 'Schnorr', 'Fuzzing', 'Libbitcoin Kernel', 'Privacy', 'Segwit', 'Mining', 'P2pool', 'Fees', 'Silent Payments', 'Research', 'Package Relay', 'Pools', 'FROST']",[],combined_MuSig2-derivation-descriptor-and-PSBT-field-BIPs
 "['multisignature', 'security', 'FROST']","['key aggregation', 'cryptographic protocols', 'optimization', 'design choice', 'MuSig2', 'signatures', 'public keys']",mailing-list-bitcoin-2024-January-022283
 "['Segregated Witness', 'smart contracts', 'Taproot', 'fees']","['P2WPKH', 'P2TR', 'Bitcoin transactions', 'blockchain network', 'block capacity', 'transaction malleability', 'transaction size']",mailing-list-bitcoin-2024-January-022284
+[],"['mempool/relay policy', 'Blockchain Commons Research', 'Bitcoin Improvement Proposals', 'BIPs', 'BINANA']",combined_BIP-process-friction
+['decentralization'],"['volunteer contributions', 'BIPs', 'Bitcoin Improvement Proposals']",mailing-list-bitcoin-2024-January-022291
+[],"['numbers and names', 'PRs', 'proposals', 'pull requests', 'backwards compatibility', 'Taproot Assets Protocol', 'BINANA', 'merged', 'OP_TXHASH', 'friction', 'markdown', 'reform', 'Bitcoin Improvement Proposals', 'Ordinal Numbers', 'Luke', 'IANA', 'assign new numbers', 'BIPs', 'editors', 'procedure', 'repository']",mailing-list-bitcoin-2024-January-022289
+[],"['Blockchain Commons Research', 'BIPs', 'Bitcoin Improvement Proposals']",mailing-list-bitcoin-2024-January-022290
+[],['Compressed Transactions'],mailing-list-bitcoin-2024-January-022286
+"['Storage', 'UTXO', 'Miners']",[],mailing-list-bitcoin-2024-January-022287
+"['Fees', 'Exchanges', 'Bitcoin Core', 'Blockchain']","['Batch Transactions', 'Transaction Fees']",mailing-list-bitcoin-2024-January-022288
+"['Segregated Witness', 'Consensus', 'Bitcoin Core', 'Timestamping', 'Hard Fork']",[],mailing-list-bitcoin-2024-January-022285
