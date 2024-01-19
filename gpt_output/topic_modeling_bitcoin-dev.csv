@@ -24412,3 +24412,11 @@ primary_topics,secondary_topics,source_id
 "['Storage', 'UTXO', 'Miners']",[],mailing-list-bitcoin-2024-January-022287
 "['Fees', 'Exchanges', 'Bitcoin Core', 'Blockchain']","['Batch Transactions', 'Transaction Fees']",mailing-list-bitcoin-2024-January-022288
 "['Segregated Witness', 'Consensus', 'Bitcoin Core', 'Timestamping', 'Hard Fork']",[],mailing-list-bitcoin-2024-January-022285
+['P2P'],"['Network Traffic', 'Block Propagation', 'Compression']",mailing-list-bitcoin-2024-January-022292
+"['Bitcoin Core', 'BIP', 'Lightning']",['Multiparty Protocols'],mailing-list-bitcoin-2024-January-022293
+['BIP'],"['Proposal', 'Identifier', 'Format', 'Revision']",mailing-list-bitcoin-2024-January-022294
+"['Terminology', 'BIP', 'Decentralization']","['BINN', 'Obsolete technology', 'IANA', 'U.S. government', 'Bitcoin Inquisition Numbers And Names', 'Authority', 'Bitcoin', 'Internet Assigned Numbers Authority', 'Floppy disks', 'ICANN', 'Proton Mail']",mailing-list-bitcoin-2024-January-022295
+"['BIP', 'Testing']",[],mailing-list-bitcoin-2024-January-022296
+"['Smart Contracts', 'Layer 2', 'Asmap', 'Libsecp256k1', 'Forks', 'Topology', 'Scalability', 'Package Relay', 'Segwit', 'Soft Fork', 'Silent Payments', 'IBD', 'Lightning', 'Libbitcoin Kernel', 'Ux', 'Cryptography', 'Multiple-Path Payments', 'Bitcoin Core', 'Sphinx', 'Sidechains', 'Eltoo', 'Custody', 'Fuzzing', 'Accumulators', 'P2pool', 'Privacy', 'Eclair', 'Altcoin', 'FROST', 'Attacks', 'BIP', 'Signet', 'Threshold Signatures', 'Script', 'Wallet', 'Update Layer', 'Schnorr', 'P2P', 'Onion', 'PSBT', 'Zero-Knowledge', 'Hardware Wallet', 'Research', 'Academia', 'RGB', 'Hard Fork', 'Covenants', 'C-Lightning', 'Pools', 'Submarine Swaps', 'Testing', 'Fees', 'Taproot', 'Regulation', 'Mempool', 'Musig', 'Limitations', 'Splicing', 'Security', 'Mining', 'Stratum-V2', 'Fungibility', 'Miniscript', 'Path-Finding', 'Routing Failures', 'Consensus', 'Multisig', 'Routing', 'Lnd']",[],mailing-list-bitcoin-2024-January-022297
+"['Replace-by-Fee', 'Miners', 'Fee Management', 'Mining', 'Lightning', 'Bitcoin Core', 'Mempool']","['Transaction Fees', 'Second-layer Contracting Protocols']",mailing-list-bitcoin-2024-January-022298
+[],[],mailing-list-bitcoin-2024-January-022299
