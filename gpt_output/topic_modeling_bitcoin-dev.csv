@@ -24422,3 +24422,6 @@ primary_topics,secondary_topics,source_id
 [],[],mailing-list-bitcoin-2024-January-022299
 ['BIP'],[],mailing-list-bitcoin-2024-January-022300
 "['Research', 'Bitcoin Core', 'Mining', 'Segwit', 'Fees', 'Mempool', 'Privacy', 'P2P']",[],mailing-list-bitcoin-2024-January-022301
+"['block', 'security', 'mempool', 'Replace-by-Fee', 'miners']","['One-Shot Replace-By-Fee-Rate', 'RBFr', 'Fulgur Ventures', 'transaction', 'GitHub pull request', 'Bitcoin network efficiency', 'BIP-125', 'safety', 'fee-rate', 'transaction pinning', 'second-layer contracting protocols', 'Stacker News', 'network bandwidth', 'unconfirmed inputs', 'RBF']",combined_One-Shot-Replace-By-Fee-Rate
+"['Replace-by-Fee', 'Miners']","['Block Space Economics', 'Transaction Fees', 'Bitcoin Network']",mailing-list-bitcoin-2024-January-022302
+['Replace-by-Fee'],"['BIP-125', 'GitHub Pull Request', 'Miner Incentives']",mailing-list-bitcoin-2024-January-022303
