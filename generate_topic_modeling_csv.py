@@ -156,6 +156,7 @@ if __name__ == "__main__":
     dev_urls = [
         "https://lists.linuxfoundation.org/pipermail/lightning-dev/",
         "https://lists.linuxfoundation.org/pipermail/bitcoin-dev/",
+        "https://delvingbitcoin.org/"
         # "all_data",  # uncomment this line if you want to generate topic modeling on all docs
     ]
 

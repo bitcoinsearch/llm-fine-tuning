@@ -27,7 +27,8 @@ if __name__ == "__main__":
 
     dev_urls = [
         "https://lists.linuxfoundation.org/pipermail/lightning-dev/",
-        "https://lists.linuxfoundation.org/pipermail/bitcoin-dev/"
+        "https://lists.linuxfoundation.org/pipermail/bitcoin-dev/",
+        "https://delvingbitcoin.org/"
     ]
 
     for dev_url in dev_urls:
@@ -68,7 +69,7 @@ if __name__ == "__main__":
                 doc_source_id = doc['_source']['id']
                 doc_id = doc['_id']
                 doc_index = doc['_index']
-                logger.info(f"Doc Id: {doc_id}, Source Id: {doc_source_id}")
+                logger.info(f"working on document with '_id': {doc_id}, '_source-id': {doc_source_id}")
 
                 if not doc['_source'].get('primary_topics'):
                     try:
@@ -101,6 +102,9 @@ if __name__ == "__main__":
                             )
                         else:
                             logger.info(f"No data found for this doc in csv! Doc Id: {doc_id}, Source Id: {doc_source_id}")
+
+                    except KeyError:
+                        logger.error(f"Error Occurred: doc_source_id does not exist in stored_df! doc_source_id: {doc_source_id}")
 
                     except Exception as ex:
                         logger.error(f"Error updating ES index: {traceback.format_exc()}")
