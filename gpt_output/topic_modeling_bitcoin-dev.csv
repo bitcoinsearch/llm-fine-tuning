@@ -24425,3 +24425,7 @@ primary_topics,secondary_topics,source_id
 "['block', 'security', 'mempool', 'Replace-by-Fee', 'miners']","['One-Shot Replace-By-Fee-Rate', 'RBFr', 'Fulgur Ventures', 'transaction', 'GitHub pull request', 'Bitcoin network efficiency', 'BIP-125', 'safety', 'fee-rate', 'transaction pinning', 'second-layer contracting protocols', 'Stacker News', 'network bandwidth', 'unconfirmed inputs', 'RBF']",combined_One-Shot-Replace-By-Fee-Rate
 "['Replace-by-Fee', 'Miners']","['Block Space Economics', 'Transaction Fees', 'Bitcoin Network']",mailing-list-bitcoin-2024-January-022302
 ['Replace-by-Fee'],"['BIP-125', 'GitHub Pull Request', 'Miner Incentives']",mailing-list-bitcoin-2024-January-022303
+"['consensus', 'protocol', 'Replace-By-Fee', 'BIP']","['Bitcoin Improvement Proposals', 'alternative ecosystems', 'versioning', 'living documentation', 'RBF', 'wallets', 'fee-rate fluctuations', 'Taproot Assets', 'Ordinals', 'policy proposals', 'BIP process', 'BIP editor', 'friction', 'transaction replacement', 'Bitcoin-centric improvements', 'mempool policies', 'evolving policy proposals']",mailing-list-bitcoin-2024-January-022304
+['Transactions'],['Compression'],mailing-list-bitcoin-2024-January-022305
+"['Scalability', 'UTXO']",['Blockchains'],mailing-list-bitcoin-2024-January-022306
+['Taproot'],"['engineering complexity', 'key aggregation', 'MuSig2', 'cryptographic operations']",mailing-list-bitcoin-2024-January-022307
