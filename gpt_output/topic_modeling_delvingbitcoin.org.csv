@@ -657,3 +657,12 @@ primary_topics,secondary_topics,source_id
 "['Soft Fork', 'Script']",['64-bit Arithmetic'],delving-bitcoin-397-35-1318
 "['Lightning', 'Taproot']",[],delving-bitcoin-418-23-1317
 "['Custody', 'sha256', 'Python']","['Bitcoin', 'Chaumian eCash', 'eCash', 'Hash Time Locked Contracts', 'HTLC']",delving-bitcoin-466-1-1296
+['fee management'],"['resource costs', 'transaction topology', 'multi-party transactions', 'RBF rules', 'mempool space', 'LN transactions', 'sibling eviction', 'Version 3 transactions', 'DoS vulnerabilities', 'LN commitment transactions', 'Bitcoin transaction management', 'CPFP', 'Lightning Network', 'incentive-compatible descendants', 'v3 policy rules', 'wallet compatibility', 'DoS attacks', 'replace-by-fee signaling', 'coinjoins', 'pinning', 'CPFP carve-out', 'Child Pays for Parent', 'Sibling Eviction']",combined_Sibling-Eviction-for-v3-transactions
+"['Fees', 'Mempool']","['Transaction Confirmation', 'Replace-By-Fee (RBF)']",delving-bitcoin-383-11-1329
+"['Replace-by-fee', 'Mempool', 'Fees', 'Miners']",['bip125'],delving-bitcoin-383-12-1331
+"['Mining', 'Lightning', 'Mempool', 'Fees', 'Consensus']",[],delving-bitcoin-383-10-1320
+"['transaction-fees', 'C++']",['optimization'],delving-bitcoin-383-9-1319
+"['Bitcoin Core', 'Signet', 'Lightning', 'Testing']",[],delving-bitcoin-359-12-1326
+"['Replace-By-Fee', 'Lightning', 'Transactions']","['Transaction Fees', 'Blockchain Space']",delving-bitcoin-418-24-1323
+['mempool'],"['Ephemeral Anchors', 'RBF rules', 'LN transactions', 'version 3 (v3) transactions', 'Replace-By-Fee (RBF)', 'GitHub pull request', 'DoS prevention limits', 'Lightning Network commitment transactions', 'fee rate transactions', 'descendant limits', 'CPFP', 'incentive-compatible', 'Lightning Network', 'v3 transactions', 'v3 policy rules', 'anti-DoS measures', 'transaction management', 'mutual CPFP actions', 'coinjoins', 'network load', 'Sibling Eviction']",delving-bitcoin-472-1-1321
+"['Replace-By-Fee', 'Package Relay']","['CPFP', 'Lightning Network', 'Zero-Fee Commitments', 'Child-Pays-For-Parent', '1p1c', 'Bitcoin', 'Pinning', 'Transaction Management', 'Sibling Eviction']",delving-bitcoin-472-2-1327

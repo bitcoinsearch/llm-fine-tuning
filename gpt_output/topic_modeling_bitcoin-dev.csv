@@ -24429,3 +24429,5 @@ primary_topics,secondary_topics,source_id
 ['Transactions'],['Compression'],mailing-list-bitcoin-2024-January-022305
 "['Scalability', 'UTXO']",['Blockchains'],mailing-list-bitcoin-2024-January-022306
 ['Taproot'],"['engineering complexity', 'key aggregation', 'MuSig2', 'cryptographic operations']",mailing-list-bitcoin-2024-January-022307
+"['Replace-by-fee', 'Bitcoin Core', 'OP_Return']","['Transaction Propagation', 'Fork']",mailing-list-bitcoin-2024-January-022308
+"['Scalability', 'Replace-by-fee', 'UTXO']","['Lightning Network', 'Shared UTXO Schemes', 'Fee Payment', 'Mining Decentralization', 'Covenant Schemes']",mailing-list-bitcoin-2024-January-022309
