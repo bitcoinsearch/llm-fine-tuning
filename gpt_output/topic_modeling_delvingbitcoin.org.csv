@@ -666,3 +666,15 @@ primary_topics,secondary_topics,source_id
 "['Replace-By-Fee', 'Lightning', 'Transactions']","['Transaction Fees', 'Blockchain Space']",delving-bitcoin-418-24-1323
 ['mempool'],"['Ephemeral Anchors', 'RBF rules', 'LN transactions', 'version 3 (v3) transactions', 'Replace-By-Fee (RBF)', 'GitHub pull request', 'DoS prevention limits', 'Lightning Network commitment transactions', 'fee rate transactions', 'descendant limits', 'CPFP', 'incentive-compatible', 'Lightning Network', 'v3 transactions', 'v3 policy rules', 'anti-DoS measures', 'transaction management', 'mutual CPFP actions', 'coinjoins', 'network load', 'Sibling Eviction']",delving-bitcoin-472-1-1321
 "['Replace-By-Fee', 'Package Relay']","['CPFP', 'Lightning Network', 'Zero-Fee Commitments', 'Child-Pays-For-Parent', '1p1c', 'Bitcoin', 'Pinning', 'Transaction Management', 'Sibling Eviction']",delving-bitcoin-472-2-1327
+"['Stratum-V2...', 'Assumeutxo', 'Lightning', 'Libsecp256k1', 'Libbitcoin Kernel', 'Mempool', 'Silent Payments', 'P2P', 'Fees', 'Fuzzing', 'Privacy', 'Bitcoin Core', 'P2pool', 'Package Relay', 'Asmap', 'Segwit', 'Schnorr', 'Mining', 'Pools', 'Research', 'FROST']",[],combined_PoC-Fix-fee-bypass-bug-using-OP-CHECKTEMPLATEVERIFY
+"['Stratum-V2...', 'Assumeutxo', 'Lightning', 'Libsecp256k1', 'Libbitcoin Kernel', 'Mempool', 'Silent Payments', 'P2P', 'Fees', 'Fuzzing', 'Privacy', 'Bitcoin Core', 'P2pool', 'Package Relay', 'Asmap', 'Segwit', 'Schnorr', 'Mining', 'Pools', 'Research', 'FROST']",[],delving-bitcoin-478-1-1340
+"['ECDSA', 'proof-of-work', 'security']","['SHA2-based PoW', 'developers', 'SHA2-based proof of work verification', 'users', 'security assurances', 'contracts', 'DER encoding', 'tapscript', 'cryptographer', 'opcodes']",delving-bitcoin-438-5-1343
+[],"['Sibling Eviction', 'v3 transactions']",delving-bitcoin-472-7-1338
+"['Multisig', 'Schnorr', 'Script', 'FROST']","['CLTV', 'Dispute Resolution']",delving-bitcoin-478-2-1344
+[],"['Sibling Eviction', 'v3 transactions']",delving-bitcoin-472-8-1339
+"['Lightning', 'Fee Management', 'Package Relay']",['Sibling Eviction'],delving-bitcoin-472-9-1341
+['Mempool'],"['Version 3 (v3) Protocols', 'Lightning Network (LN)', 'Broadcasting Transactions', 'Optimization', 'Fluidity', 'Sibling Eviction', 'Efficiency', 'Simplified Transaction Topology', 'Child-Pays-For-Parent (CPFP)', 'Transaction Management', 'Replace-by-Fee (RBF)', 'Transaction Processing', 'Package RBF', 'Reliability', 'Blockchain Systems', 'Responsiveness', 'Commitment Transactions', 'Transaction Fee Bumping Mechanisms', 'Transaction Topologies']",delving-bitcoin-472-4-1334
+"['Transactions', 'Replace-by-Fee', 'Mempool', 'Package Relay']","['Sibling Eviction', 'Bitcoin Network', 'Fee Market Dynamics']",delving-bitcoin-472-5-1336
+['ECDSA'],['hashing'],delving-bitcoin-438-6-1345
+"['Transactions', 'Replace-by-Fee', 'Mempool']",[],delving-bitcoin-472-3-1333
+[],['Sibling Eviction'],delving-bitcoin-472-6-1337

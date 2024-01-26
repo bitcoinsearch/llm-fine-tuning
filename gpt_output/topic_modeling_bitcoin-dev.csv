@@ -24431,3 +24431,9 @@ primary_topics,secondary_topics,source_id
 ['Taproot'],"['engineering complexity', 'key aggregation', 'MuSig2', 'cryptographic operations']",mailing-list-bitcoin-2024-January-022307
 "['Replace-by-fee', 'Bitcoin Core', 'OP_Return']","['Transaction Propagation', 'Fork']",mailing-list-bitcoin-2024-January-022308
 "['Scalability', 'Replace-by-fee', 'UTXO']","['Lightning Network', 'Shared UTXO Schemes', 'Fee Payment', 'Mining Decentralization', 'Covenant Schemes']",mailing-list-bitcoin-2024-January-022309
+"['BIP', 'development']","['wallet policies', 'Antoine Poinsot', 'BitBox02', 'BIPs repository', 'Jade', 'Bitcoin Improvement Proposal', 'Ledger', 'Bitcoin infrastructure', 'standardization efforts', 'hardware signing devices', 'Michael Folkson', 'Salvatore Ingala', 'BIP editors', 'Bitcoin ecosystem']",combined_BIP-number-request-for-wallet-policies
+"['Stratum-V2...', 'Assumeutxo', 'Lightning', 'Libsecp256k1', 'Libbitcoin Kernel', 'Mempool', 'Silent Payments', 'P2P', 'Fees', 'Fuzzing', 'Privacy', 'Bitcoin Core', 'P2pool', 'Package Relay', 'Asmap', 'Segwit', 'Schnorr', 'Mining', 'Pools', 'Research', 'FROST']",[],combined_CheckTemplateVerify-Does-Not-Scale-Due-to-UTXO-s-Required-For-Fee-Payment
+"['UTXO', 'Lightning', 'Fee Management', 'Mempool']","['RBF', 'CPFP']",mailing-list-bitcoin-2024-January-022310
+"['Lightning', 'Development', 'Fee Management', 'UTXO']",[],mailing-list-bitcoin-2024-January-022313
+['BIP'],['Bitcoin Improvement Proposal'],mailing-list-bitcoin-2024-January-022311
+"['Relay', 'Unconfirmed-transactions', 'Development', 'Replace-by-fee']","['System-performance', 'System-reliability', 'Maintenance', 'User-confidence', 'Network-stability', 'Transaction-relay-cycles']",mailing-list-bitcoin-2024-January-022312
