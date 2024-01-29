@@ -688,3 +688,4 @@ primary_topics,secondary_topics,source_id
 "['Atomic Swaps', 'Taproot']","['Blockchain transactions', 'Zero-Knowledge Proofs', 'Poseidon hash function', '0xPARC library', 'MuSig aggregation', 'P2TR', 'Schnorr signatures']",combined_Untraceable-Taprootized-Atomic-Swaps
 "['Atomic Swaps', 'ECDSA', 'Ethereum', 'Taproot']","['Bitcoin', 'Schnorr signatures']",delving-bitcoin-458-3-1359
 "['Lightning', 'Privacy', 'Smart Contracts', 'Taproot']",[],delving-bitcoin-458-2-1358
+['Replace-By-Fee'],"['Protocol Changes', 'Layer 2 Solutions', 'Bitcoin Improvement Proposals', 'Blockchain Protocol', 'Transaction Fees', 'Lightning Network']",delving-bitcoin-488-1-1362
