@@ -689,3 +689,10 @@ primary_topics,secondary_topics,source_id
 "['Atomic Swaps', 'ECDSA', 'Ethereum', 'Taproot']","['Bitcoin', 'Schnorr signatures']",delving-bitcoin-458-3-1359
 "['Lightning', 'Privacy', 'Smart Contracts', 'Taproot']",[],delving-bitcoin-458-2-1358
 ['Replace-By-Fee'],"['Protocol Changes', 'Layer 2 Solutions', 'Bitcoin Improvement Proposals', 'Blockchain Protocol', 'Transaction Fees', 'Lightning Network']",delving-bitcoin-488-1-1362
+[],['Mailing List Mode'],delving-bitcoin-245-4-1376
+"['Replace-by-Fee', 'Mempool', 'Bitcoin Core']",[],delving-bitcoin-488-2-1366
+"['Transactions', 'Lightning']","['Unconfirmed', 'Funding Transaction', 'Commitment Transaction', 'Fee-bumps', 'Anchor', 'CPFP', 'Channels', 'Ancestors']",delving-bitcoin-494-1-1370
+"['Mempool', 'Miners']","['Block Creation', 'Transaction Propagation', 'Fee Rate Sorting', 'Network Conditions', 'Relay Rate', 'Bandwidth Usage']",delving-bitcoin-294-11-1374
+[],['Mailing List Mode'],delving-bitcoin-245-3-1375
+[],['Mailing List Mode'],delving-bitcoin-245-2-1373
+"['Transactions', 'Mempool']",['Relay Rate'],delving-bitcoin-294-10-1365
