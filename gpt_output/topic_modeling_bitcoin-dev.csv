@@ -24440,3 +24440,12 @@ primary_topics,secondary_topics,source_id
 "['Mempool', 'Replace-by-fee']","['Fee-rate policy', 'Bitcoin network', 'Transaction']",mailing-list-bitcoin-2024-January-022314
 "['Lightning', 'Schnorr', 'Silent Payments', 'Package Relay', 'FROST', 'P2pool', 'Fuzzing', 'Stratum-V2...', 'Assumeutxo', 'Research', 'Fees', 'Libbitcoin Kernel', 'Mempool', 'Segwit', 'Libsecp256k1', 'Bitcoin Core', 'Pools', 'P2P', 'Asmap', 'Mining', 'Privacy']",[],mailing-list-bitcoin-2024-January-022315
 ['Replace-by-Fee'],['Transaction Conflicts'],mailing-list-bitcoin-2024-January-022316
+['UTXO'],"['Multi-Feerate Considerations', 'Anchor Outputs', 'Decker-Russell-Osuntokun Model', 'Child Pays For Parent (CPFP)', 'Offchain Transactions', 'Channel Balances', 'HTLC Resolution', 'Lightning Network', 'Fee Rates', 'Commitment Transactions', 'Poon-Dryja Model', 'Onchain Fees', 'Peter Todd', 'Blockspace Usage', 'Hashed Time-Locked Contracts (HTLCs)']",mailing-list-bitcoin-2024-January-022317
+"['UTXO', 'Scalability', 'Fees']",['Lightning Network'],mailing-list-bitcoin-2024-January-022318
+"['UTXO', 'Taproot']",['CheckTemplateVerify'],mailing-list-bitcoin-2024-January-022319
+"['Fee Management', 'Replace-By-Fee', 'UTXO']","['CTV', 'Efficiency', 'CPFP', 'Mining Decentralization']",mailing-list-bitcoin-2024-January-022320
+"['UTXO', 'Fees']",[],mailing-list-bitcoin-2024-January-022321
+"['Lightning', 'UTXO']","['Initiator Pays', 'Decker-Russell-Osuntokun', 'LN-symmetry', 'Multi-version Proposal', 'Attacker', 'Reserve', 'Commitment Transaction', 'Onchain Fees', 'Fee Structure', 'Channel']",mailing-list-bitcoin-2024-January-022322
+"['UTXO', 'Fees']",[],mailing-list-bitcoin-2024-January-022323
+['UTXO'],"['double SHA256 serialization', 'hashPrevouts', 'hashSequence', 'nSequence', 'transaction malleability', 'scriptCode', 'witness programs', 'transaction digest algorithm', 'SIGHASH_NOINPUT', 'BIP 143', 'BIP 118', 'outpoint']",mailing-list-bitcoin-2024-January-022324
+"['UTXO', 'Fees', 'Lightning']",['CPFP'],mailing-list-bitcoin-2024-January-022325
