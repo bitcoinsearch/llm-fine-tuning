@@ -24449,3 +24449,4 @@ primary_topics,secondary_topics,source_id
 "['UTXO', 'Fees']",[],mailing-list-bitcoin-2024-January-022323
 ['UTXO'],"['double SHA256 serialization', 'hashPrevouts', 'hashSequence', 'nSequence', 'transaction malleability', 'scriptCode', 'witness programs', 'transaction digest algorithm', 'SIGHASH_NOINPUT', 'BIP 143', 'BIP 118', 'outpoint']",mailing-list-bitcoin-2024-January-022324
 "['UTXO', 'Fees', 'Lightning']",['CPFP'],mailing-list-bitcoin-2024-January-022325
+"['Security', 'Replace-By-Fee']","['Unconfirmed Inputs', 'Transaction Replacements', 'RBF Rules', 'Fee-Rate-Depth', 'Reliability', 'Vulnerability', 'Commit']",mailing-list-bitcoin-2024-January-022326

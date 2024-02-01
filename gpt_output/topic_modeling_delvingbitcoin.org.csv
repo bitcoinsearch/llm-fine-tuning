@@ -710,3 +710,9 @@ primary_topics,secondary_topics,source_id
 "['security', 'consensus', 'bitcoin-core', 'network']",[],delving-bitcoin-499-2-1388
 "['Security', 'Bitcoin Core']","['Hash Time-Locked Contracts', 'Pull Requests', 'Lightning Network']",delving-bitcoin-499-1-1383
 "['Segregated Witness', 'Splicing', 'Layer 2']","['Prevtx', 'Segwit v1', 'Refund Transaction', 'Collaborative Failures', 'Malleability', 'ScriptPubKey', 'Dual-funding', 'Interactive-tx', 'Taproot Channel', 'Lightning Network', 'Pre-signed', 'Taproot Input', 'Vulnerability', 'Signature Hash', 'BIP 341', 'Transaction ID']",delving-bitcoin-497-1-1378
+"['smart contracts', 'soft fork', 'fees']","['update transaction tennis', 'economic balance', 'SIGHASH', 'blockchain fees', 'Decker-Russell-Osuntokun update transactions', 'opcodes', 'watchtowers', 'covenant applications', 'Taproot annex', 'Lightning Network', 'Poon-Dryja payment channels', 'commitment transactions', 'fee contribution range', 'transaction outputs']",delving-bitcoin-504-1-1392
+"['Network', 'LND', 'Lightning']",[],delving-bitcoin-499-3-1396
+"['Incentives', 'Mempool']","['Transaction Replacement', 'Replace-by-Fee (RBF)', 'Value Inflation', 'Rate']",delving-bitcoin-383-13-1398
+"['Privacy', 'Cryptography']",['Blind Signature Scheme'],delving-bitcoin-506-1-1397
+['Package Relay'],['Transaction Fees'],delving-bitcoin-294-12-1394
+"['Mempool', 'Attacks', 'Security', 'Replace-By-Fee']","['Child-Pays-For-Parent', 'Shared Anchor', 'Forward-Thinking', 'Zero-Confirmation Transactions', 'Unconfirmed Splices', 'Transaction Handling', 'Package Topology', 'Cluster Mempool', 'Version 3 (v3)']",delving-bitcoin-494-6-1393
