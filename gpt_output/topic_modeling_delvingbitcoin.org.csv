@@ -716,3 +716,11 @@ primary_topics,secondary_topics,source_id
 "['Privacy', 'Cryptography']",['Blind Signature Scheme'],delving-bitcoin-506-1-1397
 ['Package Relay'],['Transaction Fees'],delving-bitcoin-294-12-1394
 "['Mempool', 'Attacks', 'Security', 'Replace-By-Fee']","['Child-Pays-For-Parent', 'Shared Anchor', 'Forward-Thinking', 'Zero-Confirmation Transactions', 'Unconfirmed Splices', 'Transaction Handling', 'Package Topology', 'Cluster Mempool', 'Version 3 (v3)']",delving-bitcoin-494-6-1393
+['Smart Contracts'],['Transaction Fees'],combined_Taxonomy-of-Transaction-Fees-in-Smart-Contracts
+['Soft Fork'],[],delving-bitcoin-397-36-1410
+['Smart Contracts'],['Transaction Fees'],delving-bitcoin-512-2-1408
+['Smart Contracts'],['Transaction Fees'],delving-bitcoin-512-1-1406
+['Blockchain'],"['Inscriptions', 'Terminal-based tool', 'Explorer', 'Command-line interface']",delving-bitcoin-508-1-1400
+['Replace-by-fee'],"['Transaction relays', 'Bitcoin-dev mailing list']",delving-bitcoin-488-4-1401
+"['Mempool', 'Package Relay', 'Transactions', 'Security']",[],delving-bitcoin-494-7-1411
+"['Incentives', 'Value', 'Miners', 'Replace-by-Fee']","['Relay Protection', 'Revenue', 'Fee Rates', 'Free Relay']",delving-bitcoin-488-5-1402
