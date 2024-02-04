@@ -741,3 +741,6 @@ primary_topics,secondary_topics,source_id
 "['Replace-By-Fee', 'Mempool', 'Fees']",[],delving-bitcoin-393-8-1429
 ['Smart Contracts'],['Transaction Fees'],delving-bitcoin-512-6-1426
 ['Soft Fork'],[],delving-bitcoin-397-38-1448
+['Soft Fork'],[],delving-bitcoin-397-41-1454
+"['Relay', 'Mempool']",[],delving-bitcoin-393-12-1450
+['Soft Fork'],"['Modular Arithmetic', 'Arithmetic', 'Serialization', 'Overflow', 'Unsigned Integers', 'Signed Integers', 'Variable-Length Serialization', 'Precision', 'Fixed-Length Serialization']",delving-bitcoin-397-40-1452
