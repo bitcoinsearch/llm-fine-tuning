@@ -744,3 +744,8 @@ primary_topics,secondary_topics,source_id
 ['Soft Fork'],[],delving-bitcoin-397-41-1454
 "['Relay', 'Mempool']",[],delving-bitcoin-393-12-1450
 ['Soft Fork'],"['Modular Arithmetic', 'Arithmetic', 'Serialization', 'Overflow', 'Unsigned Integers', 'Signed Integers', 'Variable-Length Serialization', 'Precision', 'Fixed-Length Serialization']",delving-bitcoin-397-40-1452
+"['Taproot', 'Smart Contracts', 'Soft Fork', 'Lightning', 'Schnorr']",[],combined_-sighash-outputdeltabounds-
+"['Fees', 'UTXO']",[],delving-bitcoin-376-15-1459
+['Soft Fork'],[],delving-bitcoin-397-42-1456
+"['Validation', 'Fees', 'UTXO', 'Script']",[],delving-bitcoin-504-2-1458
+['Soft Fork'],[],delving-bitcoin-397-43-1457
