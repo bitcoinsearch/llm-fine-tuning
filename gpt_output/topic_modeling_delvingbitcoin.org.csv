@@ -749,3 +749,6 @@ primary_topics,secondary_topics,source_id
 ['Soft Fork'],[],delving-bitcoin-397-42-1456
 "['Validation', 'Fees', 'UTXO', 'Script']",[],delving-bitcoin-504-2-1458
 ['Soft Fork'],[],delving-bitcoin-397-43-1457
+['Smart Contracts'],['Transaction Fees'],delving-bitcoin-340-35-1460
+"['Mempool', 'Fees']",[],delving-bitcoin-393-13-1461
+"['security', 'mempool', 'attack']","['theft', 'trigger authorization key', 'initiate a recovery', 'unauthorized withdrawals', 'cost', 'vault flexibility', 'block delay', 'recovery transactions', 'hot wallet', 'reserve requirements', 'watchtower', 'feerate periods', 'respends', 'economic viability', 'BIP345', 'OP_VAULT', 'script composition']",delving-bitcoin-521-1-1462
