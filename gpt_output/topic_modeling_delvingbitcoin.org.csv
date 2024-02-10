@@ -770,3 +770,8 @@ primary_topics,secondary_topics,source_id
 "['Segregated Witness', 'Cryptography', 'Soft Fork', 'Script', 'Timelocks', 'Hashlocks']",['Lamport Signatures'],delving-bitcoin-236-11-1492
 ['Lightning'],"['Cost-effectiveness', 'Transaction Efficiency', 'RBF (Replace By Fee)', 'Transaction Fees', 'LN Wallet', 'Child Pays for Parent (CPFP)']",delving-bitcoin-340-36-1483
 "['Lightning', 'Mempool']","['transaction attempts', 'batching operations', 'efficiency', 'reliability', 'dynamic LN implementations', 'resilience', 'confirmation times', 'blockchain state', 'LN implementations', 'adaptability', 'confirmed input', 'transaction processing', 'transaction management', 'network conditions']",delving-bitcoin-527-3-1484
+"['Fees', 'Lightning']","['HTLCs', 'Commitment Transactions']",delving-bitcoin-340-37-1496
+"['Cryptography', 'Consensus', 'Smart Contracts', 'Privacy', 'Lightning', 'Research']",[],delving-bitcoin-236-12-1494
+"['SegWit', 'Taproot', 'OP_RETURN', 'Lightning']","['Hashed Time-Locked Contracts', 'CTV']",delving-bitcoin-236-13-1497
+"['Protocol', 'Security', 'Scalability', 'Privacy', 'UTXO']",['Bitcoin protocol'],delving-bitcoin-340-39-1502
+[],"['transaction-versions', 'commitment transactions', 'Lightning Network']",delving-bitcoin-340-38-1498
