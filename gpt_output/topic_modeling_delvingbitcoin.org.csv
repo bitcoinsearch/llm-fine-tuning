@@ -775,3 +775,4 @@ primary_topics,secondary_topics,source_id
 "['SegWit', 'Taproot', 'OP_RETURN', 'Lightning']","['Hashed Time-Locked Contracts', 'CTV']",delving-bitcoin-236-13-1497
 "['Protocol', 'Security', 'Scalability', 'Privacy', 'UTXO']",['Bitcoin protocol'],delving-bitcoin-340-39-1502
 [],"['transaction-versions', 'commitment transactions', 'Lightning Network']",delving-bitcoin-340-38-1498
+[],"['rationale section', 'invoice format', 'user experience', 'Bitcoin payment methods', 'LN Address', 'payment processes', 'Bitcoin Improvement Proposal', 'DNSSEC', 'dynamic invoice formats', 'resolution mechanism']",delving-bitcoin-542-1-1507
