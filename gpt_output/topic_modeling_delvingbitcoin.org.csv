@@ -782,3 +782,10 @@ primary_topics,secondary_topics,source_id
 "['Onion', 'Routing', 'Privacy', 'Security', 'Lightning']",[],delving-bitcoin-542-2-1508
 "['Taproot', 'Scalability', 'Layer 2']","['Symmetry', 'Efficiency']",delving-bitcoin-236-16-1513
 "['Lightning', 'Custody', 'Privacy', 'Silent Payments']","['On-chain transactions', 'Infrastructure', 'Bitcoin Improvement Proposals', 'Communication', 'Invoices']",delving-bitcoin-542-3-1509
+"['Privacy', 'Cryptography']","['Tokens', 'Blind Signature Scheme']",combined_Building-Intuition-for-the-Cashu-Blind-Signature-Scheme
+"['Bitcoin Core', 'Asmap']",[],delving-bitcoin-548-1-1519
+[],['Op_inout_amount'],delving-bitcoin-549-1-1520
+['Soft Fork'],[],delving-bitcoin-397-44-1521
+['Lightning'],"['DNS', 'Bitcoin Lightning Network']",delving-bitcoin-542-4-1516
+"['Verification', 'Fraud', 'Privacy', 'Security', 'Fungibility']",[],delving-bitcoin-506-2-1522
+"['Fees', 'Taproot', 'Mining', 'Blockchain']",[],delving-bitcoin-547-1-1518
