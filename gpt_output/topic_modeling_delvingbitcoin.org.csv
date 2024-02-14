@@ -789,3 +789,25 @@ primary_topics,secondary_topics,source_id
 ['Lightning'],"['DNS', 'Bitcoin Lightning Network']",delving-bitcoin-542-4-1516
 "['Verification', 'Fraud', 'Privacy', 'Security', 'Fungibility']",[],delving-bitcoin-506-2-1522
 "['Fees', 'Taproot', 'Mining', 'Blockchain']",[],delving-bitcoin-547-1-1518
+"['Segregated Witness', 'Segwit', 'Splicing']","['Lightning channel', 'Malicious entities', 'Commitment transactions', 'Signature hash', 'Lightning Network ecosystem', 'Vulnerabilities', 'Malleability', 'Shared input', 'Financial gain', 'Refund transaction', 'Taproot input', 'Layer 2 contracts', 'Segwit v1', 'Collaborative efforts', 'Prevtx field', 'Taproot channel', 'Dual-funding', 'BIP 341', 'Transaction process', 'Interactive-tx transactions', 'Pre-signed refund transaction', 'Lightning Network', 'Transaction IDs', 'Security and integrity']",combined_Malleability-issues-when-creating-shared-transactions-with-segwit-v0
+"['Security', 'Lightning', 'Electrum', 'Hardware Wallet']","['Liquidity constraints', 'Existing solutions', 'Transaction keys', 'User experience', 'User authorization', 'Desktop wallet', 'Open-source project', 'Cryptographic validation', 'Layer 2 transactions', 'Technical feasibility', 'Operational complexity', 'Source code', 'Payment paths', 'Multi-path payments', 'Mobile wallet', 'Bitcoin transactions', 'Network payment processing time', 'Self-custody', 'Lightning Network', 'Bitcoin', 'Ledger', 'Bitbox']",combined_Lightning-Hardware-Wallet
+"['Covenants', 'Consensus', 'Privacy']",[],combined_Perpetually-KYC-d-Coins-Using-Evil-Covenants
+"['Covenants', 'Consensus', 'Security', 'Privacy']",[],delving-bitcoin-556-5-1541
+"['Covenants', 'Bitcoin Core']",[],delving-bitcoin-556-3-1538
+['UTXO'],"['Network Performance', 'Child Pays For Parent (CPFP)', 'Transaction Confirmations', 'Transaction Optimization']",delving-bitcoin-340-41-1533
+"['Hardware Wallet', 'Lightning']",[],delving-bitcoin-555-2-1530
+['Covenants'],"['Evil Covenants', 'Scripting', 'Bitcoin']",delving-bitcoin-556-12-1552
+"['Asmap', 'P2P', 'Mempool', 'Assumeutxo', 'P2pool', 'Research', 'Libbitcoin Kernel', 'Mining', 'Fuzzing', 'Fees', 'Schnorr', 'Pools', 'Bitcoin Core', 'Lightning', 'Libsecp256k1', 'Segwit', 'Package Relay', 'Stratum-V2...', 'Privacy', 'FROST', 'Silent Payments']",[],delving-bitcoin-556-1-1534
+"['UTXO', 'Lightning']","['CPFP', 'Transaction Fees']",delving-bitcoin-340-40-1532
+"['Blockchain', 'Covenants', 'Security', 'Multisig', 'Regulation']",[],delving-bitcoin-556-9-1548
+"['Covenants', 'Regulation', 'Security', 'Privacy']",[],delving-bitcoin-556-7-1546
+"['Transactions', 'Covenants', 'Security', 'Multisig']",['KYC'],delving-bitcoin-556-4-1539
+['Covenants'],['Bitcoin'],delving-bitcoin-556-2-1537
+"['Hardware Wallet', 'Lightning']",[],delving-bitcoin-555-1-1529
+"['Mining', 'Incentives', 'Mempool', 'Fees', 'Miners']","['Replace-By-Fee (RBF)', 'DoS Attacks', 'Network Dynamics']",delving-bitcoin-553-1-1526
+"['Covenants', 'Script']",['Bitcoin Improvement Proposals'],delving-bitcoin-556-10-1550
+"['Privacy', 'Fungibility']","['Digital Cash System', 'Anonymity']",delving-bitcoin-506-3-1527
+"['Segregated Witness', 'Bitcoin Core', 'Scalability', 'Blockchain', 'Security', 'Linux', 'Development']",[],delving-bitcoin-497-2-1531
+"['Merkle Trees', 'Covenants']",[],delving-bitcoin-556-6-1542
+"['Covenants', 'Multisig']","['Transparency', 'KYC', 'Governance', 'Bitcoin']",delving-bitcoin-556-8-1547
+"['Covenants', 'Security']","['Data Analysis', 'Transparency', 'Transaction Analysis']",delving-bitcoin-556-11-1551
