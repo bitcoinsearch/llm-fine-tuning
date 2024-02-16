@@ -829,3 +829,9 @@ primary_topics,secondary_topics,source_id
 "['Mining', 'Bitcoin Core', 'Segregated Witness', 'Taproot', 'Consensus']",[],delving-bitcoin-334-23-1556
 "['Bitcoin Core', 'Script']",[],delving-bitcoin-565-4-1569
 "['Blockchain', 'Bitcoin Core', 'Scalability', 'Cryptography', 'Taproot', 'Consensus', 'Libsecp256k1']",['Lightning Network'],delving-bitcoin-565-1-1555
+"['Academia', 'Security', 'P2pool', 'Fees', 'Testing', 'Routing Failures', 'Mempool', 'Multisig', 'Splicing', 'Forks', 'Smart Contracts', 'Eltoo', 'Package Relay', 'Regulation', 'Silent Payments', 'Wallet', 'P2P', 'Scalability', 'Eclair', 'Privacy', 'Miniscript', 'Sidechains', 'Fuzzing', 'Routing', 'Altcoin', 'Topology', 'FROST', 'Hard Fork', 'Taproot', 'Hardware Wallet', 'Submarine Swaps', 'Accumulators', 'Layer 2', 'Fungibility', 'Multiple-Path Payments', 'Custody', 'PSBT', 'Bitcoin Core', 'Soft Fork', 'Signet', 'Ux', 'Onion', 'RGB', 'Libbitcoin Kernel', 'Mining', 'Libsecp256k1', 'C-Lightning', 'Path-Finding', 'Zero-Knowledge', 'Update Layer', 'Pools', 'Script', 'Stratum-V2', 'Threshold Signatures', 'Consensus', 'Schnorr', 'Asmap', 'IBD', 'Lightning', 'Research', 'Limitations', 'Validation', 'Segwit', 'Musig', 'Covenants', 'Lnd', 'Sphinx', 'Attacks', 'Cryptography']",['Min'],delving-bitcoin-236-17-1577
+"['Validation', 'Withdrawal']","['Trigger Transaction', 'Scriptpubkey', 'Cancel Withdrawal', 'Continuity', 'Vault', 'OP_CAT', 'State Inspection', 'CSV Relative Timelock', 'Blockchain Transaction Protocols', 'Transaction Integrity']",delving-bitcoin-576-1-1583
+"['Privacy', 'Bitcoin Core', 'P2P']","['Message Relay', 'Network Integrity']",delving-bitcoin-565-7-1575
+"['Lightning', 'Hardware Wallet']",[],delving-bitcoin-555-6-1581
+['Bitcoin Core'],[],delving-bitcoin-565-8-1576
+"['Lightning', 'Hardware Wallet']",[],delving-bitcoin-555-5-1579
