@@ -835,3 +835,11 @@ primary_topics,secondary_topics,source_id
 "['Lightning', 'Hardware Wallet']",[],delving-bitcoin-555-6-1581
 ['Bitcoin Core'],[],delving-bitcoin-565-8-1576
 "['Lightning', 'Hardware Wallet']",[],delving-bitcoin-555-5-1579
+['Security'],"['Cancel Withdrawal', 'Encoding Witness Sizes', 'Vault System', 'Complete Withdrawal', 'Trigger Withdrawal', 'Optimization', 'Data References', 'Output Amounts', 'Transaction Integrity', 'Scripts', 'Continuity', 'Blockchain Technology Practices', 'Blockchain Transactions', 'OP_CAT', 'CheckSequenceVerify (CSV)', 'State Inspection', 'Blockchain Scripts', 'Relative Timelock', 'Witness Usage', 'Stack Contents', ""B'SST Analysis"", 'Efficiency Improvements']",combined_Basic-vault-prototype-using-OP-CAT
+"['Bitcoin Core', 'Covenants', 'Linux']",[],delving-bitcoin-556-14-1590
+"['Soft Fork', 'Consensus']","['Developers', 'Governance', 'Bitcoin Protocol']",delving-bitcoin-334-25-1591
+['Script'],"['Optimization', 'Transaction fees', 'Blockchain throughput']",delving-bitcoin-576-2-1588
+"['Blockchain', 'Cryptography', 'Bitcoin Core', 'Script']",[],delving-bitcoin-236-19-1586
+"['Cryptography', 'Security', 'Bitcoin Core', 'Research']",[],delving-bitcoin-236-18-1585
+"['Ux', 'Validation', 'Smart Contracts', 'Layer 2', 'Script', 'Attacks', 'Altcoin', 'Routing Failures', 'RGB', 'Package Relay', 'Eltoo', 'Limitations', 'Research', 'Covenants', 'Privacy', 'Sidechains', 'Bitcoin Core', 'Libbitcoin Kernel', 'Schnorr', 'Routing', 'Pools', 'Hardware Wallet', 'P2P', 'Mining', 'Forks', 'Miniscript', 'Custody', 'Lnd', 'Academia', 'Asmap', 'Threshold Signatures', 'Fungibility', 'Testing', 'Multiple-Path Payments', 'Silent Payments', 'C-Lightning', 'IBD', 'Soft Fork', 'Multisig', 'Signet', 'Zero-Knowledge', 'Lightning', 'Stratum-V2', 'Musig', 'Wallet', 'Sphinx', 'Topology', 'Update Layer', 'P2pool', 'FROST', 'Onion', 'Consensus', 'PSBT', 'Segwit', 'Accumulators', 'Scalability', 'Submarine Swaps', 'Libsecp256k1', 'Regulation', 'Eclair', 'Hard Fork', 'Fees', 'Mempool', 'Taproot', 'Path-Finding', 'Cryptography', 'Security', 'Fuzzing', 'Splicing']",['Min'],delving-bitcoin-236-20-1587
+"['Cryptography', 'Algorithms']","['Programming', 'Mathematics']",delving-bitcoin-236-21-1589
