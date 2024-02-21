@@ -847,3 +847,9 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Transactions', 'Blockchain', 'Mempool', 'Scalability']",['Unconfirmed Transactions'],delving-bitcoin-393-18-1599
 ['Decentralization'],"['Opcode', 'Bitcoin Improvement Proposal', 'Block Height', 'Unconfirmed Transactions', 'Block Time', 'Asset Swaps']",delving-bitcoin-581-1-1596
 "['Consensus', 'Fees', 'Segwit', 'Mempool', 'Mining', 'Transactions']",[],delving-bitcoin-383-14-1618
+"['Mempool', 'Fees', 'Mining']","['Centralization', 'Block Rewards', 'Profitability', 'Hashrate', 'Transaction Selection Strategies']",delving-bitcoin-547-5-1604
+[],[],delving-bitcoin-547-6-1605
+[],[],combined_Ecash-and-lightning-via-ZKCP
+[],[],combined_Op-checkmaxtimeverify
+[],[],delving-bitcoin-581-3-1622
+"['Mempool', 'Fees', 'Segwit', 'Timelocks', 'Zero-Knowledge', 'Mining', 'Consensus', 'Script']",[],delving-bitcoin-383-15-1645
