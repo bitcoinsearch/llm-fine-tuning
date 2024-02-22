@@ -853,3 +853,5 @@ primary_topics,secondary_topics,source_id
 [],[],combined_Op-checkmaxtimeverify
 [],[],delving-bitcoin-581-3-1622
 "['Mempool', 'Fees', 'Segwit', 'Timelocks', 'Zero-Knowledge', 'Mining', 'Consensus', 'Script']",[],delving-bitcoin-383-15-1645
+"['Mining', 'Mempool', 'Fairness', 'Fees']","['Hashrate', 'Contracts']",delving-bitcoin-547-3-1602
+"['Validation', 'Transactions', 'Blockchain', 'Privacy', 'Development', 'Zero-Knowledge']","['Off-Chain', 'Collaboration', 'Commitments', 'Technical', 'Community']",delving-bitcoin-596-1-1657
