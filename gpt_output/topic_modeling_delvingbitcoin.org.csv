@@ -855,3 +855,6 @@ primary_topics,secondary_topics,source_id
 "['Mempool', 'Fees', 'Segwit', 'Timelocks', 'Zero-Knowledge', 'Mining', 'Consensus', 'Script']",[],delving-bitcoin-383-15-1645
 "['Mining', 'Mempool', 'Fairness', 'Fees']","['Hashrate', 'Contracts']",delving-bitcoin-547-3-1602
 "['Validation', 'Transactions', 'Blockchain', 'Privacy', 'Development', 'Zero-Knowledge']","['Off-Chain', 'Collaboration', 'Commitments', 'Technical', 'Community']",delving-bitcoin-596-1-1657
+[],[],delving-bitcoin-547-4-1603
+"['Security', 'Assumeutxo', 'Segwit', 'Incentives', 'Hashlocks', 'UTXO', 'P2pool', 'Cryptography', 'Fee Management', 'Miners', 'Atomic Swaps', 'Ux', 'PSBT', 'Privacy', 'Consensus', 'Validation', 'Threshold Signatures', 'Proof-of-Stake', 'Segregated Witness', 'Timelocks', 'Mining', 'Fees', 'Multisig', 'Pools', 'Proof-of-Work', 'Fungibility', 'FROST']",[],delving-bitcoin-581-5-1649
+[],[],delving-bitcoin-576-4-1671
