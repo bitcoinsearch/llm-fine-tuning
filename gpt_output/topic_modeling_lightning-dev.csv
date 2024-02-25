@@ -4964,3 +4964,4 @@ primary_topics,secondary_topics,source_id
 ['UTXO'],"['Transactions Verification', 'SIGHASH_NOINPUT', 'Off-chain Contract Protocols', 'BIP 118', 'Transaction Digest Algorithm']",mailing-list-lightning-2024-January-004275
 "['UTXO', 'Lightning']",['Transaction Fees'],mailing-list-lightning-2024-January-004276
 "['Timelocks', 'Lightning']","['Transaction Costs', 'Channel Opening', 'Onchain Fees']",mailing-list-lightning-2024-February-004277
+[],[],mailing-list-lightning-2024-February-004279
