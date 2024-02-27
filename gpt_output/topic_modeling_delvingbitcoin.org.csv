@@ -868,3 +868,8 @@ primary_topics,secondary_topics,source_id
 [],[],delving-bitcoin-581-2-1619
 "['Transactions', 'Scalability']","['Technical Challenges', 'Resource Requirements', 'Linearization', 'Real-World Scenarios', 'Modifications', 'Computational Complexity', 'Algorithm', 'Graph', 'Processing Times', 'System Performance']",delving-bitcoin-303-2-1665
 [],[],delving-bitcoin-553-15-1689
+"['Bitcoin Core', 'Mempool', 'Research']",[],delving-bitcoin-598-1-1662
+"['Consensus', 'Fees', 'Replace-by-fee', 'Mempool', 'Attacks', 'Testing', 'Soft Fork', 'Security']",[],delving-bitcoin-393-21-1664
+[],[],delving-bitcoin-553-9-1681
+"['Threshold Signatures', 'Consensus', 'Fees', 'Scalability', 'Lightning', 'Research', 'Privacy', 'Multisig']",[],delving-bitcoin-359-14-1697
+"['Privacy', 'Security', 'Mempool', 'Research']",[],delving-bitcoin-608-1-1700
