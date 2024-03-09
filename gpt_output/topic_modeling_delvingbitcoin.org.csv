@@ -944,3 +944,7 @@ primary_topics,secondary_topics,source_id
 [],[],delving-bitcoin-630-19-1826
 "['Bitcoin Core', 'Fuzzing', 'Testing']",[],delving-bitcoin-640-4-1823
 [],[],delving-bitcoin-217-5-1817
+"['Mempool', 'Fees']",[],delving-bitcoin-553-17-1698
+[],[],delving-bitcoin-619-3-1767
+"['BIP', 'Address']","['URI', 'Compatibility', 'QR Code', 'Parsing', 'Backward Compatibility', 'Efficiency', 'Interoperability']",delving-bitcoin-630-14-1765
+[],[],combined_Property-based-testing-for-Bitcoin-Core
