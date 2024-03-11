@@ -1,16 +1,19 @@
 import tiktoken
 import os
+import openai
 from dotenv import load_dotenv
+from sentence_transformers import SentenceTransformer
 load_dotenv()
 
 TOKENIZER = tiktoken.get_encoding("cl100k_base")
+EMBEDDING_MODEL = SentenceTransformer('intfloat/e5-large-v2')  # intfloat/e5-large-v2, intfloat/e5-base-v2
+CHAT_COMPLETION_MODEL = "gpt-3.5-turbo"
 
-# if set to True, it will use chatgpt model ("gpt-3.5-turbo") for all the completions
-CHATGPT = True
-
-# COMPLETION_MODEL - only applicable if CHATGPT is set to False
-COMPLETION_MODEL = "text-davinci-003"  # "text-ada-001",
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+OPENAI_ORG_KEY = os.getenv("OPENAI_ORG_KEY")
+
+openai.organization = OPENAI_ORG_KEY
+openai.api_key = OPENAI_API_KEY
 
 ES_CLOUD_ID = os.getenv("ES_CLOUD_ID")
 ES_USERNAME = os.getenv("ES_USERNAME")

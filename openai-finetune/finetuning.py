@@ -8,26 +8,18 @@ import warnings
 import tqdm
 import json
 
-from src.utils import preprocess_email, ElasticSearchClient, XMLReader
-from src.config import ES_CLOUD_ID, ES_USERNAME, ES_PASSWORD, ES_INDEX
+from src.config import ES_INDEX
+from src.utils import preprocess_email
+from src.elasticsearch_utils import ElasticSearchClient
+from src.xml_utils import XMLReader
 from jsonl_data_stats import get_jsonl_data_stats, check_jsonl_data_format
 
 warnings.filterwarnings("ignore")
 load_dotenv()
 
-# if set to True, it will use chatgpt model ("gpt-3.5-turbo") for all the completions
-CHATGPT = True
-
-# COMPLETION_MODEL - only applicable if CHATGPT is set to False
-OPENAI_ORG_KEY = os.getenv("OPENAI_ORG_KEY")
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-
-openai.organization = OPENAI_ORG_KEY
-openai.api_key = OPENAI_API_KEY
-
 if __name__ == "__main__":
 
-    ### VARIABLES TOBE CONFIGURE AS PER USER'S NEED
+    # Note: VARIABLES TO BE CONFIGURE AS PER USER'S NEED
     # if APPLY_DATE_RANGE is set to False, elasticsearch will fetch all the docs in the index
     APPLY_DATE_RANGE = False
     # path for the file to be saved after data preparation
@@ -43,10 +35,9 @@ if __name__ == "__main__":
     if os.path.exists(JSONL_FILE_PATH):
         os.remove(JSONL_FILE_PATH)
 
-    ### DATA COLLECTION
+    # DATA COLLECTION
     xml_reader = XMLReader()
-    elastic_search = ElasticSearchClient(es_cloud_id=ES_CLOUD_ID, es_username=ES_USERNAME,
-                                         es_password=ES_PASSWORD)
+    elastic_search = ElasticSearchClient()
 
     dev_urls = [
         "https://lists.linuxfoundation.org/pipermail/bitcoin-dev/",
@@ -64,16 +55,19 @@ if __name__ == "__main__":
             start_date_str = start_date.strftime("%Y-%m-%d")
             logger.info(f"start_date: {start_date_str}")
             logger.info(f"current_date_str: {current_date_str}")
-            docs_list = elastic_search.extract_data_from_es(ES_INDEX, dev_url, start_date_str, current_date_str)
         else:
-            docs_list = elastic_search.fetch_all_data_for_url(ES_INDEX, dev_url)
+            start_date_str = None
+            current_date_str = None
 
         dev_name = dev_url.split("/")[-2]
+        docs_list = elastic_search.extract_data_from_es(
+            es_index=ES_INDEX, url=dev_url, start_date_str=start_date_str, current_date_str=current_date_str
+        )
         logger.success(f"Total threads received for {dev_name}: {len(docs_list)}")
 
         # docs_list = docs_list[:10]  # for testing on small dataset
 
-        ### DATA PREPARATION (INTO JSONL FORMAT)
+        # DATA PREPARATION (INTO JSONL FORMAT)
         for doc in tqdm.tqdm(docs_list):
             res = None
             try:
@@ -116,14 +110,14 @@ if __name__ == "__main__":
 
         logger.success(f"JSONL file generated successfully!: {JSONL_FILE_PATH}")
 
-        ### CHECK JSONL DATA FORMATTING
+        # CHECK JSONL DATA FORMATTING
         logger.info(f"checking jsonl data formatting...")
         data_report = check_jsonl_data_format(file_path=JSONL_FILE_PATH)
 
-        ### JSONL PRICE STATS
+        # JSONL PRICE STATS
         get_jsonl_data_stats(file_path=JSONL_FILE_PATH, n_epochs=NUM_EPOCHS)
 
-        ### FINE-TUNING PROCESS
+        # FINE-TUNING PROCESS
         # no errors in dataformat, move on to fine-tuning steps
         if data_report:
             logger.info(f"uploading the file for fine-tuning...")

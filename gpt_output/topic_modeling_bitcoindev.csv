@@ -1,0 +1,25 @@
+primary_topics,secondary_topics,source_id
+"['Fees', 'Mining', 'Smart Contracts', 'Research', 'Bitcoin Core', 'Pools', 'Consensus', 'Security', 'Lightning']",[],mailing-list-2024-02-m90a7538f81cbb1f5edf2aea4fa02a96f1da7b51b
+"['Consensus', 'Fees', 'Security', 'Replace-by-Fee']",[],mailing-list-2024-02-m5207be0d90cb74c61697d9648890d0e1703dd1b1
+"['Security', 'Bitcoin Core', 'Consensus', 'Fees', 'Mining', 'Replace-by-Fee']",[],mailing-list-2024-02-m53f074f4980073e984260359f9d8945318c37b38
+['Replace-by-Fee'],"['Denial-of-Service Attacks', 'Risk Evaluation', 'Fee Rate Management', 'Efficiency', 'Network Security', 'Historical Data', 'Transaction Fees']",mailing-list-2024-02-mf6f6a3b95dd4d12a4ef1d11a03e7e214b6c770c4
+"['Security', 'Bitcoin Core', 'Consensus', 'Mempool', 'Fees', 'Update Layer', 'Replace-by-Fee']",[],mailing-list-2024-02-mf4b73820b33fbfa7120d788fd844cf74bd25deb5
+"['Security', 'Consensus', 'Layer 2', 'Fees', 'UTXO', 'Mining']",[],mailing-list-2024-02-mbfcc06d7907250339f272c349bedea179108fe65
+"['Decentralization', 'Transactions', 'Zero-Knowledge', 'Scalability']","['User Control', 'Off-Chain', 'Protocol Development', 'Public Key Infrastructure']",mailing-list-2024-02-m919eba21d9233622957b5e757c1e5b4167ec8e38
+['BIP'],"['Editors', 'Proposal Evaluation', 'Community', 'Efficiency', 'Management', 'Numbering Scheme', 'Repository', 'Merge Pull Requests', 'Kanzure', 'Bitcoin Improvement Proposals', 'Bitcoin Development', 'RubenSomsen']",mailing-list-2024-02-m10b97e9401be8149c43dd4bcfcb2b8719737f0d3
+[],"['Developers', 'Inclusivity', 'Technical Expertise', 'Bitcoin Improvement Proposals', 'Workflow Optimization', 'Community Coordination']",mailing-list-2024-02-m263444d33cc19d876e46bdc0f8f63bf047f0a96c
+[],"['Review Mechanisms', 'Developers', 'Community', 'Technical Soundness', 'Editorial Team', 'BIPs', 'Non-developers', 'Bitcoin Improvement Proposals']",mailing-list-2024-02-m01be137b7de301ed7875c4d97c68464205dac935
+"['Bitcoin Core', 'Consensus', 'Decentralization', 'BIP']",['Governance'],mailing-list-2024-02-mcb8fb5256ee9cc455f0ee00e8aa5b18f1ffdf80a
+[],"['Editors', 'PRs', 'Protocol Updates', 'Administrative Roles', 'BIPs', 'Bitcoin Improvement Proposals']",mailing-list-2024-02-mf21debb5be815a846099958fcf9562b533c2a08a
+['BIP'],"['Editors', 'BIP Numbers', 'Luke', 'Permissions', 'Merge Pull Requests', 'Kanzure', 'Bitcoin Improvement Proposals', 'Bitcoin Development', 'RubenSomsen']",mailing-list-2024-02-m197aad4ed9f12d1427a11709656b7a9bc893b1aa
+"['Development', 'BIP']","['Bitcoin', 'Community', 'Luke Dashjr', 'Bitcoin Improvement Proposal']",mailing-list-2024-02-mae5b2c4a4d1f207a8dbc432be493e14884a02c74
+['development'],"['evolution of Bitcoin', 'governance mechanisms', 'Bitcoin protocol', 'Bitcoin Improvement Proposal', 'BIP editor']",mailing-list-2024-02-mfd23a74a160782a5db6a115dad04265f0d2deab6
+[],"['Governance', 'Bitcoin Development Ecosystem', 'Bitcoin Improvement Proposals']",mailing-list-2024-02-m1b3830bf95f16eec2700b4f19888242dd6043388
+[],"['BIP editorial team', 'GitHub', 'BIP editors', 'community members', 'BIPs', 'Bitcoin Improvement Proposals']",mailing-list-2024-02-m193253757529ab962b212bda465963cc991ba174
+[],"['technical viability', 'Bitcoin infrastructure', 'collective expertise', 'formal criteria', 'BIPs', 'editorial process', 'Bitcoin Improvement Proposal', 'Bitcoin ecosystem', 'community involvement', 'technical evaluation']",mailing-list-2024-02-mb6755a1add2005860ad72f67c52447fcf0a1d5f1
+['bitcoin-core'],"['digital communications', 'mailing-list', 'migration', 'community involvement', 'historical data', 'Google Groups']",mailing-list-2024-02-m2fbdf9c4760a7bb82e8a75d4d09d539a9b2e6d94
+"['privacy', 'Tor', 'BIP']","['payment instructions', 'lightning network', 'user enumeration', 'BOLT12', 'GitHub repositories', 'address reuse', 'Bitcoin Improvement Proposal', 'URI scheme', 'DNS', 'Bitcoin addresses', 'TXT records', 'DNSSEC', 'RFC 9102']",mailing-list-2024-02-m860f67695bd0d2fbd3acede6ce3f6121339c219d
+[],"['BIP editing process', 'proposal management', 'technical soundness evaluation', 'Bitcoin Development Mailing List', 'BIP editors', 'editorial responsibilities', 'proposal assessment criteria', 'Bitcoin Improvement Proposals', 'triaging', 'BIP repository structure']",combined_Adding-New-BIP-Editors
+[],"['archive', 'mailing list', 'moderators', 'bitcoin-dev', 'collaborative effort', 'moderator contact information', 'community standards', 'communication medium', 'Google Groups']",combined_bitcoin-dev-Mailing-List-Migration-Action-Required-
+"['Smart Contracts', 'Bitcoin Core', 'Research', 'Consensus', 'Segwit', 'Mempool', 'Fees', 'Lightning', 'Mining']",[],combined_Over-Half-of-Replace-by-Fee-Rate-Replacements-Are-Mined
+"['Research', 'Bitcoin Core', 'Cryptography']",[],mailing-list-2024-03-m54e597649b4445bd691a718df846840a9a930a58

@@ -8,27 +8,27 @@ import pandas as pd
 import traceback
 import ast
 
-from src.config import ES_CLOUD_ID, ES_USERNAME, ES_PASSWORD, ES_INDEX
-from src.utils import ElasticSearchClient
+from src.config import ES_INDEX
+from src.elasticsearch_utils import ElasticSearchClient
 
 warnings.filterwarnings("ignore")
 load_dotenv()
 
-# logs automatically rotate log file
-os.makedirs("logs", exist_ok=True)
-logger.add(f"logs/push_topic_modeling_to_es.log", rotation="23:59")
-
 
 if __name__ == "__main__":
 
+    # logs automatically rotate log file
+    os.makedirs("logs", exist_ok=True)
+    logger.add(f"logs/push_topic_modeling_to_es.log", rotation="23:59")
+
     delay = 3
-    elastic_search = ElasticSearchClient(es_cloud_id=ES_CLOUD_ID, es_username=ES_USERNAME,
-                                         es_password=ES_PASSWORD)
+    elastic_search = ElasticSearchClient()
 
     dev_urls = [
         "https://lists.linuxfoundation.org/pipermail/lightning-dev/",
         "https://lists.linuxfoundation.org/pipermail/bitcoin-dev/",
-        "https://delvingbitcoin.org/"
+        "https://delvingbitcoin.org/",
+        "https://gnusha.org/pi/bitcoindev/",
     ]
 
     for dev_url in dev_urls:
@@ -61,15 +61,18 @@ if __name__ == "__main__":
             start_date_str = None
             current_date_str = None
 
-        docs_list = elastic_search.fetch_data_for_empty_keywords(ES_INDEX, dev_url, start_date_str, current_date_str)
-        logger.success(f"TOTAL THREADS RECEIVED WITH AN EMPTY KEYWORDS: {len(docs_list)}")
+        docs_list = elastic_search.fetch_data_for_empty_field(
+            es_index=ES_INDEX, url=dev_url, field_name=["primary_topics", "secondary_topics"],
+            start_date_str=start_date_str, current_date_str=current_date_str
+        )
+        logger.success(f"TOTAL THREADS RECEIVED WITH AN EMPTY ['primary_topics', 'secondary_topics']: {len(docs_list)}")
 
         if docs_list:
             for idx, doc in enumerate(tqdm.tqdm(docs_list)):
                 doc_source_id = doc['_source']['id']
                 doc_id = doc['_id']
                 doc_index = doc['_index']
-                logger.info(f"working on document with '_id': {doc_id}, '_source-id': {doc_source_id}")
+                logger.info(f"working on document with '_id': {doc_id} | 'title': {doc['_source']['title']}")
 
                 if not doc['_source'].get('primary_topics'):
                     try:
@@ -79,7 +82,7 @@ if __name__ == "__main__":
                             primary_kw = ast.literal_eval(this_row['primary_topics'])
                             secondary_kw = ast.literal_eval(this_row['secondary_topics'])
 
-                            # update primary topic
+                            # update a primary topic
                             elastic_search.es_client.update(
                                 index=doc_index,
                                 id=doc_id,
@@ -90,7 +93,7 @@ if __name__ == "__main__":
                                 }
                             )
 
-                            # update secondary topic
+                            # update a secondary topic
                             elastic_search.es_client.update(
                                 index=doc_index,
                                 id=doc_id,
@@ -107,6 +110,8 @@ if __name__ == "__main__":
                         logger.error(f"Error Occurred: doc_source_id does not exist in stored_df! doc_source_id: {doc_source_id}")
 
                     except Exception as ex:
-                        logger.error(f"Error updating ES index: {traceback.format_exc()}")
+                        logger.error(f"Error updating ES index:{str(ex)}\n{traceback.format_exc()}")
+                else:
+                    logger.info(f"Exist: {doc['_source'].get('primary_topics')}")
 
         logger.success(f"Process complete for dev_url: {dev_url}")

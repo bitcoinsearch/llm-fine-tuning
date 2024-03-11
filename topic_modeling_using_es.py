@@ -7,37 +7,36 @@ import pandas as pd
 import traceback
 import time
 
-from src.config import ES_CLOUD_ID, ES_USERNAME, ES_PASSWORD, ES_INDEX
-from src.utils import ElasticSearchClient, clean_title
+from src.config import ES_INDEX
+from src.elasticsearch_utils import ElasticSearchClient
+from src.utils import clean_title
 
 warnings.filterwarnings("ignore")
 load_dotenv()
 
-# logs automatically rotate log file
-os.makedirs("es_topic_modeling_logs", exist_ok=True)
-logger.add(f"es_topic_modeling_logs/generate_topics_modeling.log", rotation="23:59")
 
 if __name__ == "__main__":
+
+    # logs automatically rotate log file
+    os.makedirs("es_topic_modeling_logs", exist_ok=True)
+    logger.add(f"es_topic_modeling_logs/generate_topics_modeling.log", rotation="23:59")
 
     btc_topics_list = pd.read_csv("btc_topics.csv")
     btc_topics_list = btc_topics_list['Topics'].to_list()
 
-    elastic_search = ElasticSearchClient(es_cloud_id=ES_CLOUD_ID, es_username=ES_USERNAME,
-                                         es_password=ES_PASSWORD)
+    elastic_search = ElasticSearchClient()
 
     dev_urls = [
         "https://lists.linuxfoundation.org/pipermail/lightning-dev/",
         "https://lists.linuxfoundation.org/pipermail/bitcoin-dev/",
-        "https://delvingbitcoin.org/"
+        "https://delvingbitcoin.org/",
+        "https://gnusha.org/pi/bitcoindev/",
     ]
 
     for dev_url in dev_urls:
         dev_name = dev_url.split("/")[-2]
         logger.info(f"dev_url: {dev_url}")
         logger.info(f"dev_name: {dev_name}")
-
-        elastic_search = ElasticSearchClient(es_cloud_id=ES_CLOUD_ID, es_username=ES_USERNAME,
-                                             es_password=ES_PASSWORD)
 
         for topic in btc_topics_list:
 
@@ -48,7 +47,9 @@ if __name__ == "__main__":
 
             # fetch all docs that matches the provided topic
             logger.info(f"Fetching docs for topic: {topic}")
-            docs_list = elastic_search.fetch_docs_with_keywords(ES_INDEX, dev_url, topic)
+            docs_list = elastic_search.fetch_docs_with_keywords(
+                es_index=ES_INDEX, url=dev_url, keyword=topic
+            )
             logger.success(f"TOTAL THREADS RECEIVED WITH A TOPIC: {str(topic)} = {len(docs_list)}")
 
             if docs_list:
@@ -64,7 +65,6 @@ if __name__ == "__main__":
 
                 # update topic to each doc
                 logger.info(f'updating topic to all these docs...')
-
                 for idx, doc in enumerate(tqdm.tqdm(docs_list)):
                     try:
                         doc_source_id = doc['_source']['id']

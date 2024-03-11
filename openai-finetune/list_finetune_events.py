@@ -1,15 +1,12 @@
 import openai
 from pprint import pprint
-import os
 from dotenv import load_dotenv
 import warnings
 from loguru import logger
+from src.config import OPENAI_API_KEY, OPENAI_ORG_KEY
 
 warnings.filterwarnings("ignore")
 load_dotenv()
-
-OPENAI_ORG_KEY = os.getenv("OPENAI_ORG_KEY")
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 openai.organization = OPENAI_ORG_KEY
 openai.api_key = OPENAI_API_KEY
