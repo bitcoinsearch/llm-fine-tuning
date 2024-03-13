@@ -1014,3 +1014,13 @@ primary_topics,secondary_topics,source_id
 "['Research', 'Consensus', 'Scalability', 'Limitations', 'Forks', 'Accumulators']",[],delving-bitcoin-664-7-1851
 "['Smart Contracts', 'Research', 'Privacy', 'Cryptography']",[],delving-bitcoin-664-8-1853
 "['UTXO', 'Taproot', 'Lightning', 'Blockchain', 'Merkle Trees']","['Commitment Schemes', 'OP_EXIT', 'Cryptographic Accumulators', 'Bitcoin']",combined_Unilateral-Exit
+"['Fees', 'Script', 'Transactions', 'Lightning']","['Hash Time-Locked Contracts (HTLCs)', 'Block Space']",delving-bitcoin-581-9-1866
+"['Storage', 'Merkle Trees']","['Efficiency', 'Data Size']",delving-bitcoin-664-9-1865
+"['Miniscript', 'Java', 'C++', 'Script']","['Type Erasure', 'Compilation', 'Interpreted', 'Rust']",delving-bitcoin-615-2-1862
+"['Consensus', 'Script']","['Operational Semantics', 'Instruction Set Architectures', 'Type Systems']",delving-bitcoin-615-3-1864
+"['Scalability', 'Blockchain', 'Storage', 'Validation']",[],delving-bitcoin-224-5-1855
+"['Miners', 'Fees', 'Mempool', 'Replace-by-Fee', 'Incentives']","['Efficiency', 'DoS', 'Bandwidth']",delving-bitcoin-553-25-1859
+"['Fees', 'Mempool', 'Consensus', 'Forks', 'Security', 'P2P', 'Validation', 'Attacks', 'Mining']",[],delving-bitcoin-581-8-1863
+"['P2P', 'Bitcoin Core']",[],delving-bitcoin-548-2-1860
+"['Consensus', 'Synchronization', 'Security', 'Asmap']","['Data Repository', 'Community Engagement', 'Kartograf', 'Repository', 'Feedback', 'Review Process', 'Node Operation']",combined_ASMap-creation-process
+"['Taproot', 'Covenants', 'Script']",['Type Erasure'],combined_Type-Erasure-Script
