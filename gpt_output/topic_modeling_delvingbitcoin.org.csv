@@ -1024,3 +1024,9 @@ primary_topics,secondary_topics,source_id
 "['P2P', 'Bitcoin Core']",[],delving-bitcoin-548-2-1860
 "['Consensus', 'Synchronization', 'Security', 'Asmap']","['Data Repository', 'Community Engagement', 'Kartograf', 'Repository', 'Feedback', 'Review Process', 'Node Operation']",combined_ASMap-creation-process
 "['Taproot', 'Covenants', 'Script']",['Type Erasure'],combined_Type-Erasure-Script
+"['Validation', 'Consensus', 'Merkle Trees', 'Privacy', 'Soft Fork']","['Resource Utilization', 'Delegation']",delving-bitcoin-636-6-1873
+"['Privacy', 'Security', 'Scalability', 'UTXO']",[],delving-bitcoin-327-25-1868
+"['Soft Fork', 'Consensus', 'Forks', 'Taproot', 'Segwit', 'Segregated Witness']",['Upgrade Layer'],delving-bitcoin-636-8-1880
+"['Stratum-V2', 'P2P', 'Bitcoin Core', 'Research', 'Python', 'Security', 'Testing', 'Fuzzing', 'Cryptography']",['Proxy'],delving-bitcoin-678-1-1877
+"['Script', 'Blockchain']","['Block Space', 'Transaction Fees']",delving-bitcoin-581-10-1871
+"['Hard Fork', 'Consensus', 'Verification', 'Security', 'Script', 'Soft Fork']",[],delving-bitcoin-636-7-1874
