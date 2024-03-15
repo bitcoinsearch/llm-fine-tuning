@@ -1030,3 +1030,21 @@ primary_topics,secondary_topics,source_id
 "['Stratum-V2', 'P2P', 'Bitcoin Core', 'Research', 'Python', 'Security', 'Testing', 'Fuzzing', 'Cryptography']",['Proxy'],delving-bitcoin-678-1-1877
 "['Script', 'Blockchain']","['Block Space', 'Transaction Fees']",delving-bitcoin-581-10-1871
 "['Hard Fork', 'Consensus', 'Verification', 'Security', 'Script', 'Soft Fork']",[],delving-bitcoin-636-7-1874
+"['Cryptography', 'Script', 'Blockchain', 'JavaScript']","['Debugging', 'Source Code', 'Chia']",delving-bitcoin-682-4-1899
+"['UTXO', 'Script', 'Cryptography']",['Bitcoin'],delving-bitcoin-682-6-1901
+"['Consensus', 'Privacy', 'Timestamping']",[],delving-bitcoin-598-7-1892
+"['Bitcoin Core', 'Backup']","['APIs', 'Scripting', 'GitLab']",delving-bitcoin-624-3-1894
+"['Mempool', 'Decentralization', 'Blockchain', 'Timelocks', 'Consensus']",[],delving-bitcoin-581-11-1887
+"['Security', 'Privacy']",[],delving-bitcoin-598-8-1893
+"['Bitcoin Core', 'Research']",['Community Engagement'],delving-bitcoin-624-4-1895
+"['Bitcoin Core', 'P2P', 'BIP', 'Tor']","['Proxy', 'Compatibility', 'Outbound Connections', 'Inbound Connections', 'Address Serialization', 'Technical Limitation', 'I2P', 'Documentation']",delving-bitcoin-678-4-1885
+"['Cryptography', 'Script', 'Development']","['Source Code', 'Alternative']",delving-bitcoin-682-5-1900
+['Script'],"['Compiler Design', 'Haskell', 'Lisp', 'Lazy Evaluation', 'Interpretation']",delving-bitcoin-682-3-1898
+"['Accumulators', 'Security', 'Consensus', 'MuSig']",['Multiparty Computation'],delving-bitcoin-664-10-1883
+"['Script', 'Development']",['Lisp'],delving-bitcoin-682-2-1897
+"['Bitcoin Core', 'Encryption', 'Tor']","['Connectivity', 'BIP324', 'Proxy', 'Address Serialization', 'Node Implementations', 'I2P', 'Technical Advancements']",delving-bitcoin-678-5-1888
+['P2P'],"['Bitcoin Improvement Proposal', 'Bitcoin-related libraries', 'Rust']",delving-bitcoin-678-2-1881
+"['Cryptography', 'Bitcoin Core', 'Taproot', 'Script', 'UTXO']","['Blockchain Applications', 'Hash Generation', 'Functional Programming Languages', 'Lisp', 'Opcodes']",delving-bitcoin-682-1-1886
+"['Bitcoin Core', 'P2P']","['Proxy', 'Rust', 'Documentation']",delving-bitcoin-678-3-1882
+"['Cryptography', 'Bitcoin Core', 'Python', 'Testing', 'Security', 'P2P']","['Light Clients', 'BIP324', 'Presentation', 'Proxy', 'GitHub', 'Serialization', 'Version Messages', 'Networking']",combined_BIP324-Proxy-easy-integration-of-v2-transport-protocol-for-light-clients-PoC-
+"['Compiling', 'Cryptography', 'Bitcoin Core', 'Smart Contracts', 'Script', 'Segwit', 'UTXO']","['Debugging', 'Serialization Techniques', 'Lisp', 'Functional Programming']",combined_BTC-Lisp-as-an-alternative-to-Script
