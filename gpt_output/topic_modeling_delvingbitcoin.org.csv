@@ -1048,3 +1048,11 @@ primary_topics,secondary_topics,source_id
 "['Bitcoin Core', 'P2P']","['Proxy', 'Rust', 'Documentation']",delving-bitcoin-678-3-1882
 "['Cryptography', 'Bitcoin Core', 'Python', 'Testing', 'Security', 'P2P']","['Light Clients', 'BIP324', 'Presentation', 'Proxy', 'GitHub', 'Serialization', 'Version Messages', 'Networking']",combined_BIP324-Proxy-easy-integration-of-v2-transport-protocol-for-light-clients-PoC-
 "['Compiling', 'Cryptography', 'Bitcoin Core', 'Smart Contracts', 'Script', 'Segwit', 'UTXO']","['Debugging', 'Serialization Techniques', 'Lisp', 'Functional Programming']",combined_BTC-Lisp-as-an-alternative-to-Script
+[],"['Open-source projects', 'Bitcoin Improvement Proposal', 'Rust', 'Collaboration']",delving-bitcoin-678-6-1906
+"['Bitcoin Core', 'Script']","['Repository', 'Mirror']",delving-bitcoin-624-5-1904
+['Script'],"['Programming Languages', 'Compiler', 'Simphony', 'Translation', 'BTC Lisp', 'Bitcoin Scripting']",delving-bitcoin-682-8-1910
+"['Research', 'Cryptography', 'Smart Contracts', 'Script']","['Programming', 'Language Design', 'Bitcoin Script', 'Dynamic Typing', 'Compilers', 'Static Typing']",delving-bitcoin-682-7-1909
+"['Taproot', 'Script']",[],delving-bitcoin-376-16-1908
+"['Miners', 'Mempool', 'Incentives', 'Transactions', 'Consensus']",['DoS Attacks'],delving-bitcoin-553-26-1911
+"['Bitcoin Core', 'Backup', 'Development']",['Documentation'],delving-bitcoin-624-6-1905
+['Bitcoin Core'],[],delving-bitcoin-624-7-1907
