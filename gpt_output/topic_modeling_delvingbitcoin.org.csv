@@ -1056,3 +1056,5 @@ primary_topics,secondary_topics,source_id
 "['Miners', 'Mempool', 'Incentives', 'Transactions', 'Consensus']",['DoS Attacks'],delving-bitcoin-553-26-1911
 "['Bitcoin Core', 'Backup', 'Development']",['Documentation'],delving-bitcoin-624-6-1905
 ['Bitcoin Core'],[],delving-bitcoin-624-7-1907
+"['Lightning', 'Privacy', 'Bitcoin Core', 'Cryptography']","['Collaboration', 'BIP324', 'Rust']",delving-bitcoin-678-7-1912
+"['Fees', 'Security', 'Block', 'Bitcoin Core', 'Mining']",[],delving-bitcoin-327-26-1915

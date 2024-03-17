@@ -30,3 +30,5 @@ primary_topics,secondary_topics,source_id
 "['Testing', 'Bitcoin Core', 'Research']",['Bitcoin Core Development'],mailing-list-2024-03-ma0da57a579771c3418f7a92a018430041f8ebeaf
 "['Mining', 'Transactions', 'Mempool', 'Replace-By-Fee', 'Fees']","['Economic Theory', 'Bandwidth']",mailing-list-2024-03-m9f51fc0372f404045b20a86e23ec1ddc0d77e565
 ['BIP'],['Editors'],mailing-list-2024-03-md533df1a530349d6f4522e39eca33c447421c368
+"['Fees', 'Lightning', 'UTXO', 'Bitcoin Core', 'Mempool']","['Unspent Transaction Outputs (UTXOs)', 'Replacement-By-Fee (RBF)']",mailing-list-2024-03-m50465916f1bb05fdcc319e68165c10b0e17239e2
+"['Fees', 'Security', 'Research', 'Privacy', 'Consensus', 'Mining']",[],combined_OP-Expire-mempool-behavior
