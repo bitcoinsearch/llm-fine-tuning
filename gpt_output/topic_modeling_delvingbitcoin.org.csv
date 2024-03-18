@@ -1058,3 +1058,7 @@ primary_topics,secondary_topics,source_id
 ['Bitcoin Core'],[],delving-bitcoin-624-7-1907
 "['Lightning', 'Privacy', 'Bitcoin Core', 'Cryptography']","['Collaboration', 'BIP324', 'Rust']",delving-bitcoin-678-7-1912
 "['Fees', 'Security', 'Block', 'Bitcoin Core', 'Mining']",[],delving-bitcoin-327-26-1915
+"['Bitcoin Core', 'P2P', 'API']","['Package Management', 'Proxy', 'BIP324', 'Optimization', 'Cryptographic Dependencies', 'Rust']",delving-bitcoin-678-9-1921
+"['Client', 'API', 'P2P', 'Development']","['TCP', 'Rust']",delving-bitcoin-678-8-1920
+"['Proof-of-Work', 'Bitcoin Core', 'Forks', 'Cryptography']","['Open Source', 'Rust']",delving-bitcoin-678-10-1922
+"['Lightning', 'Incentives', 'Fees', 'Replace-By-Fee', 'Mempool', 'Transactions']",[],delving-bitcoin-553-27-1923
