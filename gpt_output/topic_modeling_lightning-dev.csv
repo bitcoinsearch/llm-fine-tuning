@@ -4969,3 +4969,4 @@ primary_topics,secondary_topics,source_id
 [],[],combined_Update-of-IPv4-address-in-channel-reestablish-message-
 "['Routing', 'P2P', 'Update Layer', 'Layer 2', 'Encryption', 'Network', 'Lightning', 'Security']","['IP Address', 'Channel', 'DNS', 'Domain Name', 'Public Key', 'NAT Traversal', 'Node', 'Configuration']",mailing-list-lightning-2024-February-004280
 "['Privacy', 'Timelocks', 'Lightning', 'Security']",['Peer-to-Peer Protocol'],combined_Setting-to-self-delay-and-cltv-expiry-prior-to-channel-opening
+"['Security', 'Fuzzing', 'Research', 'Mempool', 'Lightning', 'Consensus']",[],mailing-list-lightning-2024-March-004281

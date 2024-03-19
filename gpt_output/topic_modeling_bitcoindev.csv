@@ -32,3 +32,5 @@ primary_topics,secondary_topics,source_id
 ['BIP'],['Editors'],mailing-list-2024-03-md533df1a530349d6f4522e39eca33c447421c368
 "['Fees', 'Lightning', 'UTXO', 'Bitcoin Core', 'Mempool']","['Unspent Transaction Outputs (UTXOs)', 'Replacement-By-Fee (RBF)']",mailing-list-2024-03-m50465916f1bb05fdcc319e68165c10b0e17239e2
 "['Fees', 'Security', 'Research', 'Privacy', 'Consensus', 'Mining']",[],combined_OP-Expire-mempool-behavior
+"['Security', 'Research', 'Forks', 'Mining', 'Proof-of-Work', 'Consensus']",['Quantum'],mailing-list-2024-03-m2494c3bc48db3e299c76ec7c7c0b5d56c80bd0df
+"['Replace-by-Fee', 'Mining', 'Security', 'Mempool', 'Fees', 'Consensus']",[],mailing-list-2024-03-md907cb31d0a0069d9cf44c39281e8b986fcbd91f

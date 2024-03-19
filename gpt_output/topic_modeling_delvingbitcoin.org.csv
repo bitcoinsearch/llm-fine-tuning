@@ -1062,3 +1062,10 @@ primary_topics,secondary_topics,source_id
 "['Client', 'API', 'P2P', 'Development']","['TCP', 'Rust']",delving-bitcoin-678-8-1920
 "['Proof-of-Work', 'Bitcoin Core', 'Forks', 'Cryptography']","['Open Source', 'Rust']",delving-bitcoin-678-10-1922
 "['Lightning', 'Incentives', 'Fees', 'Replace-By-Fee', 'Mempool', 'Transactions']",[],delving-bitcoin-553-27-1923
+"['Mempool', 'Incentives', 'Consensus']",[],delving-bitcoin-553-28-1926
+"['Transactions', 'Replace-By-Fee', 'Mempool', 'Lightning', 'Incentives']",[],delving-bitcoin-553-29-1927
+"['Segregated Witness', 'Hashlocks', 'Taproot', 'Cryptography', 'Script', 'Proof-of-Stake', 'Merkle Trees', 'Schnorr', 'Proof-of-Work', 'Privacy', 'Consensus']",[],delving-bitcoin-636-9-1931
+"['Fees', 'Mining', 'Mempool', 'Pools', 'Incentives', 'Consensus']",[],delving-bitcoin-553-30-1932
+"['compiling', 'peer-discovery', 'Security', 'Ux', 'wallet', 'spv', 'Proof-of-Stake', 'decentralization', 'network', 'Fungibility', 'cpu-mining', 'genesis-block', 'Scalability', 'relay', 'segregated-witness', 'verification', 'Hashlocks', 'script', 'offline', 'encryption', 'bitcoin-core', 'scalability', 'Fees', 'hash', 'privacy', 'protocol', 'P2pool', 'mining-software', 'full-node', 'Testing', 'Research', 'Segwit', 'p2p', 'blockchain', 'validation', 'Mining', 'payment', 'Privacy', 'consensus', 'hardware-wallet', 'transactions', 'testing', 'Cryptography', 'raw-transaction', 'multi-signature', 'Miners', 'source-code', 'storage', 'Assumeutxo', 'Timelocks', 'Validation', 'output', 'blocksize', 'Proof-of-Work', 'public-key', 'server', 'Consensus']",[],delving-bitcoin-600-3-1928
+"['Fuzzing', 'Testing', 'Soft Fork', 'Bitcoin Core', 'Consensus']",[],delving-bitcoin-640-9-1925
+"['Security', 'Script', 'Consensus']","['Performance', 'Programming Languages', 'Transparency', 'Formalization']",delving-bitcoin-682-9-1930
