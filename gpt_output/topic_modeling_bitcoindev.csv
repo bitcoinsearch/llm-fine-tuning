@@ -34,3 +34,10 @@ primary_topics,secondary_topics,source_id
 "['Fees', 'Security', 'Research', 'Privacy', 'Consensus', 'Mining']",[],combined_OP-Expire-mempool-behavior
 "['Security', 'Research', 'Forks', 'Mining', 'Proof-of-Work', 'Consensus']",['Quantum'],mailing-list-2024-03-m2494c3bc48db3e299c76ec7c7c0b5d56c80bd0df
 "['Replace-by-Fee', 'Mining', 'Security', 'Mempool', 'Fees', 'Consensus']",[],mailing-list-2024-03-md907cb31d0a0069d9cf44c39281e8b986fcbd91f
+"['Fees', 'Consensus', 'Mempool', 'Attacks', 'Mining']",[],mailing-list-2024-03-m559e9ff9e838c41918d869fa527ed1bc9d474113
+"['Fees', 'Consensus', 'Mempool', 'Bitcoin Core', 'Mining']",[],mailing-list-2024-03-md358ddf1b5ae0a6b9b650c1e7d1d67c44b880b43
+"['Fees', 'Consensus', 'UTXO', 'Privacy', 'Soft Fork', 'Mining']",[],mailing-list-2024-03-m330d94674619e20f9cf6a2f5113ffbec38e94e84
+"['Bitcoin Core', 'Research', 'Transactions']",[],mailing-list-2024-03-m78e8be6cb786ea2880a307603a681ce6e50512fb
+"['Fees', 'Replace-By-Fee', 'Soft Fork', 'Smart Contracts']","['Lightning Network', 'Libre Relay', 'Transaction Mining', 'Transaction Sponsorship', 'Mainnet', 'Timestamps', 'Ark', 'LN']",mailing-list-2024-03-me083d773c7afee74119575c973eb0860f698f538
+"['Fees', 'Consensus', 'Lightning', 'UTXO', 'Privacy', 'Soft Fork', 'Mining', 'Smart Contracts']",['DoS Attacks'],combined_Anyone-can-boost-a-more-efficient-alternative-to-anchor-outputs
+"['Fees', 'Consensus', 'Security', 'Mempool', 'Attacks', 'Mining', 'Transactions']",[],combined_A-Free-Relay-Attack-Exploiting-RBF-Rule-6

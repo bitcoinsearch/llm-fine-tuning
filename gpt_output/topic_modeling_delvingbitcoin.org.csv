@@ -1069,3 +1069,17 @@ primary_topics,secondary_topics,source_id
 "['compiling', 'peer-discovery', 'Security', 'Ux', 'wallet', 'spv', 'Proof-of-Stake', 'decentralization', 'network', 'Fungibility', 'cpu-mining', 'genesis-block', 'Scalability', 'relay', 'segregated-witness', 'verification', 'Hashlocks', 'script', 'offline', 'encryption', 'bitcoin-core', 'scalability', 'Fees', 'hash', 'privacy', 'protocol', 'P2pool', 'mining-software', 'full-node', 'Testing', 'Research', 'Segwit', 'p2p', 'blockchain', 'validation', 'Mining', 'payment', 'Privacy', 'consensus', 'hardware-wallet', 'transactions', 'testing', 'Cryptography', 'raw-transaction', 'multi-signature', 'Miners', 'source-code', 'storage', 'Assumeutxo', 'Timelocks', 'Validation', 'output', 'blocksize', 'Proof-of-Work', 'public-key', 'server', 'Consensus']",[],delving-bitcoin-600-3-1928
 "['Fuzzing', 'Testing', 'Soft Fork', 'Bitcoin Core', 'Consensus']",[],delving-bitcoin-640-9-1925
 "['Security', 'Script', 'Consensus']","['Performance', 'Programming Languages', 'Transparency', 'Formalization']",delving-bitcoin-682-9-1930
+"['Consensus', 'Soft Fork', 'Transaction-Verification']","['RBF', 'Reorg', 'Scripting']",delving-bitcoin-696-3-1943
+"['Script', 'Fees', 'Consensus', 'Soft Fork', 'Transactions']",[],delving-bitcoin-696-4-1944
+"['Incentives', 'Mempool']",[],delving-bitcoin-553-33-1935
+"['Fees', 'Consensus', 'Pools', 'Mempool', 'Mining']",[],delving-bitcoin-553-36-1946
+['Taproot'],['BIP341'],delving-bitcoin-376-17-1941
+['Bitcoin Core'],"['GitLab', 'Backups']",delving-bitcoin-624-8-1937
+"['Fees', 'Consensus', 'Lightning', 'Security', 'Mempool', 'Segwit', 'Privacy', 'Soft Fork', 'Cryptography', 'Multisig', 'Schnorr']",[],delving-bitcoin-696-1-1939
+"['Incentives', 'Mempool']",[],delving-bitcoin-553-31-1933
+"['Bitcoin Core', 'Soft Fork']",[],delving-bitcoin-397-48-1938
+"['Fees', 'Consensus', 'Incentives', 'Mempool', 'Attacks', 'Mining']",[],delving-bitcoin-553-35-1945
+"['Consensus', 'Incentives', 'Mempool', 'Stratum-V2']",['Mining Pools'],delving-bitcoin-553-34-1936
+"['Fees', 'Consensus', 'Incentives', 'Mempool', 'Mining']",['Optimization'],delving-bitcoin-553-32-1934
+"['Fees', 'Consensus', 'Segwit', 'Transactions']",['Blockspace Efficiency'],delving-bitcoin-696-2-1940
+"['Fees', 'Script', 'Blockchain', 'Consensus', 'Segregated Witness', 'Security', 'Soft Fork', 'Bitcoin Core', 'Transaction-Verification']",[],combined_Improving-transaction-sponsor-blockspace-efficiency
