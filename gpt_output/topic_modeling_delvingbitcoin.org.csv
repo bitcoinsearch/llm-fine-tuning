@@ -1083,3 +1083,14 @@ primary_topics,secondary_topics,source_id
 "['Fees', 'Consensus', 'Incentives', 'Mempool', 'Mining']",['Optimization'],delving-bitcoin-553-32-1934
 "['Fees', 'Consensus', 'Segwit', 'Transactions']",['Blockspace Efficiency'],delving-bitcoin-696-2-1940
 "['Fees', 'Script', 'Blockchain', 'Consensus', 'Segregated Witness', 'Security', 'Soft Fork', 'Bitcoin Core', 'Transaction-Verification']",[],combined_Improving-transaction-sponsor-blockspace-efficiency
+"['Segwit', 'Validation', 'Cryptography', 'Assumeutxo', 'Privacy', 'P2pool', 'Ux', 'Mining', 'Fees']",[],delving-bitcoin-600-4-1950
+"['Taproot', 'Mempool', 'Assumeutxo', 'Fees']",['P2WPKH'],delving-bitcoin-600-6-1952
+"['Miners', 'transaction-id', 'blocksize', 'Pools', 'Assumeutxo', 'wallet', 'script', 'Fungibility', 'transactions', 'Timelocks', 'P2P', 'decentralization', 'Fees', 'peer-discovery', 'full-node', 'Lightning', 'Cryptography', 'raw-transaction', 'Wallet', 'testnet', 'Scalability', 'soft-fork', 'blockchain', 'Proof-of-Work', 'Proof-of-Stake', 'Segwit', 'Validation', 'p2pkh', 'consensus', 'multi-signature', 'Silent Payments', 'Security', 'Consensus', 'relay', 'Privacy', 'Segregated Witness', 'hardware-wallet', 'mining-software', 'block-size-increase', 'Mempool', 'bitcoin-core', 'validation', 'reward-schedule', 'Hashlocks', 'scalability', 'privacy', 'source-code', 'Ux', 'smartcontracts', 'Research', 'Mining']",[],delving-bitcoin-600-5-1951
+"['Soft Fork', 'Protocol', 'Consensus', 'Bitcoin Core', 'Segregated Witness', 'Forks']","['Upgrades', 'Flags']",delving-bitcoin-698-1-1948
+"['Validation', 'Mempool', 'Block-Size-Increase', 'Consensus', 'Transaction-Verification', 'Transaction-Selection', 'Replace-By-Fee', 'Mining', 'Fees']",['Fee-Management'],delving-bitcoin-696-5-1947
+['UTXO'],"['Transaction Scenarios', 'RPC', 'Changeless Transaction', 'Liquidity Transactions', 'Highest-Value UTXO', 'Transaction Processing', 'Coin Selection Efficiency', 'Bucket Refills', 'Bucket Ranges', 'Performance Comparison', 'Unspent Transaction Outputs (UTXOs)', 'Total Fees', 'Input Set Candidate Post-Processing', 'Algorithm Activation', 'Coin Selection Algorithms', 'Bucket Management', 'Median Inputs']",delving-bitcoin-600-7-1953
+"['UTXO', 'Lightning', 'Bitcoin Core', 'Research', 'Fees']",[],delving-bitcoin-600-8-1955
+"['Soft Fork', 'Script']","['Bitcoin Script', 'Stack', 'Stack-Based', 'Closures', 'Optimizing', 'Semantics', 'Lisp', 'Environment']",delving-bitcoin-682-10-1977
+[],[],delving-bitcoin-598-9-1924
+"['Consensus', 'Segwit', 'BIP']",[],delving-bitcoin-698-2-1949
+"['Soft Fork', 'Segwit', 'Consensus', 'Bitcoin Core', 'Forks', 'Research']",[],combined_Leaf-Version-as-Flags
