@@ -1094,3 +1094,10 @@ primary_topics,secondary_topics,source_id
 [],[],delving-bitcoin-598-9-1924
 "['Consensus', 'Segwit', 'BIP']",[],delving-bitcoin-698-2-1949
 "['Soft Fork', 'Segwit', 'Consensus', 'Bitcoin Core', 'Forks', 'Research']",[],combined_Leaf-Version-as-Flags
+"['Script', 'Update Layer', 'Bitcoin Core', 'Onion']",[],delving-bitcoin-624-9-1979
+"['Privacy', 'Research', 'Replace-By-Fee', 'Fees', 'Bitcoin Core', 'Segregated Witness', 'Mempool']",[],delving-bitcoin-703-2-1982
+"['Lightning', 'Privacy', 'Mining', 'Fees', 'Consensus']",[],delving-bitcoin-600-9-1984
+"['Fee Management', 'Mining', 'Transactions', 'P2P', 'Bitcoin Core', 'Mempool']",[],delving-bitcoin-703-3-1985
+['Script'],"['Innovative Approach', 'Workflow', 'Binary Representation', 'Programming Techniques', 'Simplicity', 'Shorthand Notations', 'Programming Languages', 'Adaptability', 'Efficiency', 'Productivity', 'Coding Practices', 'Evolution of Programming Languages']",delving-bitcoin-682-11-1978
+"['Privacy', 'Research', 'Testing', 'Security', 'Mining', 'Validation', 'Fees', 'P2P', 'Transactions', 'Consensus', 'Bitcoin Core', 'Mempool']",[],delving-bitcoin-703-1-1980
+"['Research', 'Testing', 'Replace-By-Fee', 'Mining', 'Transactions', 'Fees', 'Bitcoin Core', 'Segregated Witness', 'Mempool']",[],combined_Mempool-Based-Fee-Estimation-on-Bitcoin-Core
