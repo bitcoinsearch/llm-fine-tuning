@@ -44,3 +44,5 @@ primary_topics,secondary_topics,source_id
 "['Proof-of-Work', 'ASIC']","['Quantum Computing', 'Energy Consumption']",mailing-list-2024-03-mae5e293d308aa7c148e54085cf2cdbdb82a1ce85
 "['Replace-by-Fee', 'Mempool', 'Transactions', 'Mining', 'Fees']","['DoS Attacks', 'Network Integrity']",mailing-list-2024-03-mcf43c105c52470717a28fb3d6aff5e9943cfd868
 "['Cryptography', 'Security', 'Consensus', 'Proof-of-Work', 'Research', 'Mining']",[],combined_51-Attack-via-Difficulty-Increase-with-a-Small-Quantum-Miner
+"['Replace-by-fee', 'P2P', 'Mining', 'Mempool', 'Fees', 'Consensus', 'Assumeutxo', 'UTXO', 'Lightning', 'Bitcoin Core']",[],mailing-list-2024-03-mccbdbac42769d818cd22ace5bfc253d4e85e0437
+"['P2P', 'Fees', 'Consensus', 'Security', 'Attacks']",[],mailing-list-2024-03-md2df151ea27ee0266ae59fdd92af0a41450af8c6

@@ -1101,3 +1101,7 @@ primary_topics,secondary_topics,source_id
 ['Script'],"['Innovative Approach', 'Workflow', 'Binary Representation', 'Programming Techniques', 'Simplicity', 'Shorthand Notations', 'Programming Languages', 'Adaptability', 'Efficiency', 'Productivity', 'Coding Practices', 'Evolution of Programming Languages']",delving-bitcoin-682-11-1978
 "['Privacy', 'Research', 'Testing', 'Security', 'Mining', 'Validation', 'Fees', 'P2P', 'Transactions', 'Consensus', 'Bitcoin Core', 'Mempool']",[],delving-bitcoin-703-1-1980
 "['Research', 'Testing', 'Replace-By-Fee', 'Mining', 'Transactions', 'Fees', 'Bitcoin Core', 'Segregated Witness', 'Mempool']",[],combined_Mempool-Based-Fee-Estimation-on-Bitcoin-Core
+"['Mining', 'Mempool', 'Fees', 'Consensus', 'Decentralization', 'Soft Fork', 'Bitcoin Core']",[],delving-bitcoin-703-4-1989
+"['Mining', 'Mempool', 'Fees', 'Consensus', 'Bitcoin Core']",[],delving-bitcoin-703-6-1991
+"['Mining', 'Pools', 'Fees', 'Consensus', 'P2pool', 'Segwit', 'Assumeutxo', 'UTXO', 'Lightning', 'Cryptography', 'Security', 'Bitcoin Core']",[],delving-bitcoin-600-10-1988
+"['Mining', 'Mempool', 'Fees', 'Replace-By-Fee', 'Transactions', 'Blockchain', 'Bitcoin Core']",[],delving-bitcoin-703-5-1990
