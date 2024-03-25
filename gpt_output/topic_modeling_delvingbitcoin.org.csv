@@ -1107,3 +1107,7 @@ primary_topics,secondary_topics,source_id
 "['Mining', 'Mempool', 'Fees', 'Replace-By-Fee', 'Transactions', 'Blockchain', 'Bitcoin Core']",[],delving-bitcoin-703-5-1990
 "['Bitcoin Core', 'Research', 'Development', 'Regulation', 'Consensus']","['Financialization', 'Protocol Changes', 'Community']",delving-bitcoin-334-27-1992
 ['Script'],[],delving-bitcoin-682-12-1993
+"['Mining', 'Validation', 'Soft Fork', 'Consensus']","['Bugs', 'Community Feedback']",delving-bitcoin-710-2-2020
+"['Fees', 'Replace-by-Fee', 'Security', 'Mempool', 'Consensus']",[],delving-bitcoin-553-37-2018
+"['Mining', 'Merkle Trees', 'Scalability', 'Validation', 'Security', 'Consensus', 'Script', 'Forks', 'Segwit']",[],delving-bitcoin-710-1-1996
+"['Mining', 'Merkle Trees', 'Validation', 'Segregated Witness', 'Soft Fork', 'Consensus', 'Script', 'Forks', 'Transactions', 'Block', 'BIP', 'Blockchain']",[],combined_Great-Consensus-Cleanup-Revival
