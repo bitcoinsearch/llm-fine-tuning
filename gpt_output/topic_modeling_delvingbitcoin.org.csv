@@ -1111,3 +1111,8 @@ primary_topics,secondary_topics,source_id
 "['Fees', 'Replace-by-Fee', 'Security', 'Mempool', 'Consensus']",[],delving-bitcoin-553-37-2018
 "['Mining', 'Merkle Trees', 'Scalability', 'Validation', 'Security', 'Consensus', 'Script', 'Forks', 'Segwit']",[],delving-bitcoin-710-1-1996
 "['Mining', 'Merkle Trees', 'Validation', 'Segregated Witness', 'Soft Fork', 'Consensus', 'Script', 'Forks', 'Transactions', 'Block', 'BIP', 'Blockchain']",[],combined_Great-Consensus-Cleanup-Revival
+"['Mining', 'Security', 'Fees', 'Bitcoin Core', 'Fee Management', 'Mempool']",[],delving-bitcoin-703-7-2022
+"['Consensus', 'Validation', 'Script']",[],delving-bitcoin-682-14-2040
+"['Cryptography', 'Consensus', 'Research']",['Code Generation'],delving-bitcoin-682-13-2030
+"['Incentives', 'Mempool']",[],delving-bitcoin-553-38-2028
+"['Soft Fork', 'SPV', 'Decentralization', 'Consensus', 'Validation']","['BIPs', 'Mining Pools']",delving-bitcoin-710-3-2032

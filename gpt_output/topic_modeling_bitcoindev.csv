@@ -47,3 +47,4 @@ primary_topics,secondary_topics,source_id
 "['Replace-by-fee', 'P2P', 'Mining', 'Mempool', 'Fees', 'Consensus', 'Assumeutxo', 'UTXO', 'Lightning', 'Bitcoin Core']",[],mailing-list-2024-03-mccbdbac42769d818cd22ace5bfc253d4e85e0437
 "['P2P', 'Fees', 'Consensus', 'Security', 'Attacks']",[],mailing-list-2024-03-md2df151ea27ee0266ae59fdd92af0a41450af8c6
 "['Validation', 'Security', 'Transactions', 'Consensus', 'Network', 'Block', 'BIP', 'Bitcoin Core']",[],mailing-list-2024-03-m9eb5b0869377b3c1e2f29b8f65eafbfd354fea2b
+"['Trust', 'Lightning']","['Double-Spending', 'Transaction Sponsorship', 'Point Time-Locked Contracts', 'Payment Channels', 'Efficiency', 'Transaction Efficiency']",mailing-list-2024-03-mdd128fbc8aa4aa16429c04d264c2a2af3faf734f
