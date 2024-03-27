@@ -48,3 +48,5 @@ primary_topics,secondary_topics,source_id
 "['P2P', 'Fees', 'Consensus', 'Security', 'Attacks']",[],mailing-list-2024-03-md2df151ea27ee0266ae59fdd92af0a41450af8c6
 "['Validation', 'Security', 'Transactions', 'Consensus', 'Network', 'Block', 'BIP', 'Bitcoin Core']",[],mailing-list-2024-03-m9eb5b0869377b3c1e2f29b8f65eafbfd354fea2b
 "['Trust', 'Lightning']","['Double-Spending', 'Transaction Sponsorship', 'Point Time-Locked Contracts', 'Payment Channels', 'Efficiency', 'Transaction Efficiency']",mailing-list-2024-03-mdd128fbc8aa4aa16429c04d264c2a2af3faf734f
+"['Security', 'Consensus', 'Privacy']","['Ethical Standards', 'Vulnerability Disclosure', 'Open-Source Projects', 'Policy Changes']",mailing-list-2024-03-m56a98b5c3372b53daa502dd6d72447b6829a7a10
+"['Timelocks', 'Consensus', 'UTXO']","['Mining competition', 'DoS attacks', 'Elliptic Curve Cryptography']",mailing-list-2024-03-mc1b17e1fb09cb59baa0e8ed528af2fc267c1e6ab

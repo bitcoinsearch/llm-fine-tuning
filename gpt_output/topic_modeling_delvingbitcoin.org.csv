@@ -1116,3 +1116,7 @@ primary_topics,secondary_topics,source_id
 "['Cryptography', 'Consensus', 'Research']",['Code Generation'],delving-bitcoin-682-13-2030
 "['Incentives', 'Mempool']",[],delving-bitcoin-553-38-2028
 "['Soft Fork', 'SPV', 'Decentralization', 'Consensus', 'Validation']","['BIPs', 'Mining Pools']",delving-bitcoin-710-3-2032
+"['Script', 'Transactions', 'Consensus', 'Mempool', 'Privacy', 'Fees', 'Blockchain', 'Soft Fork']",['Denial-of-Service (DoS) Attacks'],delving-bitcoin-696-6-2048
+"['Security', 'Consensus', 'Blockchain', 'Scalability']","['BIP34', 'Block Height', 'Coinbase Transactions']",delving-bitcoin-710-4-2050
+"['Consensus', 'Smart Contracts', 'Merkle Trees', 'Fees', 'Soft Fork', 'Layer 2', 'Mining', 'Proof-of-Work']","['CPFP', 'Miner Centralization', 'Replace By Fee', 'Transaction Fees', 'Sponsorship']",delving-bitcoin-696-8-2051
+"['Consensus', 'Fees', 'UTXO']",[],delving-bitcoin-696-7-2049
