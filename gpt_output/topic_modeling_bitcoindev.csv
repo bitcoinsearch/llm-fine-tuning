@@ -50,3 +50,19 @@ primary_topics,secondary_topics,source_id
 "['Trust', 'Lightning']","['Double-Spending', 'Transaction Sponsorship', 'Point Time-Locked Contracts', 'Payment Channels', 'Efficiency', 'Transaction Efficiency']",mailing-list-2024-03-mdd128fbc8aa4aa16429c04d264c2a2af3faf734f
 "['Security', 'Consensus', 'Privacy']","['Ethical Standards', 'Vulnerability Disclosure', 'Open-Source Projects', 'Policy Changes']",mailing-list-2024-03-m56a98b5c3372b53daa502dd6d72447b6829a7a10
 "['Timelocks', 'Consensus', 'UTXO']","['Mining competition', 'DoS attacks', 'Elliptic Curve Cryptography']",mailing-list-2024-03-mc1b17e1fb09cb59baa0e8ed528af2fc267c1e6ab
+"['Consensus', 'Research', 'Fees', 'Mining', 'Bitcoin Core', 'Security']",[],mailing-list-2024-03-mc48e4bf6e005dd6a9dc9436b502b9cf9efc864c7
+"['Replace-By-Fee', 'Attacks', 'Security']","['Vulnerabilities', 'Risk', 'RBFR', 'Cybersecurity', 'Disclosure']",mailing-list-2024-03-m78fe8bb513c5c98626dd8f415364272cb47a6e0c
+"['Fees', 'Mempool', 'Mining', 'Lightning', 'UTXO', 'Replace-by-Fee']",[],mailing-list-2024-03-mefb774eee224d005012247724d62639260eb9450
+"['Security', 'Consensus']",[],mailing-list-2024-03-m35d4e20181b6a4626c9e779514f2e3acc454e18c
+"['Security', 'Attacks']",['Disclosure'],mailing-list-2024-03-m037d146569ce2db520df6ccb37a2ce02464954b9
+"['Consensus', 'Fees', 'Mempool', 'Mining', 'Lightning', 'Proof-of-Work', 'UTXO']",[],mailing-list-2024-03-m536b006965beddadcb8e6e06cd73f8bed83304e6
+"['Attacks', 'Bitcoin Core', 'Security']","['Cybersecurity', 'Disclosure']",mailing-list-2024-03-mbb3747fa124672861aeafb4684753246430aff81
+"['Research', 'Security', 'Privacy', 'Consensus']",[],mailing-list-2024-03-mdd144965c0e5ba78d5e7fc18b7a79e7e797e5e8a
+"['Attacks', 'Replace-by-fee']",[],mailing-list-2024-03-m502e1406488898dcc28640c4f25925a612b87c18
+"['Consensus', 'Decentralization']","['Editors', 'BIPs']",mailing-list-2024-03-mc8a21ac3f0de0c751e6c4b28b16e3278510cc250
+"['Consensus', 'BIP']","['Evaluation', 'Technical Merit', 'Implementation', 'Open Environment', 'Community', 'Repository']",mailing-list-2024-03-m721045569e02d1bcee95da6e1d4e02c0bd8b4b1f
+"['BIP', 'Research']",[],mailing-list-2024-03-mf095711ccaf2b4ca6dfdec1d2251df124961c1ad
+"['BIP', 'Terminology']","['Editorial Capabilities', 'Bitcoin Improvement Proposal', 'Documentation']",mailing-list-2024-03-m3a8e6b0cb091b36f57ddf82b02e78d99c9d625b1
+"['Mempool', 'Security']",[],mailing-list-2024-03-m5ed99bd64953fd8c561efc4fb9a211d3606d0930
+"['Consensus', 'Soft Fork', 'Fees', 'Mining', 'Bitcoin Core', 'Segwit', 'Transactions']",[],mailing-list-2024-03-ma4466dabd7375eaaa32d6aef32e956f1ee14280a
+"['Consensus', 'Blockchain', 'Fees', 'Mining', 'Blocksize', 'Bitcoin Core', 'Development', 'Transactions']",[],mailing-list-2024-03-mf5fbd2b134c6668badc48ce266d2d0652d7a717f

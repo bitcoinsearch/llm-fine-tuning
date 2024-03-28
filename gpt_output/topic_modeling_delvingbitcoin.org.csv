@@ -1120,3 +1120,9 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Consensus', 'Blockchain', 'Scalability']","['BIP34', 'Block Height', 'Coinbase Transactions']",delving-bitcoin-710-4-2050
 "['Consensus', 'Smart Contracts', 'Merkle Trees', 'Fees', 'Soft Fork', 'Layer 2', 'Mining', 'Proof-of-Work']","['CPFP', 'Miner Centralization', 'Replace By Fee', 'Transaction Fees', 'Sponsorship']",delving-bitcoin-696-8-2051
 "['Consensus', 'Fees', 'UTXO']",[],delving-bitcoin-696-7-2049
+"['Consensus', 'Fees', 'Mining', 'Lightning', 'Security']",[],delving-bitcoin-696-12-2067
+"['Forks', 'Consensus', 'Proof-of-Work', 'Timelocks', 'Hard Fork']",[],delving-bitcoin-696-10-2053
+"['Consensus', 'Soft Fork', 'Research', 'Fees', 'Scalability']",[],delving-bitcoin-696-11-2066
+"['Consensus', 'Wallet', 'Fees', 'Merkle Trees', 'Bech32', 'Miners', 'Script']","['Sponsorship', 'Witness Version', 'Mining Pools', 'Opt-in', 'Transaction Fees', 'Reorg-Safe Transaction Chains']",delving-bitcoin-696-9-2052
+[],"['Ethics', 'Aggressive Marketing', 'Spam', 'User Experience', 'Digital Marketing', 'Marketing']",delving-bitcoin-327-27-2069
+"['Security', 'Consensus', 'Validation']",[],delving-bitcoin-523-4-2065
