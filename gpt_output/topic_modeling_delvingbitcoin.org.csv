@@ -1126,3 +1126,9 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Wallet', 'Fees', 'Merkle Trees', 'Bech32', 'Miners', 'Script']","['Sponsorship', 'Witness Version', 'Mining Pools', 'Opt-in', 'Transaction Fees', 'Reorg-Safe Transaction Chains']",delving-bitcoin-696-9-2052
 [],"['Ethics', 'Aggressive Marketing', 'Spam', 'User Experience', 'Digital Marketing', 'Marketing']",delving-bitcoin-327-27-2069
 "['Security', 'Consensus', 'Validation']",[],delving-bitcoin-523-4-2065
+"['Mining', 'Fees', 'Consensus']",[],delving-bitcoin-581-12-2080
+"['Mining', 'Segregated Witness', 'Consensus', 'Fees', 'Mempool', 'Lightning']","['Sponsors', 'Transaction', 'Blockspace Efficiency', 'CPFP']",delving-bitcoin-696-13-2082
+"['Incentives', 'Fees', 'Mempool', 'Mining', 'Pools']",[],delving-bitcoin-553-40-2081
+"['Signet', 'Forks', 'Consensus', 'Segwit', 'Mempool']","['nLocktime', 'Coinbase Transaction', 'Block Signature', 'nVersion', 'Witness Data', 'Witness Commitment', 'Empty Blocks']",delving-bitcoin-710-6-2075
+['Consensus'],[],delving-bitcoin-710-5-2073
+"['Fees', 'Mempool', 'Relay']",[],delving-bitcoin-553-39-2079

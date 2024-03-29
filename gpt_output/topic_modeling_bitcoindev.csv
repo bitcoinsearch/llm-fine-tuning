@@ -66,3 +66,15 @@ primary_topics,secondary_topics,source_id
 "['Mempool', 'Security']",[],mailing-list-2024-03-m5ed99bd64953fd8c561efc4fb9a211d3606d0930
 "['Consensus', 'Soft Fork', 'Fees', 'Mining', 'Bitcoin Core', 'Segwit', 'Transactions']",[],mailing-list-2024-03-ma4466dabd7375eaaa32d6aef32e956f1ee14280a
 "['Consensus', 'Blockchain', 'Fees', 'Mining', 'Blocksize', 'Bitcoin Core', 'Development', 'Transactions']",[],mailing-list-2024-03-mf5fbd2b134c6668badc48ce266d2d0652d7a717f
+"['Privacy', 'Segregated Witness', 'Lightning', 'Research', 'Attacks', 'Bitcoin Core', 'Soft Fork', 'Consensus', 'Fees', 'Mining', 'Security']",[],mailing-list-2024-03-m8d81002f92ab520541708b317f3a323bfb9599e3
+"['Forks', 'Bitcoin Core', 'Consensus', 'Mempool', 'Security']",[],mailing-list-2024-03-me1c9e375e525a81259abfb5983e488c0667e8c05
+"['Transaction-Verification', 'Forks', 'Miners', 'Validation', 'Consensus', 'Fee Management', 'Proof-of-Work', 'Fees', 'Mempool', 'Topology', 'P2P', 'Mining', 'UTXO', 'Replace-By-Fee']","['Bandwidth', 'Double Spend']",mailing-list-2024-03-mf604a7f0126a88268ba5f6bb07d290dcb05c8298
+"['Lightning', 'Bitcoin Core', 'Fees', 'Security']",[],mailing-list-2024-03-m6a7baf87a2666c3a450272c4cb297669615eaaf5
+"['Bitcoin Core', 'Consensus', 'Fees', 'Mempool', 'Routing', 'P2P', 'UTXO']",[],mailing-list-2024-03-m6787d7ccf0b3b75faea9db3807a00c2c90521c23
+"['Assumeutxo', 'Consensus', 'Doublespend', 'Fees', 'Mempool', 'Utxo', 'P2P', 'Mining']",[],mailing-list-2024-03-m5ca967a34d232da7b138e1bfa9b4a61ab06d90a2
+['BIP'],['Editors'],mailing-list-2024-03-m8c588cad29c1f17acb79a906314f5e88281ca2d4
+['BIP'],"['node software', 'editor', 'bitcoin']",mailing-list-2024-03-m42206a4a9b052949825e5d662f9d450e37ba6947
+['BIP'],['Editors'],mailing-list-2024-03-m08ac48032297a8d1b741f87ec5cde2508885e8f6
+"['Bitcoin Core', 'Consensus', 'Research']",[],mailing-list-2024-03-ma667d336513922b54aa496ac7d9c6bf23ac854b3
+['BIP'],['Editors'],mailing-list-2024-03-m2951bb58b8c692eb669931145e1b95231a4fb2c7
+['BIP'],['Editors'],mailing-list-2024-03-m53735936a955d8ffb6514394fd820efd6d393c98
