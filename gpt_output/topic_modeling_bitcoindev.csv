@@ -78,3 +78,12 @@ primary_topics,secondary_topics,source_id
 "['Bitcoin Core', 'Consensus', 'Research']",[],mailing-list-2024-03-ma667d336513922b54aa496ac7d9c6bf23ac854b3
 ['BIP'],['Editors'],mailing-list-2024-03-m2951bb58b8c692eb669931145e1b95231a4fb2c7
 ['BIP'],['Editors'],mailing-list-2024-03-m53735936a955d8ffb6514394fd820efd6d393c98
+"['Bitcoin Core', 'UTXO', 'SPV', 'Security', 'Lightning']","['DoS', 'Bandwidth']",mailing-list-2024-03-m719c9a78a11bf5ae2cc84cc62645b6729c97ef43
+['BIP'],"['Debugging Techniques', 'Programming Languages', 'Documentation', 'Software Libraries', 'Optimization Strategies', 'Frameworks', 'Events']",mailing-list-2024-03-m45445642d05f158546852f09237b5ec54117149f
+"['Development', 'Security', 'Lightning']","['Alternative Clients', 'Collaboration', 'Innovation', 'Technical Expertise']",mailing-list-2024-03-m3a6de2a01e75a004bf9bf3cb2426a2dcb18b29ef
+[],"['copy-editing', 'BIP editor', 'Bitcoin community', 'Bitcoin Improvement Proposal']",mailing-list-2024-03-ma7a4eb5bfe1fb3cac3872591a84e475c795b2ca9
+"['BIP', 'Bitcoin Core', 'LND']","['Core maintainers', 'Lightning Labs']",mailing-list-2024-03-m60bb1ff126c2a7fc9b961b9907c2f21272e15ec1
+['Bitcoin Core'],['Bitcoin Improvement Proposal'],mailing-list-2024-03-mb9c54aea6fe5dfbdf83f6b762effd90583e4c62c
+"['C++', 'BIP', 'Bitcoin Core']","['Programming Languages', 'Linguistic Diversity', 'GitHub']",mailing-list-2024-03-m1032b535e7e8016431aea3d148c5643431321939
+"['Bitcoin Core', 'Research', 'Consensus', 'BIP']",[],mailing-list-2024-03-mb0f3ef228906c14ba208dead1daaafc723438136
+"['Bitcoin Core', 'Mempool', 'Security']",['Vulnerability Disclosure'],combined_Re-A-Free-Relay-Attack-Exploiting-RBF-Rule-6
