@@ -87,3 +87,6 @@ primary_topics,secondary_topics,source_id
 "['C++', 'BIP', 'Bitcoin Core']","['Programming Languages', 'Linguistic Diversity', 'GitHub']",mailing-list-2024-03-m1032b535e7e8016431aea3d148c5643431321939
 "['Bitcoin Core', 'Research', 'Consensus', 'BIP']",[],mailing-list-2024-03-mb0f3ef228906c14ba208dead1daaafc723438136
 "['Bitcoin Core', 'Mempool', 'Security']",['Vulnerability Disclosure'],combined_Re-A-Free-Relay-Attack-Exploiting-RBF-Rule-6
+"['Development', 'Consensus', 'Bitcoin Core', 'Research']",['Bitcoin Core Development'],mailing-list-2024-03-m05810f0ca7bfb24aed848b0cf750a625c70d4641
+['BIP'],"['Organizational framework', 'Taproot activation parameters', 'Core maintainers', 'Editorial control', 'United Nations', 'Bitcoin Improvement Proposal', 'Decentralized ethos', 'Conflict resolution', 'GitHub repository', 'Administrative control', 'Pull requests']",mailing-list-2024-03-m730f8f536bfd8c447bd6f208106244b39b1c5f7e
+"['Taproot', 'Consensus']",['Bitcoin Improvement Proposal (BIP)'],mailing-list-2024-03-m77691bfa622dd48a0cf73e6745a59c766ed9afe5

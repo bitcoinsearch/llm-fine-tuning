@@ -1140,3 +1140,11 @@ primary_topics,secondary_topics,source_id
 "['PSBT', 'Privacy', 'BIP', 'Lightning']",['Payjoin'],delving-bitcoin-749-1-2089
 "['Privacy', 'Security', 'Trust', 'Layer 2', 'Lightning']",[],delving-bitcoin-749-2-2091
 ['Privacy'],"['Blockchain Technology', 'Trustless Intermediary', 'BIP32 HD Wallets', 'Lightning Network']",combined_Payjoin-in-Potentiam-Externally-fund-an-LSP-channel-open-with-one-transaction
+"['Script', 'Development']","['System State Transitions', 'Collaborative Development', 'DSL', 'Chain Reorganizations', 'Prototyping']",delving-bitcoin-748-3-2101
+"['Mempool', 'Consensus', 'Replace-by-Fee', 'Security', 'Incentives']",[],delving-bitcoin-553-42-2093
+['Script'],[],delving-bitcoin-581-14-2094
+"['Transactions', 'Bitcoin Core', 'Fees', 'Mining']","['Cost Savings', 'Batching', 'Operational Mechanics']",delving-bitcoin-696-15-2095
+"['Lightning', 'PSBT']","['Swap-in-Potentiam', 'MuSig2']",delving-bitcoin-749-4-2098
+"['PSBT', 'Security']","['Funds', 'Mobile Wallet', 'Zero-Confirmation', 'Lightning Network']",delving-bitcoin-749-5-2102
+"['Script', 'Blockchain', 'Bitcoin Core', 'Testing']","['Bitcoin GitHub', 'Domain-Specific Language (DSL)']",delving-bitcoin-748-2-2100
+"['Script', 'Miniscript', 'Taproot', 'Regtest']","['Documentation', 'Bitcoin Core Development']",combined_DSL-for-experimenting-with-contracts
