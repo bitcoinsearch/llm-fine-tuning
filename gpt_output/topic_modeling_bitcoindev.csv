@@ -90,3 +90,14 @@ primary_topics,secondary_topics,source_id
 "['Development', 'Consensus', 'Bitcoin Core', 'Research']",['Bitcoin Core Development'],mailing-list-2024-03-m05810f0ca7bfb24aed848b0cf750a625c70d4641
 ['BIP'],"['Organizational framework', 'Taproot activation parameters', 'Core maintainers', 'Editorial control', 'United Nations', 'Bitcoin Improvement Proposal', 'Decentralized ethos', 'Conflict resolution', 'GitHub repository', 'Administrative control', 'Pull requests']",mailing-list-2024-03-m730f8f536bfd8c447bd6f208106244b39b1c5f7e
 "['Taproot', 'Consensus']",['Bitcoin Improvement Proposal (BIP)'],mailing-list-2024-03-m77691bfa622dd48a0cf73e6745a59c766ed9afe5
+"['Soft Fork', 'Taproot']","['BIP editorship', 'Core maintainers', 'Bitcoin Improvement Proposals (BIPs)']",mailing-list-2024-03-mc6d593d0b3209f7d816f442dea40fe97fdc36e9e
+['BIP'],"['Matt Corallo', 'Roasbeef', 'Bitcoin Improvement Proposal', 'Luke', 'Jonatack', 'Ruben', 'Kanzure', 'proposal numbers', 'Murch']",mailing-list-2024-03-mf303fac285f286dbd31448a70424044865b9d426
+"['Forks', 'Consensus', 'Mining', 'Hard Fork', 'Testing']",['Bitcoin Improvement Proposal (BIP)'],mailing-list-2024-03-mc0042b7121a2d8687d25a719fe0ed03188b7a3d2
+"['Difficulty', 'Testnet', 'Signet', 'Blockchain']","['Bug', 'Network Stability', 'Technological Development', 'Reorganization', 'Infrastructure', 'Feature']",mailing-list-2024-03-mde9822439f9f26ba98cad66b8293de39f9afff36
+"['Difficulty', 'Consensus', 'Forks', 'Block', 'Mining', 'Network', 'Soft Fork', 'Blockchain']",[],mailing-list-2024-03-m9767e2acdd7c72f5e466edcdc3ca6e84a6ecf6be
+"['Consensus', 'Mining', 'Research', 'Testnet', 'Halving']",[],mailing-list-2024-03-m14db8efee1a8cfcc4baf1690e7eb1ba60ae7c9ba
+"['Testing', 'Bitcoin Core']",[],mailing-list-2024-03-m97192dcbac4935d5f724bf1558bf6dc5d5c4827a
+"['Consensus', 'Mining', 'Network', 'Fees', 'Halving', 'Bitcoin Core', 'Testing']",['Software'],mailing-list-2024-03-m66cbb30bfba0e2f71f2654ea583ada15dc474989
+"['Testing', 'Consensus']",[],mailing-list-2024-03-m1b7f25121a028c4299ab9d53be9739cf00d77794
+"['Package Relay', 'Mining', 'Mempool', 'Fees', 'Transactions', 'Double-Spend', 'Replace-By-Fee']",[],mailing-list-2024-03-mf2b137388a10badd605067b53d3d7c16632646d0
+"['Mining', 'Testnet', 'Development', 'Signet', 'Testing']","['Economic Manipulations', 'Bitcoin Improvement Proposal (BIP)', 'Technical Flaws', 'Scammy Airdrops', 'Block Reward']",combined_The-Future-of-Bitcoin-Testnet

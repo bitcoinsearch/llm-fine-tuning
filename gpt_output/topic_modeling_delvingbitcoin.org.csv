@@ -1148,3 +1148,7 @@ primary_topics,secondary_topics,source_id
 "['PSBT', 'Security']","['Funds', 'Mobile Wallet', 'Zero-Confirmation', 'Lightning Network']",delving-bitcoin-749-5-2102
 "['Script', 'Blockchain', 'Bitcoin Core', 'Testing']","['Bitcoin GitHub', 'Domain-Specific Language (DSL)']",delving-bitcoin-748-2-2100
 "['Script', 'Miniscript', 'Taproot', 'Regtest']","['Documentation', 'Bitcoin Core Development']",combined_DSL-for-experimenting-with-contracts
+['Smart Contracts'],[],delving-bitcoin-748-4-2105
+['Testing'],"['Lightning Network', 'Funding Transaction', 'Chain Reorganization']",delving-bitcoin-748-6-2108
+['Smart Contracts'],"['Technical Specifics', 'DSL', 'Tooling Enhancements', 'Evolution', 'Collaboration', 'Integration']",delving-bitcoin-748-5-2106
+['Consensus'],['Chain Reorganization'],delving-bitcoin-748-7-2109
