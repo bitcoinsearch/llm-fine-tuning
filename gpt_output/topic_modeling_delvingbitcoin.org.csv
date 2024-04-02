@@ -1152,3 +1152,8 @@ primary_topics,secondary_topics,source_id
 ['Testing'],"['Lightning Network', 'Funding Transaction', 'Chain Reorganization']",delving-bitcoin-748-6-2108
 ['Smart Contracts'],"['Technical Specifics', 'DSL', 'Tooling Enhancements', 'Evolution', 'Collaboration', 'Integration']",delving-bitcoin-748-5-2106
 ['Consensus'],['Chain Reorganization'],delving-bitcoin-748-7-2109
+"['Fee Management', 'Mempool', 'Bitcoin Core', 'Replace-By-Fee', 'Transactions']",[],delving-bitcoin-703-9-2125
+"['PSBT', 'Segregated Witness', 'Bech32']",['QR codes'],delving-bitcoin-96-4-2121
+['Script'],"['Alternative', 'Programming Language', 'Bitcoin']",delving-bitcoin-682-15-2111
+"['Research', 'Fees', 'Mempool', 'Bitcoin Core', 'Assumeutxo']",[],delving-bitcoin-703-8-2124
+"['Mempool', 'Bitcoin Core', 'Fees']",[],delving-bitcoin-703-10-2126

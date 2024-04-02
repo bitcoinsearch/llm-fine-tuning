@@ -101,3 +101,18 @@ primary_topics,secondary_topics,source_id
 "['Testing', 'Consensus']",[],mailing-list-2024-03-m1b7f25121a028c4299ab9d53be9739cf00d77794
 "['Package Relay', 'Mining', 'Mempool', 'Fees', 'Transactions', 'Double-Spend', 'Replace-By-Fee']",[],mailing-list-2024-03-mf2b137388a10badd605067b53d3d7c16632646d0
 "['Mining', 'Testnet', 'Development', 'Signet', 'Testing']","['Economic Manipulations', 'Bitcoin Improvement Proposal (BIP)', 'Technical Flaws', 'Scammy Airdrops', 'Block Reward']",combined_The-Future-of-Bitcoin-Testnet
+['BIP'],"['Documentation', 'Automation', 'GitHub', 'Continuous Integration', 'Editors', 'CI']",mailing-list-2024-04-m120d3fdb31281ed2d904161b9c568b98030595b9
+"['Research', 'Consensus', 'Bitcoin Core', 'BIP', 'Privacy', 'Segregated Witness']",[],mailing-list-2024-04-mf9bf772cebb07a6e5f46d272d8d77b6abd7ebc1b
+['BIP'],['Editors'],mailing-list-2024-04-m538dabd48ab651db2dc8d2b817f33ec35744b421
+"['Research', 'Consensus', 'bitcoin-core-development', 'BIP']",['Community Consensus'],mailing-list-2024-04-mbae4732e3a3f6f0cf502599cb51634e179eb66fb
+"['Consensus', 'BIP']","['Standards', 'Community', 'Review', 'Feedback']",mailing-list-2024-04-mc6ee08bcf46a01733df1ee986054c2e6fefd3c3a
+['BIP'],"['terminology standardization', 'Bitcoin documentation', 'Mark ""Murch"" Erhardt', 'community support', 'Mastering Bitcoin book', 'pull requests', 'Bitcoin development community', 'Optech newsletters', 'GitHub repository', 'BIP editor', 'Bitcoin Improvement Proposals']",mailing-list-2024-04-mb06156b80596d1351f42d12358cfc76885db6d77
+"['Bitcoin Core', 'BIP']","['Transparency', 'Openness', 'Linux Foundation', 'Censorship', 'Technical Standards']",mailing-list-2024-04-m7e0fd600bbebb3a618c735f1958eca5214e90278
+"['Testnet', 'Validation', 'Consensus']","['Supply Schedule', 'Developers']",mailing-list-2024-04-ma7a47063a7970759a9e559737609cf6c382c9e60
+"['Testnet', 'Consensus', 'Bitcoin Core', 'Halving', 'Development', 'Mining']",[],mailing-list-2024-04-m478610da66cc170012fe8ced3fec9bd86769d127
+"['Testnet', 'Halving', 'Soft Fork']","['Pull Request', 'Faucet', 'Bitcoin Development Community', 'GitHub', 'Difficulty Adjustment', 'Community-Supported Solutions', 'Subsidy Rate', 'Signet Coins', 'Open-Source Funding']",mailing-list-2024-04-mdd67a224ebf52d6ff304041d227efae9114e62d4
+"['Testnet', 'Signet', 'Difficulty', 'Mining']","['Block Rate', 'Network Rules', 'Blockchain Governance', 'Rewards']",mailing-list-2024-04-m476c60c999d4e8ae0f5ea36c13a32fad72a283a5
+"['Testing', 'Blocksize', 'Research', 'Consensus', 'Validation', 'Timestamping', 'Forks', 'Difficulty', 'Mining']",[],mailing-list-2024-04-md2357cf5d675fdf079079f3ac0610dffa74c17f7
+"['Testing', 'Scalability', 'P2P', 'Bitcoin Core', 'Forks']",[],mailing-list-2024-04-m925f5446c5c6da3bb13e01c62ea3e6a9513d4a11
+"['Testing', 'Testnet', 'Consensus', 'Mining']","['Faucets', 'Economic Theory']",mailing-list-2024-04-m0a775e635d0fc1aeebc00619c62296ff0020bf3e
+"['Testing', 'Research', 'Segwit', 'Fees', 'Consensus', 'Bitcoin Core', 'Mining', 'Blockchain']",[],mailing-list-2024-04-m58c28232b5e89bf4992d4d64a66dcbd2ec85d71f
