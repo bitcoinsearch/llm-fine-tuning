@@ -116,3 +116,14 @@ primary_topics,secondary_topics,source_id
 "['Testing', 'Scalability', 'P2P', 'Bitcoin Core', 'Forks']",[],mailing-list-2024-04-m925f5446c5c6da3bb13e01c62ea3e6a9513d4a11
 "['Testing', 'Testnet', 'Consensus', 'Mining']","['Faucets', 'Economic Theory']",mailing-list-2024-04-m0a775e635d0fc1aeebc00619c62296ff0020bf3e
 "['Testing', 'Research', 'Segwit', 'Fees', 'Consensus', 'Bitcoin Core', 'Mining', 'Blockchain']",[],mailing-list-2024-04-m58c28232b5e89bf4992d4d64a66dcbd2ec85d71f
+[],"['Security concerns', 'Censorship', 'BIPs', 'Proposal numbers', 'BIP editors', 'Democratic process', 'Maintainer privileges', 'GitHub repositories', 'Appointment procedures', 'Emergency actions', 'Community-driven approach', 'Community discussion', 'Bitcoin Improvement Proposals']",mailing-list-2024-04-ma5a4a5abe9f0978c7307fafd74b8f7395b1645bc
+"['Taproot', 'Silent Payments', 'Terminology', 'BIP']",[],mailing-list-2024-04-mbfa239b456b8e3f0a683448735d3eddb4b238faf
+['BIP'],"['Community Consensus', 'Soft Forks', 'Editorial Aspects', 'API/RPC Layers', 'Licensing', 'Spam Filtering', 'Peer Services', 'Formal Aspects', 'Comments-URI']",mailing-list-2024-04-m2f8f291d2f02f004d293cd4f252e8c9738fea816
+['BIP'],"['Bitcoin Improvement Proposals', 'Governance']",mailing-list-2024-04-m0b79096bb19d1b292b91cfcd537f23b7160fa6d7
+"['Research', 'Consensus']","['Bitcoin Improvement Proposals', 'BIPs']",mailing-list-2024-04-maacc2bc76d9141fae58602e54ce8e3be6dc3e803
+[],"['BIPs', 'Editor', 'Formal Procedures', 'Bitcoin Improvement Proposals', 'Governance']",mailing-list-2024-04-meef7688ab17df440a850564c73d86706ff968d03
+['BIP'],"['Optech', 'Bitcoin Improvement Proposal', 'Stack Exchange', 'Technical Documentation', 'Editorial Team']",mailing-list-2024-04-m156610efaa9ec396414db298edda380d0dcd4719
+['BIP'],['Editors'],mailing-list-2024-04-m172cab9ab225f6ccad18fef1b223917bb3e1d958
+"['Fairness', 'Consensus', 'Fees', 'Testing', 'Testnet', 'Incentives', 'History', 'Decentralization', 'Development']",[],mailing-list-2024-04-m6f30d339405e6179c215a586bfe8fdaf1d32054a
+"['Testnet', 'Mining']","['Bitcoin Client', 'Transition']",mailing-list-2024-04-m4bb9a26ee827585ca2b178665890a453278b5cf9
+"['Privacy', 'Testing', 'Development', 'Consensus']",[],mailing-list-2024-04-mad31a6afbd5021679922a38b4a1a21296f3f2b8f

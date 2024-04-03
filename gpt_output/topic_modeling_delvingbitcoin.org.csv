@@ -1157,3 +1157,7 @@ primary_topics,secondary_topics,source_id
 ['Script'],"['Alternative', 'Programming Language', 'Bitcoin']",delving-bitcoin-682-15-2111
 "['Research', 'Fees', 'Mempool', 'Bitcoin Core', 'Assumeutxo']",[],delving-bitcoin-703-8-2124
 "['Mempool', 'Bitcoin Core', 'Fees']",[],delving-bitcoin-703-10-2126
+"['Bitcoin Core', 'Fees', 'Mempool']",[],delving-bitcoin-703-11-2133
+"['Smart Contracts', 'Script']","['Developer Experience', 'Software Development Methodologies', 'Syntax', 'Programming', 'Declarative', 'BitVM']",delving-bitcoin-748-9-2131
+"['Research', 'Smart Contracts', 'Fees', 'Lightning', 'Privacy']",[],delving-bitcoin-749-6-2135
+['Script'],"['Rust Bitcoin', 'Opcodes', 'Macros', 'Abstraction']",delving-bitcoin-748-8-2129
