@@ -127,3 +127,12 @@ primary_topics,secondary_topics,source_id
 "['Fairness', 'Consensus', 'Fees', 'Testing', 'Testnet', 'Incentives', 'History', 'Decentralization', 'Development']",[],mailing-list-2024-04-m6f30d339405e6179c215a586bfe8fdaf1d32054a
 "['Testnet', 'Mining']","['Bitcoin Client', 'Transition']",mailing-list-2024-04-m4bb9a26ee827585ca2b178665890a453278b5cf9
 "['Privacy', 'Testing', 'Development', 'Consensus']",[],mailing-list-2024-04-mad31a6afbd5021679922a38b4a1a21296f3f2b8f
+['BIP'],"['Core Dev meeting', 'editor', 'repository']",mailing-list-2024-04-mb8ff3a8424ca14166599008d4c4fd8f78220ea1b
+"['Bitcoin Core', 'Research', 'Consensus']",['Bitcoin Core Development'],mailing-list-2024-04-m2153f053555c8e342a140333b7209527982b8456
+"['Bitcoin Core', 'Research', 'Consensus']",[],mailing-list-2024-04-mb111d8e843e53f3195fae3f59f6fe3416e96dda5
+"['Research', 'Bitcoin Core', 'Consensus']","['Bitcoin Core Development', 'Bitcoin Optech', 'Contributors']",mailing-list-2024-04-m56697a683579cb3f48c84153824e2483041087be
+[],"['Bitcoin philosophy', 'Software implementation', 'Community consensus', 'Status fields', 'BIPs', 'Proposal evaluation', 'Standards', 'Technical assessment', 'Standardization', 'Guidelines']",mailing-list-2024-04-mc0a4c028133606c701870fb06e7d46aab087999f
+"['Testnet', 'Development', 'Testing', 'Blockchain']",[],mailing-list-2024-04-m4b818850364613db0f393be3ce10845a85a864b1
+"['Mining', 'Development', 'ASIC', 'Testnet']","['Scarcity', 'HODLing']",mailing-list-2024-04-m21c9d7f550e1085a73b123c3bb2ea794d0142a37
+"['Testnet', 'Mining', 'Research']",[],mailing-list-2024-04-m501729f7c856f2a5249b2f64976a0f220506ffa9
+"['Fees', 'Mining', 'P2P', 'Development', 'Security', 'Testing', 'Bitcoin Core', 'Wallet']",[],mailing-list-2024-04-m96d45ffc6c733d04d3133edcddccb1c25fcbdffe
