@@ -1161,3 +1161,12 @@ primary_topics,secondary_topics,source_id
 "['Smart Contracts', 'Script']","['Developer Experience', 'Software Development Methodologies', 'Syntax', 'Programming', 'Declarative', 'BitVM']",delving-bitcoin-748-9-2131
 "['Research', 'Smart Contracts', 'Fees', 'Lightning', 'Privacy']",[],delving-bitcoin-749-6-2135
 ['Script'],"['Rust Bitcoin', 'Opcodes', 'Macros', 'Abstraction']",delving-bitcoin-748-8-2129
+"['Blockchain', 'Soft Fork', 'Consensus']","['Witness Commitments', 'Genesis Block']",delving-bitcoin-710-11-2163
+"['UTXO', 'Op_Return', 'P2SH', 'Validation', 'Taproot', 'Multisig']","['ScriptPubKeys', 'BLS12-381', 'SHA512']",delving-bitcoin-710-7-2158
+"['Forks', 'Limitations', 'Research', 'Mining', 'Consensus', 'Validation', 'Scalability', 'Nonce']","['Mathematical Analysis', 'Optimizations']",delving-bitcoin-710-9-2161
+"['UTXO', 'BIP', 'Hard Fork', 'Soft Fork', 'Consensus', 'Taproot']",['Sigops'],delving-bitcoin-710-12-2173
+"['Hard Fork', 'Consensus', 'Testing']",[],delving-bitcoin-710-10-2162
+['Consensus'],['Chain Reorganization'],delving-bitcoin-710-15-2176
+"['Segwit', 'Forks', 'Bitcoin Core', 'Mining', 'Soft Fork', 'Blockchain', 'Consensus', 'Validation']","['Chain Reorganization', 'Block Header']",delving-bitcoin-710-14-2175
+"['Proof-of-Work', 'Forks', 'Security', 'Bitcoin Core', 'Mining', 'Blockchain', 'Consensus', 'Validation', 'P2P']",['RPC'],delving-bitcoin-710-13-2174
+"['UTXO', 'Segwit', 'Security', 'Mining', 'Fees', 'Consensus', 'Privacy']",[],delving-bitcoin-710-8-2159

@@ -141,3 +141,5 @@ primary_topics,secondary_topics,source_id
 [],[],mailing-list-2024-04-md6e85ab078c8d38bb16f75b5d7e3fff793e5c7e7
 [],[],mailing-list-2024-04-m0ff1cb0e5c65c1aad212688853381f01d9494fd8
 [],[],mailing-list-2024-04-m8c9564d5f39d72fd2787cb51a2a884418ddfb30b
+"['BIP', 'Bitcoin Core']","['Core Development', 'Optech', 'Bitcoin Improvement Proposal', 'PR Review Club']",mailing-list-2024-04-m6ed280a2ba2b121303695f4602f27bafa3a5cbec
+"['Testnet', 'Consensus', 'Testing']",[],mailing-list-2024-04-m3f2e471f3e1307ca3a3abb6c1982792fe9aaaad5
