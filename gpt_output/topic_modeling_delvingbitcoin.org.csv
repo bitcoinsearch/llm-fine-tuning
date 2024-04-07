@@ -1170,3 +1170,6 @@ primary_topics,secondary_topics,source_id
 "['Segwit', 'Forks', 'Bitcoin Core', 'Mining', 'Soft Fork', 'Blockchain', 'Consensus', 'Validation']","['Chain Reorganization', 'Block Header']",delving-bitcoin-710-14-2175
 "['Proof-of-Work', 'Forks', 'Security', 'Bitcoin Core', 'Mining', 'Blockchain', 'Consensus', 'Validation', 'P2P']",['RPC'],delving-bitcoin-710-13-2174
 "['UTXO', 'Segwit', 'Security', 'Mining', 'Fees', 'Consensus', 'Privacy']",[],delving-bitcoin-710-8-2159
+"['Research', 'Cryptography', 'Bitcoin Core', 'Smart Contracts']","['DSL', 'Formal Verification']",delving-bitcoin-748-10-2178
+"['Lightning', 'UTXO', 'Hardware Wallet', 'FROST', 'Privacy', 'Wallet', 'Schnorr', 'Security', 'Cryptography', 'UX', 'Consensus']",[],delving-bitcoin-775-1-2177
+"['Verification', 'Algorithms', 'Research', 'Development']","['Complex Systems', 'Documentation', 'Engineering', 'Cloud Infrastructure', 'Formal Methods', 'Model Checking', 'Toolbox']",delving-bitcoin-748-11-2179
