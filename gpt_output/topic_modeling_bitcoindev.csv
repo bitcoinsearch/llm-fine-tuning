@@ -144,3 +144,9 @@ primary_topics,secondary_topics,source_id
 "['BIP', 'Bitcoin Core']","['Core Development', 'Optech', 'Bitcoin Improvement Proposal', 'PR Review Club']",mailing-list-2024-04-m6ed280a2ba2b121303695f4602f27bafa3a5cbec
 "['Testnet', 'Consensus', 'Testing']",[],mailing-list-2024-04-m3f2e471f3e1307ca3a3abb6c1982792fe9aaaad5
 "['UTXO', 'Blockchain', 'Testnet']","['Transaction ID', 'Utreexo', 'BIP30', 'BIP34', 'Coinbase Transaction']",mailing-list-2024-04-m848ba8eaa8b86f5971b930088ee48edadaf06159
+"['JSON-RPC', 'Security', 'Bitcoin Core']","['IDs', 'RPC server']",mailing-list-2024-04-mc9b094b789241c28703fd7833c1d6589a9d6e24e
+"['JSON-RPC', 'Security', 'Cryptography', 'Bitcoin Core']","['Cryptographically Secure Pseudorandom Number Generators', 'Web Service Security', 'Application Security']",mailing-list-2024-04-m0cee1bb15ee47241e96418a979420a482bee314a
+[],"['English', 'Maintainers', 'Efficiency', 'Collaborative Review', 'Quality BIPs', 'BIPs', 'Translations']",mailing-list-2024-04-m00da3eebfae756f3f6b8991fa5645510458cbe56
+"['Testnet', 'Testing']","['Difficulty Reset Process', 'Off-Chain Protocols', 'Block Generation Rate']",mailing-list-2024-04-m9d8a36e2a6b20e44bbdbf8966375e014d56f3901
+"['Testnet', 'Testing', 'Bitcoin Core', 'Blockchain', 'Signet']",['Developers'],mailing-list-2024-04-m3a1a9ad43571daa9b5a3c10721654d453599c2ed
+"['JSON-RPC', 'Security', 'Bitcoin Core']","['GitHub', 'Codebase']",combined_Security-implications-of-using-pseudorandom-JSON-RPC-IDs
