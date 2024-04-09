@@ -1173,3 +1173,4 @@ primary_topics,secondary_topics,source_id
 "['Research', 'Cryptography', 'Bitcoin Core', 'Smart Contracts']","['DSL', 'Formal Verification']",delving-bitcoin-748-10-2178
 "['Lightning', 'UTXO', 'Hardware Wallet', 'FROST', 'Privacy', 'Wallet', 'Schnorr', 'Security', 'Cryptography', 'UX', 'Consensus']",[],delving-bitcoin-775-1-2177
 "['Verification', 'Algorithms', 'Research', 'Development']","['Complex Systems', 'Documentation', 'Engineering', 'Cloud Infrastructure', 'Formal Methods', 'Model Checking', 'Toolbox']",delving-bitcoin-748-11-2179
+"['Block', 'Consensus', 'Protocol', 'Taproot', 'Bitcoin Core', 'Blockchain', 'Mining', 'bitcoin-cli', 'Segregated Witness']","['BIP9', 'VersionHex']",delving-bitcoin-710-16-2183

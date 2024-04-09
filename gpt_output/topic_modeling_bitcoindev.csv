@@ -150,3 +150,4 @@ primary_topics,secondary_topics,source_id
 "['Testnet', 'Testing']","['Difficulty Reset Process', 'Off-Chain Protocols', 'Block Generation Rate']",mailing-list-2024-04-m9d8a36e2a6b20e44bbdbf8966375e014d56f3901
 "['Testnet', 'Testing', 'Bitcoin Core', 'Blockchain', 'Signet']",['Developers'],mailing-list-2024-04-m3a1a9ad43571daa9b5a3c10721654d453599c2ed
 "['JSON-RPC', 'Security', 'Bitcoin Core']","['GitHub', 'Codebase']",combined_Security-implications-of-using-pseudorandom-JSON-RPC-IDs
+"['Soft Fork', 'Segwit', 'Consensus', 'Taproot', 'Forks', 'Testing', 'Mining', 'Testnet']",['Reset Layer'],mailing-list-2024-04-m7e805d103e530190abbd685004072151d90d6102
