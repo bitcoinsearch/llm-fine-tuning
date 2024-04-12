@@ -156,3 +156,6 @@ primary_topics,secondary_topics,source_id
 "['Hashpower', 'Mining', 'ASIC', 'Proof-of-Work', 'Consensus']",[],mailing-list-2024-04-mf807e5b9f756716a6fc9fcf23425ddf820b51703
 "['Testing', 'UTXO']",[],mailing-list-2024-04-mb5a5d777a500615b76e749dca81b49b5eeee7350
 "['Segregated Witness', 'Fees', 'Hard Fork', 'Testnet', 'Mining', 'Halving', 'Testing', 'Signet', 'Consensus']","['Proof of Work', 'Difficulty Reset Bug', 'Mainnet', 'Block Reward']",mailing-list-2024-04-m8ee81b2deb4f40abe05d8e6fed580e4964492d08
+"['Security', 'Research', 'Package Relay', 'Development', 'Bitcoin Core', 'Testing', 'Wallet', 'Libbitcoin Kernel']",['Versioning'],mailing-list-2024-04-m973e8ba434af033849a2027a38dba5e1d2d9e1f4
+"['Research', 'BIP', 'Consensus']",[],mailing-list-2024-04-ma566e1f34b51c2d6d18df1fab45f391a3cffc2a1
+"['Security', 'Development', 'P2P', 'Bitcoin Core', 'Testing', 'Network', 'Wallet']","['Translations', 'RPC']",combined_Bitcoin-Core-26-1-released

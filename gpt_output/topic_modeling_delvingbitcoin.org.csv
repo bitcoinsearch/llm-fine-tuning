@@ -1178,3 +1178,14 @@ primary_topics,secondary_topics,source_id
 "['Mempool', 'Fees', 'Privacy', 'Mining', 'Smart Contracts', 'Research', 'Bitcoin Core', 'Consensus']",[],delving-bitcoin-703-13-2187
 "['Segregated Witness', 'Lightning', 'Testing', 'Research', 'Consensus', 'Cryptography']",['Bitcoin'],delving-bitcoin-748-12-2185
 "['Mempool', 'Fees', 'Mining', 'Research', 'Bitcoin Core']",[],delving-bitcoin-703-12-2186
+"['Research', 'Privacy']","['Blockchain structure', 'Censorship concerns', 'Off-chain data storage', 'Data inscription', 'Bitcoin transactions']",delving-bitcoin-785-1-2197
+"['Consensus', 'Validation', 'Script', 'Security', 'Taproot', 'Limitations', 'Cryptography', 'Privacy', 'Forks']",[],delving-bitcoin-576-5-2194
+"['Threshold Signatures', 'Signature', 'Covenants', 'Taproot', 'Fees']",['BIP341'],delving-bitcoin-576-9-2207
+"['Script', 'Bitcoin Core', 'Blockchain', 'Cryptography', 'Smart Contracts']","['TypeScript', 'Layer 1']",delving-bitcoin-748-14-2206
+"['Layer 2', 'Lightning', 'Consensus', 'Privacy', 'Smart Contracts']",[],delving-bitcoin-775-2-2198
+"['Covenants', 'Script', 'Output']","['Transaction Fees', 'Input']",delving-bitcoin-576-11-2209
+"['BIP', 'Forks', 'Consensus', 'Covenants']",[],delving-bitcoin-576-10-2208
+"['Covenants', 'Fees', 'Mining']","['Challenges', 'CPFP', 'Transaction Costs']",delving-bitcoin-576-8-2204
+['Script'],[],delving-bitcoin-576-6-2195
+"['Consensus', 'Security', 'Covenants', 'Segwit', 'Fees', 'Mining']",[],delving-bitcoin-576-7-2203
+"['Lightning', 'Consensus', 'Security', 'FROST', 'UTXO', 'Privacy', 'Schnorr', 'Wallet']",[],combined_Constellation-a-high-performance-Lightning-based-L3-Feedback-wanted
