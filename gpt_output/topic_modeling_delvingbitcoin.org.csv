@@ -1189,3 +1189,7 @@ primary_topics,secondary_topics,source_id
 ['Script'],[],delving-bitcoin-576-6-2195
 "['Consensus', 'Security', 'Covenants', 'Segwit', 'Fees', 'Mining']",[],delving-bitcoin-576-7-2203
 "['Lightning', 'Consensus', 'Security', 'FROST', 'UTXO', 'Privacy', 'Schnorr', 'Wallet']",[],combined_Constellation-a-high-performance-Lightning-based-L3-Feedback-wanted
+"['Security', 'Script', 'Taproot', 'Bitcoin Core']",['Serialization'],delving-bitcoin-698-3-2215
+"['Validation', 'Script']",[],delving-bitcoin-576-13-2218
+"['Validation', 'Mempool', 'Fees', 'Transactions', 'Consensus', 'Research', 'Replace-By-Fee', 'Mining', 'Bitcoin Core']",[],delving-bitcoin-794-1-2217
+"['Security', 'Mining', 'UTXO', 'Fees']",[],delving-bitcoin-576-12-2216
