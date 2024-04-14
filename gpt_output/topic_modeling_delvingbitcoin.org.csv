@@ -1193,3 +1193,5 @@ primary_topics,secondary_topics,source_id
 "['Validation', 'Script']",[],delving-bitcoin-576-13-2218
 "['Validation', 'Mempool', 'Fees', 'Transactions', 'Consensus', 'Research', 'Replace-By-Fee', 'Mining', 'Bitcoin Core']",[],delving-bitcoin-794-1-2217
 "['Security', 'Mining', 'UTXO', 'Fees']",[],delving-bitcoin-576-12-2216
+"['Consensus', 'Forks', 'Validation']",[],delving-bitcoin-698-4-2220
+"['Custody', 'Transactions', 'Lightning']","['Bitcoin', 'Bitcoin Transactions', 'Self-Custody']",delving-bitcoin-797-1-2222
