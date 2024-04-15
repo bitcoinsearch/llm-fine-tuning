@@ -159,3 +159,6 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Research', 'Package Relay', 'Development', 'Bitcoin Core', 'Testing', 'Wallet', 'Libbitcoin Kernel']",['Versioning'],mailing-list-2024-04-m973e8ba434af033849a2027a38dba5e1d2d9e1f4
 "['Research', 'BIP', 'Consensus']",[],mailing-list-2024-04-ma566e1f34b51c2d6d18df1fab45f391a3cffc2a1
 "['Security', 'Development', 'P2P', 'Bitcoin Core', 'Testing', 'Network', 'Wallet']","['Translations', 'RPC']",combined_Bitcoin-Core-26-1-released
+"['Mempool', 'Miners']","['Decentralized', 'Replace-by-Fee (RBF)', 'Wallet Developers', 'Network Congestion', 'Community Feedback', 'Transaction Handling', 'Bitcoin Improvement Proposal (BIP)', 'Economic Efficiency', 'Node Operators', 'Dynamic Fee Adjustments', 'User Autonomy']",mailing-list-2024-04-m3202bbb0860c848ab379c7d664843092c7fe1e3a
+"['Bitcoin Core', 'Forks', 'Mining', 'Fees']","['Lightning Network', 'Pull Request', 'GitHub']",mailing-list-2024-04-mc44bd5af35a2ec9c5366810cf1ce60d6a57da0bb
+"['Lightning', 'Segregated Witness', 'Bitcoin Core', 'Consensus', 'Replace-by-Fee', 'Decentralization', 'Transactions', 'Mempool', 'Mining', 'Fees']","['User-Defined Transaction Flags Policy', 'Bitcoin Improvement Proposal (BIP)', 'Network Efficiency']",combined_Draft-BIP-for-User-Defined-Transaction-Flags-Policy-Strategy

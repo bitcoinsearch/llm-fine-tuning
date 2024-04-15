@@ -1195,3 +1195,6 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Mining', 'UTXO', 'Fees']",[],delving-bitcoin-576-12-2216
 "['Consensus', 'Forks', 'Validation']",[],delving-bitcoin-698-4-2220
 "['Custody', 'Transactions', 'Lightning']","['Bitcoin', 'Bitcoin Transactions', 'Self-Custody']",delving-bitcoin-797-1-2222
+"['Security', 'Transaction-Verification', 'Consensus', 'Cryptography', 'Script']",[],delving-bitcoin-576-15-2225
+['BIP'],"['Runtime Environment', 'Rust', 'Library', 'Asynchronous']",delving-bitcoin-678-11-2226
+['Covenants'],"['Vulnerabilities', 'Vault', 'Change Output', 'Transaction Structure', 'Transaction Fees']",delving-bitcoin-576-14-2224
