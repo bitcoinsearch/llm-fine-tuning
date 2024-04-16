@@ -1198,3 +1198,12 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Transaction-Verification', 'Consensus', 'Cryptography', 'Script']",[],delving-bitcoin-576-15-2225
 ['BIP'],"['Runtime Environment', 'Rust', 'Library', 'Asynchronous']",delving-bitcoin-678-11-2226
 ['Covenants'],"['Vulnerabilities', 'Vault', 'Change Output', 'Transaction Structure', 'Transaction Fees']",delving-bitcoin-576-14-2224
+"['Security', 'Zero-Knowledge', 'Research', 'Libsecp256k1', 'GPU', 'Cryptography']","['Performance', 'Documentation']",delving-bitcoin-224-6-2231
+"['BIP', 'Testing', 'Bitcoin Core', 'Development', 'Validation', 'SPV']",[],delving-bitcoin-678-12-2234
+[],"['Concurrency', 'Async', 'Threads', 'Operating System Threads']",delving-bitcoin-678-13-2235
+"['Consensus', 'Development']","['Strategic Direction', 'Flexibility', 'Framework', 'Adaptability', 'Software Versioning', 'Integration', 'Coherence', 'Compatibility', 'Features', 'Software Development Practices', 'Progress Evaluation']",delving-bitcoin-698-5-2236
+['Update Layer'],['Source Code'],delving-bitcoin-608-6-2232
+"['Sidechains', 'Consensus', 'Security', 'UTXO', 'Multi-signature', 'Privacy']",[],delving-bitcoin-797-2-2228
+"['Fuzzing', 'Security', 'Bitcoin Core', 'Research']",[],delving-bitcoin-208-5-2229
+"['Smart Contracts', 'Lightning', 'Consensus', 'Security']",['Game Theory'],delving-bitcoin-797-3-2237
+"['Sidechains', 'Smart Contracts', 'Lightning', 'Consensus', 'Security', 'Custody', 'Privacy', 'Multisig']",[],combined_Can-Game-Theory-Secure-Scaling-

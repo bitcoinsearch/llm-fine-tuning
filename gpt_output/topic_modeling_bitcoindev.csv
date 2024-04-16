@@ -162,3 +162,7 @@ primary_topics,secondary_topics,source_id
 "['Mempool', 'Miners']","['Decentralized', 'Replace-by-Fee (RBF)', 'Wallet Developers', 'Network Congestion', 'Community Feedback', 'Transaction Handling', 'Bitcoin Improvement Proposal (BIP)', 'Economic Efficiency', 'Node Operators', 'Dynamic Fee Adjustments', 'User Autonomy']",mailing-list-2024-04-m3202bbb0860c848ab379c7d664843092c7fe1e3a
 "['Bitcoin Core', 'Forks', 'Mining', 'Fees']","['Lightning Network', 'Pull Request', 'GitHub']",mailing-list-2024-04-mc44bd5af35a2ec9c5366810cf1ce60d6a57da0bb
 "['Lightning', 'Segregated Witness', 'Bitcoin Core', 'Consensus', 'Replace-by-Fee', 'Decentralization', 'Transactions', 'Mempool', 'Mining', 'Fees']","['User-Defined Transaction Flags Policy', 'Bitcoin Improvement Proposal (BIP)', 'Network Efficiency']",combined_Draft-BIP-for-User-Defined-Transaction-Flags-Policy-Strategy
+['BIP'],"['Editors', 'Bitcoin Improvement Proposal']",mailing-list-2024-04-m42533f59bfb2d6400dd3bd05f6084fbb74840ff9
+"['Consensus', 'Security', 'Transactions', 'Privacy', 'Fees']",[],mailing-list-2024-04-m5c0427120954fa532bda80167750e7d4cfe2dd5f
+"['Consensus', 'Security', 'P2P', 'Package Relay', 'Fees', 'Mining']",[],mailing-list-2024-04-me5442b94df09acdf7dff0a3d8e7bad6febcfd036
+"['Consensus', 'Testing', 'Soft Fork', 'Regtest', 'Halving', 'Testnet']",[],mailing-list-2024-04-me9d7c5088b28ab78371d054e4455673fc4021d84
