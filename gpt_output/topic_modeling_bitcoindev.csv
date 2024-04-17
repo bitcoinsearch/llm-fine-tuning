@@ -166,3 +166,9 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Security', 'Transactions', 'Privacy', 'Fees']",[],mailing-list-2024-04-m5c0427120954fa532bda80167750e7d4cfe2dd5f
 "['Consensus', 'Security', 'P2P', 'Package Relay', 'Fees', 'Mining']",[],mailing-list-2024-04-me5442b94df09acdf7dff0a3d8e7bad6febcfd036
 "['Consensus', 'Testing', 'Soft Fork', 'Regtest', 'Halving', 'Testnet']",[],mailing-list-2024-04-me9d7c5088b28ab78371d054e4455673fc4021d84
+"['BIP', 'Consensus']",[],mailing-list-2024-04-m0d9f9ce7fec3957a9ed6b9abe424c89b4b16f328
+['BIP'],"['Reviewers', 'Committees']",mailing-list-2024-04-m4e78705f0c760c508e1d5b3c956d1ccaeeebe85a
+"['Consensus', 'BIP', 'Research', 'Bitcoin Core']","['Selection Process', 'Bitcoin Improvement Proposal', 'Community']",mailing-list-2024-04-m95c4fc09a764eb0792b8c4c251180f7173407f6a
+"['BIP', 'Bitcoin Core']","['Reference Implementation', 'Pull Request']",mailing-list-2024-04-m7df04fa44d9651299fd7d277980900f8f7ebb07c
+"['Consensus', 'Testnet', 'Soft Fork', 'BIP', 'Mining', 'Blockchain', 'Bitcoin Core']","['Activation', 'GitHub', 'Pull Request']",mailing-list-2024-04-m1388d83dfbf425ac9e6bf5701ebd1e1bc593d615
+"['Consensus', 'Mining', 'Mempool', 'Lightning', 'Security']",['Transaction Fees'],mailing-list-2024-04-m0db2c57638c0fea9614b720368a36aae5b6be9ab

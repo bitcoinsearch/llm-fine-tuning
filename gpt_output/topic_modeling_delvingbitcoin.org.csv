@@ -1207,3 +1207,7 @@ primary_topics,secondary_topics,source_id
 "['Fuzzing', 'Security', 'Bitcoin Core', 'Research']",[],delving-bitcoin-208-5-2229
 "['Smart Contracts', 'Lightning', 'Consensus', 'Security']",['Game Theory'],delving-bitcoin-797-3-2237
 "['Sidechains', 'Smart Contracts', 'Lightning', 'Consensus', 'Security', 'Custody', 'Privacy', 'Multisig']",[],combined_Can-Game-Theory-Secure-Scaling-
+"['Forks', 'P2P', 'Consensus', 'Mining', 'Fees', 'Mempool', 'Research', 'Proof-of-Work', 'Validation']",[],delving-bitcoin-805-1-2242
+"['Consensus', 'Wallet', 'Scalability', 'Custody', 'Lightning', 'Security']",[],delving-bitcoin-797-5-2244
+"['Smart Contracts', 'P2P', 'Fuzzing', 'Consensus', 'Assumeutxo', 'Privacy', 'Routing', 'Altcoin', 'Soft Fork', 'Mining', 'Scalability', 'Multisig', 'Mempool', 'Lightning', 'Security', 'Validation']",[],delving-bitcoin-797-4-2243
+"['Cryptography', 'P2P', 'Attacks', 'Consensus', 'Network', 'Privacy', 'Routing', 'Testing', 'Soft Fork', 'Proof-of-Stake', 'BIP', 'Fees', 'Proof-of-Work', 'Research', 'Segregated Witness', 'Security', 'Validation']",['Transport'],combined_Serverless-Payjoin-Protocol-Design
