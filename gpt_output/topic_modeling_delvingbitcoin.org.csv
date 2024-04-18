@@ -1211,3 +1211,11 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Wallet', 'Scalability', 'Custody', 'Lightning', 'Security']",[],delving-bitcoin-797-5-2244
 "['Smart Contracts', 'P2P', 'Fuzzing', 'Consensus', 'Assumeutxo', 'Privacy', 'Routing', 'Altcoin', 'Soft Fork', 'Mining', 'Scalability', 'Multisig', 'Mempool', 'Lightning', 'Security', 'Validation']",[],delving-bitcoin-797-4-2243
 "['Cryptography', 'P2P', 'Attacks', 'Consensus', 'Network', 'Privacy', 'Routing', 'Testing', 'Soft Fork', 'Proof-of-Stake', 'BIP', 'Fees', 'Proof-of-Work', 'Research', 'Segregated Witness', 'Security', 'Validation']",['Transport'],combined_Serverless-Payjoin-Protocol-Design
+"['Mempool', 'Signet', 'Proof-of-Work', 'Mining']",[],delving-bitcoin-805-2-2254
+"['Privacy', 'P2P', 'Lightning', 'Decentralization']",['Peer-to-Peer'],delving-bitcoin-808-1-2249
+['Security'],"['Agile', 'Programming', 'Open-source']",delving-bitcoin-797-6-2248
+['Blockchain'],"['Network Resources', 'Bandwidth', 'Efficiency', 'Data Transfer', 'Latency']",delving-bitcoin-805-3-2255
+"['Libbitcoin Kernel', 'Mempool', 'P2P', 'Bitcoin Core', 'Security', 'C++', 'Consensus', 'Fees']",['RPC'],delving-bitcoin-807-1-2246
+"['UTXO', 'Market', 'Lightning', 'Fees']","['Risk', 'Game Theory', 'Cooperative Strategies']",delving-bitcoin-797-7-2253
+"['Forks', 'Consensus', 'Validation', 'Covenants']",[],delving-bitcoin-576-16-2247
+"['Validation', 'Mempool', 'Proof-of-Work', 'Mining', 'Consensus', 'Fees']","['Bandwidth', 'Market Research', 'Miner Strategies', 'Fee Estimation', 'Network Performance', 'RPCs', 'Proof of Concept']",combined_Second-Look-at-Weak-Blocks

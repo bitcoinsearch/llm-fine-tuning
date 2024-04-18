@@ -172,3 +172,6 @@ primary_topics,secondary_topics,source_id
 "['BIP', 'Bitcoin Core']","['Reference Implementation', 'Pull Request']",mailing-list-2024-04-m7df04fa44d9651299fd7d277980900f8f7ebb07c
 "['Consensus', 'Testnet', 'Soft Fork', 'BIP', 'Mining', 'Blockchain', 'Bitcoin Core']","['Activation', 'GitHub', 'Pull Request']",mailing-list-2024-04-m1388d83dfbf425ac9e6bf5701ebd1e1bc593d615
 "['Consensus', 'Mining', 'Mempool', 'Lightning', 'Security']",['Transaction Fees'],mailing-list-2024-04-m0db2c57638c0fea9614b720368a36aae5b6be9ab
+"['Bitcoin Core', 'Package Relay']","['GitHub', 'Source Code', 'Peter Todd', 'Libre Relay']",mailing-list-2024-04-mf00c713c57794924b4a0db115b7298437aac6b13
+"['Mempool', 'Bitcoin Core', 'Network', 'C++', 'Fees', 'UTXO', 'Build Systems', 'Linux', 'Transactions', 'Wallet', 'Mining', 'Security', 'API', 'Libbitcoin Kernel', 'Windows', 'Consensus']","['Contributors', 'Blocks', 'macOS', 'Compatibility']",mailing-list-2024-04-m825b20f6c31aa97bdc6128dc9883f656c0d56fa2
+['BIP'],['Editors'],mailing-list-2024-04-m8cc4f7819fcc74f839f7d2ab9faeb4326bf655a4
