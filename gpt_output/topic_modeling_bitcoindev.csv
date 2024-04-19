@@ -175,3 +175,5 @@ primary_topics,secondary_topics,source_id
 "['Bitcoin Core', 'Package Relay']","['GitHub', 'Source Code', 'Peter Todd', 'Libre Relay']",mailing-list-2024-04-mf00c713c57794924b4a0db115b7298437aac6b13
 "['Mempool', 'Bitcoin Core', 'Network', 'C++', 'Fees', 'UTXO', 'Build Systems', 'Linux', 'Transactions', 'Wallet', 'Mining', 'Security', 'API', 'Libbitcoin Kernel', 'Windows', 'Consensus']","['Contributors', 'Blocks', 'macOS', 'Compatibility']",mailing-list-2024-04-m825b20f6c31aa97bdc6128dc9883f656c0d56fa2
 ['BIP'],['Editors'],mailing-list-2024-04-m8cc4f7819fcc74f839f7d2ab9faeb4326bf655a4
+"['Consensus', 'Mining', 'Scalability', 'Fees', 'Blocksize']","['Protocol Upgrade', 'Centralization', 'Rewards']",mailing-list-2024-04-mfcbb74e279e5c0ef8cb93185b8fd1cdc20b375ab
+"['Timelocks', 'Miners', 'Validation', 'Hashlocks', 'Consensus', 'Security', 'Mining', 'Incentives', 'Fees']",[],mailing-list-2024-04-m43d5fb8d82ec46db4248aa08a5ae77fb765a8423

@@ -1219,3 +1219,12 @@ primary_topics,secondary_topics,source_id
 "['UTXO', 'Market', 'Lightning', 'Fees']","['Risk', 'Game Theory', 'Cooperative Strategies']",delving-bitcoin-797-7-2253
 "['Forks', 'Consensus', 'Validation', 'Covenants']",[],delving-bitcoin-576-16-2247
 "['Validation', 'Mempool', 'Proof-of-Work', 'Mining', 'Consensus', 'Fees']","['Bandwidth', 'Market Research', 'Miner Strategies', 'Fee Estimation', 'Network Performance', 'RPCs', 'Proof of Concept']",combined_Second-Look-at-Weak-Blocks
+"['Cryptography', 'Security']",[],delving-bitcoin-797-9-2265
+"['Security', 'Encryption', 'Locktime']","['Transaction Expiration', 'Decryption', 'Efficiency']",delving-bitcoin-797-10-2267
+"['Validation', 'Forks', 'Consensus', 'Mining', 'Scalability', 'Fees', 'Bitcoin Core']",[],delving-bitcoin-805-4-2262
+"['Blockchain', 'Validation', 'Consensus', 'Mining', 'Difficulty', 'Scalability', 'Block', 'Fees']",[],delving-bitcoin-805-5-2268
+"['Proof-of-Work', 'Mempool', 'Consensus', 'Mining', 'Fees']",[],delving-bitcoin-805-9-2275
+"['UTXO', 'Fees']","['Financial Gain', 'Cost Efficiency', 'Game Theory']",delving-bitcoin-797-8-2261
+"['Mempool', 'Consensus', 'Security', 'Fuzzing', 'Mining', 'Package Relay', 'P2P']",[],delving-bitcoin-805-6-2270
+"['Research', 'Forks', 'Validation', 'Limitations', 'Mempool', 'Consensus', 'Mining', 'Cryptography', 'Fees']",[],delving-bitcoin-805-8-2274
+"['Decentralization', 'Mempool', 'Consensus', 'Mining']",['Weak Blocks'],delving-bitcoin-805-7-2271
