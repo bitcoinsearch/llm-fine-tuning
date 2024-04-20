@@ -1228,3 +1228,13 @@ primary_topics,secondary_topics,source_id
 "['Mempool', 'Consensus', 'Security', 'Fuzzing', 'Mining', 'Package Relay', 'P2P']",[],delving-bitcoin-805-6-2270
 "['Research', 'Forks', 'Validation', 'Limitations', 'Mempool', 'Consensus', 'Mining', 'Cryptography', 'Fees']",[],delving-bitcoin-805-8-2274
 "['Decentralization', 'Mempool', 'Consensus', 'Mining']",['Weak Blocks'],delving-bitcoin-805-7-2271
+"['Validation', 'Script', 'Covenants', 'Security']","['Analysis', 'Vulnerabilities', 'Model Checking', 'Modeling', 'Visualization', 'Alloy']",delving-bitcoin-819-1-2288
+"['Mining', 'Mempool', 'Proof-of-Work', 'Consensus', 'Security']","['DDoS', 'Latency', 'Bandwidth']",delving-bitcoin-805-11-2278
+"['Mining', 'Validation', 'Consensus', 'Forks']",['Inventory'],delving-bitcoin-805-13-2280
+"['Mempool', 'Miners', 'Transactions']","['Round-Trips', 'Efficiency', 'Network Performance', 'Block Relay', 'Weak Blocks']",delving-bitcoin-805-10-2276
+"['Mining', 'Mempool', 'Fees']","['Efficiency', 'Compact Blocks', 'Block Transmission', 'Bandwidth']",delving-bitcoin-805-14-2281
+"['Mempool', 'Soft Fork', 'Blockchain', 'Transactions', 'Segregated Witness', 'Consensus', 'Forks']",[],delving-bitcoin-805-12-2279
+"['Mining', 'Block', 'Validation', 'P2P', 'Blockchain', 'Bitcoin Core', 'Fees', 'Consensus', 'Forks']",[],delving-bitcoin-805-17-2285
+"['Mining', 'Stratum-V2', 'Validation', 'P2P', 'Research', 'Build Systems', 'Miners', 'Bitcoin Core', 'Pools', 'Consensus', 'Forks']",[],delving-bitcoin-805-16-2284
+"['Research', 'Smart Contracts', 'Testing', 'Covenants', 'Consensus', 'Security']",[],delving-bitcoin-576-17-2289
+"['Mining', 'Block', 'Mempool', 'Difficulty', 'Blockchain', 'Fees', 'Pools', 'Transactions', 'Consensus']","['Network Efficiency', 'Bandwidth', 'Hash Rate', 'Transaction Propagation']",delving-bitcoin-805-15-2282
