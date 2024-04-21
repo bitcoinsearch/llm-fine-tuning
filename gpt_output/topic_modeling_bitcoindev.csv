@@ -178,3 +178,15 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Mining', 'Scalability', 'Fees', 'Blocksize']","['Protocol Upgrade', 'Centralization', 'Rewards']",mailing-list-2024-04-mfcbb74e279e5c0ef8cb93185b8fd1cdc20b375ab
 "['Timelocks', 'Miners', 'Validation', 'Hashlocks', 'Consensus', 'Security', 'Mining', 'Incentives', 'Fees']",[],mailing-list-2024-04-m43d5fb8d82ec46db4248aa08a5ae77fb765a8423
 "['BIP', 'Development']","['Bitcoin Improvement Proposal', 'Editors']",mailing-list-2024-04-m6f523cf4badcb1e2624e7a2e57d073d7c5a6a091
+['BIP'],"['Bitcoin Improvement Proposal', 'Bitcoin Development', 'Community Consensus']",mailing-list-2024-04-m654f52c426bd5696d88668b3bff25197846e14af
+"['BIP', 'Consensus', 'Bitcoin Core', 'Development', 'Research']",[],mailing-list-2024-04-m75a1b876471ab12e18b480ce1a7638a26dd7f127
+"['Consensus', 'Bitcoin Core', 'Research']",['Governance'],mailing-list-2024-04-mf6bac461b3f4b40896f6752e2b639ada61a6a7e1
+"['Consensus', 'Research']",[],mailing-list-2024-04-m5e09391c157a0855ad626756bc14848d7d7635ce
+"['Consensus', 'Bitcoin Core']","['Documentation', 'Editors', 'Collaboration', 'BIPs', 'Professional Conduct']",mailing-list-2024-04-mbdf8379ffcff2c30c118ba3bf87b831ae71b58e7
+[],"['Editors', 'BIPs']",mailing-list-2024-04-m968bf11c426a2ef47ec084b5e76d91105be2428a
+"['Consensus', 'Bitcoin Core', 'Research']",[],mailing-list-2024-04-m7712f6e25c4231e3aee8472b155070550872d157
+['BIP'],"['Communication', 'Bitcoin Improvement Proposal', 'Documentation', 'Community', 'Collaboration', 'Compensation', 'Decentralized Projects']",mailing-list-2024-04-m6bab892e1353ceb67717b54a329e8a3a78177c6f
+"['Consensus', 'Bitcoin Core', 'Research']",[],mailing-list-2024-04-m03b6ac7d19d68f4045b82730f5c8455272fc6b3d
+"['BIP', 'Consensus', 'Bitcoin Core', 'Soft Fork', 'Forks']","['Governance', 'Repository']",mailing-list-2024-04-mf20fa2bca71509e0bb5ed8230d1c5aabbf093f6c
+"['PSBT', 'Splicing', 'Altcoin', 'Hard Fork', 'Smart Contracts', 'Assumeutxo', 'Package Relay', 'Multisig', 'Accumulators', 'Script', 'Fungibility', 'Ux', 'Onion', 'Routing Failures', 'Research', 'Multiple-Path Payments', 'Mempool', 'Lightning', 'Fees', 'Taproot', 'Attacks', 'Threshold Signatures', 'Consensus', 'IBD', 'Routing', 'FROST', 'Eclair', 'Regulation', 'Mining', 'Limitations', 'Forks', 'Eltoo', 'Miniscript', 'Pools', 'Cryptography', 'Fuzzing', 'P2P', 'RGB', 'Sphinx', 'Security', 'Soft Fork', 'Musig', 'Privacy', 'Asmap', 'Testing', 'Scalability', 'Lnd', 'Academia', 'Submarine Swaps', 'Segwit', 'Libsecp256k1', 'Stratum-V2', 'Covenants', 'Libbitcoin Kernel', 'C-Lightning', 'Wallet', 'Signet', 'Hardware Wallet', 'Sidechains', 'Update Layer', 'Bitcoin Core', 'Schnorr', 'Silent Payments', 'Layer 2', 'Path-Finding', 'P2pool']",['Zero'],mailing-list-2024-04-mffcd56c9087889eb5ad6f2459ea26ee1afe04c0d
+['Bitcoin Core'],"['Repository Management', 'Maintainers', 'BIPs', 'Bitcoin Improvement Proposals']",mailing-list-2024-04-m2528054aa6211da52baae6df0c824fa837c698fc
