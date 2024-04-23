@@ -1239,3 +1239,4 @@ primary_topics,secondary_topics,source_id
 "['Research', 'Smart Contracts', 'Testing', 'Covenants', 'Consensus', 'Security']",[],delving-bitcoin-576-17-2289
 "['Mining', 'Block', 'Mempool', 'Difficulty', 'Blockchain', 'Fees', 'Pools', 'Transactions', 'Consensus']","['Network Efficiency', 'Bandwidth', 'Hash Rate', 'Transaction Propagation']",delving-bitcoin-805-15-2282
 "['Cryptography', 'Research']",[],delving-bitcoin-576-18-2293
+"['Privacy', 'Fees', 'Assumeutxo', 'Research']",[],delving-bitcoin-824-1-2298
