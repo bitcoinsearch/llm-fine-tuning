@@ -199,3 +199,9 @@ primary_topics,secondary_topics,source_id
 ['BIP'],"['Bitcoin Improvement Proposal', 'Technical Infrastructure', 'Technical Standards', 'Bitcoin Technology', 'Community Engagement']",mailing-list-2024-04-m2308f0ae1e75a7b051fdb620e2010ab005c32293
 ['BIP'],"['Communication', 'Responsibilities', 'Collaborative Project', 'Feedback']",mailing-list-2024-04-m536f2919337f7932d281bb0aa168fe4aec94ec60
 ['BIP'],['Bitcoin Improvement Proposal'],mailing-list-2024-04-m84dba4488403d286abea11f5fef3cac1290289af
+"['Blockchain', 'Testing', 'Wallet', 'Transactions', 'Nodes']","['Mockups', 'Developer', 'RPC']",mailing-list-2024-04-m4c13d9046069ea1dc92d140b98ec576c2e95bf90
+['BIP'],"['Blockstream', 'Technical Framework', 'Signature Schemes', 'Bitcoin Improvement Proposal']",mailing-list-2024-04-m75feae977c0f986b6fe7c601e6142b8dca723e9d
+['BIP'],['Bitcoin Improvement Proposal'],mailing-list-2024-04-mf6b7253d401c67924cab94f02339396beaf151db
+"['Development', 'Consensus', 'BIP']","['Modification Evaluation', 'Pull Requests', 'Backlog Management', 'GitHub', 'Community Participation', 'Discussion Facilitation', 'Editors']",mailing-list-2024-04-m08d16554a8bfa6b0656d4183a750b39c538ae6cb
+"['Research', 'Testing', 'Bitcoin Core', 'Development', 'Consensus']",[],mailing-list-2024-04-mac87a631ed9b68c4ebab5926f560d0ee580d0269
+['BIP'],"['GitHub', 'Technical Evolution', 'Bitcoin', 'Reference Implementation', 'Pull Request']",combined_Updated-BIP-for-OP-CAT

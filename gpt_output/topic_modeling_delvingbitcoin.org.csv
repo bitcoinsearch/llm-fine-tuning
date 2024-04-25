@@ -1242,3 +1242,10 @@ primary_topics,secondary_topics,source_id
 "['Privacy', 'Fees', 'Assumeutxo', 'Research']",[],delving-bitcoin-824-1-2298
 ['Research'],"['Efficiency', 'Algorithm', 'Optimization', 'Flexibility']",delving-bitcoin-825-1-2299
 "['Blockchain', 'Regtest', 'Testing', 'Transactions', 'Taproot']",['Documentation'],delving-bitcoin-748-15-2304
+"['Research', 'Bitcoin Core', 'Forks', 'Consensus', 'Segwit', 'BIP', 'Covenants', 'Cryptography']",[],delving-bitcoin-832-1-2317
+"['Privacy', 'Bitcoin Core', 'Segwit', 'Fees', 'Taproot', 'Cryptography']",[],delving-bitcoin-824-2-2321
+['Research'],"['Optimization', 'Search', 'Strategy', 'Complex Structures', 'Problem-Solving', 'Data Analysis']",delving-bitcoin-825-2-2322
+['Research'],"['Optimization', 'Algorithm', 'Efficiency']",delving-bitcoin-825-4-2324
+"['Fuzzing', 'Research']",[],delving-bitcoin-825-3-2323
+['Research'],"['Optimization', 'Algorithm', 'Efficiency']",combined_LIMO-combining-the-best-parts-of-linearization-search-and-merging
+"['Research', 'Privacy', 'Fees']",[],combined_CISA-and-Privacy
