@@ -1249,3 +1249,6 @@ primary_topics,secondary_topics,source_id
 "['Fuzzing', 'Research']",[],delving-bitcoin-825-3-2323
 ['Research'],"['Optimization', 'Algorithm', 'Efficiency']",combined_LIMO-combining-the-best-parts-of-linearization-search-and-merging
 "['Research', 'Privacy', 'Fees']",[],combined_CISA-and-Privacy
+"['Fees', 'Mining', 'Consensus', 'Bitcoin Core']",[],delving-bitcoin-825-7-2328
+"['Fees', 'Blockchain', 'Transactions', 'Script', 'Mining']",[],delving-bitcoin-825-6-2326
+['Research'],[],delving-bitcoin-825-5-2325

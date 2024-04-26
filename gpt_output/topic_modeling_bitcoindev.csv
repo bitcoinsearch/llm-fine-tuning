@@ -205,3 +205,8 @@ primary_topics,secondary_topics,source_id
 "['Development', 'Consensus', 'BIP']","['Modification Evaluation', 'Pull Requests', 'Backlog Management', 'GitHub', 'Community Participation', 'Discussion Facilitation', 'Editors']",mailing-list-2024-04-m08d16554a8bfa6b0656d4183a750b39c538ae6cb
 "['Research', 'Testing', 'Bitcoin Core', 'Development', 'Consensus']",[],mailing-list-2024-04-mac87a631ed9b68c4ebab5926f560d0ee580d0269
 ['BIP'],"['GitHub', 'Technical Evolution', 'Bitcoin', 'Reference Implementation', 'Pull Request']",combined_Updated-BIP-for-OP-CAT
+"['Schnorr', 'Soft Fork', 'BIP', 'Taproot', 'Segwit', 'Script', 'Multisig']",['Lightning Network'],mailing-list-2024-04-m4d3d102ece8e6e86938d8482193f132f2e345a9c
+"['Soft Fork', 'Consensus', 'Research']",[],mailing-list-2024-04-mfd0d3cd1c351cf61e87288f3e752562f89a84132
+"['Soft Fork', 'BIP', 'Taproot', 'Script', 'Bitcoin Core', 'Segwit']","['GitHub', 'Compatibility', 'Opcode', 'OP_INTERNALKEY', 'Bitcoin Improvement Proposal']",mailing-list-2024-04-mf44f253412a52df3b9b7a7f032222c8c2a44ad84
+"['Blockchain', 'Soft Fork', 'BIP', 'Consensus', 'Merkle Trees', 'Segregated Witness', 'Scalability']",['Block Size Increase'],mailing-list-2024-04-mf2f7c24c6a8f15fbcca35c0f5ccf97824b8799f5
+['BIP'],"['Ethics', 'Contributions', 'Open Source', 'Governance']",mailing-list-2024-04-mb5f42888ad48243a362dbc931aeb4b8e948d3966
