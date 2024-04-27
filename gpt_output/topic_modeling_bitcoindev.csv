@@ -210,3 +210,8 @@ primary_topics,secondary_topics,source_id
 "['Soft Fork', 'BIP', 'Taproot', 'Script', 'Bitcoin Core', 'Segwit']","['GitHub', 'Compatibility', 'Opcode', 'OP_INTERNALKEY', 'Bitcoin Improvement Proposal']",mailing-list-2024-04-mf44f253412a52df3b9b7a7f032222c8c2a44ad84
 "['Blockchain', 'Soft Fork', 'BIP', 'Consensus', 'Merkle Trees', 'Segregated Witness', 'Scalability']",['Block Size Increase'],mailing-list-2024-04-mf2f7c24c6a8f15fbcca35c0f5ccf97824b8799f5
 ['BIP'],"['Ethics', 'Contributions', 'Open Source', 'Governance']",mailing-list-2024-04-mb5f42888ad48243a362dbc931aeb4b8e948d3966
+['Security'],"['Innovation', 'Signatures', 'Public Key', 'Bitcoin Improvement Proposal']",mailing-list-2024-04-m43fca48819aee6078a79a2d2759072daf39a0b4d
+"['Script', 'Taproot', 'Segregated Witness']","['OP_CHECKSIG', 'OP_PUBKEY']",mailing-list-2024-04-mde5c7810020870f8fdda551c5cb786e0131065ad
+"['Script', 'BIP', 'Taproot', 'Validation']",['Opcode'],mailing-list-2024-04-m8eef71c65304f1ab7c7d590be8a855ac1d4e2f23
+"['Script', 'Soft Fork', 'BIP', 'Taproot', 'Bitcoin Core']","['Script Path Spending', 'Bitcoin Development Community', 'Deployment', 'GitHub', 'Transaction Agreements', 'Reference Implementation', 'Opcode', 'Transaction Efficiency', 'Backward Compatibility', 'Transaction Scripting', 'Bitcoin Protocol']",combined_BIP-for-OP-INTERNALKEY
+"['Segwit', 'Smart Contracts', 'Lightning', 'Security', 'Script', 'BIP', 'Taproot', 'Consensus', 'Schnorr', 'Cryptography']",[],combined_BIP-for-OP-CHECKSIGFROMSTACK
