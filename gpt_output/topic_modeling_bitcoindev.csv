@@ -215,3 +215,4 @@ primary_topics,secondary_topics,source_id
 "['Script', 'BIP', 'Taproot', 'Validation']",['Opcode'],mailing-list-2024-04-m8eef71c65304f1ab7c7d590be8a855ac1d4e2f23
 "['Script', 'Soft Fork', 'BIP', 'Taproot', 'Bitcoin Core']","['Script Path Spending', 'Bitcoin Development Community', 'Deployment', 'GitHub', 'Transaction Agreements', 'Reference Implementation', 'Opcode', 'Transaction Efficiency', 'Backward Compatibility', 'Transaction Scripting', 'Bitcoin Protocol']",combined_BIP-for-OP-INTERNALKEY
 "['Segwit', 'Smart Contracts', 'Lightning', 'Security', 'Script', 'BIP', 'Taproot', 'Consensus', 'Schnorr', 'Cryptography']",[],combined_BIP-for-OP-CHECKSIGFROMSTACK
+"['script', 'block', 'validation', 'security', 'P2P', 'relay', 'transactions', 'wallet', 'bitcoin-core-development', 'Bitcoin Core', 'blockchain', 'miners', 'Segregated Witness', 'BIP']",[],mailing-list-2024-04-m89633289d8e49d733dd5d616ecc57e720ded50a0
