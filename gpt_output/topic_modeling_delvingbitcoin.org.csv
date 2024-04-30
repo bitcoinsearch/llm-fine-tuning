@@ -1259,3 +1259,6 @@ primary_topics,secondary_topics,source_id
 "['Transaction-Verification', 'Storage', 'Blockchain', 'Taproot', 'Script']","['Scriptless Scripts', 'CTV', 'Efficiency']",delving-bitcoin-839-2-2337
 "['Protocol', 'Script', 'Update Layer']",['Transaction-Handling'],delving-bitcoin-839-4-2344
 "['Cryptography', 'Lightning', 'Taproot']","['Blockchain Space', 'Protocol Design', 'Cryptographic Techniques', 'Efficiency', 'Transaction Weight']",combined_-WITHDRAWN-Alternate-script-design-for-LNHANCE-Symmetry
+"['Fees', 'Consensus', 'Stratum-V2', 'Investing', 'Pools', 'Mining']",[],delving-bitcoin-842-2-2348
+"['P2Pool', 'Consensus', 'Decentralization', 'Mempool', 'Mining']",['Censorship Resistance'],delving-bitcoin-842-1-2347
+"['Consensus', 'Decentralization', 'Mempool', 'Mining', 'P2pool']",['Censorship Resistance'],combined_Deterministic-tx-selection-for-censorship-resistance
