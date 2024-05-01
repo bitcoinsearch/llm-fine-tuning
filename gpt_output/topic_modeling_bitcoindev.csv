@@ -218,3 +218,12 @@ primary_topics,secondary_topics,source_id
 "['script', 'block', 'validation', 'security', 'P2P', 'relay', 'transactions', 'wallet', 'bitcoin-core-development', 'Bitcoin Core', 'blockchain', 'miners', 'Segregated Witness', 'BIP']",[],mailing-list-2024-04-m89633289d8e49d733dd5d616ecc57e720ded50a0
 "['Value', 'Development', 'Consensus', 'Testing', 'Blockchain']",['Reset'],mailing-list-2024-04-m9bb4d681345d943729c4c1b775f03196399c9645
 "['Attacks', 'ECDSA', 'Academia', 'Security', 'Cryptography']","['Bitcoin Scripting Language', 'Signatures', 'Cryptographic Schemes', 'Innovative Approaches']",mailing-list-2024-04-mb7511d27ee5a8e00005dd4a71830839d97004ecf
+"['Scalability', 'Fees', 'Consensus', 'Mining', 'Halving']",['Rewards'],mailing-list-2024-04-mf9e0850c096bcb442beac4bd110824f5cb968afc
+"['Security', 'Cryptography']","['Signatures', 'Quantum Computing', 'Cryptographic Security']",mailing-list-2024-04-m087e273dd3b3db05a2a7016636b6f61f91a3c433
+"['Soft Fork', 'Cryptography', 'Bitcoin Core', 'Consensus', 'Taproot', 'Research', 'Segregated Witness']",['Quantum'],mailing-list-2024-04-m18aba50dfca9d0e096f3f1446893aa06ad5fe8a8
+"['Cryptography', 'Development', 'Blockchain', 'Privacy', 'Bitcoin Core', 'Consensus', 'Limitations', 'Research', 'Script', 'Forks']",[],mailing-list-2024-04-mf0a2fc2a5059fca5b68d7b9eaad6bdd8afa3649f
+"['Security', 'Cryptography']",['Signatures'],mailing-list-2024-04-m1aed003971fcff909120c5761459328d827d6a9e
+"['Development', 'Blockchain', 'Raw-Transaction', 'Testing', 'Private-Key', 'Libsecp256k1']",['BIP143'],mailing-list-2024-04-m61d685ebd5dda64a646866189468f90437209f50
+"['Security', 'Bitcoin Core', 'Consensus']",[],mailing-list-2024-04-m56d78e299a56adcf27619d850f5bed2d88520660
+"['libsecp256k1', 'Consensus', 'Segwit']","['Raw Transaction', 'Core', 'Private Key', 'BIP143', 'OpenSSL']",combined_Test-cases-for-signing-legacy-inputs-in-transactions
+"['Security', 'Cryptography', 'Bitcoin Core', 'Consensus', 'Taproot', 'Research', 'Segregated Witness']",['Quantum Resistant'],combined_Signing-a-Bitcoin-Transaction-with-Lamport-Signatures-no-changes-needed-
