@@ -229,3 +229,4 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Cryptography', 'Bitcoin Core', 'Consensus', 'Taproot', 'Research', 'Segregated Witness']",['Quantum Resistant'],combined_Signing-a-Bitcoin-Transaction-with-Lamport-Signatures-no-changes-needed-
 "['Fungibility', 'Hashpower', 'Forks', 'Hashlocks', 'Mining', 'Segregated Witness', 'Consensus', 'Privacy', 'Covenants', 'Proof-of-Work', 'ECDSA', 'Cryptography', 'Validation', 'Schnorr', 'Miners', 'Security']",[],mailing-list-2024-05-m2366b783e1a2fe3962a453cfe71e83948c76b067
 "['Mining', 'Consensus', 'Proof-of-Work', 'Scalability', 'Soft Fork', 'UTXO', 'Hard Fork']","['Protocol Upgrades', 'Legacy Systems', 'Network Visibility']",mailing-list-2024-04-m47eb6807fdb8e0222de8e4f53c30a30bb220ec6c
+"['Security', 'ECDSA', 'Mining', 'Signature']","['Transaction Fees', 'Collision Resistance', 'CPFP', 'Bitcoin Blocks']",mailing-list-2024-05-m4598d2909fd95ee0eaf5249d3c527534a97f4ec7
