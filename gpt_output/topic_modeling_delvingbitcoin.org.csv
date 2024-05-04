@@ -1266,3 +1266,4 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Covenants', 'Research', 'Validation']","['Cryptographic Process', 'BIP 327', 'Bitcoin', 'Innovation']",combined_Exploding-Keys-Covenant-construction
 "['Fees', 'Research', 'Mining', 'Consensus']","['Transaction Organization', 'Algorithm', 'Optimization', 'Mathematical Framework']",delving-bitcoin-825-8-2351
 "['Taproot', 'Security', 'Privacy', 'Covenants', 'Consensus', 'MuSig']",[],delving-bitcoin-832-3-2354
+"['P2P', 'Electrum', 'Security', 'Pools', 'Privacy', 'Script', 'Wallet', 'Consensus', 'Research', 'Lightning', 'Validation', 'Transactions', 'Multisig', 'Forks', 'Encryption', 'Covenants']",[],delving-bitcoin-847-1-2357
