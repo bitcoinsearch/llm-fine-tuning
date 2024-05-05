@@ -1267,3 +1267,11 @@ primary_topics,secondary_topics,source_id
 "['Fees', 'Research', 'Mining', 'Consensus']","['Transaction Organization', 'Algorithm', 'Optimization', 'Mathematical Framework']",delving-bitcoin-825-8-2351
 "['Taproot', 'Security', 'Privacy', 'Covenants', 'Consensus', 'MuSig']",[],delving-bitcoin-832-3-2354
 "['P2P', 'Electrum', 'Security', 'Pools', 'Privacy', 'Script', 'Wallet', 'Consensus', 'Research', 'Lightning', 'Validation', 'Transactions', 'Multisig', 'Forks', 'Encryption', 'Covenants']",[],delving-bitcoin-847-1-2357
+[],"['Collaboration', 'Message Signing', 'Satoshi Nakamoto']",delving-bitcoin-850-4-2365
+"['Research', 'Fees', 'Consensus']",[],delving-bitcoin-825-9-2366
+"['Signature', 'P2PKH', 'Bitcoin Core']","['Bitcoin Stack Exchange', 'Bitcoin Wiki', 'Satoshi Nakamoto', 'BIPs', 'Community Contributions', 'Message Signing']",delving-bitcoin-850-1-2360
+"['Mining', 'Fees', 'Pools', 'Decentralization', 'Consensus']","['Centralization', 'Censorship']",delving-bitcoin-842-3-2368
+[],"['BitcoinTalk', 'GitHub', 'Documentation', 'Message Signing']",delving-bitcoin-850-3-2362
+[],"['Memory Management', 'Rust', 'Programming Languages', 'Software Development', 'Developer Expertise', 'Golang', 'Concurrency']",delving-bitcoin-576-19-2364
+"['Cryptography', 'ECDSA']","['Bitcoin protocol documentation', 'Message Signing']",delving-bitcoin-850-2-2361
+"['Schnorr', 'Forks', 'Validation', 'Segregated Witness', 'Multisig', 'Security', 'Bitcoin Core', 'Cryptography', 'Research', 'Consensus']",[],combined_Satoshi-Style-Message-Signing
