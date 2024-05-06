@@ -1275,3 +1275,5 @@ primary_topics,secondary_topics,source_id
 [],"['Memory Management', 'Rust', 'Programming Languages', 'Software Development', 'Developer Expertise', 'Golang', 'Concurrency']",delving-bitcoin-576-19-2364
 "['Cryptography', 'ECDSA']","['Bitcoin protocol documentation', 'Message Signing']",delving-bitcoin-850-2-2361
 "['Schnorr', 'Forks', 'Validation', 'Segregated Witness', 'Multisig', 'Security', 'Bitcoin Core', 'Cryptography', 'Research', 'Consensus']",[],combined_Satoshi-Style-Message-Signing
+"['Privacy', 'Consensus', 'Hard Fork']","['Bech32m', 'Address Format', 'Adoption', 'P2TR', 'Integration', 'Ecosystem']",delving-bitcoin-824-3-2369
+"['Privacy', 'Consensus', 'Fees', 'Lightning']",[],delving-bitcoin-824-4-2371
