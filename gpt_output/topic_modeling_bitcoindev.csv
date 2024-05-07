@@ -244,3 +244,15 @@ primary_topics,secondary_topics,source_id
 "['Mining', 'Consensus', 'Proof-of-Work']",[],mailing-list-2024-05-m0a12a63257366eee18bd977a438fcf8390c2c9dd
 "['Blockchain', 'Testnet', 'Testing', 'Research', 'Bitcoin Core']",[],mailing-list-2024-05-m83159edcc0fce1ce8eab7c5899e8fbe29403d1d1
 "['Transactions', 'Fees', 'UTXO']",[],combined_A-Fool-s-Errand-or-should-I-try-
+"['Security', 'Bip', 'Development', 'Incentives']","['Cryptocurrency', 'Bitcoin']",mailing-list-2024-05-m73daaf743931755b1cbf61b4bc541f722845e82b
+"['Libsecp256k1', 'Bitcoin Core']","['Embedded Systems', 'Signing Processes', 'Resource Consumption', 'Binary Size', 'Algorithm', 'Performance Improvement', 'Library Utility', 'Efficiency', 'Key Generation', 'Public Keys']",mailing-list-2024-05-m82eede0ec244e1b682c87f3e73fd3c7f7d28af62
+"['Script', 'Validation', 'ECDSA', 'Scriptsig', 'Security', 'Covenants', 'Bitcoin Core', 'Forks', 'Segregated Witness', 'Cryptography', 'Consensus', 'Privacy']",[],mailing-list-2024-05-md6ecdf2b9b125460db390a353679b1527cdf7cc5
+"['Script', 'Research', 'Bitcoin Core', 'Cryptography', 'Consensus', 'Taproot']",[],mailing-list-2024-05-m7e21336f6f66360c71229e5dbc6a5d4ff65145ea
+"['Cryptography', 'Taproot']",['Signatures'],mailing-list-2024-05-m45a7b830a93c365b02b4ff274a56da717f9c0a66
+"['Research', 'Security', 'Bitcoin Core', 'Cryptography', 'Consensus']",[],mailing-list-2024-05-m81d6a023b913c7a122dfd25235843e24268d862d
+"['Proof-of-Work', 'Security', 'Mining', 'Bitcoin Core', 'UTXO', 'Consensus', 'Scalability']","['Software Maintenance', 'Linux Kernel', 'Block Size Increase']",mailing-list-2024-05-m7534a1c9f95d689da270a5abae22bf540d583fe8
+"['Security', 'Blockchain', 'Hash', 'Lightning']",['Bitcoin Improvement Proposal (BIP)'],mailing-list-2024-05-m6b15ba3c85bfb1cfb893e1905090374f0ca54a5b
+['Testing'],[],mailing-list-2024-05-mfe3e6f74f5aab30771b149073b6843e4451f0fcb
+"['Bitcoin Core', 'blockchain']","['transaction details', 'verification processes', 'Bitcoin network', 'researchers', 'developers', 'RPC', 'documentation']",mailing-list-2024-05-m247416624cc386732e1735a2d64c8f65440e3442
+"['Mempool', 'Transactions']",[],mailing-list-2024-05-m1bcf28e484aea02c0758f846f1c01e3d1fc270e1
+"['Security', 'Cryptography', 'Privacy']",['Bitcoin Improvement Proposal (BIP)'],combined_bitcoin-bounty-program
