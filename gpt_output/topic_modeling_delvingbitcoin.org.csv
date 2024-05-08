@@ -1280,3 +1280,8 @@ primary_topics,secondary_topics,source_id
 "['Decentralization', 'Stratum-V2', 'Regulation', 'Mining', 'Consensus']",[],delving-bitcoin-842-4-2376
 "['Utxo', 'Scalability', 'Segwit', 'P2pkh', 'Blockchain', 'Hard Fork', 'Taproot']",['Cost Reduction'],delving-bitcoin-824-5-2374
 "['Algorithms', 'Validation', 'Research', 'Topology', 'Forks', 'Mempool', 'Consensus']",[],delving-bitcoin-202-14-2378
+"['Terminology', 'Mempool']","['Cluster', 'Theory']",delving-bitcoin-202-16-2380
+"['Consensus', 'Timestamping', 'Mempool']",[],delving-bitcoin-202-17-2381
+"['Research', 'Mempool', 'Validation', 'Cryptography', 'Consensus', 'Terminology']",[],delving-bitcoin-202-15-2379
+['Mempool'],['Graph Theory'],delving-bitcoin-202-19-2386
+['Mempool'],[],delving-bitcoin-202-18-2382
