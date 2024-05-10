@@ -1285,3 +1285,6 @@ primary_topics,secondary_topics,source_id
 "['Research', 'Mempool', 'Validation', 'Cryptography', 'Consensus', 'Terminology']",[],delving-bitcoin-202-15-2379
 ['Mempool'],['Graph Theory'],delving-bitcoin-202-19-2386
 ['Mempool'],[],delving-bitcoin-202-18-2382
+"['Mining', 'Consensus', 'Miners']",[],delving-bitcoin-842-5-2396
+"['BIP', 'Payment', 'Development']","['Integration', 'Syntax', 'Data Formats', 'Efficiency']",delving-bitcoin-630-21-2393
+"['Incentives', 'Consensus', 'Fees', 'Mining', 'Pools', 'Mempool', 'Security']",[],delving-bitcoin-842-6-2397
