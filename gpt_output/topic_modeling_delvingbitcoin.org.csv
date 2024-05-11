@@ -1288,3 +1288,7 @@ primary_topics,secondary_topics,source_id
 "['Mining', 'Consensus', 'Miners']",[],delving-bitcoin-842-5-2396
 "['BIP', 'Payment', 'Development']","['Integration', 'Syntax', 'Data Formats', 'Efficiency']",delving-bitcoin-630-21-2393
 "['Incentives', 'Consensus', 'Fees', 'Mining', 'Pools', 'Mempool', 'Security']",[],delving-bitcoin-842-6-2397
+"['Utxo', 'Fees']","['Heuristic', 'Experimentation', 'Coin Selection', 'Simulation', 'Transaction Fees', 'Optimization', 'Cost-Effectiveness', 'Analysis']",delving-bitcoin-600-12-2403
+"['Scalability', 'Taproot', 'Privacy', 'UTXO', 'Lightning', 'Zero-Knowledge', 'Merkle Trees']","['Joinmarket', 'Sigma Protocol', 'ZKPs', 'Proof-of-Pubkey', 'Batch Verification', 'Elliptic Curve Discrete Logarithm', 'Curve Trees', 'Cryptographic Assumptions']",delving-bitcoin-862-1-2401
+"['Mempool', 'Smart Contracts', 'Assumeutxo', 'UTXO', 'Lightning', 'Bitcoin Core', 'P2P', 'Fees']",['Liquidity'],delving-bitcoin-600-11-2400
+['Mempool'],"['Sorting', 'Algorithm', 'Optimization', 'Linearization', 'Data Structures', 'Iteration', 'Composition']",delving-bitcoin-202-20-2399
