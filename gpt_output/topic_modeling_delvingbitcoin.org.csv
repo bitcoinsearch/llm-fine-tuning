@@ -1292,3 +1292,5 @@ primary_topics,secondary_topics,source_id
 "['Scalability', 'Taproot', 'Privacy', 'UTXO', 'Lightning', 'Zero-Knowledge', 'Merkle Trees']","['Joinmarket', 'Sigma Protocol', 'ZKPs', 'Proof-of-Pubkey', 'Batch Verification', 'Elliptic Curve Discrete Logarithm', 'Curve Trees', 'Cryptographic Assumptions']",delving-bitcoin-862-1-2401
 "['Mempool', 'Smart Contracts', 'Assumeutxo', 'UTXO', 'Lightning', 'Bitcoin Core', 'P2P', 'Fees']",['Liquidity'],delving-bitcoin-600-11-2400
 ['Mempool'],"['Sorting', 'Algorithm', 'Optimization', 'Linearization', 'Data Structures', 'Iteration', 'Composition']",delving-bitcoin-202-20-2399
+"['Testing', 'Script']","['Readability', 'Collaborative Approach', 'Syntax', 'Feedback', 'GitHub']",delving-bitcoin-456-2-2406
+"['Research', 'Bitcoin Core', 'Assumeutxo', 'Fuzzing', 'Script']","['Model Values', 'Dynamic Analysis', 'Plugins', 'Bug Fixes', 'Opcodes', 'Assertions', 'Malleability Analysis', 'Signature Verification']",combined_B-SST-Bitcoin-like-Script-Symbolic-Tracer-v0-1-2-released
