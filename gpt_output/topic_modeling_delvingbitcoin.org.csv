@@ -1294,3 +1294,5 @@ primary_topics,secondary_topics,source_id
 ['Mempool'],"['Sorting', 'Algorithm', 'Optimization', 'Linearization', 'Data Structures', 'Iteration', 'Composition']",delving-bitcoin-202-20-2399
 "['Testing', 'Script']","['Readability', 'Collaborative Approach', 'Syntax', 'Feedback', 'GitHub']",delving-bitcoin-456-2-2406
 "['Research', 'Bitcoin Core', 'Assumeutxo', 'Fuzzing', 'Script']","['Model Values', 'Dynamic Analysis', 'Plugins', 'Bug Fixes', 'Opcodes', 'Assertions', 'Malleability Analysis', 'Signature Verification']",combined_B-SST-Bitcoin-like-Script-Symbolic-Tracer-v0-1-2-released
+"['Security', 'Covenants', 'UTXO']","['Decentralized Systems', 'Ownership', 'Fidelity Bonds', 'Sybil Attacks']",delving-bitcoin-862-2-2407
+"['Lightning', 'Security', 'Zero-Knowledge', 'Privacy', 'Scalability', 'UTXO']","['Curve Trees', 'Efficiency', 'Batch Verification', 'Bulletproofs', 'Proof-of-Concept']",combined_Anonymous-usage-tokens-from-curve-trees-or-autct
