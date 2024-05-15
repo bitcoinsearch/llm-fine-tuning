@@ -268,3 +268,7 @@ primary_topics,secondary_topics,source_id
 "['Multisig', 'Privacy', 'Wallet', 'Research', 'Smart Contracts']",['Bitcoin Improvement Proposal'],mailing-list-2024-05-m12007457b1f9b8f6a1f2cab205436d46bf9f4435
 "['Schnorr', 'Consensus', 'ECDSA', 'Proof-of-Work', 'Cryptography']","['Quantum Computing', 'BIP118']",mailing-list-2024-05-mc8b9cad16dcbc749425480b99b5a1c5605bf2831
 "['Research', 'Security']","['BIP39', 'Community Collaboration', 'Inheritance Planning', 'Seed Phrase', 'Prototype Testing', 'Open-Source']",mailing-list-2024-05-m39797755e5cf2a66c680b0dfdc09c6b92a2057e4
+[],"['Cryptographic Tools', ""Shamir's Algorithm"", 'Analog Computations', 'BIP39', 'Seed Phrase']",mailing-list-2024-05-mde60c0db3fb8a1396d8db14e0a91462587f54a13
+['Cryptography'],"['Checksum', 'Secret Sharing']",mailing-list-2024-05-m55bb655ed2ed77e8c86e49476b3fa1f1a5636f13
+"['Cryptography', 'Research']",[],mailing-list-2024-05-m2021d225090bbed4f8aece8a3d9de8cb63f4d095
+[],"['Blockchain Security', 'Seed Phrases', 'Checksum', 'Cryptographic Methods', 'BIP39', 'Arithmetic Operations']",combined_Penlock-a-paper-computer-for-secret-splitting-BIP39-seed-phrases

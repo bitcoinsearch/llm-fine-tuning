@@ -1296,3 +1296,5 @@ primary_topics,secondary_topics,source_id
 "['Research', 'Bitcoin Core', 'Assumeutxo', 'Fuzzing', 'Script']","['Model Values', 'Dynamic Analysis', 'Plugins', 'Bug Fixes', 'Opcodes', 'Assertions', 'Malleability Analysis', 'Signature Verification']",combined_B-SST-Bitcoin-like-Script-Symbolic-Tracer-v0-1-2-released
 "['Security', 'Covenants', 'UTXO']","['Decentralized Systems', 'Ownership', 'Fidelity Bonds', 'Sybil Attacks']",delving-bitcoin-862-2-2407
 "['Lightning', 'Security', 'Zero-Knowledge', 'Privacy', 'Scalability', 'UTXO']","['Curve Trees', 'Efficiency', 'Batch Verification', 'Bulletproofs', 'Proof-of-Concept']",combined_Anonymous-usage-tokens-from-curve-trees-or-autct
+"['Timelocks', 'Transactions', 'Blockchain', 'UTXO']",[],delving-bitcoin-862-4-2414
+"['UTXO', 'Privacy']","['Token Multi-Issuance', 'Zero-Knowledge Proofs', 'Sybil Attacks', 'Decentralized Coinjoin Protocols']",delving-bitcoin-862-3-2413
