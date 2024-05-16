@@ -1298,3 +1298,10 @@ primary_topics,secondary_topics,source_id
 "['Lightning', 'Security', 'Zero-Knowledge', 'Privacy', 'Scalability', 'UTXO']","['Curve Trees', 'Efficiency', 'Batch Verification', 'Bulletproofs', 'Proof-of-Concept']",combined_Anonymous-usage-tokens-from-curve-trees-or-autct
 "['Timelocks', 'Transactions', 'Blockchain', 'UTXO']",[],delving-bitcoin-862-4-2414
 "['UTXO', 'Privacy']","['Token Multi-Issuance', 'Zero-Knowledge Proofs', 'Sybil Attacks', 'Decentralized Coinjoin Protocols']",delving-bitcoin-862-3-2413
+"['Research', 'Validation']",['Empirical Analysis'],delving-bitcoin-348-6-2416
+"['Regulation', 'Stratum-V2', 'Privacy', 'Custody', 'Mining']",['Lightning Network'],delving-bitcoin-870-4-2422
+"['Blockchain', 'Atomic Swaps', 'Stratum-V2']","['Peer-to-Peer Transactions', 'Asset Management', 'Decentralized Finance']",delving-bitcoin-870-2-2420
+"['Security', 'Stratum-V2', 'Transactions']","['Redemption', 'Blinded Signature']",delving-bitcoin-870-3-2421
+"['Zero-Knowledge', 'Taproot', 'UTXO']","['Ring Signatures', 'Lightning Network']",delving-bitcoin-862-5-2415
+"['ASIC', 'Stratum-V2', 'Privacy', 'Mining']",['Proof-of-Liabilities'],delving-bitcoin-870-1-2418
+"['Security', 'Consensus', 'Cryptography', 'Stratum-V2', 'Proof-of-Work', 'Atomic Swaps', 'Privacy', 'Forks', 'Validation', 'Smart Contracts', 'Mining']",[],combined_Ecash-TIDES-using-Cashu-and-Stratum-v2
