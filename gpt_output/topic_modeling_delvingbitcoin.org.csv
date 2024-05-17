@@ -1305,3 +1305,11 @@ primary_topics,secondary_topics,source_id
 "['Zero-Knowledge', 'Taproot', 'UTXO']","['Ring Signatures', 'Lightning Network']",delving-bitcoin-862-5-2415
 "['ASIC', 'Stratum-V2', 'Privacy', 'Mining']",['Proof-of-Liabilities'],delving-bitcoin-870-1-2418
 "['Security', 'Consensus', 'Cryptography', 'Stratum-V2', 'Proof-of-Work', 'Atomic Swaps', 'Privacy', 'Forks', 'Validation', 'Smart Contracts', 'Mining']",[],combined_Ecash-TIDES-using-Cashu-and-Stratum-v2
+['Lightning'],"['Chaumian eCash System', 'Financial Instruments', 'Synthetic Dollar Balances', 'Liquidity Enhancement', 'Price Volatility', 'Derivatives Trading', 'Bitcoin', 'USD', 'Continuous Settlements', 'Fedimints', 'Stable Channels', 'Decentralized Financial Stability']",delving-bitcoin-875-1-2430
+"['Mining', 'Regulation', 'Custody']","['Mining Pools', 'Liquidity', 'KYC']",delving-bitcoin-870-6-2424
+"['Coinbase-Transaction', 'Pools', 'Protocol', 'Payment', 'Stratum-V2', 'Regulation', 'Legal']",['Policy'],delving-bitcoin-870-7-2426
+"['Lightning', 'Scalability', 'Regulation', 'Privacy', 'Custody']",[],delving-bitcoin-875-2-2432
+"['Stratum-V2', 'Proof-of-Work']","['Mint', 'Satoshi']",delving-bitcoin-870-8-2427
+"['Mining', 'Security', 'Stratum-V2', 'Regulation', 'Privacy', 'Custody']","['Mining Pools', 'Cashu', 'AML', 'KYC']",delving-bitcoin-870-5-2423
+"['Mining', 'Consensus', 'ASIC', 'Proof-of-Work']",['Lightning Network'],delving-bitcoin-870-9-2431
+"['Lightning', 'Decentralization']","['Regulatory Actions', 'Synthetic Dollars', 'BTCUSD Prices', 'Liquidity', 'Community Engagement', 'Settlement', 'Risk Management', 'Bitcoin Adoption', 'Counterparty Risk', 'eCash Systems', 'Stable Channels', 'Derivative Positions']",combined_Stable-Channels-peer-to-peer-dollar-balances-on-Lightning

@@ -273,3 +273,7 @@ primary_topics,secondary_topics,source_id
 "['Cryptography', 'Research']",[],mailing-list-2024-05-m2021d225090bbed4f8aece8a3d9de8cb63f4d095
 [],"['Blockchain Security', 'Seed Phrases', 'Checksum', 'Cryptographic Methods', 'BIP39', 'Arithmetic Operations']",combined_Penlock-a-paper-computer-for-secret-splitting-BIP39-seed-phrases
 "['Miniscript', 'Segregated Witness', 'Taproot', 'BIP']",[],mailing-list-2024-05-mba6f68ecb46020b6c83700d5dc1f7c4b885c6afc
+"['Segregated Witness', 'Hashlocks', 'Consensus', 'Timelocks', 'Taproot', 'Bitcoin Core', 'BIP', 'Miniscript', 'Security', 'Script']","['Output Script Descriptors', 'Digital Signatures', 'Bitcoin Improvement Proposal', 'Implementation', 'Compatibility']",mailing-list-2024-05-m5859f08785e8d65d9f5d5e81f537eedc991ff737
+"['Cryptography', 'Verification']","['Data Encoding', 'Recovery', 'Security Schemes', 'Information Density', 'Collaborative Research', 'Efficiency', 'BIP39', 'Compact Data Format', 'Optimizations', 'Galois Field']",mailing-list-2024-05-md9b16a77da8b3b1e8c2b314ea3bbe35beaaa4263
+[],"['Lagrange Polynomials', 'BIP39', 'Recovery Windows', 'Data Compression', 'User Experience', 'Checksum']",mailing-list-2024-05-m01fc67fcec71929bd7de1413838e6b6b5d479db8
+"['Consensus', 'Seed', 'Scalability', 'Security', 'Research', 'Privacy']",['Recovery'],mailing-list-2024-05-m3a994d2d47e1f185db9521b26cf86324736581cf
