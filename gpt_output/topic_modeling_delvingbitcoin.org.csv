@@ -1313,3 +1313,17 @@ primary_topics,secondary_topics,source_id
 "['Mining', 'Security', 'Stratum-V2', 'Regulation', 'Privacy', 'Custody']","['Mining Pools', 'Cashu', 'AML', 'KYC']",delving-bitcoin-870-5-2423
 "['Mining', 'Consensus', 'ASIC', 'Proof-of-Work']",['Lightning Network'],delving-bitcoin-870-9-2431
 "['Lightning', 'Decentralization']","['Regulatory Actions', 'Synthetic Dollars', 'BTCUSD Prices', 'Liquidity', 'Community Engagement', 'Settlement', 'Risk Management', 'Bitcoin Adoption', 'Counterparty Risk', 'eCash Systems', 'Stable Channels', 'Derivative Positions']",combined_Stable-Channels-peer-to-peer-dollar-balances-on-Lightning
+"['Silent Payments', 'PSBT']",['Bitcoin Improvement Proposals'],delving-bitcoin-162-6-2438
+"['Mining', 'Stratum-V2', 'Consensus', 'Pools', 'Proof-of-Work', 'Fairness']",[],delving-bitcoin-870-11-2434
+"['Lightning', 'Privacy', 'Custody', 'Stratum-V2']",[],delving-bitcoin-870-10-2433
+['Silent Payments'],[],delving-bitcoin-162-7-2440
+"['Fees', 'Mining', 'Stratum-V2', 'Pools']","['Payouts', 'Transparency']",delving-bitcoin-870-14-2447
+"['PSBT', 'Hardware Wallet', 'BIP', 'Lightning', 'Wallet']",[],delving-bitcoin-876-1-2439
+['API'],"['URI', 'TXT record', 'BIP21']",delving-bitcoin-542-6-2448
+"['Mining', 'Difficulty', 'Blockchain', 'Timestamping', 'Consensus']",[],delving-bitcoin-710-17-2436
+"['Taproot', 'Lightning']","['Commitment', 'Anchor', 'Splice to Upgrade', 'PTLC', 'Dynamic Commitments']",delving-bitcoin-881-1-2446
+"['Regulation', 'Fees', 'Mining', 'Stratum-V2', 'Consensus', 'Custody']","['Mining Pools', 'Governmental Oversight', 'KYC/AML Regulations']",delving-bitcoin-870-12-2435
+"['Forks', 'Blockchain', 'Consensus', 'Validation', 'Soft Fork']","['Block Height', 'nLockTime', 'Historical Validation Checks', 'BIP30']",delving-bitcoin-710-18-2444
+['Stratum-V2'],"['Valuation', 'Blind Signatures', 'Design', 'Efficiency']",delving-bitcoin-870-13-2437
+"['PSBT', 'Cryptography', 'BIP', 'Privacy', 'Security']",[],delving-bitcoin-877-1-2441
+"['Mempool', 'Silent Payments', 'PSBT', 'Bitcoin Core']",[],combined_Project-categories-
