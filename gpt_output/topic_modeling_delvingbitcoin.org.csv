@@ -1327,3 +1327,8 @@ primary_topics,secondary_topics,source_id
 ['Stratum-V2'],"['Valuation', 'Blind Signatures', 'Design', 'Efficiency']",delving-bitcoin-870-13-2437
 "['PSBT', 'Cryptography', 'BIP', 'Privacy', 'Security']",[],delving-bitcoin-877-1-2441
 "['Mempool', 'Silent Payments', 'PSBT', 'Bitcoin Core']",[],combined_Project-categories-
+"['Stratum-V2', 'Cryptography', 'Research']",[],delving-bitcoin-870-17-2456
+"['Lightning', 'Custody']",[],delving-bitcoin-875-3-2453
+"['Mining', 'Consensus', 'Stratum-V2']",[],delving-bitcoin-870-15-2454
+"['Verification', 'Trust', 'Stratum-V2']","['Transparency', 'Mining Pools', 'Accountability', 'Cryptographic Attestation']",delving-bitcoin-870-16-2455
+"['Forks', 'transactions', 'security', 'wallet', 'Bitcoin Core', 'relay', 'block', 'bitcoin-core-development', 'bitcoin-cli', 'Consensus', 'Segregated Witness', 'script', 'blockchain-fork']",[],delving-bitcoin-883-1-2450
