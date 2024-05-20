@@ -1332,3 +1332,7 @@ primary_topics,secondary_topics,source_id
 "['Mining', 'Consensus', 'Stratum-V2']",[],delving-bitcoin-870-15-2454
 "['Verification', 'Trust', 'Stratum-V2']","['Transparency', 'Mining Pools', 'Accountability', 'Cryptographic Attestation']",delving-bitcoin-870-16-2455
 "['Forks', 'transactions', 'security', 'wallet', 'Bitcoin Core', 'relay', 'block', 'bitcoin-core-development', 'bitcoin-cli', 'Consensus', 'Segregated Witness', 'script', 'blockchain-fork']",[],delving-bitcoin-883-1-2450
+"['Stratum-V2', 'Hash']","['Ecash', 'Tracking', 'Reuse', 'Innovative Solutions', 'Redemption', 'Digital Currency']",delving-bitcoin-870-18-2457
+"['Silent Payments', 'Script', 'Taproot', 'PSBT', 'Cryptography', 'Segwit', 'Secp256k1']",[],delving-bitcoin-877-2-2458
+"['Consensus', 'Lightning', 'Forks', 'Cryptography', 'Stratum-V2']",['Ecash'],delving-bitcoin-870-19-2460
+"['Privacy', 'Security', 'Silent Payments', 'PSBT', 'Cryptography']",['Bitcoin Improvement Proposal'],combined_BIP352-PSBT-support
