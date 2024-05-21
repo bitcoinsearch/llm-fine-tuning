@@ -1336,3 +1336,6 @@ primary_topics,secondary_topics,source_id
 "['Silent Payments', 'Script', 'Taproot', 'PSBT', 'Cryptography', 'Segwit', 'Secp256k1']",[],delving-bitcoin-877-2-2458
 "['Consensus', 'Lightning', 'Forks', 'Cryptography', 'Stratum-V2']",['Ecash'],delving-bitcoin-870-19-2460
 "['Privacy', 'Security', 'Silent Payments', 'PSBT', 'Cryptography']",['Bitcoin Improvement Proposal'],combined_BIP352-PSBT-support
+"['PSBT', 'Segwit', 'Silent Payments']",[],delving-bitcoin-877-3-2462
+"['PSBT', 'Segwit', 'Taproot', 'Silent Payments']",[],delving-bitcoin-877-4-2478
+"['Forks', 'Mining', 'Stratum-V2', 'Consensus']",['Mining Pools'],delving-bitcoin-870-20-2479
