@@ -1339,3 +1339,9 @@ primary_topics,secondary_topics,source_id
 "['PSBT', 'Segwit', 'Silent Payments']",[],delving-bitcoin-877-3-2462
 "['PSBT', 'Segwit', 'Taproot', 'Silent Payments']",[],delving-bitcoin-877-4-2478
 "['Forks', 'Mining', 'Stratum-V2', 'Consensus']",['Mining Pools'],delving-bitcoin-870-20-2479
+"['Cryptography', 'Segwit', 'Script', 'Taproot']",['Lightning Network'],delving-bitcoin-890-2-2485
+"['BIP', 'Lightning', 'Pruning', 'Silent Payments', 'UTXO', 'Taproot']","['Bandwidth', 'Light Client Protocol']",delving-bitcoin-891-1-2482
+"['Segregated Witness', 'Consensus', 'Fees', 'Security', 'Cryptography', 'Lightning', 'Script', 'Taproot']",[],delving-bitcoin-890-3-2486
+"['Soft Fork', 'Consensus']",['Op-codes'],delving-bitcoin-890-1-2480
+['Lightning'],[],delving-bitcoin-881-2-2481
+"['Forks', 'Consensus', 'Mining', 'Hashlocks', 'Stratum-V2', 'Validation']",[],delving-bitcoin-870-21-2484
