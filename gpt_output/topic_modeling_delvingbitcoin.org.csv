@@ -1345,3 +1345,20 @@ primary_topics,secondary_topics,source_id
 "['Soft Fork', 'Consensus']",['Op-codes'],delving-bitcoin-890-1-2480
 ['Lightning'],[],delving-bitcoin-881-2-2481
 "['Forks', 'Consensus', 'Mining', 'Hashlocks', 'Stratum-V2', 'Validation']",[],delving-bitcoin-870-21-2484
+"['Lightning', 'Silent Payments', 'JSON-RPC', 'Script']","['Complexity', 'Indexing', 'User Experience', 'Blockchain Methodologies', 'Efficiency', 'Data Retrieval']",delving-bitcoin-891-7-2507
+"['Bitcoin Core', 'Lightning', 'Block', 'Taproot', 'Blockchain', 'Silent Payments', 'Script']","['Transaction IDs', 'Bitcoin Core Development']",delving-bitcoin-891-4-2500
+"['secp256k1', 'Cryptography']","['Pedersen Hash', 'Proof Size', 'Bulletproofs', 'Curve Trees']",delving-bitcoin-862-9-2508
+"['Cryptography', 'Privacy', 'Research', 'Silent Payments']",[],delving-bitcoin-862-7-2491
+"['Lightning', 'Silent Payments', 'UTXO']",['ScriptPubKey'],delving-bitcoin-891-2-2496
+['Fuzzing'],[],delving-bitcoin-901-2-2504
+"['Taproot', 'Lightning', 'Silent Payments', 'UTXO']",[],delving-bitcoin-891-5-2502
+"['UTXO', 'Taproot', 'Silent Payments']","['Filtering Method', 'Dust Limit', 'Transaction Output Selection', 'BIP158', 'Bandwidth Consumption']",delving-bitcoin-891-3-2497
+"['Cryptography', 'Proof-of-Work', 'Consensus']",[],delving-bitcoin-862-8-2498
+"['Taproot', 'Silent Payments']",['ScriptPubKey'],delving-bitcoin-891-6-2505
+"['Merkle Trees', 'Cryptography']","['Bulletproofs', 'Curve Trees', 'Discrete Logarithm Problem']",delving-bitcoin-862-6-2490
+"['Merkle Trees', 'PSBT', 'Taproot']","['Inference Logic', 'Descriptor']",delving-bitcoin-901-1-2503
+"['UTXO', 'Client', 'Lightning', 'Silent Payments']","['Data Structures', 'Transaction Structure', 'JSON', 'BIP158', 'Backend Operations']",delving-bitcoin-891-8-2509
+"['Privacy', 'UTXO', 'Client', 'Lightning', 'Taproot', 'Silent Payments']","['Wallet Integration', 'Bandwidth']",combined_Silent-Payments-Light-Client-Protocol
+"['Bitcoin Core', 'Lightning', 'Taproot', 'Segwit']","['Commitment', 'Splice to Upgrade', 'Dynamic Commitments']",combined_Upgrading-Existing-Lightning-Channels
+"['Merkle Trees', 'PSBT', 'Taproot']","['Descriptors', 'P2TR', 'Bitcoin Scripting', 'Inference Mechanism', 'Proof-of-Concept']",combined_Tr-rawnode-and-rawleaf-support
+"['Bitcoin Core', 'Consensus', 'Cryptography', 'Layer 2', 'Soft Fork', 'Op-return', 'Forks', 'Segwit', 'Script']","['Lightning Network', 'Satoshi Nakamoto']",combined_Mutual-exclusiveness-of-op-codes
