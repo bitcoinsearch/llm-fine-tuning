@@ -1362,3 +1362,11 @@ primary_topics,secondary_topics,source_id
 "['Bitcoin Core', 'Lightning', 'Taproot', 'Segwit']","['Commitment', 'Splice to Upgrade', 'Dynamic Commitments']",combined_Upgrading-Existing-Lightning-Channels
 "['Merkle Trees', 'PSBT', 'Taproot']","['Descriptors', 'P2TR', 'Bitcoin Scripting', 'Inference Mechanism', 'Proof-of-Concept']",combined_Tr-rawnode-and-rawleaf-support
 "['Bitcoin Core', 'Consensus', 'Cryptography', 'Layer 2', 'Soft Fork', 'Op-return', 'Forks', 'Segwit', 'Script']","['Lightning Network', 'Satoshi Nakamoto']",combined_Mutual-exclusiveness-of-op-codes
+"['Silent Payments', 'Client', 'Utxo']","['Benchmarking', 'Performance', 'Bandwidth', 'BIP158', 'Efficiency', 'JSON']",delving-bitcoin-891-9-2521
+"['Security', 'Privacy']",['Payouts'],delving-bitcoin-870-22-2514
+"['P2P', 'Relay', 'Mempool', 'P2p', 'Mining', 'Consensus', 'Package Relay', 'Forks', 'Miners', 'Validation', 'Peers', 'Fees']",[],delving-bitcoin-190-16-2528
+"['Mempool', 'Mining', 'Consensus', 'Package Relay', 'Research', 'Fees']",[],delving-bitcoin-190-14-2525
+['Stratum-V2'],[],delving-bitcoin-870-23-2527
+"['Security', 'Consensus', 'Lightning']",[],delving-bitcoin-881-3-2513
+"['Update Layer', 'Lightning']",[],delving-bitcoin-881-4-2515
+"['Mempool', 'Mining', 'Consensus', 'Validation', 'Fees']",[],combined_Post-clustermempool-package-RBF-per-chunk-processing
