@@ -1370,3 +1370,8 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Consensus', 'Lightning']",[],delving-bitcoin-881-3-2513
 "['Update Layer', 'Lightning']",[],delving-bitcoin-881-4-2515
 "['Mempool', 'Mining', 'Consensus', 'Validation', 'Fees']",[],combined_Post-clustermempool-package-RBF-per-chunk-processing
+"['Lightning', 'Taproot', 'Segregated Witness']",['Channel Types'],delving-bitcoin-881-5-2529
+"['Taproot', 'Fees', 'Splicing', 'Lightning']","['Upgrades', 'Dynamic Commitments']",delving-bitcoin-881-6-2532
+"['Stratum-V2', 'Fraud']","['Double Spend', 'Offline Transactions', 'Electronic Cash', 'Hashes']",delving-bitcoin-870-24-2530
+"['Transactions', 'Topology', 'Fees', 'Consensus', 'Package Relay', 'Mempool']","['Linearization', 'Cluster']",delving-bitcoin-190-17-2534
+"['Eclair', 'Lightning', 'C-Lightning']",[],delving-bitcoin-881-7-2535
