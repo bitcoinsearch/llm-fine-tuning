@@ -1375,3 +1375,7 @@ primary_topics,secondary_topics,source_id
 "['Stratum-V2', 'Fraud']","['Double Spend', 'Offline Transactions', 'Electronic Cash', 'Hashes']",delving-bitcoin-870-24-2530
 "['Transactions', 'Topology', 'Fees', 'Consensus', 'Package Relay', 'Mempool']","['Linearization', 'Cluster']",delving-bitcoin-190-17-2534
 "['Eclair', 'Lightning', 'C-Lightning']",[],delving-bitcoin-881-7-2535
+"['BIP', 'Cryptography', 'Research']",[],delving-bitcoin-877-5-2539
+"['Taproot', 'LND', 'Lightning']","['PTLC', 'P2WSH', 'HTLC']",delving-bitcoin-881-8-2540
+"['UX', 'Privacy', 'Mining', 'Security', 'Consensus', 'Multisig', 'Custody']","['PayJoin', 'CoinJoin']",delving-bitcoin-916-1-2536
+"['Privacy', 'Security', 'Cryptography', 'Silent Payments']","['Proof-of-Spend', 'Cryptonote']",delving-bitcoin-862-10-2537
