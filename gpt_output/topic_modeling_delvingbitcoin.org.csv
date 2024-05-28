@@ -1379,3 +1379,12 @@ primary_topics,secondary_topics,source_id
 "['Taproot', 'LND', 'Lightning']","['PTLC', 'P2WSH', 'HTLC']",delving-bitcoin-881-8-2540
 "['UX', 'Privacy', 'Mining', 'Security', 'Consensus', 'Multisig', 'Custody']","['PayJoin', 'CoinJoin']",delving-bitcoin-916-1-2536
 "['Privacy', 'Security', 'Cryptography', 'Silent Payments']","['Proof-of-Spend', 'Cryptonote']",delving-bitcoin-862-10-2537
+"['Lightning', 'Protocol', 'Splicing']","['Upgrade', 'Dynamic Commitments']",delving-bitcoin-881-9-2544
+"['Privacy', 'Security']","['Centralized Systems', 'Dark Net Markets', 'Anonymity']",delving-bitcoin-916-2-2542
+"['Privacy', 'Custody']",['Darknet Markets'],delving-bitcoin-916-3-2543
+"['Package Relay', 'Lightning', 'Script', 'Fees']",['Upgrade Layer'],delving-bitcoin-881-10-2549
+"['Privacy', 'Bitcoin Core', 'Lightning', 'Research', 'Fees', 'Scalability', 'Smart Contracts']",[],delving-bitcoin-875-4-2547
+"['Security', 'Privacy']",[],delving-bitcoin-162-8-2545
+"['Privacy', 'Consensus', 'Cryptography', 'Security', 'PSBT']",[],delving-bitcoin-877-6-2548
+"['Silent Payments', 'Privacy']",[],delving-bitcoin-162-9-2546
+"['Privacy', 'Security']","['Cryptocurrencies', 'CoinJoin', 'Dark Net Markets', 'Digital Currency', 'Bitcoin', 'Open Source']",combined_DNM-eCash-and-privacy
