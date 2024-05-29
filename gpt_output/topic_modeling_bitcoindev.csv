@@ -284,3 +284,5 @@ primary_topics,secondary_topics,source_id
 [],"['Secret Sharing', 'Design', 'Implementation', 'Composite Scheme', 'BIP39']",mailing-list-2024-05-m5fdad6e81714a872579a4193f6c744d7514740c1
 "['Proof-of-Stake', 'Mining', 'Privacy', 'Fees', 'Timestamping', 'Hashlocks', 'Miners', 'Layer 2', 'Validation', 'Security', 'P2P', 'Fuzzing', 'Consensus', 'Attacks', 'Mempool', 'Timelocks', 'Zero-Knowledge', 'Covenants', 'Lightning', 'Segregated Witness', 'Scalability', 'Testing', 'Routing', 'Silent Payments', 'Proof-of-Work', 'Research', 'Multisig', 'UTXO', 'Threshold Signatures', 'Cryptography', 'Smart Contracts']",[],combined_Analysis-of-Replacement-Cycling-Attacks-Risks-on-L2s-beyond-LN-
 "['UTXO', 'Timelocks', 'Consensus', 'Lightning', 'Mempool']",[],mailing-list-2024-05-m7251d7d3e25d22933e3ab36f67b9c6cf070a77ca
+"['Taproot', 'Soft Fork', 'Consensus', 'Mining', 'BIP', 'Testnet']","['Bitcoin Improvement Proposal', 'CPU mining', 'Network security']",mailing-list-2024-05-mfabf2fd483818f3a2c61fb4801e72c06bbe66125
+"['Cryptography', 'Security']","['BIP-85', 'BIP-32']",mailing-list-2024-05-m5cf9b9687533e6cb9ccf3d609979f96a63a656d8
