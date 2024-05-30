@@ -1395,3 +1395,5 @@ primary_topics,secondary_topics,source_id
 "['Validation', 'Security', 'Threshold Signatures', 'Multisig', 'Hardware Wallet', 'Wallet', 'Cryptography']",[],delving-bitcoin-901-6-2559
 "['Musig', 'BIP', 'PSBT']",[],delving-bitcoin-877-7-2553
 "['Silent Payments', 'Privacy', 'Consensus']",[],delving-bitcoin-162-10-2551
+"['Forks', 'Validation']",[],delving-bitcoin-901-7-2561
+"['Trust', 'Silent Payments', 'Security', 'PSBT', 'Musig']","['Proofs', 'Signers', 'ECDH']",delving-bitcoin-877-8-2562
