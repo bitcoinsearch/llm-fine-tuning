@@ -286,3 +286,9 @@ primary_topics,secondary_topics,source_id
 "['UTXO', 'Timelocks', 'Consensus', 'Lightning', 'Mempool']",[],mailing-list-2024-05-m7251d7d3e25d22933e3ab36f67b9c6cf070a77ca
 "['Taproot', 'Soft Fork', 'Consensus', 'Mining', 'BIP', 'Testnet']","['Bitcoin Improvement Proposal', 'CPU mining', 'Network security']",mailing-list-2024-05-mfabf2fd483818f3a2c61fb4801e72c06bbe66125
 "['Cryptography', 'Security']","['BIP-85', 'BIP-32']",mailing-list-2024-05-m5cf9b9687533e6cb9ccf3d609979f96a63a656d8
+"['Mining', 'BIP', 'Consensus']",[],mailing-list-2024-05-m83ec955100f891f6508e77324b01166787af9fb3
+"['Bitcoin Core', 'Testnet', 'Fuzzing']",['Bitcoin Improvement Proposal (BIP)'],mailing-list-2024-05-m829e4660964c17f1d0c9e2554dfd1066c3fe5083
+"['Storage', 'Consensus', 'Forks']",[],mailing-list-2024-05-m8b981a0d05aabc1248f5ba2bae142cc46c1811e4
+"['BIP', 'Taproot', 'Lightning', 'Segwit', 'Silent Payments']",[],mailing-list-2024-05-mbf2be36cc056f66fddd8e59f0794a9680716982f
+"['Consensus', 'Soft Fork', 'Testnet', 'Taproot', 'Mining']","['CPU Mining', 'Genesis Block', 'Network Security']",combined_BIP-for-Testnet-4
+"['Consensus', 'Validation', 'Fees', 'Blockchain', 'Bitcoin Core', 'Mining', 'Testing', 'Scalability']",[],combined_How-was-the-average-size-of-blk-data-chosen-

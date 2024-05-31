@@ -1397,3 +1397,8 @@ primary_topics,secondary_topics,source_id
 "['Silent Payments', 'Privacy', 'Consensus']",[],delving-bitcoin-162-10-2551
 "['Forks', 'Validation']",[],delving-bitcoin-901-7-2561
 "['Trust', 'Silent Payments', 'Security', 'PSBT', 'Musig']","['Proofs', 'Signers', 'ECDH']",delving-bitcoin-877-8-2562
+"['Lightning', 'Custody']","['Collaborative Approach', 'Exchange Rate', 'Settlements']",delving-bitcoin-875-5-2576
+"['Privacy', 'Custody']",[],delving-bitcoin-916-5-2571
+['Mempool'],[],delving-bitcoin-209-46-2572
+['Cryptography'],[],delving-bitcoin-862-11-2568
+"['Consensus', 'Lightning', 'Custody']","['Oracles', 'Fiat channels', 'Financial stability mechanisms', 'Transaction channels', 'Digital currencies']",delving-bitcoin-875-6-2577
