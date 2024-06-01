@@ -1402,3 +1402,16 @@ primary_topics,secondary_topics,source_id
 ['Mempool'],[],delving-bitcoin-209-46-2572
 ['Cryptography'],[],delving-bitcoin-862-11-2568
 "['Consensus', 'Lightning', 'Custody']","['Oracles', 'Fiat channels', 'Financial stability mechanisms', 'Transaction channels', 'Digital currencies']",delving-bitcoin-875-6-2577
+"['Bitcoin Core', 'Testing']","['GitHub', 'Version Release', 'Issue Reporting', 'Source Code', 'Release Notes', 'Feedback']",delving-bitcoin-930-1-2582
+"['Zero-Knowledge', 'Consensus', 'Bitcoin Core', 'Cryptography', 'Covenants', 'Segregated Witness', 'Security', 'Research', 'Forks', 'Privacy', 'Smart Contracts']",['Functional Encryption'],delving-bitcoin-929-1-2580
+"['Covenants', 'Blockchain', 'Trust']",[],delving-bitcoin-929-8-2590
+"['Covenants', 'Security']","['Functional Encryption', 'Public Key', 'Signature Process']",delving-bitcoin-929-4-2586
+"['Covenants', 'Encryption']",[],delving-bitcoin-929-2-2583
+"['Stratum-V2', 'Lightning', 'Pools', 'Privacy', 'Transactions']",['Ecash'],delving-bitcoin-870-25-2591
+[],[],delving-bitcoin-929-5-2587
+"['Privacy', 'Custody']",['Darknet Markets'],delving-bitcoin-916-6-2579
+"['Cryptography', 'Encryption', 'ECDSA', 'Signature']",['Decryption'],delving-bitcoin-929-3-2584
+['Covenants'],[],delving-bitcoin-929-6-2588
+"['Validation', 'Research']",[],delving-bitcoin-901-8-2581
+['Covenants'],[],delving-bitcoin-929-7-2589
+"['Covenants', 'Soft Fork']","['Zero-Knowledge Proofs', 'Functional Encryption', 'Cryptographic Processes']",combined_FE-d-Up-Covenants
