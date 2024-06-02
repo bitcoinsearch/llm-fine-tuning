@@ -292,3 +292,6 @@ primary_topics,secondary_topics,source_id
 "['BIP', 'Taproot', 'Lightning', 'Segwit', 'Silent Payments']",[],mailing-list-2024-05-mbf2be36cc056f66fddd8e59f0794a9680716982f
 "['Consensus', 'Soft Fork', 'Testnet', 'Taproot', 'Mining']","['CPU Mining', 'Genesis Block', 'Network Security']",combined_BIP-for-Testnet-4
 "['Consensus', 'Validation', 'Fees', 'Blockchain', 'Bitcoin Core', 'Mining', 'Testing', 'Scalability']",[],combined_How-was-the-average-size-of-blk-data-chosen-
+"['SHA256', 'privacy', 'protocol', 'BIP', 'security']","['opcodes', 'CHECKSIGVERIFY', 'transaction', 'Bitcoin Improvement Proposal', 'identity verifier', 'hashing', 'data signature verification', 'public key']",mailing-list-2024-06-m2d896cf59e42c1aad10828448452810d66bb6e91
+"['Consensus', 'Cryptography', 'Privacy', 'Security']",[],mailing-list-2024-06-m21e4c33533f9cfef12bee8644c3252efff3023a1
+[],"['Key Management Practices', 'Public Keys Verification', 'Withdrawals', 'Certification Signatures', 'Off-chain Interactions', 'Bitcoin Improvement Proposal', 'Time-locking Transactions', 'Test Networks', 'Transaction Signatures', 'Data Signatures', 'Key Management', 'CHECKDATASIG Opcode', 'Identity Verification', 'Blockchain Public Keys', 'CHECKSIGFROMSTACK Opcode', 'Blockchain Transactions', 'Authentication', 'Public Keys']",combined_AOPP-2-0-using-OP-CAT-and-OP-CSFS
