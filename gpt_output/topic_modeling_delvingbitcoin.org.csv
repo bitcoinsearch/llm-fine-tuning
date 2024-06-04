@@ -1428,3 +1428,16 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Cryptography', 'Bitcoin Core', 'Forks', 'Soft Fork', 'Script', 'Security']",[],delving-bitcoin-397-50-2606
 "['UTXO', 'Lightning', 'Submarine Swaps', 'Privacy']",[],delving-bitcoin-934-3-2605
 "['Regulation', 'Privacy', 'PSBT', 'Decentralization']","['CoinJoin', 'Lightning Network']",combined_Who-will-run-the-CoinJoin-coordinators-
+"['P2P', 'Research', 'Forks', 'Cryptography', 'Segwit', 'Lightning', 'Libsecp256k1']",[],delving-bitcoin-678-15-2616
+"['UTXO', 'Privacy', 'Security', 'TOR']","['Lightning Network', 'CoinJoin']",delving-bitcoin-934-4-2608
+['P2P'],"['DNS-seed', 'Communication Protocols', 'Collaboration', 'Light Clients', 'Library', 'Golang', 'Peer Discovery', 'Integration', 'Proxy']",delving-bitcoin-678-14-2607
+"['Market', 'Fees', 'Consensus', 'Scalability']",['Block Size Increase'],delving-bitcoin-941-6-2622
+"['Ux', 'Proof-of-Work', 'Fees', 'Mining', 'Fungibility', 'Cryptography', 'Privacy', 'Segwit', 'Bitcoin Core', 'Consensus', 'Incentives', 'Scalability', 'Assumeutxo']",[],delving-bitcoin-941-4-2619
+['Decentralization'],"['Transaction Fees', 'Miners Revenue', 'Bitcoin Network', 'IBD Time', 'Inclusivity', 'Block Size Increase', 'Lightning Network']",delving-bitcoin-941-2-2617
+"['Scalability', 'Lightning', 'Blocksize']",[],delving-bitcoin-941-5-2621
+"['Trading', 'Market', 'Mining', 'Fees', 'Stratum-V2', 'Lightning', 'Pools']",['Liquidity'],delving-bitcoin-870-27-2615
+['Soft Fork'],[],delving-bitcoin-397-51-2610
+"['Validation', 'ASIC', 'Wallet', 'Proof-of-Work', 'Mining', 'Mempool', 'Signet', 'Script', 'Python']",['Cryptographic'],delving-bitcoin-937-1-2609
+"['Fees', 'Blockchain', 'Bitcoin Core', 'Blocksize']",[],delving-bitcoin-941-3-2618
+"['Fees', 'Privacy', 'Bitcoin Core', 'Consensus', 'Scalability']",['Governance'],delving-bitcoin-941-1-2614
+"['Smart Contracts', 'Decentralization', 'Research', 'Blocksize', 'Fees', 'Mining', 'Cryptography', 'Privacy', 'Bitcoin Core', 'Lightning', 'Consensus', 'Scalability', 'Segregated Witness', 'Layer 2']",[],combined_Is-it-time-to-increase-the-blocksize-cap-
