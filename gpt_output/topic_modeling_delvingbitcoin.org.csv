@@ -1441,3 +1441,23 @@ primary_topics,secondary_topics,source_id
 "['Fees', 'Blockchain', 'Bitcoin Core', 'Blocksize']",[],delving-bitcoin-941-3-2618
 "['Fees', 'Privacy', 'Bitcoin Core', 'Consensus', 'Scalability']",['Governance'],delving-bitcoin-941-1-2614
 "['Smart Contracts', 'Decentralization', 'Research', 'Blocksize', 'Fees', 'Mining', 'Cryptography', 'Privacy', 'Bitcoin Core', 'Lightning', 'Consensus', 'Scalability', 'Segregated Witness', 'Layer 2']",[],combined_Is-it-time-to-increase-the-blocksize-cap-
+"['Forks', 'Lightning', 'Mining']","['Futures Contracts', 'Commodity Producers', 'Forward Contracts', 'Risk Management']",delving-bitcoin-870-28-2625
+"['Security', 'Lightning', 'Blocksize', 'Scalability', 'Bitcoin Core', 'Fees']",[],delving-bitcoin-941-12-2639
+['Privacy'],[],delving-bitcoin-934-5-2632
+"['Fees', 'Scalability', 'Consensus']",['Economic Theory'],delving-bitcoin-941-8-2630
+"['Research', 'Cryptography', 'Lightning', 'Testing', 'Libsecp256k1', 'P2P']",[],delving-bitcoin-678-16-2624
+['Blocksize'],"['Global Income Disparities', 'Digital Currencies', 'Inclusivity', 'Bitcoin', 'Stability', 'Financial Growth', 'Financial Opportunities', 'Cryptocurrencies']",delving-bitcoin-941-11-2638
+"['Limitations', 'Lightning', 'Scalability', 'Network']","['Global Population', 'Scaling Model']",delving-bitcoin-941-16-2643
+"['Scalability', 'Blockchain']",['Economic Theory'],delving-bitcoin-941-19-2646
+['block-size-increase'],[],delving-bitcoin-941-14-2641
+['Consensus'],"['Community Governance', 'Technological Advancement', 'Block Size Increase']",delving-bitcoin-941-18-2645
+"['Security', 'Privacy', 'Fees', 'Consensus', 'Scalability', 'Mining']","['Transaction Fees', 'Economic Theory', 'Block Size Increase']",delving-bitcoin-941-7-2623
+"['Privacy', 'Lightning', 'Fees', 'Bitcoin Core', 'Scalability', 'Incentives', 'Consensus']",[],delving-bitcoin-941-13-2640
+"['Security', 'Scalability', 'Bitcoin Core', 'Consensus', 'Fees']","['Lightning Network', 'Block Size Increase']",delving-bitcoin-941-20-2648
+['Scalability'],"['Block Size', 'Lightning Network', 'Blockchain Technology']",delving-bitcoin-941-10-2637
+"['Blocksize', 'Synchronization', 'Network']",['Costs'],delving-bitcoin-941-9-2636
+"['Decentralization', 'Scalability', 'Bitcoin Core', 'Consensus']","['Developers', 'Mining Pools', 'Block Size Increase']",delving-bitcoin-941-17-2644
+"['Stratum-V2', 'Pools', 'Fees', 'Mining']","['Transaction Fees', 'Lightning Network']",delving-bitcoin-870-29-2647
+"['Mempool', 'ASIC', 'Proof-of-Work', 'Hash', 'Mining', 'Signature']","['Rewards', 'Transaction']",delving-bitcoin-937-2-2626
+"['Sidechains', 'Miners', 'Limitations', 'Assumeutxo', 'Lightning', 'Consensus', 'Attacks', 'Soft Fork', 'Hard Fork', 'Wallet', 'Security', 'Libbitcoin Kernel', 'IBD', 'Privacy', 'Research', 'Pools', 'Hashlocks', 'Update Layer', 'Covenants', 'Regulation', 'Scalability', 'Layer 2', 'Routing', 'Mining', 'Ux', 'Mempool', 'Cryptography', 'Proof-of-Work', 'Custody', 'Fees', 'Fuzzing', 'Testing', 'Package Relay', 'Topology', 'P2P', 'Asmap', 'Smart Contracts', 'Merkle Trees', 'Decentralization', 'Validation', 'Fee Management', 'Bitcoin Core', 'Incentives', 'Build Systems', 'P2pool', 'Segwit']","['Energy Consumption', 'Reward Schedule', 'Block Validity', 'Source Code']",delving-bitcoin-941-15-2642
+"['ASIC', 'Proof-of-Work', 'Bitcoin Core', 'Signet', 'Script']",[],combined_Proof-of-work-based-signet-faucet
