@@ -1461,3 +1461,9 @@ primary_topics,secondary_topics,source_id
 "['Mempool', 'ASIC', 'Proof-of-Work', 'Hash', 'Mining', 'Signature']","['Rewards', 'Transaction']",delving-bitcoin-937-2-2626
 "['Sidechains', 'Miners', 'Limitations', 'Assumeutxo', 'Lightning', 'Consensus', 'Attacks', 'Soft Fork', 'Hard Fork', 'Wallet', 'Security', 'Libbitcoin Kernel', 'IBD', 'Privacy', 'Research', 'Pools', 'Hashlocks', 'Update Layer', 'Covenants', 'Regulation', 'Scalability', 'Layer 2', 'Routing', 'Mining', 'Ux', 'Mempool', 'Cryptography', 'Proof-of-Work', 'Custody', 'Fees', 'Fuzzing', 'Testing', 'Package Relay', 'Topology', 'P2P', 'Asmap', 'Smart Contracts', 'Merkle Trees', 'Decentralization', 'Validation', 'Fee Management', 'Bitcoin Core', 'Incentives', 'Build Systems', 'P2pool', 'Segwit']","['Energy Consumption', 'Reward Schedule', 'Block Validity', 'Source Code']",delving-bitcoin-941-15-2642
 "['ASIC', 'Proof-of-Work', 'Bitcoin Core', 'Signet', 'Script']",[],combined_Proof-of-work-based-signet-faucet
+"['Privacy', 'Tor', 'Taproot', 'Security', 'Silent Payments']","['Full Node', 'BIP158', 'Light Client Protocol']",delving-bitcoin-891-15-2653
+"['P2P', 'Privacy', 'UTXO', 'Lightning', 'Silent Payments']","['Full Node', 'Filtering', 'Blockchain Reorganization']",delving-bitcoin-891-14-2652
+[],"['Extensions', 'Data formats', 'URI scheme', 'Bitcoin', 'Cryptocurrencies', 'DNS', 'Documentation', 'Protocols', 'Service discovery']",delving-bitcoin-542-7-2654
+"['Privacy', 'UTXO', 'Tor', 'Taproot', 'Silent Payments']",['BIP158'],delving-bitcoin-891-12-2649
+"['Privacy', 'Silent Payments']","['Unspent Transaction Outputs (UTXO)', 'Bitcoin Improvement Proposal (BIP)', 'Peer-to-Peer (P2P) Network']",delving-bitcoin-891-13-2651
+['Limitations'],"['Processing-Mechanism', 'Communication', 'Message-Splitting']",delving-bitcoin-542-8-2655
