@@ -1467,3 +1467,5 @@ primary_topics,secondary_topics,source_id
 "['Privacy', 'UTXO', 'Tor', 'Taproot', 'Silent Payments']",['BIP158'],delving-bitcoin-891-12-2649
 "['Privacy', 'Silent Payments']","['Unspent Transaction Outputs (UTXO)', 'Bitcoin Improvement Proposal (BIP)', 'Peer-to-Peer (P2P) Network']",delving-bitcoin-891-13-2651
 ['Limitations'],"['Processing-Mechanism', 'Communication', 'Message-Splitting']",delving-bitcoin-542-8-2655
+"['Layer 2', 'Privacy', 'Transactions']",['Coin Selection Algorithm'],delving-bitcoin-824-7-2660
+"['UTXO', 'Privacy']",[],delving-bitcoin-824-6-2658
