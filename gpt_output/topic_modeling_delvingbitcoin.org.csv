@@ -1469,3 +1469,6 @@ primary_topics,secondary_topics,source_id
 ['Limitations'],"['Processing-Mechanism', 'Communication', 'Message-Splitting']",delving-bitcoin-542-8-2655
 "['Layer 2', 'Privacy', 'Transactions']",['Coin Selection Algorithm'],delving-bitcoin-824-7-2660
 "['UTXO', 'Privacy']",[],delving-bitcoin-824-6-2658
+"['Security', 'Trust', 'Smart Contracts', 'Consensus', 'Layer 2', 'Multisig']",[],delving-bitcoin-933-2-2664
+"['Research', 'Consensus', 'Bitcoin Core', 'Development']","['Open Source', 'Cryptocurrency', 'Bitcoin Core Development']",delving-bitcoin-901-9-2665
+"['Security', 'Consensus', 'Layer 2', 'Sidechains', 'Fees']","['Scaling Solutions', 'Miner Extractable Value (MEV)', 'Community Engagement', 'Risk Framework']",combined_Proposed-risk-framework-for-Bitcoin-L2s-and-Sidechains
