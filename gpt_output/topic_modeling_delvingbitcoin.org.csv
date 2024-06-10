@@ -1474,3 +1474,4 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Consensus', 'Layer 2', 'Sidechains', 'Fees']","['Scaling Solutions', 'Miner Extractable Value (MEV)', 'Community Engagement', 'Risk Framework']",combined_Proposed-risk-framework-for-Bitcoin-L2s-and-Sidechains
 "['Silent Payments', 'Tor', 'Privacy']","['Light Client Protocol', 'Bandwidth', 'BIP158']",delving-bitcoin-891-16-2669
 "['Segregated Witness', 'Consensus', 'Soft Fork', 'Proof-of-Work']","['Quantum Resistance', 'Bitcoin Improvement Proposal (BIP)']",delving-bitcoin-956-1-2670
+"['Research', 'Testing', 'Sidechains', 'BIP', 'Covenants', 'Scalability', 'Privacy']","['Bitcoin Improvement Proposals', 'User Experience', 'Miner Extractable Value', 'Merged Mining', 'Drivechain', 'OP_CAT', 'Mining Centralization', 'Sha256d', 'Innovation']",delving-bitcoin-958-1-2672
