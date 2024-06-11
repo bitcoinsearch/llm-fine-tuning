@@ -1475,3 +1475,8 @@ primary_topics,secondary_topics,source_id
 "['Silent Payments', 'Tor', 'Privacy']","['Light Client Protocol', 'Bandwidth', 'BIP158']",delving-bitcoin-891-16-2669
 "['Segregated Witness', 'Consensus', 'Soft Fork', 'Proof-of-Work']","['Quantum Resistance', 'Bitcoin Improvement Proposal (BIP)']",delving-bitcoin-956-1-2670
 "['Research', 'Testing', 'Sidechains', 'BIP', 'Covenants', 'Scalability', 'Privacy']","['Bitcoin Improvement Proposals', 'User Experience', 'Miner Extractable Value', 'Merged Mining', 'Drivechain', 'OP_CAT', 'Mining Centralization', 'Sha256d', 'Innovation']",delving-bitcoin-958-1-2672
+"['Bitcoin Core', 'Forks', 'Consensus', 'BIP']",['RPC'],delving-bitcoin-958-3-2674
+"['Sidechains', 'Blockchain', 'Consensus', 'Scalability', 'Soft Fork']","['Flexibility', 'Adaptable Design Principles', 'Innovative', 'Modular']",delving-bitcoin-958-2-2673
+"['Consensus', 'Soft Fork']",[],delving-bitcoin-958-4-2679
+"['Miners', 'Consensus', 'Mining', 'Soft Fork']",['51% Attack'],delving-bitcoin-958-5-2680
+"['Sidechains', 'Bitcoin Core', 'Research', 'Consensus', 'Mining', 'Scalability', 'Privacy', 'Soft Fork']","['Drivechain', 'User Activated Soft Fork (UASF)', 'BIP 300', 'BIP 301']",combined_Drivechain-with-and-without-BIP-300-301
