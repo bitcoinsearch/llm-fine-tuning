@@ -1483,3 +1483,8 @@ primary_topics,secondary_topics,source_id
 [],"['DNS', 'Transmission', 'Encoding']",delving-bitcoin-542-9-2701
 "['Security', 'PSBT']","['Bitcoin Improvement Proposal', 'Elliptic Curve Diffie-Hellman']",delving-bitcoin-877-12-2681
 "['Security', 'Privacy', 'Decentralization']",[],delving-bitcoin-934-6-2682
+"['Fees', 'Consensus', 'Bitcoin Core']",[],delving-bitcoin-964-1-2704
+"['BIP', 'Soft Fork']",['Quantum Resistant'],delving-bitcoin-956-2-2708
+"['Silent Payments', 'Segwit', 'PSBT']",[],delving-bitcoin-877-13-2712
+"['Fees', 'Mempool', 'Research']",[],delving-bitcoin-348-7-2710
+['Soft Fork'],"['Bitcoin Improvement Proposal', 'Quantum Resistance', 'Signature Algorithm', 'Quantum Computing']",combined_Proposing-a-P2QRH-BIP-towards-a-quantum-resistant-soft-fork
