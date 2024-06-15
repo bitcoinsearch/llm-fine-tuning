@@ -1488,3 +1488,9 @@ primary_topics,secondary_topics,source_id
 "['Silent Payments', 'Segwit', 'PSBT']",[],delving-bitcoin-877-13-2712
 "['Fees', 'Mempool', 'Research']",[],delving-bitcoin-348-7-2710
 ['Soft Fork'],"['Bitcoin Improvement Proposal', 'Quantum Resistance', 'Signature Algorithm', 'Quantum Computing']",combined_Proposing-a-P2QRH-BIP-towards-a-quantum-resistant-soft-fork
+"['Silent Payments', 'PSBT']",[],delving-bitcoin-877-14-2716
+"['Signet', 'Proof-of-Work', 'Transaction-ID']",[],delving-bitcoin-937-3-2713
+"['PSBT', 'Silent Payments', 'Hardware Wallet', 'Security', 'UTXO']",[],delving-bitcoin-877-17-2719
+"['Security', 'Silent Payments', 'PSBT']",['Sighash'],delving-bitcoin-877-15-2717
+"['PSBT', 'Silent Payments']","['Bitcoin transactions', 'Transaction integrity', 'SIGHASH_ALL']",delving-bitcoin-877-18-2720
+"['PSBT', 'Transactions', 'Blockchain', 'Security']","['Bitcoin', 'Transaction Malleability']",delving-bitcoin-877-16-2718
