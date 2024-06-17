@@ -1494,3 +1494,4 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Silent Payments', 'PSBT']",['Sighash'],delving-bitcoin-877-15-2717
 "['PSBT', 'Silent Payments']","['Bitcoin transactions', 'Transaction integrity', 'SIGHASH_ALL']",delving-bitcoin-877-18-2720
 "['PSBT', 'Transactions', 'Blockchain', 'Security']","['Bitcoin', 'Transaction Malleability']",delving-bitcoin-877-16-2718
+"['Testnet', 'Mining', 'Network', 'Blockchain', 'Transactions', 'Validation', 'Forks', 'Consensus']",[],delving-bitcoin-805-18-2721
