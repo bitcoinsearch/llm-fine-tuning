@@ -1495,3 +1495,11 @@ primary_topics,secondary_topics,source_id
 "['PSBT', 'Silent Payments']","['Bitcoin transactions', 'Transaction integrity', 'SIGHASH_ALL']",delving-bitcoin-877-18-2720
 "['PSBT', 'Transactions', 'Blockchain', 'Security']","['Bitcoin', 'Transaction Malleability']",delving-bitcoin-877-16-2718
 "['Testnet', 'Mining', 'Network', 'Blockchain', 'Transactions', 'Validation', 'Forks', 'Consensus']",[],delving-bitcoin-805-18-2721
+"['Security', 'P2P', 'Tor', 'Onion', 'Linux']","['Directory nodes', 'IRC', 'Anonymity']",delving-bitcoin-934-7-2727
+"['Research', 'Lightning', 'Topology', 'Path-Finding']","['Wealth Distribution', 'Network Design']",delving-bitcoin-973-1-2725
+"['Miniscript', 'Bitcoin Core', 'Fuzzing', 'API', 'Validation']","['Compatibility', 'Collaborative Development', 'Parser Function', 'Rust']",delving-bitcoin-208-6-2724
+"['Protocol', 'BIP', 'Development', 'Lightning']",[],delving-bitcoin-678-17-2722
+['Lightning'],[],delving-bitcoin-973-2-2729
+"['Privacy', 'Cryptography', 'P2P', 'Research', 'Fungibility']",[],delving-bitcoin-934-8-2728
+"['Miniscript', 'Bitcoin Core']","['P2P network enhancements', 'Documentation', 'Community-driven development', 'TapMiniscript', 'GUI improvements', 'RPC commands', 'Continuous Integration']",delving-bitcoin-972-1-2723
+"['Research', 'Lightning', 'Topology', 'Network', 'Path-Finding']","['Wealth Distribution', 'Payment Channels', 'Probability', 'Probabilistic Pathfinding', 'Success Rate']",combined_Estimating-Likelihood-for-Lightning-Payments-to-be-in-feasible
