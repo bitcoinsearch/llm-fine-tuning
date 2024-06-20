@@ -1515,3 +1515,7 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Lightning']","['Memory Management', 'Cryptocurrency Networks', 'Rust-Lightning', 'Node Operations']",delving-bitcoin-979-4-2746
 "['Testing', 'Fuzzing', 'Security', 'Onion', 'Lightning']",['Noise_XK'],delving-bitcoin-979-2-2744
 "['Attacks', 'Network', 'Security', 'Lightning']","['DoS', 'Upgrading', 'Denial of Service', 'Vulnerabilities', 'Memory Management', 'Out-of-Memory', 'Crash', 'Network Security']",combined_DoS-Disclosure-LND-Onion-Bomb
+"['Transactions', 'Fees', 'Mining', 'Consensus', 'P2P', 'Blockchain']",[],delving-bitcoin-805-21-2769
+"['Security', 'Fees', 'Mempool', 'Mining', 'Consensus', 'Package Relay', 'P2P', 'Validation', 'Forks']",[],delving-bitcoin-805-20-2768
+"['Security', 'Scalability', 'Consensus', 'Protocol', 'UTXO', 'Blockchain']","['BIP34', 'Innovation']",delving-bitcoin-710-19-2749
+"['Consensus', 'Decentralization']",[],delving-bitcoin-934-10-2747
