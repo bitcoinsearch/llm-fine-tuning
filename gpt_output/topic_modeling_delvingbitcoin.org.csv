@@ -1519,3 +1519,7 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Fees', 'Mempool', 'Mining', 'Consensus', 'Package Relay', 'P2P', 'Validation', 'Forks']",[],delving-bitcoin-805-20-2768
 "['Security', 'Scalability', 'Consensus', 'Protocol', 'UTXO', 'Blockchain']","['BIP34', 'Innovation']",delving-bitcoin-710-19-2749
 "['Consensus', 'Decentralization']",[],delving-bitcoin-934-10-2747
+"['Silent Payments', 'Privacy', 'Fungibility', 'Security', 'PSBT', 'Signet', 'Consensus', 'Fees']",[],delving-bitcoin-877-24-2773
+"['Silent Payments', 'PSBT', 'Trust']",['Data Structure'],delving-bitcoin-877-23-2771
+"['Mining', 'Soft Fork', 'Consensus', 'Mempool']",[],delving-bitcoin-805-22-2770
+"['Build Systems', 'Cryptography', 'Soft Fork', 'Research', 'Consensus']",[],delving-bitcoin-397-53-2772
