@@ -1523,3 +1523,7 @@ primary_topics,secondary_topics,source_id
 "['Silent Payments', 'PSBT', 'Trust']",['Data Structure'],delving-bitcoin-877-23-2771
 "['Mining', 'Soft Fork', 'Consensus', 'Mempool']",[],delving-bitcoin-805-22-2770
 "['Build Systems', 'Cryptography', 'Soft Fork', 'Research', 'Consensus']",[],delving-bitcoin-397-53-2772
+"['Consensus', 'PSBT', 'Security']",['Signatures'],delving-bitcoin-877-25-2776
+[],"['Archival Nodes', 'Storage Costs', 'Blockchain Data Usage', 'Blockchain Infrastructure Management', 'Full Nodes', 'Block Size Increase', 'SSDs']",delving-bitcoin-941-22-2775
+"['Security', 'Silent Payments', 'Cryptography', 'PSBT']","['Efficiency', 'Computational', 'Memory', 'Signatures']",delving-bitcoin-877-27-2778
+"['Security', 'Silent Payments', 'PSBT']","['Signers', 'Shares', 'Storage Efficiency', 'Bitcoin Improvement Proposal (BIP)', 'Hardware Signing Devices', 'Proofs', 'Flexibility', 'Single-Signer Wallets', 'Transaction Integrity', 'Transaction Structure']",delving-bitcoin-877-26-2777
