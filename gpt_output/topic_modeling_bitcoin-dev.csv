@@ -24451,3 +24451,4 @@ primary_topics,secondary_topics,source_id
 "['UTXO', 'Fees', 'Lightning']",['CPFP'],mailing-list-bitcoin-2024-January-022325
 "['Security', 'Replace-By-Fee']","['Unconfirmed Inputs', 'Transaction Replacements', 'RBF Rules', 'Fee-Rate-Depth', 'Reliability', 'Vulnerability', 'Commit']",mailing-list-bitcoin-2024-January-022326
 ['decentralization'],"['acknowledgments', 'archive', 'bitcoin-dev', 'online interface', 'discussions', 'mailing-list', 'public archives', 'download', 'moderators', 'Google Groups', 'integrity', 'mailing list rules', 'email', 'moderation capabilities', 'filter', 'subscribe']",mailing-list-bitcoin-2024-February-022327
+['Bitcoin Core'],[],mailing-list-bitcoin-2015-May-008203
