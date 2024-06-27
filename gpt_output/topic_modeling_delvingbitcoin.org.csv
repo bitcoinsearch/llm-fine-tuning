@@ -1534,3 +1534,10 @@ primary_topics,secondary_topics,source_id
 "['Transactions', 'Network', 'Bitcoin Core', 'Lightning', 'Wallet']","['Software', 'User Experience', 'Liquidity Management', 'Financial Operations', 'Digital Currency Transactions']",delving-bitcoin-973-3-2787
 "['Onion', 'Cryptography', 'Lightning', 'Segregated Witness', 'Routing', 'Incentives', 'Fees', 'Security', 'Privacy', 'Layer 2', 'Research', 'Consensus']",[],delving-bitcoin-991-1-2791
 ['Lightning'],"['Retry Intervals', 'Payment Processes', 'Mathematical Techniques', 'Network States', 'Software Capabilities', 'Node Management Software', 'Wealth Distributions', 'Feasibility', 'Gomory-Hu Trees', 'BOLT12', 'Cryptocurrency Transactions', 'Bitcoin Wealth Distributions', 'Payment Channels', 'Network Analytics', 'Liquidity']",delving-bitcoin-973-4-2789
+['Lightning'],"['Extensions', 'BOLT 12', 'TLV', 'Offers', 'Blinded Paths', 'Payment Routing']",delving-bitcoin-991-4-2809
+"['Network', 'Lightning', 'Research']","['Probability', 'Modeling', 'Cost Optimization']",delving-bitcoin-973-6-2806
+"['Lightning', 'Update Layer']",['User Experience'],delving-bitcoin-991-3-2808
+"['Smart Contracts', 'Lightning', 'Consensus', 'Routing', 'Layer 2', 'Research']",[],delving-bitcoin-991-2-2803
+['Lightning'],"['Minimum Cost Flow', 'Liquidity', 'Network Dynamics', 'Probability Models', 'Assumptions', 'Wealth Distribution', 'Channel Balances']",delving-bitcoin-973-7-2807
+"['Network', 'Lightning', 'Transactions']","['Probability', 'Payment Success Rates', 'Critique', 'Channel Balances', 'Models']",delving-bitcoin-973-5-2805
+"['Lightning', 'Routing', 'Layer 2', 'Sphinx', 'Onion', 'Privacy']","['Offers proposal', 'BOLT 11', 'Blinded paths']",combined_bLIP-BOLT-11-Invoice-Blinded-Path-Tagged-Field
