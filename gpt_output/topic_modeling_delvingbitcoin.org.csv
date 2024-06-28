@@ -1541,3 +1541,6 @@ primary_topics,secondary_topics,source_id
 ['Lightning'],"['Minimum Cost Flow', 'Liquidity', 'Network Dynamics', 'Probability Models', 'Assumptions', 'Wealth Distribution', 'Channel Balances']",delving-bitcoin-973-7-2807
 "['Network', 'Lightning', 'Transactions']","['Probability', 'Payment Success Rates', 'Critique', 'Channel Balances', 'Models']",delving-bitcoin-973-5-2805
 "['Lightning', 'Routing', 'Layer 2', 'Sphinx', 'Onion', 'Privacy']","['Offers proposal', 'BOLT 11', 'Blinded paths']",combined_bLIP-BOLT-11-Invoice-Blinded-Path-Tagged-Field
+"['Fees', 'Research', 'Soft Fork', 'Wallet', 'Lightning', 'Layer 2', 'Onion', 'Routing', 'Smart Contracts', 'Cryptography']",[],delving-bitcoin-991-6-2813
+"['Script', 'Update Layer']",['Source Code'],delving-bitcoin-993-1-2811
+"['Fees', 'Research', 'Submarine Swaps', 'Wallet', 'Lightning', 'Layer 2', 'Routing', 'Smart Contracts', 'Privacy']",[],delving-bitcoin-991-5-2810
