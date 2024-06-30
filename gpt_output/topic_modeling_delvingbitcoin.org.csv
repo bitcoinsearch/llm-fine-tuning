@@ -1546,3 +1546,6 @@ primary_topics,secondary_topics,source_id
 "['Fees', 'Research', 'Submarine Swaps', 'Wallet', 'Lightning', 'Layer 2', 'Routing', 'Smart Contracts', 'Privacy']",[],delving-bitcoin-991-5-2810
 "['Wallet', 'Lightning']","['Compatibility', 'Payment Protocols', 'BOLT11', 'Offers', 'QR Code', 'Protocol Development', 'DNS Address Formats', 'User Experience', 'Wallet Developers']",delving-bitcoin-991-7-2814
 "['BIP', 'Bitcoin Core', 'Signet', 'IBD', 'Testing']","['Proxy', 'Port Selection', 'Network Configuration']",delving-bitcoin-678-18-2816
+"['PSBT', 'BIP']","['DLEQ', 'Bitcoin Improvement Proposals']",delving-bitcoin-877-29-2828
+"['Build Systems', 'Testing', 'Forks', 'Package Relay']",[],delving-bitcoin-678-19-2817
+"['Scalability', 'Consensus', 'Segregated Witness']","['Lightning Network', 'Block Size Increase', 'Mining Pools']",delving-bitcoin-941-23-2818
