@@ -1549,3 +1549,4 @@ primary_topics,secondary_topics,source_id
 "['PSBT', 'BIP']","['DLEQ', 'Bitcoin Improvement Proposals']",delving-bitcoin-877-29-2828
 "['Build Systems', 'Testing', 'Forks', 'Package Relay']",[],delving-bitcoin-678-19-2817
 "['Scalability', 'Consensus', 'Segregated Witness']","['Lightning Network', 'Block Size Increase', 'Mining Pools']",delving-bitcoin-941-23-2818
+"['Cryptography', 'Security', 'Privacy', 'Fees', 'Mempool', 'Bitcoin Core', 'Smart Contracts', 'Consensus', 'Wallet', 'Script']",[],delving-bitcoin-1006-1-2832
