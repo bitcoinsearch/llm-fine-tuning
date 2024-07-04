@@ -1550,3 +1550,5 @@ primary_topics,secondary_topics,source_id
 "['Build Systems', 'Testing', 'Forks', 'Package Relay']",[],delving-bitcoin-678-19-2817
 "['Scalability', 'Consensus', 'Segregated Witness']","['Lightning Network', 'Block Size Increase', 'Mining Pools']",delving-bitcoin-941-23-2818
 "['Cryptography', 'Security', 'Privacy', 'Fees', 'Mempool', 'Bitcoin Core', 'Smart Contracts', 'Consensus', 'Wallet', 'Script']",[],delving-bitcoin-1006-1-2832
+"['Decentralization', 'Privacy']","['Bitcoin mixer', 'Open-source', 'Financial privacy', 'Community-driven']",delving-bitcoin-1019-1-2847
+"['Mining', 'Bitcoind', 'Mempool']","['Empirical Data Analysis', 'Transaction Fees', 'Forecasting']",delving-bitcoin-1022-1-2850
