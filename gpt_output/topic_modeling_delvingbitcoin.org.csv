@@ -1553,3 +1553,5 @@ primary_topics,secondary_topics,source_id
 "['Decentralization', 'Privacy']","['Bitcoin mixer', 'Open-source', 'Financial privacy', 'Community-driven']",delving-bitcoin-1019-1-2847
 "['Mining', 'Bitcoind', 'Mempool']","['Empirical Data Analysis', 'Transaction Fees', 'Forecasting']",delving-bitcoin-1022-1-2850
 "['Mempool', 'Smart Contracts', 'Taproot', 'Covenants', 'UTXO']",['Stateful'],delving-bitcoin-1028-1-2863
+"['Scalability', 'Decentralization', 'Mining', 'Blocksize']","['Lightning Network', 'Bandwidth']",delving-bitcoin-941-24-2871
+"['Mempool', 'Scalability', 'Fees', 'Mining', 'Bitcoin Core']","['Block Validation', 'Optimizing Blockchain Technology', 'Replace-By-Fee (RBF)']",delving-bitcoin-1032-1-2874
