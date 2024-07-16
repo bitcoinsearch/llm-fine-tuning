@@ -1556,3 +1556,6 @@ primary_topics,secondary_topics,source_id
 "['Scalability', 'Decentralization', 'Mining', 'Blocksize']","['Lightning Network', 'Bandwidth']",delving-bitcoin-941-24-2871
 "['Mempool', 'Scalability', 'Fees', 'Mining', 'Bitcoin Core']","['Block Validation', 'Optimizing Blockchain Technology', 'Replace-By-Fee (RBF)']",delving-bitcoin-1032-1-2874
 "['Custody', 'Lightning']","['Channels', 'USD', 'Swap Services', 'LN Node', 'BTC']",delving-bitcoin-875-7-2878
+"['Fees', 'Lightning', 'Bitcoin Core', 'Segwit', 'Transactions']","['Transaction Fees', 'GitHub', 'P2A']",delving-bitcoin-383-16-2879
+"['P2P', 'Bitcoin Core', 'Development', 'Forks', 'Segwit', 'Research']",['GitHub'],delving-bitcoin-160-13-2880
+"['Script', 'Soft Fork', 'Mempool', 'Segwit']","['Witness Programs', 'Transaction Malleability', 'Bitcoin Improvement Proposal']",combined_Segwit-Ephemeral-Anchors
