@@ -1559,3 +1559,5 @@ primary_topics,secondary_topics,source_id
 "['Fees', 'Lightning', 'Bitcoin Core', 'Segwit', 'Transactions']","['Transaction Fees', 'GitHub', 'P2A']",delving-bitcoin-383-16-2879
 "['P2P', 'Bitcoin Core', 'Development', 'Forks', 'Segwit', 'Research']",['GitHub'],delving-bitcoin-160-13-2880
 "['Script', 'Soft Fork', 'Mempool', 'Segwit']","['Witness Programs', 'Transaction Malleability', 'Bitcoin Improvement Proposal']",combined_Segwit-Ephemeral-Anchors
+"['Consensus', 'Validation', 'Miners', 'Mining', 'Forks', 'Segwit']",[],delving-bitcoin-710-20-2888
+"['Decentralization', 'Stratum-V2', 'Mining', 'Security', 'Scalability']",['Collaborative Efforts'],delving-bitcoin-870-30-2887
