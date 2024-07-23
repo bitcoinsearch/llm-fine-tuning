@@ -1561,3 +1561,4 @@ primary_topics,secondary_topics,source_id
 "['Script', 'Soft Fork', 'Mempool', 'Segwit']","['Witness Programs', 'Transaction Malleability', 'Bitcoin Improvement Proposal']",combined_Segwit-Ephemeral-Anchors
 "['Consensus', 'Validation', 'Miners', 'Mining', 'Forks', 'Segwit']",[],delving-bitcoin-710-20-2888
 "['Decentralization', 'Stratum-V2', 'Mining', 'Security', 'Scalability']",['Collaborative Efforts'],delving-bitcoin-870-30-2887
+"['Consensus', 'Locktime']",[],delving-bitcoin-710-21-2889
