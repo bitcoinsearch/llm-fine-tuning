@@ -1566,3 +1566,5 @@ primary_topics,secondary_topics,source_id
 "['Update Layer', 'Hard Fork', 'Timestamping', 'Forks', 'Soft Fork', 'Segwit', 'Consensus']",['Activation'],delving-bitcoin-710-22-2891
 "['Mining', 'Market', 'Lightning']","['Bitcoin', 'Stablecoins', 'Transaction Verification', 'Cryptocurrency Markets']",delving-bitcoin-875-8-2892
 "['Hard Fork', 'Blockchain', 'Forks', 'Soft Fork', 'Merkle Trees', 'Bitcoin Core', 'P2P', 'Consensus', 'Segregated Witness', 'Validation']",[],delving-bitcoin-710-23-2893
+"['Merkle Trees', 'Consensus', 'Segregated Witness', 'OP_RETURN']",[],delving-bitcoin-710-24-2896
+"['Mining', 'Consensus', 'Fees', 'Research', 'Mempool']",[],delving-bitcoin-1044-1-2898
