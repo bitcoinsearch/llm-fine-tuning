@@ -1568,3 +1568,4 @@ primary_topics,secondary_topics,source_id
 "['Hard Fork', 'Blockchain', 'Forks', 'Soft Fork', 'Merkle Trees', 'Bitcoin Core', 'P2P', 'Consensus', 'Segregated Witness', 'Validation']",[],delving-bitcoin-710-23-2893
 "['Merkle Trees', 'Consensus', 'Segregated Witness', 'OP_RETURN']",[],delving-bitcoin-710-24-2896
 "['Mining', 'Consensus', 'Fees', 'Research', 'Mempool']",[],delving-bitcoin-1044-1-2898
+"['Fees', 'Mempool', 'Package Relay', 'Lightning']",[],delving-bitcoin-523-5-2901
