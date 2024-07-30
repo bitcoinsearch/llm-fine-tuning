@@ -1569,3 +1569,5 @@ primary_topics,secondary_topics,source_id
 "['Merkle Trees', 'Consensus', 'Segregated Witness', 'OP_RETURN']",[],delving-bitcoin-710-24-2896
 "['Mining', 'Consensus', 'Fees', 'Research', 'Mempool']",[],delving-bitcoin-1044-1-2898
 "['Fees', 'Mempool', 'Package Relay', 'Lightning']",[],delving-bitcoin-523-5-2901
+"['Transactions', 'Trezor']","['CoinJoin', 'Coordinator']",delving-bitcoin-934-11-2903
+"['Security', 'Lightning', 'Research', 'Privacy', 'Limitations', 'Layer 2', 'Wallet']",['Alternative'],delving-bitcoin-523-6-2902
