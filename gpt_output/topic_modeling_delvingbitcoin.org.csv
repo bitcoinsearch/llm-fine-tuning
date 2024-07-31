@@ -1571,3 +1571,5 @@ primary_topics,secondary_topics,source_id
 "['Fees', 'Mempool', 'Package Relay', 'Lightning']",[],delving-bitcoin-523-5-2901
 "['Transactions', 'Trezor']","['CoinJoin', 'Coordinator']",delving-bitcoin-934-11-2903
 "['Security', 'Lightning', 'Research', 'Privacy', 'Limitations', 'Layer 2', 'Wallet']",['Alternative'],delving-bitcoin-523-6-2902
+"['Privacy', 'Consensus', 'Lightning']","['Mutual Authentication', 'TLV Field', 'BIP21 URIs', 'Bolt 12', 'User Experience', 'Contact Key Distribution', 'Selective Identity Revelation', 'bLIP-31', 'Invreq_payer_id']",delving-bitcoin-1046-1-2905
+"['UTXO', 'Lightning', 'Custody']",['Stable Channels'],delving-bitcoin-875-9-2904
