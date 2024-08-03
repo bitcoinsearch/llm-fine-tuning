@@ -1574,3 +1574,4 @@ primary_topics,secondary_topics,source_id
 "['Privacy', 'Consensus', 'Lightning']","['Mutual Authentication', 'TLV Field', 'BIP21 URIs', 'Bolt 12', 'User Experience', 'Contact Key Distribution', 'Selective Identity Revelation', 'bLIP-31', 'Invreq_payer_id']",delving-bitcoin-1046-1-2905
 "['UTXO', 'Lightning', 'Custody']",['Stable Channels'],delving-bitcoin-875-9-2904
 "['Forks', 'Consensus', 'Zero-Knowledge', 'Bitcoin Core', 'Script', 'Proof-of-Work', 'Cryptography']",[],delving-bitcoin-1050-1-2909
+"['Consensus', 'Fees', 'Mining', 'Mempool', 'Pools', 'Bitcoin Core', 'Network', 'Security']",[],delving-bitcoin-1052-1-2911
