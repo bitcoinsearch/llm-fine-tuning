@@ -1575,3 +1575,5 @@ primary_topics,secondary_topics,source_id
 "['UTXO', 'Lightning', 'Custody']",['Stable Channels'],delving-bitcoin-875-9-2904
 "['Forks', 'Consensus', 'Zero-Knowledge', 'Bitcoin Core', 'Script', 'Proof-of-Work', 'Cryptography']",[],delving-bitcoin-1050-1-2909
 "['Consensus', 'Fees', 'Mining', 'Mempool', 'Pools', 'Bitcoin Core', 'Network', 'Security']",[],delving-bitcoin-1052-1-2911
+"['Mining', 'Bitcoin Core', 'Replace-By-Fee', 'Fees']","['Bitcoin Core Implementation', 'Compact Blocks']",delving-bitcoin-1052-2-2913
+"['Mining', 'Bitcoin Core', 'Transactions', 'Mempool']","['Block Reconstruction Efficiency', 'Hardware Capability', 'Replace-By-Fee (RBF)', 'Optimizations', 'Network Congestion', 'Node Configuration']",combined_Stats-on-compact-block-reconstructions
