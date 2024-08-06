@@ -1577,3 +1577,6 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Fees', 'Mining', 'Mempool', 'Pools', 'Bitcoin Core', 'Network', 'Security']",[],delving-bitcoin-1052-1-2911
 "['Mining', 'Bitcoin Core', 'Replace-By-Fee', 'Fees']","['Bitcoin Core Implementation', 'Compact Blocks']",delving-bitcoin-1052-2-2913
 "['Mining', 'Bitcoin Core', 'Transactions', 'Mempool']","['Block Reconstruction Efficiency', 'Hardware Capability', 'Replace-By-Fee (RBF)', 'Optimizations', 'Network Congestion', 'Node Configuration']",combined_Stats-on-compact-block-reconstructions
+"['hardware wallet', 'secp256k1', 'PSBT', 'security']",['cryptographic community'],delving-bitcoin-877-30-2918
+"['Cryptography', 'Security', 'Privacy']",[],delving-bitcoin-1046-2-2917
+"['Consensus', 'Fees', 'Wallet', 'Cryptography', 'Segwit', 'Research', 'Privacy', 'Lightning', 'Security']",[],combined_Bolt-12-Trusted-Contacts
