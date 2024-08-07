@@ -1580,3 +1580,5 @@ primary_topics,secondary_topics,source_id
 "['hardware wallet', 'secp256k1', 'PSBT', 'security']",['cryptographic community'],delving-bitcoin-877-30-2918
 "['Cryptography', 'Security', 'Privacy']",[],delving-bitcoin-1046-2-2917
 "['Consensus', 'Fees', 'Wallet', 'Cryptography', 'Segwit', 'Research', 'Privacy', 'Lightning', 'Security']",[],combined_Bolt-12-Trusted-Contacts
+"['OP-Return', 'Consensus', 'Transaction-Verification', 'Blockchain', 'Transactions', 'Coinbase-Transaction']",['Block-Height'],delving-bitcoin-710-25-2921
+"['Privacy', 'Pools', 'Consensus', 'Miners', 'Mining', 'Validation', 'Blockchain', 'Fees', 'Mempool']",[],delving-bitcoin-1052-3-2920
