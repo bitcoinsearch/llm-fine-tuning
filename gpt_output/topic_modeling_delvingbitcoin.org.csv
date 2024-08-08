@@ -1582,3 +1582,7 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Fees', 'Wallet', 'Cryptography', 'Segwit', 'Research', 'Privacy', 'Lightning', 'Security']",[],combined_Bolt-12-Trusted-Contacts
 "['OP-Return', 'Consensus', 'Transaction-Verification', 'Blockchain', 'Transactions', 'Coinbase-Transaction']",['Block-Height'],delving-bitcoin-710-25-2921
 "['Privacy', 'Pools', 'Consensus', 'Miners', 'Mining', 'Validation', 'Blockchain', 'Fees', 'Mempool']",[],delving-bitcoin-1052-3-2920
+"['BIP', 'Validation', 'Consensus', 'Merkle Trees', 'SHA256']","['Block Header', 'Proof']",delving-bitcoin-710-26-2922
+"['Trust', 'Attacks', 'Payment', 'Security', 'Privacy']","['User Interface', 'Phishing']",delving-bitcoin-1046-4-2926
+"['Onion', 'Routing', 'Proof-of-Work', 'Security']","['DoS', 'Rate Limiting', 'Lightning Network']",delving-bitcoin-1058-1-2924
+"['Smart Contracts', 'Cryptography', 'Security', 'Wallet', 'Privacy']",[],delving-bitcoin-1046-3-2925
