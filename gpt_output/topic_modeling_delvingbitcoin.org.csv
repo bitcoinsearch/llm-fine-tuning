@@ -1587,3 +1587,7 @@ primary_topics,secondary_topics,source_id
 "['Onion', 'Routing', 'Proof-of-Work', 'Security']","['DoS', 'Rate Limiting', 'Lightning Network']",delving-bitcoin-1058-1-2924
 "['Smart Contracts', 'Cryptography', 'Security', 'Wallet', 'Privacy']",[],delving-bitcoin-1046-3-2925
 "['Mempool', 'Mining', 'Research', 'Bitcoin Core', 'Fees', 'Pools', 'Consensus']",[],delving-bitcoin-1052-4-2928
+"['Consensus', 'Mining', 'Forks', 'Soft Fork', 'Timestamping']",[],delving-bitcoin-1062-1-2932
+"['Security', 'Routing', 'Lightning', 'Onion']",[],delving-bitcoin-1058-2-2933
+"['Privacy', 'Wallet', 'Security', 'Cryptography']",['User Education'],delving-bitcoin-1046-5-2930
+"['Lightning', 'Onion', 'Tor', 'Security', 'Routing', 'Proof-of-Work']",['DoS'],combined_Onion-Messaging-DoS-Threat-Mitigations
