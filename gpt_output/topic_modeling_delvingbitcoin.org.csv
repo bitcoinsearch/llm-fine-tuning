@@ -1591,3 +1591,6 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Routing', 'Lightning', 'Onion']",[],delving-bitcoin-1058-2-2933
 "['Privacy', 'Wallet', 'Security', 'Cryptography']",['User Education'],delving-bitcoin-1046-5-2930
 "['Lightning', 'Onion', 'Tor', 'Security', 'Routing', 'Proof-of-Work']",['DoS'],combined_Onion-Messaging-DoS-Threat-Mitigations
+"['P2P', 'Fees', 'Lightning']","['Liquidity management', 'Credit channels']",delving-bitcoin-875-10-2936
+"['Consensus', 'Blockchain', 'Mining', 'Validation', 'Security', 'Proof-of-Work', 'Timestamping', 'Research', 'Cryptography', 'Forks']",[],delving-bitcoin-1062-2-2935
+"['Consensus', 'Mining', 'Attacks', 'Security', 'Timestamping', 'Soft Fork', 'Forks']",[],combined_Zawy-s-Alternating-Timestamp-Attack
