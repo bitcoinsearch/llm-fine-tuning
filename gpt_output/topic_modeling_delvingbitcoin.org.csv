@@ -1594,3 +1594,7 @@ primary_topics,secondary_topics,source_id
 "['P2P', 'Fees', 'Lightning']","['Liquidity management', 'Credit channels']",delving-bitcoin-875-10-2936
 "['Consensus', 'Blockchain', 'Mining', 'Validation', 'Security', 'Proof-of-Work', 'Timestamping', 'Research', 'Cryptography', 'Forks']",[],delving-bitcoin-1062-2-2935
 "['Consensus', 'Mining', 'Attacks', 'Security', 'Timestamping', 'Soft Fork', 'Forks']",[],combined_Zawy-s-Alternating-Timestamp-Attack
+"['Blockchain', 'Limitations', 'P2P', 'Lightning']","['Dispute Resolution', 'Channels', 'Operational Mechanisms']",delving-bitcoin-875-11-2938
+"['Forks', 'Attacks', 'Mining', 'Consensus']",[],delving-bitcoin-1062-3-2937
+"['Mining', 'Forks', 'Hard Fork', 'Proof-of-Stake', 'Validation', 'Timestamping', 'Consensus', 'Segregated Witness', 'Soft Fork']",[],delving-bitcoin-1062-5-2941
+"['Mining', 'Incentives', 'Hashpower', 'Consensus', 'Attacks', 'Miners']",['Reward Schedule'],delving-bitcoin-1062-4-2940
