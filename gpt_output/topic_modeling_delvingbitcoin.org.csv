@@ -1598,3 +1598,8 @@ primary_topics,secondary_topics,source_id
 "['Forks', 'Attacks', 'Mining', 'Consensus']",[],delving-bitcoin-1062-3-2937
 "['Mining', 'Forks', 'Hard Fork', 'Proof-of-Stake', 'Validation', 'Timestamping', 'Consensus', 'Segregated Witness', 'Soft Fork']",[],delving-bitcoin-1062-5-2941
 "['Mining', 'Incentives', 'Hashpower', 'Consensus', 'Attacks', 'Miners']",['Reward Schedule'],delving-bitcoin-1062-4-2940
+"['Network', 'Transactions', 'Lightning']","['Reliability', 'User Experience', 'Stability']",delving-bitcoin-875-12-2942
+"['Forks', 'Mining', 'Attacks', 'Difficulty', 'Timestamping', 'Consensus']",[],delving-bitcoin-1062-6-2944
+"['Proof-of-Work', 'Mining', 'Difficulty', 'Timestamping', 'Consensus']",[],delving-bitcoin-1062-7-2945
+"['Timestamping', 'Consensus', 'Attacks']",[],delving-bitcoin-1062-8-2946
+"['Mining', 'Difficulty', 'Blockchain', 'Consensus']","['Manipulation', 'Rules']",delving-bitcoin-1062-9-2947
