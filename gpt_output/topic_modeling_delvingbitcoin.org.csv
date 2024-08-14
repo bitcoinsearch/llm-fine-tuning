@@ -1603,3 +1603,9 @@ primary_topics,secondary_topics,source_id
 "['Proof-of-Work', 'Mining', 'Difficulty', 'Timestamping', 'Consensus']",[],delving-bitcoin-1062-7-2945
 "['Timestamping', 'Consensus', 'Attacks']",[],delving-bitcoin-1062-8-2946
 "['Mining', 'Difficulty', 'Blockchain', 'Consensus']","['Manipulation', 'Rules']",delving-bitcoin-1062-9-2947
+"['Blockchain', 'Forks', 'Consensus', 'Validation', 'Mining', 'Timestamping', 'Difficulty']",[],delving-bitcoin-1062-12-2950
+"['Blockchain', 'Forks', 'Consensus', 'Mining', 'Timestamping']",[],delving-bitcoin-1062-14-2952
+"['Blockchain', 'Consensus', 'Mining', 'Difficulty']","['Timestamps', 'Block Rate']",delving-bitcoin-1062-11-2949
+"['Attacks', 'Blockchain', 'Consensus', 'Mining', 'Timestamping', 'Difficulty']",[],delving-bitcoin-1062-10-2948
+"['Timestamping', 'Forks', 'Consensus', 'Validation']",[],delving-bitcoin-1062-13-2951
+"['Timestamping', 'Proof-of-Work', 'Consensus', 'Mining']",[],delving-bitcoin-1062-15-2953
