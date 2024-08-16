@@ -1613,3 +1613,6 @@ primary_topics,secondary_topics,source_id
 ['Research'],"['Summary', 'Communication']",delving-bitcoin-1062-19-2960
 [],"['Logistics', 'Transportation']",delving-bitcoin-1062-18-2959
 "['Timestamping', 'Consensus', 'Security', 'Mining']",[],delving-bitcoin-1062-16-2955
+"['Forks', 'Consensus', 'Timestamping', 'Blockchain', 'Difficulty', 'Regulation']",[],delving-bitcoin-1062-20-2963
+"['Timestamping', 'Blockchain', 'Consensus']",[],delving-bitcoin-1062-21-2964
+"['Security', 'Layer 2', 'Mining', 'Consensus', 'Fees', 'Blocksize']",[],delving-bitcoin-941-25-2961
