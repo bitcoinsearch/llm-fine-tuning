@@ -1616,3 +1616,4 @@ primary_topics,secondary_topics,source_id
 "['Forks', 'Consensus', 'Timestamping', 'Blockchain', 'Difficulty', 'Regulation']",[],delving-bitcoin-1062-20-2963
 "['Timestamping', 'Blockchain', 'Consensus']",[],delving-bitcoin-1062-21-2964
 "['Security', 'Layer 2', 'Mining', 'Consensus', 'Fees', 'Blocksize']",[],delving-bitcoin-941-25-2961
+"['Validation', 'Mempool', 'Research', 'Fees']",['Analysis'],delving-bitcoin-1077-1-2979
