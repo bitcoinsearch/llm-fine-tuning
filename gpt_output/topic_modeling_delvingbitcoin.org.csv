@@ -1617,3 +1617,9 @@ primary_topics,secondary_topics,source_id
 "['Timestamping', 'Blockchain', 'Consensus']",[],delving-bitcoin-1062-21-2964
 "['Security', 'Layer 2', 'Mining', 'Consensus', 'Fees', 'Blocksize']",[],delving-bitcoin-941-25-2961
 "['Validation', 'Mempool', 'Research', 'Fees']",['Analysis'],delving-bitcoin-1077-1-2979
+"['Validation', 'Consensus', 'Research', 'Mempool']",[],delving-bitcoin-1077-3-2997
+"['Soft Fork', 'BIP', 'Miners', 'Consensus']",['Activation'],delving-bitcoin-1078-1-2995
+[],[],delving-bitcoin-1077-2-2996
+"['Segregated Witness', 'Fees', 'Research', 'Scalability', 'Mining', 'Bitcoin Core', 'Testing', 'Consensus']",[],delving-bitcoin-1078-2-2999
+"['Soft Fork', 'Transactions', 'BIP', 'Miners', 'Consensus']","['Network Upgrades', 'Signaling', 'Community', 'Activation', 'Decentralized']",combined_BIP-8-5-Flag-day-activation-based-on-nLockTime-signaling
+"['Blockchain', 'Mempool', 'Transactions']","['Block Template', 'Data Set', 'Block Transaction Data', 'Reliability', 'Validity', 'Node', 'Groups', 'Statistical Method', 'GitHub', 'Analysis', 'Scope', 'Blockchain Transactions', 'Variability']",combined_Casual-research-on-running-mempoolfullrbf-
