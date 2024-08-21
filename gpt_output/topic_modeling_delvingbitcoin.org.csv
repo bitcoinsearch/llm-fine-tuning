@@ -1623,3 +1623,21 @@ primary_topics,secondary_topics,source_id
 "['Segregated Witness', 'Fees', 'Research', 'Scalability', 'Mining', 'Bitcoin Core', 'Testing', 'Consensus']",[],delving-bitcoin-1078-2-2999
 "['Soft Fork', 'Transactions', 'BIP', 'Miners', 'Consensus']","['Network Upgrades', 'Signaling', 'Community', 'Activation', 'Decentralized']",combined_BIP-8-5-Flag-day-activation-based-on-nLockTime-signaling
 "['Blockchain', 'Mempool', 'Transactions']","['Block Template', 'Data Set', 'Block Transaction Data', 'Reliability', 'Validity', 'Node', 'Groups', 'Statistical Method', 'GitHub', 'Analysis', 'Scope', 'Blockchain Transactions', 'Variability']",combined_Casual-research-on-running-mempoolfullrbf-
+"['Cryptography', 'FROST', 'Threshold Signatures', 'ECDSA', 'MuSig']","['BIP340', 'Hashing']",delving-bitcoin-1081-2-3004
+"['Forks', 'Segwit', 'Consensus', 'Soft Fork', 'Transactions', 'Bitcoin Core', 'Testing', 'Validation', 'Mining']","['Coinbase Transaction', 'GitHub', 'Pull Request', 'Block Height']",delving-bitcoin-710-27-3002
+"['Cryptography', 'Forks', 'Timelocks', 'Scriptsig', 'Consensus', 'Soft Fork', 'Compiling', 'Proof-of-Stake', 'Proof-of-Work', 'Schnorr', 'Script', 'Segregated Witness', 'Validation', 'Hashlocks']",[],delving-bitcoin-1080-1-3001
+"['Verification', 'Nonce', 'ECDSA', 'PSBT']","['Cryptographic Operations', 'Schnorr Signatures', 'Signature Generation', 'Hashing', 'Private Key', 'Generator Point']",delving-bitcoin-1081-1-3003
+"['BIP', 'Locktime']",[],delving-bitcoin-1078-6-3010
+"['Cryptography', 'ECDSA', 'Schnorr']","['Greg Maxwell', 'BitcoinTalk']",delving-bitcoin-1081-3-3006
+"['Security', 'Forks', 'Timestamping', 'Consensus', 'Mining']",[],delving-bitcoin-1062-22-3009
+"['Forks', 'Miners', 'Consensus', 'Transactions', 'Mining']",['Censorship'],delving-bitcoin-1078-4-3005
+"['Security', 'Privacy']","['Lightning Network', 'Blockchain Technology']",delving-bitcoin-916-8-3015
+"['BIP', 'Locktime']",['Activation'],delving-bitcoin-1078-5-3008
+['Decentralization'],"['Digital Currency Systems', 'Governance', 'Bitcoin Improvement Proposals']",delving-bitcoin-958-7-3014
+"['BIP', 'Locktime']",[],delving-bitcoin-1078-7-3011
+"['Fraud', 'Privacy']","['Escrow Services', 'Lightning Networks', 'Darknet Markets']",delving-bitcoin-916-7-3012
+"['Security', 'Lightning', 'Privacy']",['Escrow'],delving-bitcoin-916-9-3016
+"['Forks', 'Consensus', 'Soft Fork', 'Bitcoin Core']","['Economic Incentives', 'Node Operators', 'Community Agreement']",delving-bitcoin-958-6-3013
+"['Cryptography', 'Libsecp256k1', 'Consensus', 'Validation', 'Hashlocks', 'Public-key']",[],delving-bitcoin-1081-4-3007
+"['Cryptography', 'Security', 'FROST', 'Verification', 'Nonce', 'Hash', 'Signature', 'ECDSA', 'Schnorr', 'PSBT']","['Scheme', 'MuSig2', 'Greg Maxwell', 'Hash Function', 'Transparency', 'Public Key']",combined_Non-interactive-anti-exfil-airgap-compatible-
+"['Forks', 'Miners', 'Blockchain', 'Consensus', 'Transactions', 'Segregated Witness', 'Validation', 'Mining']",[],combined_BIP-Draft-Flag-day-activation-based-on-nLockTime-signaling
