@@ -1641,3 +1641,21 @@ primary_topics,secondary_topics,source_id
 "['Cryptography', 'Libsecp256k1', 'Consensus', 'Validation', 'Hashlocks', 'Public-key']",[],delving-bitcoin-1081-4-3007
 "['Cryptography', 'Security', 'FROST', 'Verification', 'Nonce', 'Hash', 'Signature', 'ECDSA', 'Schnorr', 'PSBT']","['Scheme', 'MuSig2', 'Greg Maxwell', 'Hash Function', 'Transparency', 'Public Key']",combined_Non-interactive-anti-exfil-airgap-compatible-
 "['Forks', 'Miners', 'Blockchain', 'Consensus', 'Transactions', 'Segregated Witness', 'Validation', 'Mining']",[],combined_BIP-Draft-Flag-day-activation-based-on-nLockTime-signaling
+['Security'],[],delving-bitcoin-1081-5-3024
+"['Forks', 'Security', 'Mining', 'Validation', 'Consensus', 'Timestamping']",[],delving-bitcoin-1062-23-3023
+"['Security', 'Cryptography', 'Consensus', 'Validation', 'Threshold Signatures', 'Error', 'Privacy', 'Research']",[],delving-bitcoin-1081-12-3032
+"['Mining', 'Blockchain', 'Consensus', 'Timestamping', 'Network', 'ASIC']",['Propagation Delay'],delving-bitcoin-1062-26-3034
+"['Mining', 'Pools', 'BIP', 'Consensus']",[],delving-bitcoin-1078-8-3038
+"['Security', 'Proof-of-Work', 'Validation', 'Nonce']","['Firmware', 'Detection', 'Risk', 'Hardware']",delving-bitcoin-1081-6-3025
+"['Forks', 'Mining', 'Consensus', 'Timestamping', 'Miners']","['Network Security', 'Selfish Mining', 'Propagation', 'Block Propagation', 'Orphan Rate']",delving-bitcoin-1062-25-3033
+"['Mining', 'Timestamping', 'Consensus']",[],delving-bitcoin-1062-27-3036
+"['Cryptography', 'Threshold Signatures']",[],delving-bitcoin-1081-9-3029
+"['Legal', 'Regulation']",[],delving-bitcoin-1085-1-3020
+"['Cryptography', 'Consensus', 'Security']",[],delving-bitcoin-1081-11-3031
+"['Cryptography', 'Security']",[],delving-bitcoin-1081-13-3035
+"['Timestamping', 'Forks', 'Consensus']",[],delving-bitcoin-1062-24-3027
+"['Hardware Wallet', 'Attacks', 'Privacy', 'Security']",[],delving-bitcoin-1081-10-3030
+"['Fuzzing', 'Security', 'Cryptography', 'Consensus', 'Privacy']",[],delving-bitcoin-1081-7-3026
+"['Cryptography', 'Proof-of-Work', 'Security']",[],delving-bitcoin-1081-8-3028
+"['Fees', 'Privacy', 'Security', 'Ux']",[],delving-bitcoin-1085-2-3037
+['Legal'],['Community Guidelines'],combined_Flagging-posts-topics
