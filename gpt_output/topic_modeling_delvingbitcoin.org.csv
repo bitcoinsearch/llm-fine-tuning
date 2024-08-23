@@ -1659,3 +1659,12 @@ primary_topics,secondary_topics,source_id
 "['Cryptography', 'Proof-of-Work', 'Security']",[],delving-bitcoin-1081-8-3028
 "['Fees', 'Privacy', 'Security', 'Ux']",[],delving-bitcoin-1085-2-3037
 ['Legal'],['Community Guidelines'],combined_Flagging-posts-topics
+['Lightning'],"['Financial Implications', 'HTLC', 'Escrow', 'Hash Time Locked Contracts']",delving-bitcoin-916-11-3042
+"['Lnd', 'Lightning']","['Flexibility', 'Escrow']",delving-bitcoin-916-10-3041
+"['Consensus', 'Research', 'Validation', 'Forks']",[],delving-bitcoin-1087-2-3040
+"['Privacy', 'Smart Contracts', 'RGB', 'Scalability']",['Lightning Network Protocol'],delving-bitcoin-1087-1-3039
+"['Threshold Signatures', 'Privacy', 'Schnorr', 'Lightning', 'Scalability', 'FROST']",[],delving-bitcoin-916-12-3043
+[],[],delving-bitcoin-1088-1-3045
+"['Consensus', 'Timestamping']",[],delving-bitcoin-1062-28-3044
+"['Smart Contracts', 'Layer 2', 'Lightning', 'Security', 'Bitcoin Core', 'Research', 'Wallet']",[],combined_Where-to-post-information-about-new-protocol-releases-
+"['Consensus', 'Soft Fork', 'Script', 'Segwit', 'Validation', 'Covenants', 'Forks']","['Opcode', 'Hashing']",combined_Combined-CTV-APO-into-minimal-TXHASH-CSFS
