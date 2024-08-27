@@ -1670,3 +1670,11 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Soft Fork', 'Script', 'Segwit', 'Validation', 'Covenants', 'Forks']","['Opcode', 'Hashing']",combined_Combined-CTV-APO-into-minimal-TXHASH-CSFS
 [],"['Government Intervention', 'Deflationary', 'Bitcoin', 'Monetary System', 'Central Banks', 'Currency Issuance', 'Proof of Work']",delving-bitcoin-22-16-3049
 "['Segregated Witness', 'Bitcoin Core', 'Transactions', 'Consensus']","['Bitcoin Dev Forum', 'Block Hash']",delving-bitcoin-710-28-3052
+"['Privacy', 'Validation', 'Consensus', 'Merkle Trees', 'SPV', 'Network', 'Blockchain', 'Security', 'Proof-of-Work']",['Developers'],delving-bitcoin-710-31-3056
+"['BIP', 'Segregated Witness', 'Validation', 'Script', 'Merkle Trees', 'Forks', 'Consensus', 'Proof-of-Work', 'Bitcoin Core']",['Lightweight clients'],delving-bitcoin-710-29-3054
+"['Security', 'Merkle Trees', 'Consensus']",['Documentation'],delving-bitcoin-710-33-3058
+"['Research', 'Merkle Trees', 'Consensus']",[],delving-bitcoin-710-34-3059
+"['Mempool', 'P2P']","['Network Health', 'Network Usage Trends', 'Statistics Monitoring', 'Local Policy', 'Score Metric', 'Node Operators', 'Policy Evolution']",delving-bitcoin-1077-5-3062
+"['Mempool', 'Transactions', 'Blockchain']","['BIP125', 'Blockchain Technology', 'Data Analysis', 'Visualization']",delving-bitcoin-1077-4-3061
+"['Soft Fork', 'Security', 'Consensus']",[],delving-bitcoin-710-30-3055
+"['Validation', 'Transactions', 'Forks', 'Consensus']","['Block Hashes', 'Denial of Service (DoS) Attacks']",delving-bitcoin-710-32-3057
