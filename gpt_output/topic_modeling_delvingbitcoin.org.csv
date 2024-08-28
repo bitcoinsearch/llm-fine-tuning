@@ -1678,3 +1678,9 @@ primary_topics,secondary_topics,source_id
 "['Mempool', 'Transactions', 'Blockchain']","['BIP125', 'Blockchain Technology', 'Data Analysis', 'Visualization']",delving-bitcoin-1077-4-3061
 "['Soft Fork', 'Security', 'Consensus']",[],delving-bitcoin-710-30-3055
 "['Validation', 'Transactions', 'Forks', 'Consensus']","['Block Hashes', 'Denial of Service (DoS) Attacks']",delving-bitcoin-710-32-3057
+"['Merkle Trees', 'Validation', 'Consensus', 'Transaction-ID', 'Locktime', 'SHA256', 'Segwit']",[],delving-bitcoin-710-35-3063
+"['Merkle Trees', 'Validation', 'Storage', 'Consensus', 'Segwit']",['Bandwidth'],delving-bitcoin-710-40-3070
+"['Electrum', 'SPV', 'Consensus', 'Scalability', 'Bitcoin Core']","['Coinbase Transactions', 'Satoshi Nakamoto', 'Network Economics', 'DoS attacks', 'BIP157', 'Security Measures', 'Full Node']",delving-bitcoin-710-38-3066
+"['Fees', 'Merkle Trees', 'Halving', 'Proof-of-Work', 'Consensus', 'Segregated Witness']",['Blockstream'],delving-bitcoin-710-37-3065
+"['Blockchain', 'Security', 'SPV', 'Consensus', 'Forks']","['Efficiency', 'DoS Attacks', 'Block Hash', 'Malleation']",delving-bitcoin-710-36-3064
+"['Database', 'Security', 'API']","['Inclusive Dialogue', 'Community Engagement', 'Searchability', 'Scraping', 'Historical Record', 'Technical Considerations', 'Ethical Considerations', 'Archival', 'Transparency']",combined_Public-archive-for-Delving-Bitcoin
