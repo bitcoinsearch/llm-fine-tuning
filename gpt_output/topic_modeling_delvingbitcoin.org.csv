@@ -1684,3 +1684,5 @@ primary_topics,secondary_topics,source_id
 "['Fees', 'Merkle Trees', 'Halving', 'Proof-of-Work', 'Consensus', 'Segregated Witness']",['Blockstream'],delving-bitcoin-710-37-3065
 "['Blockchain', 'Security', 'SPV', 'Consensus', 'Forks']","['Efficiency', 'DoS Attacks', 'Block Hash', 'Malleation']",delving-bitcoin-710-36-3064
 "['Database', 'Security', 'API']","['Inclusive Dialogue', 'Community Engagement', 'Searchability', 'Scraping', 'Historical Record', 'Technical Considerations', 'Ethical Considerations', 'Archival', 'Transparency']",combined_Public-archive-for-Delving-Bitcoin
+"['Transactions', 'Fees', 'Privacy', 'Bitcoin Core', 'Mining']",[],delving-bitcoin-934-12-3076
+"['Stratum-V2', 'Pools', 'Fees', 'Research', 'Mining']",[],delving-bitcoin-1099-1-3073
