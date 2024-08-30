@@ -1686,3 +1686,6 @@ primary_topics,secondary_topics,source_id
 "['Database', 'Security', 'API']","['Inclusive Dialogue', 'Community Engagement', 'Searchability', 'Scraping', 'Historical Record', 'Technical Considerations', 'Ethical Considerations', 'Archival', 'Transparency']",combined_Public-archive-for-Delving-Bitcoin
 "['Transactions', 'Fees', 'Privacy', 'Bitcoin Core', 'Mining']",[],delving-bitcoin-934-12-3076
 "['Stratum-V2', 'Pools', 'Fees', 'Research', 'Mining']",[],delving-bitcoin-1099-1-3073
+"['Transactions', 'Replace-By-Fee', 'Research', 'Mempool']",['Core'],delving-bitcoin-1077-6-3082
+"['Blockchain', 'Smart Contracts', 'Soft Fork', 'Taproot', 'Script', 'Covenants', 'Scalability']","['Expressibility', 'STARK', 'Decentralized applications', 'Off-chain computations', 'Integrity', 'Safety', 'Statefulness', 'Flexibility']",delving-bitcoin-1106-1-3081
+"['Proof-of-Work', 'Bitcoin Core', 'Mining', 'bitcoin-core-development', 'Forks']",[],delving-bitcoin-937-4-3083
