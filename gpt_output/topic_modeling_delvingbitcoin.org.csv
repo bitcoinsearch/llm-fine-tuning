@@ -1692,3 +1692,6 @@ primary_topics,secondary_topics,source_id
 "['Forks', 'Consensus', 'Research']",[],delving-bitcoin-1077-7-3087
 "['Security', 'C-Lightning', 'Privacy']",[],delving-bitcoin-1046-6-3089
 "['Privacy', 'Trust']","['Oracle-Based Contracts', 'Optimization', 'DLCs', 'Efficiency', 'Scriptless Design', 'Bitcoin-Secured Loans']",delving-bitcoin-1112-1-3091
+"['Research', 'Blockchain', 'Forks', 'Consensus', 'Validation', 'Merkle Trees']",[],delving-bitcoin-710-41-3092
+"['Testing', 'Security', 'Attacks', 'Cryptography']","['Private Key', 'Transaction ID']",delving-bitcoin-1081-14-3095
+"['Soft Fork', 'Mining', 'SPV', 'Forks', 'Consensus', 'Validation', 'Merkle Trees', 'Bitcoin Core', 'Segregated Witness', 'Scalability', 'Miners']","['BIP8/9', 'BIP320']",delving-bitcoin-710-42-3094
