@@ -1695,3 +1695,8 @@ primary_topics,secondary_topics,source_id
 "['Research', 'Blockchain', 'Forks', 'Consensus', 'Validation', 'Merkle Trees']",[],delving-bitcoin-710-41-3092
 "['Testing', 'Security', 'Attacks', 'Cryptography']","['Private Key', 'Transaction ID']",delving-bitcoin-1081-14-3095
 "['Soft Fork', 'Mining', 'SPV', 'Forks', 'Consensus', 'Validation', 'Merkle Trees', 'Bitcoin Core', 'Segregated Witness', 'Scalability', 'Miners']","['BIP8/9', 'BIP320']",delving-bitcoin-710-42-3094
+"['Mining', 'Consensus', 'Transaction-Verification', 'Merkle Trees', 'Blockchain', 'SHA256', 'Validation']",[],delving-bitcoin-710-44-3098
+"['Cryptography', 'Security']",[],delving-bitcoin-1081-16-3099
+"['UTXO', 'Consensus', 'Merkle Trees', 'Segregated Witness', 'Validation']",[],delving-bitcoin-710-43-3096
+"['Schnorr', 'Cryptography', 'Security', 'Hash', 'Wallet']","['Private Key', 'Public Key']",delving-bitcoin-1081-15-3097
+"['SPV', 'Consensus', 'Merkle Trees', 'Blockchain', 'Segregated Witness', 'Validation', 'Soft Fork', 'Forks']",[],delving-bitcoin-710-45-3100
