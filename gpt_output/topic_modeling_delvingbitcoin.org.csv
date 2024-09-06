@@ -1700,3 +1700,9 @@ primary_topics,secondary_topics,source_id
 "['UTXO', 'Consensus', 'Merkle Trees', 'Segregated Witness', 'Validation']",[],delving-bitcoin-710-43-3096
 "['Schnorr', 'Cryptography', 'Security', 'Hash', 'Wallet']","['Private Key', 'Public Key']",delving-bitcoin-1081-15-3097
 "['SPV', 'Consensus', 'Merkle Trees', 'Blockchain', 'Segregated Witness', 'Validation', 'Soft Fork', 'Forks']",[],delving-bitcoin-710-45-3100
+"['Academia', 'Mining', 'Consensus', 'Stratum-V2', 'Fees', 'Research']",['PPLNS'],delving-bitcoin-1099-2-3105
+"['Security', 'Transactions', 'Privacy', 'Silent Payments']",['Address Reuse'],delving-bitcoin-1081-17-3101
+['Wallet'],"['Reference Implementation', 'Encoding', 'Decoding', 'Exportation', 'Recovery', 'File Format', 'Metadata', 'Descriptor', 'Standardized Format']",delving-bitcoin-1115-1-3104
+"['Pools', 'Mining', 'Nodes', 'Mempool', 'Consensus', 'Stratum-V2', 'Fees']",['Centralization'],delving-bitcoin-1099-3-3106
+['Consensus'],[],delving-bitcoin-710-46-3107
+"['Fairness', 'Pools', 'Academia', 'Mining', 'Decentralization', 'Consensus', 'Stratum-V2', 'Transactions', 'Blockchain', 'Fees', 'Research']",[],combined_PPLNS-with-job-declaration
