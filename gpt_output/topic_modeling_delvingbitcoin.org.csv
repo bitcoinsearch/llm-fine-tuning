@@ -1706,3 +1706,33 @@ primary_topics,secondary_topics,source_id
 "['Pools', 'Mining', 'Nodes', 'Mempool', 'Consensus', 'Stratum-V2', 'Fees']",['Centralization'],delving-bitcoin-1099-3-3106
 ['Consensus'],[],delving-bitcoin-710-46-3107
 "['Fairness', 'Pools', 'Academia', 'Mining', 'Decentralization', 'Consensus', 'Stratum-V2', 'Transactions', 'Blockchain', 'Fees', 'Research']",[],combined_PPLNS-with-job-declaration
+"['Security', 'Validation', 'Cryptography', 'Merkle Trees']",[],delving-bitcoin-1099-16-3128
+"['Security', 'Merkle Trees']","['Performance Benefits', 'Implementation Challenges', 'Caching']",delving-bitcoin-1099-28-3140
+"['Pools', 'Consensus', 'Mining']",[],delving-bitcoin-1099-24-3136
+"['Security', 'Consensus', 'Validation']",[],delving-bitcoin-1099-18-3130
+"['Security', 'Pools', 'Consensus', 'Mining', 'Validation']",[],delving-bitcoin-1099-9-3120
+"['Miners', 'Mining', 'Consensus', 'Validation']",[],delving-bitcoin-1099-8-3119
+"['Consensus', 'Incentives', 'Miners', 'Mining', 'Decentralization']",['Documentation'],delving-bitcoin-1099-21-3133
+[],['Source Code'],delving-bitcoin-1099-13-3125
+['P2pool'],[],delving-bitcoin-1099-15-3127
+"['Pools', 'Consensus', 'Mining']",[],delving-bitcoin-1099-5-3115
+"['Cryptography', 'Security', 'Privacy', 'Consensus', 'Validation']",[],delving-bitcoin-1099-19-3131
+"['Security', 'Merkle Trees', 'Privacy', 'Consensus', 'Validation']",[],delving-bitcoin-1099-20-3132
+"['Privacy', 'Security', 'Cryptography']",[],delving-bitcoin-1046-7-3113
+"['Cryptography', 'Merkle Trees']",[],delving-bitcoin-1099-17-3129
+"['Research', 'Consensus', 'Validation']",[],delving-bitcoin-1099-30-3143
+"['Pools', 'Consensus', 'Validation', 'Merkle Trees']",[],delving-bitcoin-1099-14-3126
+"['Cryptography', 'Storage', 'Merkle Trees', 'Blockchain']","['System Performance', 'Systems Architecture', 'Optimization', 'Efficiency', 'Processing Speed', 'Distributed Ledger Technologies', 'Software Engineering', 'Engineering Strategies', 'Data Structures', 'Resource Management']",delving-bitcoin-1099-26-3138
+['Mining'],"['Optimization', 'Hashing Algorithms', 'Data Processing Strategies']",delving-bitcoin-1099-27-3139
+"['Consensus', 'Mining', 'Validation']",[],delving-bitcoin-1099-29-3141
+"['Cryptography', 'Security', 'Merkle Trees', 'Privacy', 'Consensus', 'Validation']",[],delving-bitcoin-1099-22-3134
+"['Server', 'Scalability', 'Research', 'Network', 'Protocol', 'Client']","['Communication', 'Performance', 'Data Types', 'Documentation', 'Messages']",delving-bitcoin-1099-12-3123
+"['Pools', 'Consensus', 'Mining', 'Security']",[],delving-bitcoin-1099-23-3135
+"['Privacy', 'Multisig', 'Forks', 'Signature', 'Consensus', 'Mining', 'Validation']",[],delving-bitcoin-1099-6-3117
+"['Validation', 'Merkle Trees']",[],delving-bitcoin-1099-25-3137
+"['Security', 'Research', 'Bitcoin Core', 'Testing', 'Fuzzing']",[],delving-bitcoin-1119-1-3142
+"['Fairness', 'Mining', 'Fees']",[],delving-bitcoin-1099-4-3108
+"['Security', 'Decentralization', 'Proof-of-Work', 'Consensus', 'Mining', 'Fairness']",[],delving-bitcoin-1099-7-3118
+"['Stratum-V2', 'Protocol', 'Pools', 'Mining']","['Collaboration', 'Efficiency', 'Communication', 'Innovation', 'Resource Allocation']",delving-bitcoin-1099-11-3122
+"['Research', 'Academia']",['Collaboration'],delving-bitcoin-1099-31-3144
+"['Pools', 'Consensus', 'Mining']",[],delving-bitcoin-1099-10-3121
