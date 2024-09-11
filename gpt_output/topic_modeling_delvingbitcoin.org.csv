@@ -1738,3 +1738,8 @@ primary_topics,secondary_topics,source_id
 "['Pools', 'Consensus', 'Mining']",[],delving-bitcoin-1099-10-3121
 [],"['License', 'GitHub', 'Open Source']",delving-bitcoin-1122-1-3148
 "['Mining', 'Consensus']",[],delving-bitcoin-1099-32-3147
+"['Consensus', 'Pools', 'Validation', 'Mining']",[],delving-bitcoin-1099-33-3150
+['Onion'],"['Proof-of-Concept', 'I2P', 'BIP155', 'Cjdns', 'DNS', 'TXT records']",delving-bitcoin-1123-3-3152
+['Testing'],"['Documentation', 'Network programming', 'DNS seeds']",delving-bitcoin-1123-2-3151
+"['Bitcoin Core', 'Network', 'Consensus', 'Onion', 'Cryptography', 'BIP', 'Forks', 'Segregated Witness', 'Proof-of-Work']",['Darknet'],delving-bitcoin-1123-1-3149
+['Onion'],"['getaddrinfo', 'PoC darknet seeder project', 'I2P', 'DoS attack', 'NULL records', 'BIP155', 'v26 release', 'mixed clearnet-darknet nodes', 'resilience', 'decentralized digital currency networks', 'Cjdns', 'darknet-only nodes', 'IP addresses', 'DNS seeds', 'hardcoded seed data', 'TXT records', 'accessibility']",combined_Hardcoded-seeds-DNS-seeds-and-Darknet-nodes
