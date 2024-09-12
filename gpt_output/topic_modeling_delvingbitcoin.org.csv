@@ -1743,3 +1743,7 @@ primary_topics,secondary_topics,source_id
 ['Testing'],"['Documentation', 'Network programming', 'DNS seeds']",delving-bitcoin-1123-2-3151
 "['Bitcoin Core', 'Network', 'Consensus', 'Onion', 'Cryptography', 'BIP', 'Forks', 'Segregated Witness', 'Proof-of-Work']",['Darknet'],delving-bitcoin-1123-1-3149
 ['Onion'],"['getaddrinfo', 'PoC darknet seeder project', 'I2P', 'DoS attack', 'NULL records', 'BIP155', 'v26 release', 'mixed clearnet-darknet nodes', 'resilience', 'decentralized digital currency networks', 'Cjdns', 'darknet-only nodes', 'IP addresses', 'DNS seeds', 'hardcoded seed data', 'TXT records', 'accessibility']",combined_Hardcoded-seeds-DNS-seeds-and-Darknet-nodes
+"['Privacy', 'P2P', 'Tor']",['DNS seeds'],delving-bitcoin-1123-6-3163
+[],"['NULL Records', 'Efficiency', 'TXT Records', 'Infrastructure', 'Cryptocurrency Networks', 'Caching', 'Bitcoin Network', 'Binary Data', 'Pull Request', 'DNS']",delving-bitcoin-1123-5-3160
+"['Transactions', 'Fees', 'Bitcoind', 'UTXO']","['Simulation', 'Coin Selection']",delving-bitcoin-600-13-3162
+"['C++', 'Protocol']","['UDP', 'DNS']",delving-bitcoin-1123-4-3159
