@@ -1747,3 +1747,11 @@ primary_topics,secondary_topics,source_id
 [],"['NULL Records', 'Efficiency', 'TXT Records', 'Infrastructure', 'Cryptocurrency Networks', 'Caching', 'Bitcoin Network', 'Binary Data', 'Pull Request', 'DNS']",delving-bitcoin-1123-5-3160
 "['Transactions', 'Fees', 'Bitcoind', 'UTXO']","['Simulation', 'Coin Selection']",delving-bitcoin-600-13-3162
 "['C++', 'Protocol']","['UDP', 'DNS']",delving-bitcoin-1123-4-3159
+"['Bitcoin Core', 'Testing']",['Bitcoin Core Development'],delving-bitcoin-1119-2-3169
+"['Bitcoin Core', 'P2P', 'Onion']","['IPv6', 'Technical Details', 'Implementation', 'Encoding']",delving-bitcoin-1123-8-3172
+['Bitcoin Core'],[],delving-bitcoin-1119-3-3173
+"['Bitcoin Core', 'Cryptography']",['DNS'],delving-bitcoin-1123-7-3166
+"['Proof-of-Work', 'Consensus', 'Forks', 'Research', 'Blockchain', 'Mining', 'Security']",[],delving-bitcoin-1128-1-3165
+['Onion'],"['Network Protocols', 'DNS', 'IPv6', 'Data Transmission', 'Encoding']",delving-bitcoin-1123-9-3174
+['Validation'],['DNS seeds'],delving-bitcoin-1123-10-3175
+"['Bitcoin Core', 'Testing', 'Fuzzing', 'Research', 'Security']",[],combined_Mutation-core-A-mutation-testing-tool-for-Bitcoin-Core
