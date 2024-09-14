@@ -1755,3 +1755,10 @@ primary_topics,secondary_topics,source_id
 ['Onion'],"['Network Protocols', 'DNS', 'IPv6', 'Data Transmission', 'Encoding']",delving-bitcoin-1123-9-3174
 ['Validation'],['DNS seeds'],delving-bitcoin-1123-10-3175
 "['Bitcoin Core', 'Testing', 'Fuzzing', 'Research', 'Security']",[],combined_Mutation-core-A-mutation-testing-tool-for-Bitcoin-Core
+"['Consensus', 'Pools', 'Mining']",[],delving-bitcoin-1099-36-3180
+"['Consensus', 'P2pool']",[],delving-bitcoin-1099-35-3179
+"['Bitcoin Core', 'Research', 'Mining']",['Bitcoin mining mailing list'],delving-bitcoin-1128-2-3177
+"['Miners', 'Validation', 'Forks', 'Consensus', 'Proof-of-Work', 'Mining', 'Decentralization']",['Reward Schedule'],delving-bitcoin-1128-3-3182
+['P2pool'],[],delving-bitcoin-1099-37-3181
+"['Consensus', 'Transactions', 'Mining', 'Merkle Trees', 'Blockchain']",[],delving-bitcoin-1099-34-3178
+"['Forks', 'Consensus', 'Pools', 'Proof-of-Work', 'Mining', 'Blockchain', 'Research']",[],combined_Fork-withholding-attack
