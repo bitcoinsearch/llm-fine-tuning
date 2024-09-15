@@ -1762,3 +1762,8 @@ primary_topics,secondary_topics,source_id
 ['P2pool'],[],delving-bitcoin-1099-37-3181
 "['Consensus', 'Transactions', 'Mining', 'Merkle Trees', 'Blockchain']",[],delving-bitcoin-1099-34-3178
 "['Forks', 'Consensus', 'Pools', 'Proof-of-Work', 'Mining', 'Blockchain', 'Research']",[],combined_Fork-withholding-attack
+"['Layer 2', 'Cryptography', 'Privacy', 'Lightning', 'Onion', 'Routing', 'Security']","['Mobile Phone', 'BOLT8']",delving-bitcoin-1134-2-3187
+"['Privacy', 'Security', 'Lightning', 'Scalability']",[],delving-bitcoin-1134-1-3185
+"['Consensus', 'Network', 'Halving', 'Protocol']","['Economics', 'Community']",delving-bitcoin-1136-1-3188
+"['Custody', 'Decentralization', 'Security']",[],delving-bitcoin-1134-3-3190
+"['Layer 2', 'Privacy', 'Custody', 'Lightning', 'Onion', 'Routing', 'Security']","['BOLT12', 'BOLT8']",combined_Privately-sending-payments-while-offline-with-BOLT12
