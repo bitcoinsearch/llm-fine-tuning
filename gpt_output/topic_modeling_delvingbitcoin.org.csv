@@ -1774,3 +1774,17 @@ primary_topics,secondary_topics,source_id
 "['Verification', 'Zero-Knowledge', 'Scalability', 'UTXO']","['Benchmarking', 'Proof', 'Blockchain Technologies', 'Performance Metrics', 'Utreexo', 'Usability']",delving-bitcoin-1142-2-3200
 "['Lightning', 'Privacy', 'Blockchain', 'Zero-Knowledge', 'UTXO', 'Cryptography']","['GitHub', 'Data Integrity']",combined_Proving-UTXO-set-inclusion-in-zero-knowledge
 "['Consensus', 'Lightning', 'UTXO']","['Timeout Trees', 'Liquidity Management Services', 'Routing Fees', 'Offchain', 'Blockchain Operations', 'State Changes']",combined_SuperScalar-Laddered-Timeout-Tree-Structured-Decker-Wattenhofer-Factories
+"['Incentives', 'Validation']",[],delving-bitcoin-1143-5-3215
+"['Routing', 'Hashlocks', 'Fees', 'Lightning', 'Privacy', 'Consensus']",[],delving-bitcoin-1147-2-3213
+"['Hardware Wallet', 'Security', 'Lightning']","['Standardization', 'User Experience']",delving-bitcoin-1134-4-3208
+"['Halving', 'BIP', 'Merkle Trees', 'Consensus', 'Blockchain']",['Bitcoin'],delving-bitcoin-1136-2-3205
+"['Routing', 'Security', 'Attacks', 'Lightning', 'Research', 'Consensus']",[],delving-bitcoin-1147-1-3212
+"['UTXO', 'Lightning', 'Merkle Trees']","['Resale of UTXOs', 'Proof-of-Use-of-Blockspace', 'Channel', 'Public Key']",delving-bitcoin-1142-3-3203
+"['Lightning', 'Blockchain']","['Forced Expiration Spam', 'Timeout', 'Batch Processing']",delving-bitcoin-1143-4-3206
+['UTXO'],"['Double Spend', 'Lightning Network', 'Verification Mechanisms', 'Denial of Service', 'Channel Announcement']",delving-bitcoin-1142-4-3207
+"['UTXO', 'Security', 'Cryptography', 'Zero-Knowledge', 'Encryption']",[],delving-bitcoin-1142-7-3211
+"['Proof-of-Work', 'Research', 'Validation', 'Limitations', 'Privacy', 'Cryptography', 'Zero-Knowledge']",[],delving-bitcoin-1142-5-3209
+"['UTXO', 'Security', 'Merkle Trees', 'Zero-Knowledge']","['Lightning Network', 'Public Key']",delving-bitcoin-1142-6-3210
+"['Custody', 'Mining', 'Scalability', 'Halving', 'Consensus', 'Decentralization']","['Market Dynamics', 'Economics']",delving-bitcoin-1136-3-3216
+"['Consensus', 'Investing', 'Proof-of-Work', 'Mining', 'Fees', 'Protocol', 'Incentives', 'Custody', 'Halving', 'Blockchain']","['Source Code', 'Reward Schedule', 'Bitcoin Core Development', 'Scaling', 'Network Security', 'Community Size', 'Economic Theory', 'Empirical Testing', 'Bitcoin Economy', 'Historical Trade Data']",combined_Modeling-Social-Consensus-About-Cryptographic-Consensus-Change
+"['Routing', 'Security', 'Attacks', 'Lightning']","['Collaboration', 'Reputation', 'Efficiency']",combined_Hybrid-Jamming-Mitigation-Results-and-Updates
