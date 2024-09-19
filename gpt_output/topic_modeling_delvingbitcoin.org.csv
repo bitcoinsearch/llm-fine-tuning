@@ -1788,3 +1788,11 @@ primary_topics,secondary_topics,source_id
 "['Custody', 'Mining', 'Scalability', 'Halving', 'Consensus', 'Decentralization']","['Market Dynamics', 'Economics']",delving-bitcoin-1136-3-3216
 "['Consensus', 'Investing', 'Proof-of-Work', 'Mining', 'Fees', 'Protocol', 'Incentives', 'Custody', 'Halving', 'Blockchain']","['Source Code', 'Reward Schedule', 'Bitcoin Core Development', 'Scaling', 'Network Security', 'Community Size', 'Economic Theory', 'Empirical Testing', 'Bitcoin Economy', 'Historical Trade Data']",combined_Modeling-Social-Consensus-About-Cryptographic-Consensus-Change
 "['Routing', 'Security', 'Attacks', 'Lightning']","['Collaboration', 'Reputation', 'Efficiency']",combined_Hybrid-Jamming-Mitigation-Results-and-Updates
+"['Lightning', 'UTXO']","['Onchain', 'Offchain', 'CLTV']",delving-bitcoin-1143-9-3222
+"['Timelocks', 'Validation', 'Hashlocks', 'Consensus', 'Security']","['Stake', 'Reputation']",delving-bitcoin-1147-3-3218
+['Lightning'],"['JIT channel', 'Onchain', 'Optimistic locking', 'LSPs', 'Concurrency levels', 'Transactional memory', 'Liquidity management']",delving-bitcoin-1143-7-3219
+"['Synchronization', 'Transactions', 'Lightning', 'Routing']","['Factory', 'On-chain', 'Liquidity', 'Participants']",delving-bitcoin-1143-6-3217
+"['Proof-of-Work', 'Cryptography', 'UTXO', 'Zero-Knowledge', 'Accumulators']",[],delving-bitcoin-1142-8-3221
+"['Lightning', 'UTXO']",[],delving-bitcoin-1143-8-3220
+"['Merkle Trees', 'Scalability', 'Verification', 'UTXO', 'Lightning', 'Security']","['Ring Signatures', 'Double-Spending', 'Channel Announcements']",delving-bitcoin-1142-10-3226
+"['Taproot', 'UTXO', 'Zero-Knowledge']",['Proof'],delving-bitcoin-1142-9-3225
