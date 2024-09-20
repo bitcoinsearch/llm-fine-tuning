@@ -1796,3 +1796,7 @@ primary_topics,secondary_topics,source_id
 "['Lightning', 'UTXO']",[],delving-bitcoin-1143-8-3220
 "['Merkle Trees', 'Scalability', 'Verification', 'UTXO', 'Lightning', 'Security']","['Ring Signatures', 'Double-Spending', 'Channel Announcements']",delving-bitcoin-1142-10-3226
 "['Taproot', 'UTXO', 'Zero-Knowledge']",['Proof'],delving-bitcoin-1142-9-3225
+['Research'],"['Technology', 'Programming', 'Collaborative Effort']",delving-bitcoin-1099-38-3231
+"['Validation', 'Mining', 'Miners']",[],delving-bitcoin-1099-39-3232
+"['Pools', 'Mining']",[],delving-bitcoin-1099-40-3233
+"['Decentralization', 'Peer-Discovery', 'Privacy', 'Tor', 'Onion', 'P2P']","['CoinJoin', 'Centralized Communication', 'Directory Node']",delving-bitcoin-934-13-3234
