@@ -1800,3 +1800,7 @@ primary_topics,secondary_topics,source_id
 "['Validation', 'Mining', 'Miners']",[],delving-bitcoin-1099-39-3232
 "['Pools', 'Mining']",[],delving-bitcoin-1099-40-3233
 "['Decentralization', 'Peer-Discovery', 'Privacy', 'Tor', 'Onion', 'P2P']","['CoinJoin', 'Centralized Communication', 'Directory Node']",delving-bitcoin-934-13-3234
+"['Lightning', 'Consensus', 'Blockchain']",[],delving-bitcoin-1143-10-3240
+"['Privacy', 'Consensus', 'Decentralization']",[],delving-bitcoin-934-14-3237
+"['Security', 'Layer 2', 'Miners', 'Validation', 'Libsecp256k1', 'Research', 'Assumeutxo', 'Forks', 'Lightning', 'Privacy', 'Taproot', 'Cryptography', 'P2P', 'Hashlocks', 'Onion', 'Routing', 'Consensus', 'Segwit', 'Topology']",[],delving-bitcoin-934-17-3241
+"['Privacy', 'Consensus', 'Cryptography', 'Decentralization']",['Communication'],delving-bitcoin-934-15-3238
