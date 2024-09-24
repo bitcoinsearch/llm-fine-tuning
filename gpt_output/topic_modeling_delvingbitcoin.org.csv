@@ -1806,3 +1806,10 @@ primary_topics,secondary_topics,source_id
 "['Privacy', 'Consensus', 'Cryptography', 'Decentralization']",['Communication'],delving-bitcoin-934-15-3238
 "['Smart Contracts', 'Security', 'Covenants', 'Signature', 'Consensus']",[],delving-bitcoin-934-18-3242
 "['Cryptography', 'Research', 'Relay', 'Forks', 'Privacy']",[],delving-bitcoin-934-19-3244
+"['Taproot', 'Privacy', 'Fees', 'Security', 'Lightning']",[],delving-bitcoin-1143-12-3248
+"['PSBT', 'Transactions', 'Security']","['Software', 'Bug Fixing', 'Digital Wallets', 'Transaction Formats', 'Cryptocurrency', 'Wallets']",delving-bitcoin-934-21-3250
+"['Cryptography', 'Research', 'Security', 'Signet', 'Lightning']",[],delving-bitcoin-1143-11-3246
+['Onion'],"['AAA Records', 'Network Addresses', 'DNS', 'Encoding', 'IPv6']",delving-bitcoin-1123-11-3251
+"['Fungibility', 'Privacy', 'Decentralization']","['Peer Discovery', 'CoinJoin', 'Partially Signed Bitcoin Transactions (PSBTs)']",delving-bitcoin-934-20-3249
+"['Security', 'Hardware Wallet', 'Privacy', 'Lightning']",[],delving-bitcoin-1134-5-3245
+['Privacy'],"['Anonymity', 'Peer Groups', 'CoinJoin', 'Software Solutions']",delving-bitcoin-934-22-3252
