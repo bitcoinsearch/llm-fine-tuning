@@ -1813,3 +1813,15 @@ primary_topics,secondary_topics,source_id
 "['Fungibility', 'Privacy', 'Decentralization']","['Peer Discovery', 'CoinJoin', 'Partially Signed Bitcoin Transactions (PSBTs)']",delving-bitcoin-934-20-3249
 "['Security', 'Hardware Wallet', 'Privacy', 'Lightning']",[],delving-bitcoin-1134-5-3245
 ['Privacy'],"['Anonymity', 'Peer Groups', 'CoinJoin', 'Software Solutions']",delving-bitcoin-934-22-3252
+"['Lightning', 'UTXO', 'Network', 'Privacy', 'Security', 'Zero-Knowledge']",['Efficiency'],delving-bitcoin-1142-13-3262
+"['Research', 'Lightning', 'Network', 'Path-Finding', 'Routing']",['Multiparty'],delving-bitcoin-1163-2-3267
+"['Research', 'Development']","['Continuous Improvement', 'Programming Models', 'System Efficiency', 'Reliability', 'Programming Practices', 'Software Development', 'Excellence', 'Data Analysis', 'Adaptation', 'Technological Landscape', 'Software Engineering', 'Data Management', 'Innovation']",delving-bitcoin-1115-2-3256
+"['Blockchain', 'UTXO', 'Cryptography', 'Security', 'Zero-Knowledge']",[],delving-bitcoin-1142-12-3261
+"['Path-Finding', 'Network', 'Lightning', 'Routing', 'Topology']",['Flow-Based Algorithms'],delving-bitcoin-1163-3-3268
+"['Transactions', 'UTXO', 'Privacy', 'Security', 'Zero-Knowledge']","['Private Key', 'Cryptographic Operations', 'Public Key']",delving-bitcoin-1142-11-3260
+"['Lightning', 'Offline', 'Security', 'Trust', 'Limitations']","['Denomination flexibility', 'NFC technology', 'QR codes', 'Faraday Bags']",delving-bitcoin-1162-1-3265
+"['Lightning', 'UTXO', 'MuSig', 'Schnorr']","['Pathfinding Algorithms', 'Gossip Protocols', 'Onion Routing']",delving-bitcoin-1163-1-3266
+"['UTXO', 'Privacy', 'Zero-Knowledge']","['Lightning Network', 'Decentralized Networks']",delving-bitcoin-1142-15-3264
+"['UTXO', 'Limitations', 'Taproot', 'Hashlocks', 'Zero-Knowledge']",['Proofs'],delving-bitcoin-1142-14-3263
+['Wallet'],"['File Format', 'Decoding', 'Reference Implementation', 'Standards', 'Encoding', 'Export', 'Recovery', 'Standardization', 'Metadata', 'Output Descriptors', 'Descriptor', 'Rust']",combined_File-Format-for-Recovering-Descriptor-Wallets
+"['Lightning', 'Path-Finding', 'UTXO', 'MuSig']","['Multiparty', 'Onion Routing']",combined_A-Lightning-Network-of-multi-party-mechanisms
