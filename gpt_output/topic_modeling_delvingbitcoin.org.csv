@@ -1825,3 +1825,4 @@ primary_topics,secondary_topics,source_id
 "['UTXO', 'Limitations', 'Taproot', 'Hashlocks', 'Zero-Knowledge']",['Proofs'],delving-bitcoin-1142-14-3263
 ['Wallet'],"['File Format', 'Decoding', 'Reference Implementation', 'Standards', 'Encoding', 'Export', 'Recovery', 'Standardization', 'Metadata', 'Output Descriptors', 'Descriptor', 'Rust']",combined_File-Format-for-Recovering-Descriptor-Wallets
 "['Lightning', 'Path-Finding', 'UTXO', 'MuSig']","['Multiparty', 'Onion Routing']",combined_A-Lightning-Network-of-multi-party-mechanisms
+['Lightning'],"['Brittleness', 'Force-close', 'Multi-party mechanisms', 'HTLCs']",delving-bitcoin-1163-4-3270
