@@ -1826,3 +1826,10 @@ primary_topics,secondary_topics,source_id
 ['Wallet'],"['File Format', 'Decoding', 'Reference Implementation', 'Standards', 'Encoding', 'Export', 'Recovery', 'Standardization', 'Metadata', 'Output Descriptors', 'Descriptor', 'Rust']",combined_File-Format-for-Recovering-Descriptor-Wallets
 "['Lightning', 'Path-Finding', 'UTXO', 'MuSig']","['Multiparty', 'Onion Routing']",combined_A-Lightning-Network-of-multi-party-mechanisms
 ['Lightning'],"['Brittleness', 'Force-close', 'Multi-party mechanisms', 'HTLCs']",delving-bitcoin-1163-4-3270
+"['Covenants', 'Script']","['Optimization', 'Scaling', 'Efficiency']",delving-bitcoin-1080-2-3272
+"['Routing', 'Lightning', 'Custody', 'Consensus', 'Research', 'Security', 'Fuzzing']",[],delving-bitcoin-1147-4-3276
+"['Lightning', 'Consensus', 'Network']","['Modeling', 'Aggregate Effects', 'Distribution']",delving-bitcoin-973-8-3274
+"['Lightning', 'UTXO', 'Fees', 'Consensus', 'Security']",[],delving-bitcoin-1143-13-3271
+"['Hash', 'Covenants', 'Limitations', 'Verification', 'Multibit']","['Byte', 'Stack', 'Comparison', 'Efficiency']",delving-bitcoin-1080-3-3273
+[],"['Payments', 'Reputation', 'Network Security', 'Hashed Time-Locked Contract (HTLC)']",delving-bitcoin-1147-5-3277
+"['Validation', 'Forks', 'Cryptography', 'Proof-of-Stake', 'Segregated Witness', 'Consensus', 'Schnorr', 'Script', 'Hashlocks', 'Timelocks', 'Proof-of-Work', 'Scalability', 'Transaction-Verification', 'Soft Fork', 'Hard Fork']",[],combined_Efficient-Multi-Input-Transaction-Grinding-for-OP-CAT-based-Bitcoin-Covenants
