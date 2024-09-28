@@ -1833,3 +1833,5 @@ primary_topics,secondary_topics,source_id
 "['Hash', 'Covenants', 'Limitations', 'Verification', 'Multibit']","['Byte', 'Stack', 'Comparison', 'Efficiency']",delving-bitcoin-1080-3-3273
 [],"['Payments', 'Reputation', 'Network Security', 'Hashed Time-Locked Contract (HTLC)']",delving-bitcoin-1147-5-3277
 "['Validation', 'Forks', 'Cryptography', 'Proof-of-Stake', 'Segregated Witness', 'Consensus', 'Schnorr', 'Script', 'Hashlocks', 'Timelocks', 'Proof-of-Work', 'Scalability', 'Transaction-Verification', 'Soft Fork', 'Hard Fork']",[],combined_Efficient-Multi-Input-Transaction-Grinding-for-OP-CAT-based-Bitcoin-Covenants
+"['Script', 'Proof-of-Work', 'Mempool', 'Consensus']",[],delving-bitcoin-937-5-3278
+"['UTXO', 'Security', 'Fee Management']","['Scripting', 'Presigned Transactions', 'OP_VAULT', 'Efficiency', 'Recovery Mechanisms', 'Chain Usage']",combined_The-unsuitability-of-presigned-transactions-for-vaults
