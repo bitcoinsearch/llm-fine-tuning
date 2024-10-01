@@ -1838,3 +1838,5 @@ primary_topics,secondary_topics,source_id
 ['Fees'],"['Block Space', 'Liquidity Provision', 'Private Key']",delving-bitcoin-1143-15-3303
 "['Consensus', 'Forks', 'Validation']",['Fault-Tolerance'],delving-bitcoin-1143-14-3302
 "['Layer 2', 'Incentives', 'Routing', 'Privacy', 'Lightning', 'Smart Contracts', 'Fees', 'Research']",[],delving-bitcoin-1167-1-3280
+['Lightning'],['BOLT12'],delving-bitcoin-1167-2-3304
+['Lightning'],"['Invoice', 'Community-driven', 'Refund', 'Expiration', 'BLIP', 'Offer', 'BOLT12']",combined_Expanding-on-BOLT12
