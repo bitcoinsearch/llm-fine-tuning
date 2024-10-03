@@ -1840,3 +1840,7 @@ primary_topics,secondary_topics,source_id
 "['Layer 2', 'Incentives', 'Routing', 'Privacy', 'Lightning', 'Smart Contracts', 'Fees', 'Research']",[],delving-bitcoin-1167-1-3280
 ['Lightning'],['BOLT12'],delving-bitcoin-1167-2-3304
 ['Lightning'],"['Invoice', 'Community-driven', 'Refund', 'Expiration', 'BLIP', 'Offer', 'BOLT12']",combined_Expanding-on-BOLT12
+['Script'],"['Descriptor', 'Chaincode']",delving-bitcoin-304-25-3308
+['UTXO'],"['Double-Spending', 'Spilman Channels', 'Liquidity Service Provider', 'Assisted Exit Protocol', 'HTLCs', 'Mining Fees', 'Cut-Through Transactions', 'Multiparty Channel Factory']",delving-bitcoin-1143-16-3309
+"['Transactions', 'Security', 'Privacy', 'Consensus', 'Mining', 'Fees', 'Lightning']",[],delving-bitcoin-1143-17-3310
+"['Fairness', 'Security', 'Fees', 'Assumeutxo', 'Trust', 'Lightning']",[],delving-bitcoin-1143-18-3311
