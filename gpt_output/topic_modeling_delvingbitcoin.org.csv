@@ -1851,3 +1851,7 @@ primary_topics,secondary_topics,source_id
 "['Bitcoin Core', 'Consensus', 'Security']","['Disclosure', 'Bitcoin Core security advisories']",delving-bitcoin-1177-3-3319
 "['Multi-Signature', 'Security']","['Hashing', 'XOR Operation', 'Public Key', 'Chain Code']",delving-bitcoin-304-26-3317
 "['Consensus', 'Security']","['Disclosure', 'Transparency', 'Full Node Implementations', 'Ethical Considerations']",combined_Non-disclosure-of-a-consensus-bug-in-btcd
+[],"['Plotly.js', 'Geographical Data', 'Graphing', 'Visualization', 'Data Representation', 'Graphs', 'Interactive Graphs', 'Charts', 'Log Graphs', 'Data Visualization']",delving-bitcoin-1180-1-3323
+"['Consensus', 'Security']","['Vulnerabilities', 'Patch', 'Public Disclosure', 'Software Development']",delving-bitcoin-1177-5-3324
+"['Bitcoin Core', 'Security', 'Consensus']",['Disclosure Policy'],delving-bitcoin-1177-6-3325
+"['Forks', 'API', 'Covenants']","['Opcode', 'Plugin Development', 'Dynamic Conditions', 'Community Contributions', 'Plugins', 'Analysis']",combined_B-SST-plugins-for-covenant-opcodes
