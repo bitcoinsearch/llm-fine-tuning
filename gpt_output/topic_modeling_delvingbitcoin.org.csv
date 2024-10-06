@@ -1855,3 +1855,4 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Security']","['Vulnerabilities', 'Patch', 'Public Disclosure', 'Software Development']",delving-bitcoin-1177-5-3324
 "['Bitcoin Core', 'Security', 'Consensus']",['Disclosure Policy'],delving-bitcoin-1177-6-3325
 "['Forks', 'API', 'Covenants']","['Opcode', 'Plugin Development', 'Dynamic Conditions', 'Community Contributions', 'Plugins', 'Analysis']",combined_B-SST-plugins-for-covenant-opcodes
+"['Core-Lightning', 'Lightning', 'Bitcoin-Core']","['Documentation', 'RPC']",delving-bitcoin-1167-3-3326
