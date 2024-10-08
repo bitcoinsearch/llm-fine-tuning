@@ -1856,3 +1856,6 @@ primary_topics,secondary_topics,source_id
 "['Bitcoin Core', 'Security', 'Consensus']",['Disclosure Policy'],delving-bitcoin-1177-6-3325
 "['Forks', 'API', 'Covenants']","['Opcode', 'Plugin Development', 'Dynamic Conditions', 'Community Contributions', 'Plugins', 'Analysis']",combined_B-SST-plugins-for-covenant-opcodes
 "['Core-Lightning', 'Lightning', 'Bitcoin-Core']","['Documentation', 'RPC']",delving-bitcoin-1167-3-3326
+"['Segregated Witness', 'Consensus', 'Covenants', 'Scalability', 'Bitcoin Core', 'Security', 'Forks', 'Cryptography', 'Zero-Knowledge', 'Trust', 'Privacy', 'Soft Fork']",['Polynomial Inner Product Encryption'],delving-bitcoin-1183-1-3331
+"['Consensus', 'UTXO', 'Lightning', 'Fees']","['Channel Funds', 'Commitment Transactions']",delving-bitcoin-1143-21-3328
+"['Lightning', 'Custody']","['Offchain State', 'Bitcoin Wallets']",delving-bitcoin-1143-22-3329
