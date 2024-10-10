@@ -1863,3 +1863,7 @@ primary_topics,secondary_topics,source_id
 ['Fairness'],"['Service Disputes', 'Timelock', 'Timeout', 'Accountability', 'Assisted Exits', 'Transaction Outputs', 'Unilateral Closure', 'Financial Losses']",delving-bitcoin-1143-26-3335
 "['Custody', 'Consensus', 'Security', 'Lightning', 'Scalability']",['Off-chain'],delving-bitcoin-1143-24-3333
 "['Fees', 'Consensus', 'Research', 'Privacy', 'Lightning', 'Security', 'Mining', 'Scalability']",[],delving-bitcoin-1143-23-3332
+"['Fees', 'Consensus', 'Smart Contracts', 'P2P', 'Scalability', 'Lightning', 'Bitcoin Core', 'Research', 'Forks']",[],delving-bitcoin-1143-29-3339
+"['Consensus', 'Security', 'Bitcoin Core', 'Forks']","['Bitcoin Core Development', 'Disclosure']",delving-bitcoin-1177-7-3336
+"['Decentralization', 'Consensus', 'Security', 'Lightning', 'Hard Fork', 'Segwit']","['Peer Review', 'Transparency', 'Inclusivity']",delving-bitcoin-1143-28-3338
+"['Incentives', 'Client', 'Lightning']","['Risks', 'HTLC', 'Timeouts', 'Onchain Fees', 'LSP', 'Payment Protocols', 'Unilateral Exit']",delving-bitcoin-1143-27-3337
