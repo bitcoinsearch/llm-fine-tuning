@@ -1873,3 +1873,7 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Security']",[],delving-bitcoin-1177-8-3341
 "['Bitcoin Core', 'Consensus', 'Script', 'Forks', 'Validation', 'Segregated Witness', 'Security']","['CVE', 'Bitcoin Core Development']",delving-bitcoin-1184-1-3340
 "['Bitcoin Core', 'Consensus', 'Script', 'P2SH', 'Signature', 'Segregated Witness', 'Security']","['CVE', 'Vulnerability', 'Public Key', 'Network Integrity']",combined_CVE-2024-38365-public-disclosure-btcd-FindAndDelete-bug-
+"['Lightning', 'Scalability', 'Security']","['Transparency', 'Community', 'Open Source']",delving-bitcoin-1143-30-3353
+"['Consensus', 'Soft Fork']",[],delving-bitcoin-1136-4-3352
+"['Security', 'Script', 'Bitcoin Core']",[],delving-bitcoin-1184-3-3349
+"['Script', 'Cryptography', 'Validation', 'Consensus', 'Bitcoin Core', 'Security', 'Segregated Witness', 'Transactions']",[],delving-bitcoin-1184-4-3351
