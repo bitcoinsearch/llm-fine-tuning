@@ -1877,3 +1877,4 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Soft Fork']",[],delving-bitcoin-1136-4-3352
 "['Security', 'Script', 'Bitcoin Core']",[],delving-bitcoin-1184-3-3349
 "['Script', 'Cryptography', 'Validation', 'Consensus', 'Bitcoin Core', 'Security', 'Segregated Witness', 'Transactions']",[],delving-bitcoin-1184-4-3351
+"['Script', 'Signature', 'Public-Key', 'Limitations', 'Consensus']","['Public Key Recovery', 'Mutual Commitment', 'Chain Fork']",delving-bitcoin-1184-5-3354
