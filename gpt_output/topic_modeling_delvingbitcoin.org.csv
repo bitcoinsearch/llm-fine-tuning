@@ -1878,3 +1878,4 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Script', 'Bitcoin Core']",[],delving-bitcoin-1184-3-3349
 "['Script', 'Cryptography', 'Validation', 'Consensus', 'Bitcoin Core', 'Security', 'Segregated Witness', 'Transactions']",[],delving-bitcoin-1184-4-3351
 "['Script', 'Signature', 'Public-Key', 'Limitations', 'Consensus']","['Public Key Recovery', 'Mutual Commitment', 'Chain Fork']",delving-bitcoin-1184-5-3354
+"['Consensus', 'Research']","['Open Innovation', 'Collaboration']",delving-bitcoin-1143-31-3358
