@@ -1879,3 +1879,5 @@ primary_topics,secondary_topics,source_id
 "['Script', 'Cryptography', 'Validation', 'Consensus', 'Bitcoin Core', 'Security', 'Segregated Witness', 'Transactions']",[],delving-bitcoin-1184-4-3351
 "['Script', 'Signature', 'Public-Key', 'Limitations', 'Consensus']","['Public Key Recovery', 'Mutual Commitment', 'Chain Fork']",delving-bitcoin-1184-5-3354
 "['Consensus', 'Research']","['Open Innovation', 'Collaboration']",delving-bitcoin-1143-31-3358
+"['Consensus', 'Taproot', 'Covenants', 'Zero-Knowledge', 'Research']",['Polynomial Inner Product Encryption'],delving-bitcoin-1195-1-3361
+"['Privacy', 'Zero-Knowledge', 'Schnorr', 'Security', 'Signature', 'Verification', 'UTXO']","['Public Key', 'Confidentiality']",delving-bitcoin-1142-16-3359
