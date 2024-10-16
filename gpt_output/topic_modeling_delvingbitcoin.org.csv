@@ -1881,3 +1881,11 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Research']","['Open Innovation', 'Collaboration']",delving-bitcoin-1143-31-3358
 "['Consensus', 'Taproot', 'Covenants', 'Zero-Knowledge', 'Research']",['Polynomial Inner Product Encryption'],delving-bitcoin-1195-1-3361
 "['Privacy', 'Zero-Knowledge', 'Schnorr', 'Security', 'Signature', 'Verification', 'UTXO']","['Public Key', 'Confidentiality']",delving-bitcoin-1142-16-3359
+"['Stratum-V2', 'Research', 'Security', 'Consensus', 'Scalability', 'Blockchain', 'Privacy']",[],delving-bitcoin-870-31-3368
+"['Signature', 'Segregated Witness', 'Script', 'Security']",[],delving-bitcoin-1184-7-3364
+"['Segwit', 'Bitcoin Core', 'Script']","['OP_CHECKSIG', 'OP_CODESEPARATOR']",delving-bitcoin-1184-6-3362
+"['Research', 'Fees', 'Consensus', 'Scalability', 'Lightning', 'Package Relay', 'Privacy', 'Bitcoin Core']","['Gossip Protocol', 'Payment Channel Networks', 'BOLT 12']",delving-bitcoin-1198-1-3370
+"['Security', 'Research', 'Cryptography', 'Privacy']",[],delving-bitcoin-1197-1-3365
+"['Bitcoin Core', 'Script', 'Consensus']",[],delving-bitcoin-1184-8-3366
+"['Bitcoin Core', 'Script', 'Consensus']",[],delving-bitcoin-1184-9-3367
+"['Bitcoin Core', 'Research', 'Script', 'Consensus']",[],delving-bitcoin-1184-10-3369
