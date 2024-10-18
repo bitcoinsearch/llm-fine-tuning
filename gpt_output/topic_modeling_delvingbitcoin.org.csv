@@ -1892,3 +1892,6 @@ primary_topics,secondary_topics,source_id
 [],"['Programming', 'Agile', 'Continuous Learning', 'Community Engagement']",delving-bitcoin-1198-2-3375
 "['Mining', 'Blockchain', 'Submarine Swaps', 'Lightning']","['BOLT12', 'Non-Custodial Exchanges']",delving-bitcoin-1167-4-3373
 "['Scalability', 'Privacy', 'Research', 'Routing', 'Package Relay', 'Layer 2', 'Fees', 'Consensus', 'Lightning', 'Bitcoin Core']",[],combined_LN-Summit-2024-Notes-Summary-Commentary
+"['Development', 'Consensus', 'Research']",[],delving-bitcoin-1198-5-3382
+"['SPV', 'Lightning', 'Scalability', 'Schnorr']","['Transaction Verification', 'Node Types', 'Efficiency']",delving-bitcoin-1202-1-3377
+"['Multisig', 'Lightning', 'Blocksize', 'Mempool']",['Timeouts'],delving-bitcoin-1143-32-3381
