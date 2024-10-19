@@ -1895,3 +1895,4 @@ primary_topics,secondary_topics,source_id
 "['Development', 'Consensus', 'Research']",[],delving-bitcoin-1198-5-3382
 "['SPV', 'Lightning', 'Scalability', 'Schnorr']","['Transaction Verification', 'Node Types', 'Efficiency']",delving-bitcoin-1202-1-3377
 "['Multisig', 'Lightning', 'Blocksize', 'Mempool']",['Timeouts'],delving-bitcoin-1143-32-3381
+"['Update Layer', 'Lightning', 'Fees']",[],delving-bitcoin-1046-8-3385
