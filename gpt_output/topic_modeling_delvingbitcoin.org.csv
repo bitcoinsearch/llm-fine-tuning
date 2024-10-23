@@ -1897,3 +1897,8 @@ primary_topics,secondary_topics,source_id
 "['Multisig', 'Lightning', 'Blocksize', 'Mempool']",['Timeouts'],delving-bitcoin-1143-32-3381
 "['Update Layer', 'Lightning', 'Fees']",[],delving-bitcoin-1046-8-3385
 "['Lightning', 'Taproot', 'BIP', 'Schnorr', 'Routing']","['Network Resilience', 'Commitment', 'Transaction Fees']",delving-bitcoin-1198-6-3395
+"['Blockchain', 'Covenants', 'Zero-Knowledge']",['Commitment Schemes'],delving-bitcoin-1195-2-3396
+['Lightning'],"['GitHub', 'Collaborative', 'Proposal', 'Community']",delving-bitcoin-1202-2-3398
+"['Cryptography', 'Consensus', 'Schnorr', 'Post-Quantum', 'Segregated Witness']",[],delving-bitcoin-956-3-3397
+"['Segregated Witness', 'Covenants', 'Consensus', 'Privacy', 'Research', 'Security', 'Smart Contracts', 'Validation', 'Forks', 'Zero-Knowledge', 'Taproot']",['Polynomial Inner Product Encryption'],combined_Bitcoin-PIPEs-Covenants-on-Bitcoin-Without-Soft-Fork
+"['Routing', 'Consensus', 'Privacy', 'Schnorr', 'Lightning', 'Update Layer', 'Segwit', 'Fees']",[],combined_Updates-to-the-Gossip-1-75-proposal-post-LN-summit-meeting
