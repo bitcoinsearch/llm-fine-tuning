@@ -1902,3 +1902,4 @@ primary_topics,secondary_topics,source_id
 "['Cryptography', 'Consensus', 'Schnorr', 'Post-Quantum', 'Segregated Witness']",[],delving-bitcoin-956-3-3397
 "['Segregated Witness', 'Covenants', 'Consensus', 'Privacy', 'Research', 'Security', 'Smart Contracts', 'Validation', 'Forks', 'Zero-Knowledge', 'Taproot']",['Polynomial Inner Product Encryption'],combined_Bitcoin-PIPEs-Covenants-on-Bitcoin-Without-Soft-Fork
 "['Routing', 'Consensus', 'Privacy', 'Schnorr', 'Lightning', 'Update Layer', 'Segwit', 'Fees']",[],combined_Updates-to-the-Gossip-1-75-proposal-post-LN-summit-meeting
+['Consensus'],"['Disclosure', 'Vulnerabilities', 'Ethics']",delving-bitcoin-1177-9-3400
