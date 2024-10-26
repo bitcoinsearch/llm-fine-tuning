@@ -1903,3 +1903,11 @@ primary_topics,secondary_topics,source_id
 "['Segregated Witness', 'Covenants', 'Consensus', 'Privacy', 'Research', 'Security', 'Smart Contracts', 'Validation', 'Forks', 'Zero-Knowledge', 'Taproot']",['Polynomial Inner Product Encryption'],combined_Bitcoin-PIPEs-Covenants-on-Bitcoin-Without-Soft-Fork
 "['Routing', 'Consensus', 'Privacy', 'Schnorr', 'Lightning', 'Update Layer', 'Segwit', 'Fees']",[],combined_Updates-to-the-Gossip-1-75-proposal-post-LN-summit-meeting
 ['Consensus'],"['Disclosure', 'Vulnerabilities', 'Ethics']",delving-bitcoin-1177-9-3400
+"['Validation', 'Consensus', 'Script', 'Security', 'Smart Contracts', 'Cryptography', 'Segregated Witness']",[],delving-bitcoin-1216-2-3402
+['Script'],"['Optimizations', 'Operations']",delving-bitcoin-1216-4-3405
+"['Hash', 'SHA256']","['Length Commitment', 'Custom Hash Function', 'Preimage', 'CTV', 'Stack Element Resizing Attacks', 'Hashed Time-Locked Contracts', 'PairCommitHash']",delving-bitcoin-1216-1-3401
+"['Security', 'Cryptography']",['Hashing'],delving-bitcoin-1216-5-3406
+['Security'],"['Hashing', 'Protection', 'Efficiency']",delving-bitcoin-1216-7-3409
+"['Consensus', 'Development', 'Research', 'Bitcoin Core']",[],delving-bitcoin-1216-6-3407
+"['Consensus', 'Development', 'Research', 'Covenants']",[],delving-bitcoin-1216-3-3404
+['Security'],"['Hashing', 'Efficiency', 'Cryptographic Attacks', 'Lightning Network', 'Blockchain Development']",combined_OP-PAIRCOMMIT-as-a-candidate-for-addition-to-LNhance
