@@ -1911,3 +1911,6 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Development', 'Research', 'Bitcoin Core']",[],delving-bitcoin-1216-6-3407
 "['Consensus', 'Development', 'Research', 'Covenants']",[],delving-bitcoin-1216-3-3404
 ['Security'],"['Hashing', 'Efficiency', 'Cryptographic Attacks', 'Lightning Network', 'Blockchain Development']",combined_OP-PAIRCOMMIT-as-a-candidate-for-addition-to-LNhance
+"['SHA256', 'BIP']",['CTV'],delving-bitcoin-1216-8-3430
+"['Security', 'Blockchain', 'Terminology', 'Libbitcoin Kernel', 'Validation', 'Bitcoin Core', 'Segwit', 'IBD', 'Mining', 'Transaction-Verification', 'Peer-Discovery', 'P2p', 'Database', 'Assumeutxo', 'Script', 'Fees', 'Consensus']","['Performance', 'Optimization', 'Networking', 'DoS Protection']",delving-bitcoin-1222-1-3432
+['development'],"['Bitcoin ecosystem', 'Bitcoin codebase', 'BIPs', 'CheckTemplateVerify', 'technology', 'Bitcoin Improvement Proposals', 'serialization', 'HashWriter', 'GitHub pull request', 'CTV']",delving-bitcoin-1216-9-3431
