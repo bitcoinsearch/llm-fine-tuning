@@ -1927,3 +1927,4 @@ primary_topics,secondary_topics,source_id
 "['Research', 'Segregated Witness', 'Script', 'Bitcoin Core']",[],delving-bitcoin-376-18-3453
 ['Miniscript'],"['GitHub', 'Compiler', 'Lisp', 'Programming Language Design', 'Debugging', 'Macros']",combined_Debuggable-Lisp-Scripts
 "['Fees', 'Lightning', 'Consensus', 'Security', 'Smart Contracts', 'Privacy', 'Scalability', 'Routing']",[],delving-bitcoin-1233-1-3457
+"['Libbitcoin Kernel', 'Bitcoin Core', 'Utxo', 'Consensus', 'Assumeutxo']",[],delving-bitcoin-1222-4-3460
