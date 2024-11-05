@@ -1928,3 +1928,12 @@ primary_topics,secondary_topics,source_id
 ['Miniscript'],"['GitHub', 'Compiler', 'Lisp', 'Programming Language Design', 'Debugging', 'Macros']",combined_Debuggable-Lisp-Scripts
 "['Fees', 'Lightning', 'Consensus', 'Security', 'Smart Contracts', 'Privacy', 'Scalability', 'Routing']",[],delving-bitcoin-1233-1-3457
 "['Libbitcoin Kernel', 'Bitcoin Core', 'Utxo', 'Consensus', 'Assumeutxo']",[],delving-bitcoin-1222-4-3460
+"['Consensus', 'Libbitcoin Kernel']",[],delving-bitcoin-1222-6-3468
+"['Consensus', 'Merkle Trees', 'Forks', 'Segregated Witness', 'Security', 'Blockchain', 'Transactions', 'Bitcoin Core', 'Soft Fork', 'Validation', 'Privacy', 'Miners', 'Script', 'Mining']",[],delving-bitcoin-710-47-3480
+"['Consensus', 'Scalability', 'Security', 'Privacy', 'Fees', 'Lightning', 'Mining']",[],delving-bitcoin-1233-2-3482
+"['Consensus', 'Package Relay', 'Bitcoin Core', 'Validation', 'Testing', 'Research', 'Fees', 'Build Systems', 'P2P', 'Mining']",['Bitcoin Core Development'],delving-bitcoin-1239-1-3464
+"['Consensus', 'Scalability', 'Security', 'Routing', 'Layer 2', 'Privacy', 'Fees', 'Lightning', 'Smart Contracts']",[],delving-bitcoin-1242-1-3469
+"['Bitcoin Core', 'Research', 'Libbitcoin Kernel', 'Development', 'P2P']",[],delving-bitcoin-1222-8-3481
+"['Consensus', 'Forks', 'Blockchain', 'Transactions', 'Bitcoin Core', 'Validation', 'Blocksize', 'Libbitcoin Kernel', 'IBD', 'Mining']","['Parallelism', 'Chaintip', 'Peer Discovery', 'Serialization', 'Transaction-based data models', 'Efficiency', 'Block-based data models', 'MapReduce']",delving-bitcoin-1222-5-3465
+"['Libsecp256k1', 'Consensus', 'Forks', 'Package Relay', 'Segwit', 'UTXO', 'Blockchain', 'Proof-of-Work', 'Transactions', 'Bitcoin Core', 'Assumeutxo', 'Validation', 'Libbitcoin Kernel', 'Wallet', 'P2P', 'Mining']",['UTXO Set'],delving-bitcoin-1222-7-3471
+"['Consensus', 'Scalability', 'Security', 'Routing', 'Privacy', 'Research', 'Fees', 'Lightning', 'Smart Contracts']",[],combined_A-Fast-Scalable-Protocol-For-Resolving-Lightning-Payments
