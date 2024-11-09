@@ -1946,3 +1946,4 @@ primary_topics,secondary_topics,source_id
 "['Smart Contracts', 'Transactions', 'Mining', 'Block', 'Blockchain', 'Fees', 'Mempool']",[],delving-bitcoin-1022-2-3494
 "['Smart Contracts', 'Consensus', 'Mining', 'Privacy', 'Fees', 'Bitcoin Core', 'Mempool', 'Research']",[],combined_Empirical-Data-Analysis-of-Fee-Rate-Forecasters-for-ASAP-next-block-Fee-Estimation
 "['Consensus', 'Security', 'Lightning']","['Zero-Confirmation Transactions', 'Batching', 'Double Spend']",combined_Batched-Splicing-Considered-Risky
+"['Consensus', 'Blockchain', 'Transaction-Verification', 'Block', 'Locktime', 'Validation']",['Sequence'],delving-bitcoin-710-49-3495
