@@ -1947,3 +1947,8 @@ primary_topics,secondary_topics,source_id
 "['Smart Contracts', 'Consensus', 'Mining', 'Privacy', 'Fees', 'Bitcoin Core', 'Mempool', 'Research']",[],combined_Empirical-Data-Analysis-of-Fee-Rate-Forecasters-for-ASAP-next-block-Fee-Estimation
 "['Consensus', 'Security', 'Lightning']","['Zero-Confirmation Transactions', 'Batching', 'Double Spend']",combined_Batched-Splicing-Considered-Risky
 "['Consensus', 'Blockchain', 'Transaction-Verification', 'Block', 'Locktime', 'Validation']",['Sequence'],delving-bitcoin-710-49-3495
+"['Lightning', 'Security', 'Fees', 'Scalability', 'Consensus']",[],delving-bitcoin-1233-4-3500
+"['Lightning', 'Scalability']","['Blockchain Congestion', 'Off-Chain Payments', 'Transaction Fees', 'HTLC']",delving-bitcoin-1233-6-3502
+"['Lightning', 'Smart Contracts', 'Routing', 'Security', 'Fees', 'Scalability', 'Attacks']",[],delving-bitcoin-1233-5-3501
+"['ScriptSig', 'Consensus']","['NVersion', 'Coinbase Transaction', 'Block Height']",delving-bitcoin-710-51-3499
+"['Blockchain', 'Security', 'Validation', 'Scalability', 'Consensus']","['Integer Overflow', 'Double Spend', 'Network Efficiency', 'Modular Arithmetic']",delving-bitcoin-710-50-3498
