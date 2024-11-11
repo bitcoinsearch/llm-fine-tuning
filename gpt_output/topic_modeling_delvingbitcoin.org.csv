@@ -1952,3 +1952,7 @@ primary_topics,secondary_topics,source_id
 "['Lightning', 'Smart Contracts', 'Routing', 'Security', 'Fees', 'Scalability', 'Attacks']",[],delving-bitcoin-1233-5-3501
 "['ScriptSig', 'Consensus']","['NVersion', 'Coinbase Transaction', 'Block Height']",delving-bitcoin-710-51-3499
 "['Blockchain', 'Security', 'Validation', 'Scalability', 'Consensus']","['Integer Overflow', 'Double Spend', 'Network Efficiency', 'Modular Arithmetic']",delving-bitcoin-710-50-3498
+"['Security', 'Privacy', 'Lightning']",['Github'],delving-bitcoin-1134-6-3506
+['Lightning'],"['Tradeoff', 'Denial-of-Service', 'Latency', 'Security Measures', 'Network Performance']",delving-bitcoin-1233-9-3505
+"['Lightning', 'Hashlocks']","['Dispute Resolution', 'Protocol Update', 'HTLC']",delving-bitcoin-1233-8-3504
+"['Security', 'Consensus', 'Lightning', 'Attacks', 'Decentralization', 'Routing']",[],delving-bitcoin-1233-7-3503
