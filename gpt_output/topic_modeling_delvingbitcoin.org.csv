@@ -1956,3 +1956,5 @@ primary_topics,secondary_topics,source_id
 ['Lightning'],"['Tradeoff', 'Denial-of-Service', 'Latency', 'Security Measures', 'Network Performance']",delving-bitcoin-1233-9-3505
 "['Lightning', 'Hashlocks']","['Dispute Resolution', 'Protocol Update', 'HTLC']",delving-bitcoin-1233-8-3504
 "['Security', 'Consensus', 'Lightning', 'Attacks', 'Decentralization', 'Routing']",[],delving-bitcoin-1233-7-3503
+['transactions'],"['financial activities', 'Bitcoin network', 'BIP70', 'Bitcoin Improvement Proposal']",delving-bitcoin-1167-5-3508
+['Lightning'],"['Channel State', 'Channel Factories', 'Channel Splicing', 'TLVs', 'HTLC']",delving-bitcoin-1252-1-3507
