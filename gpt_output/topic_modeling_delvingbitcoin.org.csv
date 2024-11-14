@@ -1958,3 +1958,5 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Consensus', 'Lightning', 'Attacks', 'Decentralization', 'Routing']",[],delving-bitcoin-1233-7-3503
 ['transactions'],"['financial activities', 'Bitcoin network', 'BIP70', 'Bitcoin Improvement Proposal']",delving-bitcoin-1167-5-3508
 ['Lightning'],"['Channel State', 'Channel Factories', 'Channel Splicing', 'TLVs', 'HTLC']",delving-bitcoin-1252-1-3507
+"['Research', 'Validation', 'Cryptography', 'Consensus', 'Hashlocks', 'Proof-of-Work', 'Forks', 'Script', 'Security', 'Privacy', 'Proof-of-Stake']",[],delving-bitcoin-1255-1-3512
+['Lightning'],"['Code of Conduct', 'Community']",delving-bitcoin-1254-1-3511
