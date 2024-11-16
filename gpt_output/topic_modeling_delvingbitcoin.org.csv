@@ -1965,3 +1965,6 @@ primary_topics,secondary_topics,source_id
 "['UTXO', 'Scalability']","['Channel Factories', 'Gossip', 'Lightning Network']",delving-bitcoin-1252-3-3515
 "['Network', 'Lightning', 'Trust', 'Security', 'Consensus', 'Fairness', 'Attacks', 'Fees']",[],delving-bitcoin-1233-10-3522
 "['Lightning', 'Pathfinding', 'UTXO', 'Splicing']","['Offchain', 'Channel Factories', 'Gossip']",combined_Pluggable-Channel-Factories
+"['Topology', 'Fees', 'Lightning', 'Privacy', 'Research', 'Routing', 'Network']","['Spanning Tree', 'Optimization', 'Prediction', 'Simulation', 'Liquidity']",delving-bitcoin-1259-1-3525
+"['Soft Fork', 'Transactions', 'Testing', 'Mempool', 'OP_RETURN', 'Signet']","['CTV', 'Proof-of-Concept Projects']",delving-bitcoin-1257-2-3547
+"['Cryptography', 'Proof-of-Work', 'Fees', 'BIP', 'Bitcoin Core', 'Segregated Witness', 'Script', 'Validation', 'Consensus', 'Signet']","['OP_CHECKTEMPLATEVERIFY', 'OP_CAT']",combined_CTV-APO-CAT-activity-on-signet
