@@ -1978,3 +1978,4 @@ primary_topics,secondary_topics,source_id
 "['Privacy', 'Routing', 'Lightning', 'Fees', 'Topology']","['Optimization', 'Fee Potential', 'Integer Linear Programming', 'Liquidity', 'Channel Depletion', 'Predictive Models', 'Node Operators', 'Payment Channel Networks', 'Network Dynamics', 'Mathematical Theory']",combined_Channel-depletion-LN-Topology-Cycles-and-rational-behavior-of-nodes
 "['Routing', 'Lightning', 'Topology', 'Fees']",['Channel Depletion'],delving-bitcoin-1259-4-3557
 "['Topology', 'Fee management', 'Lightning', 'Fees']","['Channel liquidity', 'Network behavior', 'Node operations', 'Channel depletion', 'Payment flows', 'Node management']",delving-bitcoin-1259-5-3562
+"['UTXO', 'Replace-By-Fee', 'P2P', 'Consensus', 'Mempool', 'Fees']","['Peer-to-Peer Network', 'Cluster']",combined_-DEFUNCT-Post-clustermempool-Package-RBF
