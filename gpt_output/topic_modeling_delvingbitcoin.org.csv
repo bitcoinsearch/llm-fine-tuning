@@ -1982,3 +1982,4 @@ primary_topics,secondary_topics,source_id
 ['Signet'],['Explorer'],delving-bitcoin-1257-4-3566
 "['Lightning', 'SPV', 'Nodes', 'Consensus', 'Development']",['Collaboration'],delving-bitcoin-1202-3-3564
 "['Fees', 'Lightning', 'Routing', 'Consensus', 'Zero-Knowledge']",[],delving-bitcoin-1259-6-3565
+"['Proof-of-Stake', 'Threshold Signatures', 'Validation', 'Timelocks', 'Segwit', 'Lightning', 'Forks', 'Hashlocks', 'Layer 2', 'Proof-of-Work', 'Multisig', 'Schnorr', 'Routing', 'Consensus', 'Cryptography', 'Covenants', 'Zero-Knowledge', 'Taproot', 'Soft Fork']",[],delving-bitcoin-1216-13-3575
