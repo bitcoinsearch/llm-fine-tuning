@@ -1994,3 +1994,19 @@ primary_topics,secondary_topics,source_id
 "['Mining', 'Validation', 'Timestamping', 'Consensus', 'Bitcoin Core', 'Segregated Witness', 'Forks']",[],delving-bitcoin-710-52-3605
 "['Timestamping', 'Consensus', 'Attacks', 'Blockchain', 'Security']",[],delving-bitcoin-710-53-3606
 "['Timestamping', 'Consensus', 'Segregated Witness', 'Protocol', 'Blockchain']","['Median Time Past', 'Genesis Block', 'Block Header']",delving-bitcoin-710-54-3608
+"['Fees', 'Lightning', 'Research', 'Testing']",[],delving-bitcoin-1282-4-3628
+"['Lightning', 'Lightning-Network', 'Forks', 'Hashlocks', 'Cryptography', 'Consensus', 'Security']","['Race Condition', 'Scripts']",delving-bitcoin-1282-3-3626
+"['Scalability', 'Research', 'Mining', 'Consensus', 'Security', 'FROST', 'Threshold Signatures']",[],delving-bitcoin-1262-5-3620
+"['Zero-Knowledge', 'Privacy', 'Timelocks', 'Custody', 'Forks', 'Schnorr', 'Hashlocks', 'Cryptography', 'Consensus', 'Security', 'Validation', 'Proof-of-Stake', 'Threshold Signatures']",[],delving-bitcoin-1284-1-3614
+"['Mining', 'Timestamping', 'Forks', 'Segwit', 'Consensus', 'Blockchain', 'Satoshi-Nakamoto']",[],delving-bitcoin-710-55-3612
+"['Research', 'Timestamping', 'Consensus', 'Security', 'Blockchain']",['Efficiency'],delving-bitcoin-710-56-3615
+"['Taproot', 'Development', 'Consensus', 'Testing', 'Segregated Witness']",[],delving-bitcoin-1257-8-3622
+"['Lightning', 'Research', 'Taproot', 'Script', 'Fees', 'Cryptography', 'Consensus', 'Security', 'Segregated Witness']",[],delving-bitcoin-1282-1-3611
+"['Decentralization', 'FROST']","['Security Implications', 'Governance', 'Censorship Resistance', 'Operational Independence', 'Economic Incentives', 'Mining Pools', 'Hashrate Derivatives', 'Discreet Log Contracts', 'Cryptographic Solutions', 'Legal Risks']",delving-bitcoin-1262-3-3617
+"['Scalability', 'Mining', 'P2P', 'Decentralization', 'Consensus', 'FROST']","['Flexibility', 'Efficiency', 'Network Architecture', 'Futures Contracts', 'DAG-based Consensus Protocol']",delving-bitcoin-1262-4-3619
+"['Decentralization', 'Consensus']",['Mining Pools'],delving-bitcoin-1262-7-3625
+"['Timestamping', 'Difficulty', 'Consensus', 'Security', 'Proof-of-Work']",['Monotonicity'],delving-bitcoin-710-57-3616
+"['Attacks', 'Research', 'Script', 'Validation', 'Consensus', 'Soft Fork', 'Testing']",[],delving-bitcoin-1257-9-3623
+"['Attacks', 'Research', 'Forks', 'Cryptography', 'Consensus', 'Soft Fork', 'Segregated Witness']",[],delving-bitcoin-1282-2-3618
+"['Research', 'Mining', 'Forks', 'Cryptography', 'Consensus']",[],delving-bitcoin-1262-6-3624
+"['Bitcoin Core', 'Lightning', 'Script', 'Fees', 'Mempool', 'Consensus', 'Security', 'Transactions']","['Channel Resolutions', 'OP_EXPIRE', 'Bitcoin Script', 'HTLC']",combined_OP-EXPIRE-Mitigating-replacing-cycling-attacks
