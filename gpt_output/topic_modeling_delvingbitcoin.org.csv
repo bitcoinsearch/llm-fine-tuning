@@ -2010,3 +2010,9 @@ primary_topics,secondary_topics,source_id
 "['Attacks', 'Research', 'Forks', 'Cryptography', 'Consensus', 'Soft Fork', 'Segregated Witness']",[],delving-bitcoin-1282-2-3618
 "['Research', 'Mining', 'Forks', 'Cryptography', 'Consensus']",[],delving-bitcoin-1262-6-3624
 "['Bitcoin Core', 'Lightning', 'Script', 'Fees', 'Mempool', 'Consensus', 'Security', 'Transactions']","['Channel Resolutions', 'OP_EXPIRE', 'Bitcoin Script', 'HTLC']",combined_OP-EXPIRE-Mitigating-replacing-cycling-attacks
+"['Mining', 'Validation', 'Security', 'Consensus']",['Blocks'],delving-bitcoin-1288-3-3635
+['Lightning'],"['Collaboration', 'Communication']",delving-bitcoin-1282-5-3629
+"['Soft Fork', 'Mining', 'Fees', 'Attacks', 'Validation', 'Scalability', 'Security', 'Taproot', 'Segwit', 'Bitcoin Core', 'Consensus']",[],delving-bitcoin-1288-1-3632
+"['Mining', 'Validation', 'Scalability', 'Blockchain', 'Forks', 'Consensus']",[],delving-bitcoin-1288-2-3634
+"['Mining', 'Validation', 'IBD', 'Libbitcoin Kernel', 'Bitcoin Core', 'Consensus']","['Parallel Processing', 'Resource Allocation']",delving-bitcoin-1222-12-3630
+"['Miners', 'Mining', 'Fees', 'Attacks', 'Blockchain', 'Security', 'Taproot', 'Segwit', 'Bitcoin Core', 'Incentives', 'Consensus']","['Block Propagation', 'Block Validation', 'Node Equipment']",combined_Can-parallel-validation-side-step-the-slow-block-issue-
