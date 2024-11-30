@@ -2016,3 +2016,9 @@ primary_topics,secondary_topics,source_id
 "['Mining', 'Validation', 'Scalability', 'Blockchain', 'Forks', 'Consensus']",[],delving-bitcoin-1288-2-3634
 "['Mining', 'Validation', 'IBD', 'Libbitcoin Kernel', 'Bitcoin Core', 'Consensus']","['Parallel Processing', 'Resource Allocation']",delving-bitcoin-1222-12-3630
 "['Miners', 'Mining', 'Fees', 'Attacks', 'Blockchain', 'Security', 'Taproot', 'Segwit', 'Bitcoin Core', 'Incentives', 'Consensus']","['Block Propagation', 'Block Validation', 'Node Equipment']",combined_Can-parallel-validation-side-step-the-slow-block-issue-
+"['Mempool', 'Security', 'Validation', 'Blockchain', 'Privacy', 'Consensus', 'Fuzzing', 'Segregated Witness', 'Cryptography', 'Package Relay', 'Lightning', 'Forks', 'Stratum-V2', 'Libbitcoin Kernel', 'Fees', 'Research', 'Scalability', 'Block', 'Bitcoin Core', 'P2P', 'Mining']",[],delving-bitcoin-1288-7-3639
+"['Consensus', 'Fees', 'Security', 'Validation', 'Blockchain', 'Mining']",[],delving-bitcoin-1288-6-3638
+"['Consensus', 'Soft Fork']",[],delving-bitcoin-1288-5-3637
+"['Consensus', 'Validation', 'Blockchain', 'Block', 'Mining', 'Forks', 'Soft Fork']",[],delving-bitcoin-1288-8-3640
+"['Fees', 'Research', 'Lightning']",[],delving-bitcoin-1282-6-3643
+"['IBD', 'Security', 'Bitcoin Core', 'Validation', 'Blockchain']",[],delving-bitcoin-1222-13-3641
