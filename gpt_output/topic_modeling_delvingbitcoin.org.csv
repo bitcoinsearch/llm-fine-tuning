@@ -2022,3 +2022,15 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Validation', 'Blockchain', 'Block', 'Mining', 'Forks', 'Soft Fork']",[],delving-bitcoin-1288-8-3640
 "['Fees', 'Research', 'Lightning']",[],delving-bitcoin-1282-6-3643
 "['IBD', 'Security', 'Bitcoin Core', 'Validation', 'Blockchain']",[],delving-bitcoin-1222-13-3641
+"['Consensus', 'Libbitcoin Kernel', 'Script', 'Research', 'Bitcoin Core']",['Bitcoin Core Development'],delving-bitcoin-1222-19-3657
+"['Verification', 'Libbitcoin Kernel']","['Resources', 'Concurrency', 'Optimization', 'Hashmaps', 'Efficiency']",delving-bitcoin-1222-20-3658
+"['Proof-of-Work', 'Security', 'Consensus', 'Mining', 'Timestamping']",['Hashrate'],delving-bitcoin-710-59-3656
+"['Synchronization', 'Libbitcoin Kernel', 'Electrum', 'Bitcoin Core']","['Efficiency', 'Performance']",delving-bitcoin-1222-18-3651
+"['Attacks', 'Security', 'Research', 'Consensus']",[],delving-bitcoin-1288-9-3648
+"['Merkle Trees', 'Cryptography', 'Security', 'Forks', 'Hashlocks', 'Bitcoin Core']",['Optimizations'],delving-bitcoin-1222-17-3650
+"['Validation', 'Forks', 'Consensus']",[],delving-bitcoin-1288-10-3649
+"['Validation', 'Security', 'Consensus', 'Attacks']","['Software Design', 'Constraints']",delving-bitcoin-710-58-3653
+"['Validation', 'Mining', 'Research', 'Fuzzing', 'Cryptography', 'Proof-of-Work', 'Libbitcoin Kernel', 'Miners', 'Bitcoin Core', 'Topology', 'Consensus', 'Build Systems', 'Forks', 'Hashlocks', 'Scalability', 'P2P', 'Merkle Trees', 'Security', 'Ux', 'Package Relay']",[],delving-bitcoin-1222-16-3647
+"['Network', 'Fees', 'Libbitcoin Kernel', 'Mining', 'Bitcoin Core']","['Performance', 'Synchronization Time', 'Bandwidth']",delving-bitcoin-1222-14-3645
+"['Libbitcoin Kernel', 'IBD']","['Efficiency', 'Disk Speed', 'RAM Allocation']",delving-bitcoin-1222-15-3646
+"['Merkle Trees', 'Layer 2', 'Smart Contracts', 'Security', 'Consensus', 'Covenants', 'Script', 'Research', 'Bitcoin Core']",[],delving-bitcoin-1291-1-3654
