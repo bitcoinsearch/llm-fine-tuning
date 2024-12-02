@@ -2034,3 +2034,9 @@ primary_topics,secondary_topics,source_id
 "['Network', 'Fees', 'Libbitcoin Kernel', 'Mining', 'Bitcoin Core']","['Performance', 'Synchronization Time', 'Bandwidth']",delving-bitcoin-1222-14-3645
 "['Libbitcoin Kernel', 'IBD']","['Efficiency', 'Disk Speed', 'RAM Allocation']",delving-bitcoin-1222-15-3646
 "['Merkle Trees', 'Layer 2', 'Smart Contracts', 'Security', 'Consensus', 'Covenants', 'Script', 'Research', 'Bitcoin Core']",[],delving-bitcoin-1291-1-3654
+"['Scalability', 'Blockchain', 'Mining', 'Validation', 'Libbitcoin Kernel', 'Consensus']","['Efficiency', 'Concurrency', 'Optimization']",delving-bitcoin-1222-24-3666
+"['Security', 'Miners', 'Scalability', 'Build Systems', 'Cryptography', 'Hashlocks', 'Mining', 'Segwit', 'Proof-of-Work', 'Hashpower', 'Validation', 'Libbitcoin Kernel', 'Consensus', 'Fees']",[],delving-bitcoin-1222-22-3663
+"['Security', 'Timestamping', 'Mining', 'Proof-of-Work', 'Consensus']",[],delving-bitcoin-710-60-3660
+"['Mempool', 'Security', 'Bitcoin Core', 'Assumeutxo', 'Package Relay', 'Research', 'Pools', 'Cryptography', 'Privacy', 'Mining', 'P2P', 'Fuzzing', 'Segwit', 'Validation', 'Libbitcoin Kernel', 'Consensus', 'Fees']",[],delving-bitcoin-1222-23-3664
+['Attacks'],[],delving-bitcoin-1282-7-3667
+"['UTXO', 'Libbitcoin Kernel', 'Bitcoin Core', 'Assumeutxo']",[],delving-bitcoin-1222-21-3661
