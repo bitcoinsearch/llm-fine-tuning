@@ -2040,3 +2040,25 @@ primary_topics,secondary_topics,source_id
 "['Mempool', 'Security', 'Bitcoin Core', 'Assumeutxo', 'Package Relay', 'Research', 'Pools', 'Cryptography', 'Privacy', 'Mining', 'P2P', 'Fuzzing', 'Segwit', 'Validation', 'Libbitcoin Kernel', 'Consensus', 'Fees']",[],delving-bitcoin-1222-23-3664
 ['Attacks'],[],delving-bitcoin-1282-7-3667
 "['UTXO', 'Libbitcoin Kernel', 'Bitcoin Core', 'Assumeutxo']",[],delving-bitcoin-1222-21-3661
+"['Routing Failures', 'Threshold Signatures', 'Segwit', 'Forks', 'Taproot', 'Lightning', 'C-Lightning', 'Asmap', 'FROST', 'Sphinx', 'Academia', 'Testing', 'Mining', 'Schnorr', 'Fuzzing', 'Layer 2', 'PSBT', 'Path-Finding', 'Multisig', 'Mempool', 'Script', 'Splicing', 'Consensus', 'Lnd', 'Eclair', 'Wallet', 'Update Layer', 'Accumulators', 'Hardware Wallet', 'Fees', 'Sidechains', 'Regulation', 'Stratum-V2', 'Onion', 'Signet', 'Hard Fork', 'P2P', 'Fungibility', 'Eltoo', 'Security', 'Research', 'Attacks', 'RGB', 'Routing', 'Scalability', 'IBD', 'Silent Payments', 'Libsecp256k1', 'Package Relay', 'Cryptography', 'Limitations', 'Musig', 'Altcoin', 'Soft Fork', 'Submarine Swaps', 'Bitcoin Core', 'Assumeutxo', 'Multiple-Path Payments', 'Libbitcoin Kernel', 'P2pool', 'Covenants', 'Pools', 'Smart Contracts', 'Privacy', 'Miniscript', 'Ux']",['Zero'],delving-bitcoin-1222-36-3692
+"['FROST', 'Consensus', 'Covenants', 'Decentralization', 'Proof-of-Work']",[],delving-bitcoin-1262-10-3697
+"['Mining', 'Consensus', 'Bitcoin Core', 'Validation', 'Scalability', 'Libbitcoin Kernel', 'Fees']",[],delving-bitcoin-1222-34-3690
+"['Research', 'Consensus', 'Bitcoin Core', 'Libbitcoin Kernel']",['Bitcoin Core Development'],delving-bitcoin-1222-25-3677
+"['FROST', 'Difficulty', 'Blockchain', 'Mining', 'Forks', 'Consensus', 'Proof-of-Work']","['BFT', 'Asynchronous Algorithms']",delving-bitcoin-1262-9-3696
+"['Mining', 'Forks', 'P2P', 'Research', 'Consensus', 'Validation', 'Fees']",[],delving-bitcoin-1288-12-3681
+"['Consensus', 'Utxo', 'Bitcoin Core', 'Assumeutxo', 'Libbitcoin Kernel']",[],delving-bitcoin-1222-28-3683
+['Decentralization'],"['Efficiency', 'Futures Contracts', 'Reliability', 'Mining Pools', 'Protocols']",delving-bitcoin-1262-8-3679
+"['Forks', 'Cryptography', 'Consensus', 'Validation', 'Scalability', 'Libbitcoin Kernel']",[],delving-bitcoin-1222-27-3682
+"['Consensus', 'Validation', 'Forks']",[],delving-bitcoin-1288-13-3685
+"['Utxo', 'Bitcoin Core', 'Assumeutxo', 'Libbitcoin Kernel', 'IBD']",[],delving-bitcoin-1222-38-3694
+"['Segwit', 'Forks', 'Ux', 'Mining', 'Fuzzing', 'Mempool', 'Consensus', 'Hashlocks', 'Validation', 'Miners', 'UTXO', 'Bech32', 'Decentralization', 'Segregated Witness', 'P2P', 'Research', 'Scalability', 'Zero-Knowledge', 'Cryptography', 'Assumeutxo', 'Libbitcoin Kernel', 'Privacy', 'Proof-of-Work', 'Topology']",[],delving-bitcoin-1222-37-3693
+"['Forks', 'Consensus', 'Validation', 'Libbitcoin Kernel']",['Transaction Verification'],delving-bitcoin-1222-32-3688
+"['Blockchain', 'Security', 'Research', 'Development', 'Consensus', 'Scalability', 'Lightning', 'Smart Contracts']",['Interoperability'],delving-bitcoin-1252-4-3676
+"['Routing Failures', 'Threshold Signatures', 'Segwit', 'Forks', 'Taproot', 'Lightning', 'C-Lightning', 'Asmap', 'FROST', 'Sphinx', 'Academia', 'Testing', 'Mining', 'Schnorr', 'Fuzzing', 'Layer 2', 'PSBT', 'Path-Finding', 'Multisig', 'Mempool', 'Script', 'Splicing', 'Consensus', 'Lnd', 'Eclair', 'Wallet', 'Update Layer', 'Accumulators', 'Hardware Wallet', 'Fees', 'Sidechains', 'Regulation', 'Stratum-V2', 'Onion', 'Signet', 'Hard Fork', 'P2P', 'Fungibility', 'Eltoo', 'Security', 'Research', 'Attacks', 'RGB', 'Routing', 'Scalability', 'IBD', 'Silent Payments', 'Libsecp256k1', 'Package Relay', 'Cryptography', 'Limitations', 'Musig', 'Altcoin', 'Soft Fork', 'Submarine Swaps', 'Bitcoin Core', 'Assumeutxo', 'Multiple-Path Payments', 'Libbitcoin Kernel', 'P2pool', 'Covenants', 'Pools', 'Smart Contracts', 'Privacy', 'Miniscript', 'Ux']",['Zero'],delving-bitcoin-1222-39-3695
+"['Validation', 'Bitcoin Core', 'Libbitcoin Kernel']","['Data Retrieval', 'Software Development', 'Memory Management', 'Database Interactions', 'Programming Practices']",delving-bitcoin-1222-30-3686
+"['Utxo', 'Bitcoin Core', 'Synchronization', 'Libbitcoin Kernel', 'IBD']","['Optimization', 'Speedup']",delving-bitcoin-1222-35-3691
+"['Fuzzing', 'Consensus', 'Assumeutxo', 'Libbitcoin Kernel', 'UTXO']",[],delving-bitcoin-1222-33-3689
+"['Mining', 'Security', 'Validation', 'Decentralization']",['Block Propagation'],delving-bitcoin-1288-11-3680
+"['Blockchain', 'Bitcoin Core', 'Update Layer', 'IBD']","['Efficiency', 'Continuous Improvement', 'Developers', 'Tech Community', 'Optimization', 'Blockchain Technology', 'Infrastructure']",delving-bitcoin-1222-26-3678
+"['Mining', 'Fuzzing', 'P2P', 'Security', 'Mempool', 'Consensus', 'Bitcoin Core', 'Validation', 'Libbitcoin Kernel']",[],delving-bitcoin-1222-31-3687
+"['Consensus', 'Utxo', 'Libbitcoin Kernel']","['Concurrency', 'Double Spend']",delving-bitcoin-1222-29-3684
