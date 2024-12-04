@@ -2062,3 +2062,11 @@ primary_topics,secondary_topics,source_id
 "['Blockchain', 'Bitcoin Core', 'Update Layer', 'IBD']","['Efficiency', 'Continuous Improvement', 'Developers', 'Tech Community', 'Optimization', 'Blockchain Technology', 'Infrastructure']",delving-bitcoin-1222-26-3678
 "['Mining', 'Fuzzing', 'P2P', 'Security', 'Mempool', 'Consensus', 'Bitcoin Core', 'Validation', 'Libbitcoin Kernel']",[],delving-bitcoin-1222-31-3687
 "['Consensus', 'Utxo', 'Libbitcoin Kernel']","['Concurrency', 'Double Spend']",delving-bitcoin-1222-29-3684
+"['Lightning', 'Soft Fork', 'Taproot', 'Privacy', 'Scalability', 'Segwit', 'Fungibility']","['Cash', 'Monero']",delving-bitcoin-1303-1-3704
+"['Blockchain', 'UTXO', 'Assumeutxo', 'Transactions', 'Script', 'Validation']",[],delving-bitcoin-1222-41-3700
+"['Forks', 'Security', 'Consensus', 'Scalability']",['DDoS'],delving-bitcoin-1262-12-3705
+"['Taproot', 'Wallet', 'SHA256']","['Descriptors', 'Public Key']",delving-bitcoin-304-28-3699
+"['Libbitcoin Kernel', 'Blockchain', 'Storage', 'Hash', 'Segwit', 'Assumeutxo', 'Utxo', 'Fuzzing']","['Indexing', 'Data Management', 'Optimization', 'Compression', 'Core']",delving-bitcoin-1222-40-3698
+"['Blockchain', 'Testnet', 'Forks', 'Consensus', 'Development', 'Mining']",[],delving-bitcoin-1288-14-3701
+"['Blockchain', 'P2P', 'Consensus', 'Proof-of-Work', 'FROST', 'Mining']",[],delving-bitcoin-1262-11-3703
+"['Forks', 'Security', 'Consensus', 'Validation', 'Decentralization', 'P2p', 'Stratum-V2', 'Mining']",[],delving-bitcoin-1262-13-3706
