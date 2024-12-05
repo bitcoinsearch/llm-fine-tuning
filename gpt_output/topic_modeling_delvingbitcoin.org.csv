@@ -2070,3 +2070,7 @@ primary_topics,secondary_topics,source_id
 "['Blockchain', 'Testnet', 'Forks', 'Consensus', 'Development', 'Mining']",[],delving-bitcoin-1288-14-3701
 "['Blockchain', 'P2P', 'Consensus', 'Proof-of-Work', 'FROST', 'Mining']",[],delving-bitcoin-1262-11-3703
 "['Forks', 'Security', 'Consensus', 'Validation', 'Decentralization', 'P2p', 'Stratum-V2', 'Mining']",[],delving-bitcoin-1262-13-3706
+"['Consensus', 'Validation', 'Mining']",[],delving-bitcoin-1262-14-3708
+"['Mining', 'Decentralization', 'Threshold Signatures', 'Pools', 'Consensus', 'Security']",[],delving-bitcoin-1262-15-3710
+['Taproot'],['Bitcoin Improvement Proposals'],delving-bitcoin-304-29-3707
+"['Wallet', 'Segregated Witness', 'Xpub']","['Policy', 'Descriptors', 'Implementation Protocol']",delving-bitcoin-304-30-3711
