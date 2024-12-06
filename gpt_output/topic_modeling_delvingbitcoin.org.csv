@@ -2074,3 +2074,9 @@ primary_topics,secondary_topics,source_id
 "['Mining', 'Decentralization', 'Threshold Signatures', 'Pools', 'Consensus', 'Security']",[],delving-bitcoin-1262-15-3710
 ['Taproot'],['Bitcoin Improvement Proposals'],delving-bitcoin-304-29-3707
 "['Wallet', 'Segregated Witness', 'Xpub']","['Policy', 'Descriptors', 'Implementation Protocol']",delving-bitcoin-304-30-3711
+"['Fees', 'Mining', 'Bitcoin Core', 'Research']",[],delving-bitcoin-1222-42-3715
+"['Bitcoin Core', 'Libbitcoin Kernel']",[],delving-bitcoin-1222-44-3717
+['Libbitcoin Kernel'],"['Memory Management', 'Multi-threaded Environments', 'Optimization']",delving-bitcoin-1222-43-3716
+"['Threshold Signatures', 'Decentralization', 'Pools', 'Stratum-V2', 'Mining', 'Fees']",[],delving-bitcoin-1262-17-3718
+"['Bitcoin Core', 'Consensus', 'Fuzzing', 'Lightning', 'Security']",[],delving-bitcoin-1305-1-3714
+"['Incentives', 'Threshold Signatures', 'Consensus', 'Decentralization', 'Pools', 'Mining', 'Miners']",[],delving-bitcoin-1262-16-3712
