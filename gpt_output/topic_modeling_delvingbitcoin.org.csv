@@ -2080,3 +2080,9 @@ primary_topics,secondary_topics,source_id
 "['Threshold Signatures', 'Decentralization', 'Pools', 'Stratum-V2', 'Mining', 'Fees']",[],delving-bitcoin-1262-17-3718
 "['Bitcoin Core', 'Consensus', 'Fuzzing', 'Lightning', 'Security']",[],delving-bitcoin-1305-1-3714
 "['Incentives', 'Threshold Signatures', 'Consensus', 'Decentralization', 'Pools', 'Mining', 'Miners']",[],delving-bitcoin-1262-16-3712
+"['Security', 'Smart Contracts', 'Withdrawal', 'Validation', 'Consensus', 'Bitcoin Core', 'Miners', 'Sidechains', 'Multisig']","['BIP300', 'Hashrate', 'GitHub', 'OP_CAT']",delving-bitcoin-1307-1-3720
+"['Blockchain', 'Consensus', 'Mining', 'Scalability', 'Decentralization']",['Economic Theory'],delving-bitcoin-1288-16-3722
+"['Validation', 'Bitcoin Core', 'Mining', 'Hardware Wallet', 'Synchronization', 'Libbitcoin Kernel']",[],delving-bitcoin-1222-46-3724
+"['Miners', 'Consensus', 'Fees', 'Mining']",[],delving-bitcoin-1262-18-3735
+"['Fees', 'Build Systems', 'Bitcoin Core', 'Mining', 'Hardware Wallet']",['Hashing'],delving-bitcoin-1222-45-3723
+"['Validation', 'Block', 'Mining', 'SPV']","['Empty Blocks', 'Propagation']",delving-bitcoin-1288-15-3721
