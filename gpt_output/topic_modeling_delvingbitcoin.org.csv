@@ -2086,3 +2086,7 @@ primary_topics,secondary_topics,source_id
 "['Miners', 'Consensus', 'Fees', 'Mining']",[],delving-bitcoin-1262-18-3735
 "['Fees', 'Build Systems', 'Bitcoin Core', 'Mining', 'Hardware Wallet']",['Hashing'],delving-bitcoin-1222-45-3723
 "['Validation', 'Block', 'Mining', 'SPV']","['Empty Blocks', 'Propagation']",delving-bitcoin-1288-15-3721
+"['Pools', 'Trust', 'Mining', 'Consensus', 'Validation', 'Decentralization']",[],delving-bitcoin-1262-21-3739
+"['Scalability', 'Consensus', 'Mining']",['BFT'],delving-bitcoin-1262-20-3737
+"['Stratum-V2', 'Mining', 'FROST', 'Miners', 'Consensus', 'Decentralization', 'P2pool']","['Resilience', 'Block Template', 'Competition']",delving-bitcoin-1262-22-3740
+"['Pools', 'Research', 'Mining', 'Smart Contracts', 'Consensus', 'Decentralization', 'Fees']",[],delving-bitcoin-1262-19-3736
