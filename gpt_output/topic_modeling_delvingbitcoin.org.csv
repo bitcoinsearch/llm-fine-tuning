@@ -2090,3 +2090,5 @@ primary_topics,secondary_topics,source_id
 "['Scalability', 'Consensus', 'Mining']",['BFT'],delving-bitcoin-1262-20-3737
 "['Stratum-V2', 'Mining', 'FROST', 'Miners', 'Consensus', 'Decentralization', 'P2pool']","['Resilience', 'Block Template', 'Competition']",delving-bitcoin-1262-22-3740
 "['Pools', 'Research', 'Mining', 'Smart Contracts', 'Consensus', 'Decentralization', 'Fees']",[],delving-bitcoin-1262-19-3736
+"['Script', 'Development']",['Innovation'],delving-bitcoin-1307-2-3742
+"['Multisig', 'Miners', 'Security', 'Script', 'Sidechains', 'Validation', 'Consensus', 'BIP', 'Smart Contracts']","['GitHub', 'Hashrate']",combined_Bitcoin-OP-CAT-Use-Cases-Series-5-Drivechain
