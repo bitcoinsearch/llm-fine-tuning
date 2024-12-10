@@ -2092,3 +2092,11 @@ primary_topics,secondary_topics,source_id
 "['Pools', 'Research', 'Mining', 'Smart Contracts', 'Consensus', 'Decentralization', 'Fees']",[],delving-bitcoin-1262-19-3736
 "['Script', 'Development']",['Innovation'],delving-bitcoin-1307-2-3742
 "['Multisig', 'Miners', 'Security', 'Script', 'Sidechains', 'Validation', 'Consensus', 'BIP', 'Smart Contracts']","['GitHub', 'Hashrate']",combined_Bitcoin-OP-CAT-Use-Cases-Series-5-Drivechain
+"['Taproot', 'Signet', 'Testing']","['Transaction Scripts', 'Test Environment']",delving-bitcoin-1257-10-3752
+"['Bitcoin Core', 'Privacy', 'Fungibility', 'Fees', 'Smart Contracts', 'Segregated Witness', 'Lightning', 'Layer 2']",['Lightning Network'],delving-bitcoin-1303-2-3753
+"['Security', 'Consensus']",[],delving-bitcoin-1305-2-3750
+"['Mempool', 'Pools', 'Fees', 'Mining', 'Consensus']",[],delving-bitcoin-1099-41-3745
+"['Blockchain', 'Proof-of-Work', 'Timestamping', 'Research', 'Consensus']",[],delving-bitcoin-710-62-3751
+['Consensus'],[],delving-bitcoin-710-61-3746
+"['Bitcoin Core', 'Security', 'Fuzzing', 'Consensus', 'Lightning']",[],combined_Full-Disclosure-Transaction-Relay-Throughput-Overflow-attacks-against-Off-Chain-Protocols
+"['Privacy', 'Taproot', 'Fungibility', 'Scalability', 'SegWit']","['Lightning Network', 'Monero', 'Cash', 'Bitcoin', 'CTV soft fork', 'Chaumian ecash layer']",combined_op-CAT-vs-op-CTV-vs-XMR
