@@ -2100,3 +2100,7 @@ primary_topics,secondary_topics,source_id
 ['Consensus'],[],delving-bitcoin-710-61-3746
 "['Bitcoin Core', 'Security', 'Fuzzing', 'Consensus', 'Lightning']",[],combined_Full-Disclosure-Transaction-Relay-Throughput-Overflow-attacks-against-Off-Chain-Protocols
 "['Privacy', 'Taproot', 'Fungibility', 'Scalability', 'SegWit']","['Lightning Network', 'Monero', 'Cash', 'Bitcoin', 'CTV soft fork', 'Chaumian ecash layer']",combined_op-CAT-vs-op-CTV-vs-XMR
+['Miners'],"['Transparency', 'Rewards', 'Communication', 'Mining Pools']",delving-bitcoin-1099-43-3756
+"['Fees', 'Mempool', 'Stratum-V2', 'Mining', 'Consensus']",[],delving-bitcoin-1099-42-3755
+"['Fees', 'Lightning', 'Security', 'Consensus', 'Bitcoin Core', 'Cryptography', 'Package Relay', 'P2P']",[],delving-bitcoin-1314-1-3757
+"['Transactions', 'Blockchain', 'Signet', 'Script', 'Testing', 'Lightning', 'Security']","['Experimental', 'Vulnerability']",delving-bitcoin-1257-11-3754
