@@ -4971,3 +4971,4 @@ primary_topics,secondary_topics,source_id
 "['Privacy', 'Timelocks', 'Lightning', 'Security']",['Peer-to-Peer Protocol'],combined_Setting-to-self-delay-and-cltv-expiry-prior-to-channel-opening
 "['Security', 'Fuzzing', 'Research', 'Mempool', 'Lightning', 'Consensus']",[],mailing-list-lightning-2024-March-004281
 "['Assumeutxo', 'Fees', 'Lightning']","['Commitment Transactions', 'CTV', 'Fee Rates', 'HTLC', 'Anchor Commitments', 'Transaction Fees', 'CPFP', 'Bitcoin Improvement Proposal', 'RBF']",combined_CheckTemplateVerify-Does-Not-Scale-Due-to-UTXO-s-Required-For-Fee-Payment
+"['Security', 'Privacy', 'Lightning', 'Fees', 'Routing', 'Consensus']",[],combined_Peer-Selection

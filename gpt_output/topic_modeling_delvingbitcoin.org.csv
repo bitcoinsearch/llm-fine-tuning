@@ -2107,3 +2107,6 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Mining', 'Limitations', 'Signet', 'Scalability']",['Public Key'],delving-bitcoin-1257-12-3758
 "['Signet', 'Transactions', 'Testing']",['Chain Reorganization'],delving-bitcoin-1257-14-3760
 "['Lightning', 'Taproot', 'Wallet', 'Miners', 'Mining', 'Script', 'PSBT', 'Replace-By-Fee', 'Covenants']",[],delving-bitcoin-1257-13-3759
+"['Research', 'Security', 'Mining', 'Lightning', 'Fees']",[],delving-bitcoin-1314-2-3763
+"['Validation', 'Mining', 'Forks', 'Research', 'Consensus', 'Covenants']",[],delving-bitcoin-1257-15-3762
+"['Validation', 'Security', 'bitcoin-core-development', 'Mining', 'Package Relay', 'Lightning', 'Fees', 'Segregated Witness', 'Bitcoin Core', 'Consensus', 'Layer 2']",[],combined_Disclosure-irrevocable-fees-stealing-from-LN-using-revoked-commitment-transactions
