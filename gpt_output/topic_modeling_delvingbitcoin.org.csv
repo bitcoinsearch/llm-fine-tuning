@@ -2110,3 +2110,7 @@ primary_topics,secondary_topics,source_id
 "['Research', 'Security', 'Mining', 'Lightning', 'Fees']",[],delving-bitcoin-1314-2-3763
 "['Validation', 'Mining', 'Forks', 'Research', 'Consensus', 'Covenants']",[],delving-bitcoin-1257-15-3762
 "['Validation', 'Security', 'bitcoin-core-development', 'Mining', 'Package Relay', 'Lightning', 'Fees', 'Segregated Witness', 'Bitcoin Core', 'Consensus', 'Layer 2']",[],combined_Disclosure-irrevocable-fees-stealing-from-LN-using-revoked-commitment-transactions
+"['Bitcoin Core', 'Consensus', 'Research', 'Security', 'Post-Quantum', 'Cryptography']",[],delving-bitcoin-1320-1-3770
+"['Bitcoin Core', 'Signature', 'Post-Quantum', 'Address', 'Cryptography', 'Algorithms', 'BIP']","['P2QRH BIP', 'Bitcoin Improvement Proposals']",delving-bitcoin-1320-2-3771
+"['Bitcoin Core', 'Consensus', 'Security', 'Research', 'Post-Quantum', 'Cryptography', 'Threshold Signatures', 'FROST', 'Sphinx']",[],delving-bitcoin-1320-3-3772
+"['Bitcoin Core', 'Consensus', 'Post-Quantum', 'Cryptography', 'BIP']",['GitHub Repository'],combined_Implemented-Post-Quantum-Cryptography-PQC-Feature-into-Bitcoin-Core-
