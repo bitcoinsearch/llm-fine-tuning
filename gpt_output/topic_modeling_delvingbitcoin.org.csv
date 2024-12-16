@@ -2116,3 +2116,5 @@ primary_topics,secondary_topics,source_id
 "['Bitcoin Core', 'Consensus', 'Post-Quantum', 'Cryptography', 'BIP']",['GitHub Repository'],combined_Implemented-Post-Quantum-Cryptography-PQC-Feature-into-Bitcoin-Core-
 "['Signet', 'Limitations', 'Blockchain', 'Mempool', 'Transactions']","['OP_NOP4', 'CTV']",delving-bitcoin-1257-16-3776
 "['Post-Quantum', 'Cryptography', 'Consensus', 'Research', 'Bitcoin Core']",[],delving-bitcoin-1320-4-3774
+"['Consensus', 'Cryptography', 'Forks', 'Fraud', 'Covenants', 'Zero-Knowledge', 'Proof-of-Stake']",[],delving-bitcoin-1050-2-3777
+"['Consensus', 'Cryptography', 'Research', 'Forks', 'Zero-Knowledge', 'Script', 'Bitcoin Core']",[],combined_Optimistic-ZK-verification-using-MATT
