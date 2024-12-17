@@ -2118,3 +2118,8 @@ primary_topics,secondary_topics,source_id
 "['Post-Quantum', 'Cryptography', 'Consensus', 'Research', 'Bitcoin Core']",[],delving-bitcoin-1320-4-3774
 "['Consensus', 'Cryptography', 'Forks', 'Fraud', 'Covenants', 'Zero-Knowledge', 'Proof-of-Stake']",[],delving-bitcoin-1050-2-3777
 "['Consensus', 'Cryptography', 'Research', 'Forks', 'Zero-Knowledge', 'Script', 'Bitcoin Core']",[],combined_Optimistic-ZK-verification-using-MATT
+['Signet'],[],delving-bitcoin-1257-18-3798
+"['Terminology', 'Signet']","['Collaborative Approach', 'Assumption', 'Community Involvement', 'Feedback', 'Opcode']",delving-bitcoin-1257-19-3799
+['Signet'],[],delving-bitcoin-1257-17-3797
+"['Covenants', 'Fraud', 'Python', 'Script', 'UTXO']",['Implementation'],delving-bitcoin-1050-3-3800
+"['Signet', 'Testing']",['CTV'],delving-bitcoin-1257-20-3801
