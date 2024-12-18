@@ -2123,3 +2123,24 @@ primary_topics,secondary_topics,source_id
 ['Signet'],[],delving-bitcoin-1257-17-3797
 "['Covenants', 'Fraud', 'Python', 'Script', 'UTXO']",['Implementation'],delving-bitcoin-1050-3-3800
 "['Signet', 'Testing']",['CTV'],delving-bitcoin-1257-20-3801
+['Script'],[],delving-bitcoin-682-17-3815
+"['Consensus', 'Limitations', 'Research']",[],delving-bitcoin-1326-4-3813
+"['Security', 'Attacks', 'Validation', 'Pools', 'Consensus', 'Mining']",[],delving-bitcoin-1099-48-3812
+"['Security', 'Forks', 'Validation', 'Consensus', 'Timestamping', 'Miners', 'Mining']",[],delving-bitcoin-1326-2-3807
+['P2pool'],[],delving-bitcoin-1099-53-3822
+"['Transactions', 'Security', 'Fees', 'Pools', 'Consensus', 'Mining']",[],delving-bitcoin-1099-52-3821
+"['Security', 'Validation', 'Pools', 'Consensus', 'Mining']",[],delving-bitcoin-1099-45-3808
+['Consensus'],[],delving-bitcoin-1326-5-3816
+"['Security', 'Mempool', 'Validation', 'Consensus', 'Assumeutxo']",[],delving-bitcoin-1099-51-3820
+"['Security', 'Validation', 'Consensus', 'Stratum-V2']",['RPC'],delving-bitcoin-1099-50-3817
+"['Consensus', 'Attacks']",[],delving-bitcoin-1326-6-3818
+"['Mempool', 'Pools', 'Consensus', 'Mining', 'Scalability']",[],delving-bitcoin-1099-46-3809
+"['Security', 'Blockchain', 'Consensus', 'Timestamping']","['Open-source', 'Community']",delving-bitcoin-710-63-3805
+"['Testnet', 'Consensus', 'Attacks', 'Timestamping']",[],delving-bitcoin-1326-3-3811
+"['Transactions', 'Blockchain', 'Consensus', 'Privacy', 'Mining']",[],delving-bitcoin-1099-47-3810
+"['Soft Fork', 'Security', 'Testnet', 'Consensus', 'Timestamping', 'Mining']",[],delving-bitcoin-1326-1-3804
+['Security'],"['Anomaly Detection', 'DDoS', 'Denial of Service', 'Network Capacity', 'Incident Response', 'Cybersecurity']",delving-bitcoin-1099-49-3814
+"['Mining', 'Timelocks', 'Forks', 'Hashlocks', 'Validation', 'Consensus', 'Timestamping', 'ASIC']",[],delving-bitcoin-1326-7-3823
+"['Block', 'Transactions', 'Mempool', 'Fees', 'Consensus', 'Mining', 'Scalability']",[],delving-bitcoin-1099-44-3806
+['Script'],[],delving-bitcoin-682-16-3803
+"['Mining', 'Security', 'Network', 'Testnet', 'Consensus', 'Timestamping', 'ASIC']",[],combined_Timewarp-attack-600-second-grace-period
