@@ -2144,3 +2144,11 @@ primary_topics,secondary_topics,source_id
 "['Block', 'Transactions', 'Mempool', 'Fees', 'Consensus', 'Mining', 'Scalability']",[],delving-bitcoin-1099-44-3806
 ['Script'],[],delving-bitcoin-682-16-3803
 "['Mining', 'Security', 'Network', 'Testnet', 'Consensus', 'Timestamping', 'ASIC']",[],combined_Timewarp-attack-600-second-grace-period
+"['Regulation', 'Encryption', 'Testing', 'Soft Fork', 'Security']","['Compliance', 'User Experience', 'Vulnerabilities', 'Deployment']",delving-bitcoin-1328-3-3832
+"['Bitcoin Core', 'Consensus', 'Soft Fork', 'Security']","['GitHub', 'Pull Request']",delving-bitcoin-1328-2-3831
+"['Mining', 'Forks', 'BIP', 'Validation', 'Timestamping', 'Consensus', 'Proof-of-Work']",[],delving-bitcoin-1326-9-3827
+"['Fees', 'Lightning']",[],delving-bitcoin-1314-3-3825
+"['Consensus', 'Soft Fork', 'Segregated Witness', 'Security']",[],delving-bitcoin-1328-1-3828
+"['Soft Fork', 'Security']","['Updates', 'Quality', 'Integration', 'Software Development Practices', 'Efficiency', 'Software Systems', 'Developers', 'Deployment', 'Bug Fixes', 'Codebase']",delving-bitcoin-1328-4-3833
+"['Mining', 'Stratum-V2', 'Consensus']",[],delving-bitcoin-1326-8-3826
+"['BIP', 'Consensus', 'Soft Fork', 'Security']","['Network Security', 'Vulnerabilities', 'Chain Splits']",combined_Security-soft-fork-deployments-arent-risky
