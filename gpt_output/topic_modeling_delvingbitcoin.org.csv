@@ -2152,3 +2152,4 @@ primary_topics,secondary_topics,source_id
 "['Soft Fork', 'Security']","['Updates', 'Quality', 'Integration', 'Software Development Practices', 'Efficiency', 'Software Systems', 'Developers', 'Deployment', 'Bug Fixes', 'Codebase']",delving-bitcoin-1328-4-3833
 "['Mining', 'Stratum-V2', 'Consensus']",[],delving-bitcoin-1326-8-3826
 "['BIP', 'Consensus', 'Soft Fork', 'Security']","['Network Security', 'Vulnerabilities', 'Chain Splits']",combined_Security-soft-fork-deployments-arent-risky
+"['Protocol', 'Security', 'Scalability', 'Lightning']",[],delving-bitcoin-1233-12-3835
