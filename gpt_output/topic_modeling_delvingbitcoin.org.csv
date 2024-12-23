@@ -2157,3 +2157,4 @@ primary_topics,secondary_topics,source_id
 "['Mining', 'Consensus', 'Timestamping', 'Stratum-V2', 'Security', 'Forks']",[],delving-bitcoin-1326-10-3837
 "['Fees', 'Mining', 'Consensus', 'Security', 'Regulation', 'Cryptography', 'Proof-of-Work']",[],delving-bitcoin-1326-11-3839
 "['Research', 'Blockchain', 'Bitcoin Core', 'Security', 'Proof-of-Work']",['RPC'],delving-bitcoin-1099-54-3843
+['Consensus'],"['Blockchain Technology', 'DAG', 'Difficulty Adjustment Algorithm']",delving-bitcoin-1331-1-3844
