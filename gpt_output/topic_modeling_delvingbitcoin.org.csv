@@ -2158,3 +2158,9 @@ primary_topics,secondary_topics,source_id
 "['Fees', 'Mining', 'Consensus', 'Security', 'Regulation', 'Cryptography', 'Proof-of-Work']",[],delving-bitcoin-1326-11-3839
 "['Research', 'Blockchain', 'Bitcoin Core', 'Security', 'Proof-of-Work']",['RPC'],delving-bitcoin-1099-54-3843
 ['Consensus'],"['Blockchain Technology', 'DAG', 'Difficulty Adjustment Algorithm']",delving-bitcoin-1331-1-3844
+"['Security', 'Mining', 'Soft Fork', 'Segregated Witness', 'ASIC', 'Consensus']",[],delving-bitcoin-1328-6-3847
+"['Mining', 'Fees', 'Halving', 'Difficulty', 'Consensus']",[],delving-bitcoin-1326-12-3845
+"['Security', 'Soft Fork', 'Covenants', 'Timelocks', 'Consensus', 'Lightning', 'Protocol']","['Innovation', 'Vulnerabilities', 'Flexibility', 'Cleanup', 'Feature Forks', 'Blockchain Technology']",delving-bitcoin-1333-1-3851
+"['Mining', 'Consensus']",[],delving-bitcoin-1326-13-3849
+"['Research', 'Bitcoin Core', 'Mempool']","['Logs', 'Open-source projects']",delving-bitcoin-794-2-3846
+"['Research', 'Bitcoin Core', 'Mempool', 'Fees', 'Mining', 'Validation', 'Consensus', 'Transactions']",[],combined_Research-into-the-effects-of-a-cluster-size-limited-mempool-in-2023
