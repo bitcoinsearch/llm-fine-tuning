@@ -2170,3 +2170,4 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Soft Fork', 'Testing', 'Mining', 'Bitcoin Core']",[],delving-bitcoin-1326-14-3853
 "['Soft Fork', 'Forks', 'Consensus']",[],delving-bitcoin-1333-3-3857
 "['Consensus', 'Timelocks', 'Covenants', 'Soft Fork', 'Protocol', 'Security']","['Innovation', 'Cleanup Forks', 'Lightning Channels', 'Sigops', 'Blockchain Technology', 'Byte Limits', 'Feature Forks']",combined_Transitory-Soft-Forks-for-Consensus-Cleanup-Forks
+"['Security', 'Limitations', 'Timestamping', 'Difficulty', 'Proof-of-Work', 'Mining', 'Consensus', 'Forks']","['Private Key', 'Block Rate']",delving-bitcoin-1326-17-3859
