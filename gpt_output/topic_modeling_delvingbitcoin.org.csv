@@ -2173,3 +2173,12 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Limitations', 'Timestamping', 'Difficulty', 'Proof-of-Work', 'Mining', 'Consensus', 'Forks']","['Private Key', 'Block Rate']",delving-bitcoin-1326-17-3859
 "['Security', 'Ethereum', 'Regulation', 'Blockchain']","['Token', 'Centralized Exchange', 'Cryptocurrency', 'Decentralized Exchange']",delving-bitcoin-1339-1-3865
 "['Security', 'Consensus', 'Script', 'Soft Fork']","['Activation Process', 'Full Node', 'UNIX-like Approach', 'DoS Vulnerabilities', 'Modular Changes']",delving-bitcoin-1333-4-3868
+"['Research', 'Segwit', 'Zero-Knowledge']",[],delving-bitcoin-1344-3-3900
+"['Covenants', 'Taproot']","['OP_TEMPLATEHASH', 'CTV', 'OP_INPUTAMOUNTS']",delving-bitcoin-1344-1-3894
+"['Post-Quantum', 'Cryptography', 'Security', 'Schnorr']","['Monero', 'Quantum', 'Bitcoin']",delving-bitcoin-1303-3-3893
+"['Script', 'Consensus']",[],delving-bitcoin-1344-2-3899
+"['Consensus', 'Cryptography', 'Research', 'Scalability', 'Security', 'Development', 'Blockchain']",[],delving-bitcoin-1331-3-3901
+"['Forks', 'Soft Fork', 'Consensus']",[],delving-bitcoin-1333-5-3897
+"['Research', 'Consensus']",[],delving-bitcoin-1331-2-3898
+"['Privacy', 'Research', 'Multisig', 'Bitcoin Core', 'Mining', 'Fees', 'Lightning', 'Zero-Knowledge', 'Proof-of-Work', 'Segwit', 'Forks', 'Consensus', 'Hashlocks', 'Script', 'Pools', 'Taproot', 'Threshold Signatures', 'Security', 'Layer 2', 'Covenants', 'P2pool', 'Libsecp256k1']",[],combined_CTV-OP-TEMPLATEHASH-and-OP-INPUTAMOUNTS
+"['Consensus', 'Decentralization', 'Security', 'Mining', 'Proof-of-Work']","['Difficulty Adjustment Algorithm', 'Blockchain Technology', 'Efficiency']",combined_Fastest-possible-PoW-via-Simple-DAG
