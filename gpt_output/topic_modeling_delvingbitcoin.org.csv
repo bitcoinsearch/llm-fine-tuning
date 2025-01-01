@@ -2182,3 +2182,7 @@ primary_topics,secondary_topics,source_id
 "['Research', 'Consensus']",[],delving-bitcoin-1331-2-3898
 "['Privacy', 'Research', 'Multisig', 'Bitcoin Core', 'Mining', 'Fees', 'Lightning', 'Zero-Knowledge', 'Proof-of-Work', 'Segwit', 'Forks', 'Consensus', 'Hashlocks', 'Script', 'Pools', 'Taproot', 'Threshold Signatures', 'Security', 'Layer 2', 'Covenants', 'P2pool', 'Libsecp256k1']",[],combined_CTV-OP-TEMPLATEHASH-and-OP-INPUTAMOUNTS
 "['Consensus', 'Decentralization', 'Security', 'Mining', 'Proof-of-Work']","['Difficulty Adjustment Algorithm', 'Blockchain Technology', 'Efficiency']",combined_Fastest-possible-PoW-via-Simple-DAG
+"['Difficulty', 'Consensus', 'Mining', 'Blockchain']","['Hashrate', 'Latency']",delving-bitcoin-1331-4-3903
+"['Libsecp256k1', 'Testing', 'Consensus', 'Limitations', 'Research', 'Fuzzing']",[],delving-bitcoin-1344-4-3907
+"['Bitcoin Core', 'Script', 'Cryptography', 'Fees', 'Segwit', 'Consensus']",[],delving-bitcoin-1344-5-3908
+"['Proof-of-Work', 'Mining']","['Hashrate', 'Computational Efficiency', 'Mathematical Analysis', 'Latency', 'Network Changes', 'Algorithm', 'Difficulty Adjustment']",delving-bitcoin-1331-5-3909
