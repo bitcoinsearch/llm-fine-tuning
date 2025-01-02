@@ -2186,3 +2186,7 @@ primary_topics,secondary_topics,source_id
 "['Libsecp256k1', 'Testing', 'Consensus', 'Limitations', 'Research', 'Fuzzing']",[],delving-bitcoin-1344-4-3907
 "['Bitcoin Core', 'Script', 'Cryptography', 'Fees', 'Segwit', 'Consensus']",[],delving-bitcoin-1344-5-3908
 "['Proof-of-Work', 'Mining']","['Hashrate', 'Computational Efficiency', 'Mathematical Analysis', 'Latency', 'Network Changes', 'Algorithm', 'Difficulty Adjustment']",delving-bitcoin-1331-5-3909
+"['Consensus', 'Script', 'Forks', 'Bitcoin Core', 'Cryptography']",[],delving-bitcoin-1344-7-3913
+"['Libbitcoin Kernel', 'Consensus', 'Pools', 'Mining', 'Bitcoin Core', 'Fees']",[],delving-bitcoin-1351-1-3914
+"['Soft Fork', 'Consensus', 'Security', 'Script', 'Wallet', 'Bitcoin Core', 'Attacks', 'Cryptography', 'Fees', 'Segregated Witness']",[],delving-bitcoin-1344-6-3910
+"['Soft Fork', 'Consensus', 'Relay', 'Mining', 'Covenants']","['Opcodes', 'Lightning Channels', 'DoS Attacks']",delving-bitcoin-1333-6-3915
