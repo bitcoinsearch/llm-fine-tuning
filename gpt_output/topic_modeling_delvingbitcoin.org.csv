@@ -2190,3 +2190,14 @@ primary_topics,secondary_topics,source_id
 "['Libbitcoin Kernel', 'Consensus', 'Pools', 'Mining', 'Bitcoin Core', 'Fees']",[],delving-bitcoin-1351-1-3914
 "['Soft Fork', 'Consensus', 'Security', 'Script', 'Wallet', 'Bitcoin Core', 'Attacks', 'Cryptography', 'Fees', 'Segregated Witness']",[],delving-bitcoin-1344-6-3910
 "['Soft Fork', 'Consensus', 'Relay', 'Mining', 'Covenants']","['Opcodes', 'Lightning Channels', 'DoS Attacks']",delving-bitcoin-1333-6-3915
+"['Mining', 'Fees', 'Consensus', 'Proof-of-Work']",[],delving-bitcoin-1331-9-3923
+"['Segwit', 'BIP', 'Secp256k1', 'Validation', 'Cryptography', 'Research']",[],delving-bitcoin-956-4-3922
+['UTXO'],"['Payment Channels', 'Hash Time-Locked Contracts', 'TXID stability']",delving-bitcoin-1353-2-3924
+[],"['User Engagement', 'Data Collection', 'Upgrade', 'Statistics', 'Content Generation']",delving-bitcoin-1356-1-3929
+"['Lightning', 'Segwit', 'Consensus', 'Timelocks', 'Hashlocks', 'Proof-of-Work', 'Forks', 'Validation', 'UTXO', 'Cryptography', 'Schnorr']",[],delving-bitcoin-1353-1-3919
+"['Soft Fork', 'Consensus', 'Blockchain', 'Signet', 'Testing', 'Development']",['Bitcoin Wiki'],delving-bitcoin-1257-21-3930
+"['Soft Fork', 'Consensus', 'Forks', 'Blockchain', 'Covenants', 'Security']",[],delving-bitcoin-1333-7-3916
+"['Mining', 'Consensus', 'Proof-of-Work', 'Forks', 'Difficulty', 'Blockchain', 'Network']","['Latency', 'Hash Rate']",delving-bitcoin-1331-7-3920
+"['Consensus', 'Mining', 'Topology', 'Forks']",[],delving-bitcoin-1331-6-3917
+"['Mining', 'Consensus', 'Security']","['Blockchain Network Performance', 'Latency', 'Geographical Centralization', 'Orphans']",delving-bitcoin-1331-8-3921
+"['Eltoo', 'Lightning', 'UTXO']","['TXID stability', 'Proof system', 'HTLCs']",combined_Contract-level-Relative-Timelocks
