@@ -2201,3 +2201,23 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Mining', 'Topology', 'Forks']",[],delving-bitcoin-1331-6-3917
 "['Mining', 'Consensus', 'Security']","['Blockchain Network Performance', 'Latency', 'Geographical Centralization', 'Orphans']",delving-bitcoin-1331-8-3921
 "['Eltoo', 'Lightning', 'UTXO']","['TXID stability', 'Proof system', 'HTLCs']",combined_Contract-level-Relative-Timelocks
+"['Signet', 'Consensus']","['Credibility', 'Sybil Attacks']",delving-bitcoin-1257-22-3933
+"['Consensus', 'Mining', 'Miners', 'Topology']","['Hash Rate', 'Blockchain Networks', 'Hashrate', 'Difficulty Algorithm', 'Network Latency', 'Latency']",delving-bitcoin-1331-10-3931
+"['Consensus', 'Forks', 'Validation', 'Privacy', 'Security', 'Cryptography']",[],delving-bitcoin-1353-4-3953
+"['Consensus', 'Bitcoin Core', 'Forks', 'Development', 'Soft Fork', 'Security']","['Financial Products', 'Innovation', 'Failure']",delving-bitcoin-1333-10-3954
+"['Mempool', 'Libbitcoin Kernel', 'UTXO']",[],delving-bitcoin-1331-14-3947
+"['Consensus', 'Validation', 'Mining', 'Incentives', 'Research', 'Timestamping', 'Fees']",[],delving-bitcoin-1331-12-3942
+"['Consensus', 'Mining', 'Incentives', 'Miners', 'Fees', 'Attacks']",[],delving-bitcoin-1326-20-3948
+"['Consensus', 'Forks']",[],delving-bitcoin-1344-10-3946
+"['Consensus', 'Multisig', 'Security', 'Script', 'PSBT']","['CTV', 'P2TR', 'Transaction Protocols']",delving-bitcoin-1333-9-3951
+"['Consensus', 'Bitcoin Core', 'Forks', 'Soft Fork', 'Script']",[],delving-bitcoin-1333-11-3955
+"['Consensus', 'Segwit', 'Research']",[],delving-bitcoin-1344-9-3945
+"['Consensus', 'Forks', 'Sidechains', 'Covenants', 'Soft Fork']",[],delving-bitcoin-1333-8-3938
+"['Consensus', 'Multisig', 'Transactions', 'Timelocks', 'Privacy', 'Script']",[],delving-bitcoin-1353-3-3949
+"['Consensus', 'Bitcoin Core', 'Forks', 'Mining', 'Security']",['Bitcoin Core Development'],delving-bitcoin-1326-18-3939
+"['Testing', 'Consensus', 'Bitcoin Core', 'Forks', 'bitcoin-core-development', 'Attacks']",[],delving-bitcoin-1326-19-3941
+"['Testing', 'Consensus', 'Threshold Signatures', 'Fuzzing', 'Layer 2', 'Hardware Wallet', 'Sidechains', 'Multisig', 'Schnorr', 'Libbitcoin Kernel', 'Lnd', 'Regulation', 'Topology', 'Package Relay', 'Scalability', 'Segwit', 'Bitcoin Core', 'C-Lightning', 'Path-Finding', 'Zero-Knowledge', 'Mempool', 'Mining', 'Onion', 'Accumulators', 'Routing', 'Fungibility', 'Privacy', 'Research', 'Asmap', 'Security', 'PSBT', 'Cryptography', 'Update Layer', 'Musig', 'Hard Fork', 'Submarine Swaps', 'IBD', 'Multiple-Path Payments', 'P2pool', 'Eclair', 'RGB', 'Eltoo', 'P2P', 'Taproot', 'FROST', 'Soft Fork', 'Signet', 'Sphinx', 'Stratum-V2', 'Libsecp256k1', 'Silent Payments', 'Custody', 'Miniscript', 'Altcoin', 'Fees', 'Pools', 'Wallet', 'Splicing', 'Routing Failures', 'Limitations', 'Ux', 'Academia', 'Forks', 'Covenants', 'Lightning', 'Smart Contracts', 'Script', 'Assumeutxo', 'Attacks']",[],delving-bitcoin-1331-13-3943
+"['Signet', 'Security']",['Authenticity Protocols'],delving-bitcoin-1257-23-3935
+"['Consensus', 'Hashlocks', 'Forks', 'Validation', 'Cryptography', 'Script']",[],delving-bitcoin-1344-8-3944
+"['Consensus', 'Hashlocks', 'Forks', 'Validation', 'Mining', 'Topology']",[],delving-bitcoin-1331-11-3940
+"['Consensus', 'Segregated Witness', 'Bitcoin Core', 'Forks', 'Validation', 'Privacy', 'Research', 'Cryptography', 'Script', 'Smart Contracts', 'Scalability']",[],delving-bitcoin-1344-11-3952
