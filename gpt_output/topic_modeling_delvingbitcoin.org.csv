@@ -2221,3 +2221,12 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Hashlocks', 'Forks', 'Validation', 'Cryptography', 'Script']",[],delving-bitcoin-1344-8-3944
 "['Consensus', 'Hashlocks', 'Forks', 'Validation', 'Mining', 'Topology']",[],delving-bitcoin-1331-11-3940
 "['Consensus', 'Segregated Witness', 'Bitcoin Core', 'Forks', 'Validation', 'Privacy', 'Research', 'Cryptography', 'Script', 'Smart Contracts', 'Scalability']",[],delving-bitcoin-1344-11-3952
+"['Blockchain', 'Testing', 'Bitcoin Core', 'Privacy', 'Validation', 'Cryptography', 'Segwit', 'Eltoo', 'Threshold Signatures', 'Development', 'Soft Fork', 'Lightning', 'Forks', 'Research', 'Consensus', 'Security']","['Efficiency', 'Computational Demands', 'Generational Model', 'Offline Users', 'Scheme', 'Technical Solutions', 'Collaboration', 'Opcodes', 'Efficient', 'Watchtower Compatibility', 'Channel States', 'Optimization', 'Multi-Party Channels', 'Practical Considerations', 'Proof of Concept', 'State Updates', 'Security Features', 'Witness Sizes', 'Performance Benchmarks', 'Uncooperative Closes', 'Signatures', 'Network Evolution', 'Multi-Party']",delving-bitcoin-1364-1-3966
+"['Miners', 'Fees', 'Mining', 'Mempool', 'Validation', 'Hashlocks', 'Soft Fork', 'Consensus']",[],delving-bitcoin-842-7-3957
+"['Mining', 'Consensus']","['Orphan Rate', 'Latency', 'Hashrate Distribution', 'Dynamic Difficulty Adjustment Algorithm']",delving-bitcoin-1331-15-3959
+"['Soft Fork', 'Consensus']",[],delving-bitcoin-1333-12-3962
+['Mempool'],"['Commitment-Ledger Relative Time', 'Signatures', 'Transaction ID']",delving-bitcoin-1353-5-3963
+"['eltoo', 'security']","['efficiency', 'CLRT', 'optimizations', 'modular', 'blockchain technology', 'digital transactions', 'HTLC', 'Hashed Time-Locked Contract']",delving-bitcoin-1353-6-3964
+"['Blockchain', 'Mining', 'Consensus', 'Transactions', 'Difficulty']",['Latency'],delving-bitcoin-1331-18-3967
+"['Miners', 'Bitcoin Core', 'Blockchain', 'Mining', 'Consensus']",[],delving-bitcoin-1351-2-3958
+"['Bitcoin Core', 'Fees', 'Pools', 'Libbitcoin Kernel', 'Mining', 'Research', 'Consensus']",[],combined_Analyzing-Mining-Pool-Behavior-to-Address-Bitcoin-Core-s-Double-Coinbase-Reservation-Issue
