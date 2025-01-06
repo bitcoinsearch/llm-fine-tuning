@@ -2230,3 +2230,6 @@ primary_topics,secondary_topics,source_id
 "['Blockchain', 'Mining', 'Consensus', 'Transactions', 'Difficulty']",['Latency'],delving-bitcoin-1331-18-3967
 "['Miners', 'Bitcoin Core', 'Blockchain', 'Mining', 'Consensus']",[],delving-bitcoin-1351-2-3958
 "['Bitcoin Core', 'Fees', 'Pools', 'Libbitcoin Kernel', 'Mining', 'Research', 'Consensus']",[],combined_Analyzing-Mining-Pool-Behavior-to-Address-Bitcoin-Core-s-Double-Coinbase-Reservation-Issue
+"['UTXO', 'Schnorr']",[],delving-bitcoin-1353-8-3970
+"['Cryptography', 'Proof-of-Work', 'Bitcoin Core', 'Security', 'Consensus', 'Blockchain', 'Research']",[],delving-bitcoin-1331-19-3971
+"['Cryptography', 'Proof-of-Stake', 'Validation', 'Consensus']",[],delving-bitcoin-1353-7-3969
