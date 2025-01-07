@@ -2233,3 +2233,24 @@ primary_topics,secondary_topics,source_id
 "['UTXO', 'Schnorr']",[],delving-bitcoin-1353-8-3970
 "['Cryptography', 'Proof-of-Work', 'Bitcoin Core', 'Security', 'Consensus', 'Blockchain', 'Research']",[],delving-bitcoin-1331-19-3971
 "['Cryptography', 'Proof-of-Stake', 'Validation', 'Consensus']",[],delving-bitcoin-1353-7-3969
+"['Fees', 'Transactions']","['Optimizing', 'Algorithm']",delving-bitcoin-303-4-3985
+"['Scalability', 'Consensus', 'Security', 'Forks']",[],delving-bitcoin-1326-21-3973
+"['Attacks', 'Timestamping', 'Difficulty', 'Mining', 'Limitations', 'Consensus']",['Hashrate'],delving-bitcoin-1326-26-3983
+['Fees'],"['Optimization', 'Feerate', 'Function', 'Transaction Selection', 'Network Topology', 'Criteria']",delving-bitcoin-303-5-3987
+"['Segregated Witness', 'Locktime', 'UTXO', 'Proof-of-Work', 'Relay', 'Proof-of-Stake', 'Validation', 'Transaction-Input', 'Output', 'Transaction-Verification', 'Consensus']","['Schnorr Signatures', 'Scripts']",delving-bitcoin-1353-10-3978
+"['Transaction-ID', 'Output']","['Pay-to-Anchor Address', 'Singleton']",delving-bitcoin-1353-9-3972
+"['Schnorr', 'Script', 'Taproot', 'Validation']","['Bitcoin Scripting', 'Contracts', 'State Machines', 'Opcodes', 'State Commitment', 'Transaction']",delving-bitcoin-1353-11-3979
+"['Security', 'Attacks', 'Forks', 'Mining', 'Consensus', 'Bitcoin Core']",[],delving-bitcoin-1326-22-3974
+"['Eltoo', 'Consensus']","['Trade-offs', 'Counterparties', 'Quorum', 'State Updates', 'Trustless Watchtowers', 'Secure Channel Settlements', 'Costs', 'Delay Requirements', 'Channel Settlement', 'Vbytes']",delving-bitcoin-1364-2-3989
+"['Fees', 'Consensus']",[],delving-bitcoin-303-7-3992
+"['Timelocks', 'Blockchain', 'Threshold Signatures', 'Hashlocks', 'Lightning', 'Transactions']","['Channel', 'HTLCs', 'Settlement', 'Efficiency']",delving-bitcoin-1353-12-3982
+['Topology'],[],delving-bitcoin-303-6-3991
+"['Academia', 'Research']",[],delving-bitcoin-1331-20-3984
+"['Scalability', 'Security', 'Multisig', 'Forks', 'Threshold Signatures', 'Research', 'Cryptography', 'Consensus', 'Privacy', 'Lightning']",[],delving-bitcoin-1364-3-3995
+"['Covenants', 'FROST', 'Mining', 'Threshold Signatures', 'Consensus']",['Solo Mining'],delving-bitcoin-1370-1-3993
+['Consensus'],[],delving-bitcoin-1326-25-3981
+"['Transactions', 'Forks', 'Mining', 'Validation', 'Blockchain', 'Cryptography', 'Consensus', 'P2P']",[],delving-bitcoin-842-8-3990
+"['Fees', 'Consensus', 'Attacks', 'Mining']",[],delving-bitcoin-1326-24-3980
+"['Security', 'Forks', 'Mining', 'Consensus', 'Bitcoin Core']",[],delving-bitcoin-1326-23-3975
+"['Relay', 'Segregated Witness', 'Smart Contracts', 'Schnorr', 'Taproot', 'Consensus']","['Consensus Safety', 'Settlements', 'Contract Upgrades', 'Contract Validity', 'State Machines', 'NFT', 'Opcodes', 'External Scripts', 'State Commitment', 'Timelock Enforcement', 'Transaction ID', 'Ancestry Proofs', 'Blockchain Space']",combined_Contract-level-Relative-Timelocks-or-let-s-talk-about-ancestry-proofs-and-singletons-
+"['Scalability', 'Security', 'Research', 'Consensus', 'Soft Fork']","['Blockchain Protocols', 'Multi-Party', 'State Update', 'Collaboration', 'Optimizing Efficiency', 'Efficiency', 'Bitcoin Development Community']",combined_Multi-Party-Eltoo-with-bounded-settlement
