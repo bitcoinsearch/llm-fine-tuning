@@ -2254,3 +2254,21 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Forks', 'Mining', 'Consensus', 'Bitcoin Core']",[],delving-bitcoin-1326-23-3975
 "['Relay', 'Segregated Witness', 'Smart Contracts', 'Schnorr', 'Taproot', 'Consensus']","['Consensus Safety', 'Settlements', 'Contract Upgrades', 'Contract Validity', 'State Machines', 'NFT', 'Opcodes', 'External Scripts', 'State Commitment', 'Timelock Enforcement', 'Transaction ID', 'Ancestry Proofs', 'Blockchain Space']",combined_Contract-level-Relative-Timelocks-or-let-s-talk-about-ancestry-proofs-and-singletons-
 "['Scalability', 'Security', 'Research', 'Consensus', 'Soft Fork']","['Blockchain Protocols', 'Multi-Party', 'State Update', 'Collaboration', 'Optimizing Efficiency', 'Efficiency', 'Bitcoin Development Community']",combined_Multi-Party-Eltoo-with-bounded-settlement
+"['Consensus', 'Security', 'Mining', 'Mempool']",[],delving-bitcoin-1364-5-4000
+['Stratum-V2'],"['Mining Fees', 'Consensus Rules', 'Miner Extractable Value', 'Coinbase Output Market', 'Mining Pools', 'Proportional Payouts', 'Payouts', 'MEV']",delving-bitcoin-870-33-4014
+"['Consensus', 'Mining', 'Bitcoin Core', 'P2P', 'Fees', 'Pools', 'Research', 'Mempool']",[],delving-bitcoin-842-9-3996
+"['Consensus', 'Mining', 'Validation', 'Forks', 'Bitcoin Core', 'Segwit', 'Miners', 'Research', 'Bip', 'Cryptography']",['Block Validity'],delving-bitcoin-710-64-4010
+"['Consensus', 'Mining', 'Validation', 'Forks', 'Attacks']",[],delving-bitcoin-1326-28-4009
+"['Package Relay', 'Mining', 'P2P', 'Fees', 'Mempool']",[],delving-bitcoin-842-10-3997
+"['Consensus', 'Mining', 'Forks', 'Difficulty']",['Block Header'],delving-bitcoin-1326-31-4017
+"['Consensus', 'Fees', 'Validation']",[],delving-bitcoin-303-8-4002
+"['Forks', 'Consensus', 'Timestamping', 'Research']",[],delving-bitcoin-1326-30-4016
+"['Eltoo', 'Consensus', 'Mining', 'Validation', 'Fees', 'Miners', 'Timelocks', 'Attacks', 'Cryptography']",[],delving-bitcoin-1364-4-3998
+"['Consensus', 'Testing', 'Mining']",[],delving-bitcoin-842-11-3999
+"['Consensus', 'Security', 'Mining', 'Attacks']",[],delving-bitcoin-1326-29-4015
+"['Consensus', 'Mining', 'Validation', 'Forks', 'Timestamping']",[],delving-bitcoin-1326-27-4005
+"['Consensus', 'Security', 'Attacks', 'Mempool']",['Economic Theory'],delving-bitcoin-1364-7-4006
+"['Consensus', 'Mining', 'Validation', 'Forks', 'Miners', 'Hard Fork']",[],delving-bitcoin-842-12-4004
+['Eltoo'],"['Watchtower', 'Game-theoretic', 'Penalties', 'Deception']",delving-bitcoin-1364-6-4001
+"['Privacy', 'Consensus', 'Merkle Trees', 'Mining', 'Validation', 'Forks', 'Proof-of-Work', 'Stratum-V2', 'Hash', 'Pools', 'Blockchain', 'Decentralization']",['Block Reward'],delving-bitcoin-870-32-4013
+"['Consensus', 'Mining', 'Fees', 'Timelocks', 'Mempool']",['Watchtowers'],combined_-BROKEN-Multi-Party-Eltoo-with-bounded-settlement
