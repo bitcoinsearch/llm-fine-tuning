@@ -2272,3 +2272,8 @@ primary_topics,secondary_topics,source_id
 ['Eltoo'],"['Watchtower', 'Game-theoretic', 'Penalties', 'Deception']",delving-bitcoin-1364-6-4001
 "['Privacy', 'Consensus', 'Merkle Trees', 'Mining', 'Validation', 'Forks', 'Proof-of-Work', 'Stratum-V2', 'Hash', 'Pools', 'Blockchain', 'Decentralization']",['Block Reward'],delving-bitcoin-870-32-4013
 "['Consensus', 'Mining', 'Fees', 'Timelocks', 'Mempool']",['Watchtowers'],combined_-BROKEN-Multi-Party-Eltoo-with-bounded-settlement
+['Timestamping'],[],delving-bitcoin-1326-34-4023
+"['Consensus', 'Mining', 'Mempool', 'Research', 'Bitcoin Core', 'Validation', 'Transactions', 'Lightning', 'Fees', 'Stratum-V2', 'Privacy', 'Pools', 'Segwit']",[],delving-bitcoin-870-34-4019
+"['Consensus', 'Mining', 'Attacks', 'Timestamping', 'Blockchain', 'Security']",[],delving-bitcoin-1326-32-4018
+"['Consensus', 'Proof-of-Work', 'Mining', 'Proof-of-Stake', 'Merkle Trees', 'Fees', 'Stratum-V2', 'Pools']",[],delving-bitcoin-870-35-4024
+"['Consensus', 'Timestamping']",[],delving-bitcoin-1326-33-4021
