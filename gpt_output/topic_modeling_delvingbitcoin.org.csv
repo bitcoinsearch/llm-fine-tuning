@@ -2277,3 +2277,5 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Mining', 'Attacks', 'Timestamping', 'Blockchain', 'Security']",[],delving-bitcoin-1326-32-4018
 "['Consensus', 'Proof-of-Work', 'Mining', 'Proof-of-Stake', 'Merkle Trees', 'Fees', 'Stratum-V2', 'Pools']",[],delving-bitcoin-870-35-4024
 "['Consensus', 'Timestamping']",[],delving-bitcoin-1326-33-4021
+"['Consensus', 'Pools']",[],delving-bitcoin-1099-55-4027
+"['Legal', 'Decentralization']","['Open-source', 'Governance']",delving-bitcoin-1254-3-4029
