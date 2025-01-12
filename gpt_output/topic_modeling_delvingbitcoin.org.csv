@@ -2279,3 +2279,4 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Timestamping']",[],delving-bitcoin-1326-33-4021
 "['Consensus', 'Pools']",[],delving-bitcoin-1099-55-4027
 "['Legal', 'Decentralization']","['Open-source', 'Governance']",delving-bitcoin-1254-3-4029
+"['Taproot', 'Cryptography', 'Consensus', 'BIP', 'Soft Fork', 'Security', 'Hashlocks', 'Segregated Witness', 'Validation', 'Forks']",[],delving-bitcoin-956-5-4037
