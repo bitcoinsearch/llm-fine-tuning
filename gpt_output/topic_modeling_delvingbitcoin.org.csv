@@ -2280,3 +2280,8 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Pools']",[],delving-bitcoin-1099-55-4027
 "['Legal', 'Decentralization']","['Open-source', 'Governance']",delving-bitcoin-1254-3-4029
 "['Taproot', 'Cryptography', 'Consensus', 'BIP', 'Soft Fork', 'Security', 'Hashlocks', 'Segregated Witness', 'Validation', 'Forks']",[],delving-bitcoin-956-5-4037
+"['Research', 'Script', 'Validation', 'Bitcoin Core', 'Consensus']",[],delving-bitcoin-1382-2-4039
+"['Forks', 'Consensus', 'Scalability', 'Bitcoin Core']",[],delving-bitcoin-1382-1-4038
+"['Forks', 'Research', 'Script', 'Bitcoin Core']",[],delving-bitcoin-1382-3-4040
+"['Script', 'Soft Fork']",[],delving-bitcoin-1382-4-4041
+"['Research', 'Script', 'Scalability', 'Bitcoin Core', 'Consensus', 'Forks']",[],combined_What-happens-after-we-run-out-of-script-flags-
