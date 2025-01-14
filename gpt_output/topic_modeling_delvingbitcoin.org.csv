@@ -2285,3 +2285,11 @@ primary_topics,secondary_topics,source_id
 "['Forks', 'Research', 'Script', 'Bitcoin Core']",[],delving-bitcoin-1382-3-4040
 "['Script', 'Soft Fork']",[],delving-bitcoin-1382-4-4041
 "['Research', 'Script', 'Scalability', 'Bitcoin Core', 'Consensus', 'Forks']",[],combined_What-happens-after-we-run-out-of-script-flags-
+"['Timelocks', 'Lightning', 'Hashlocks']","['Commitment-Lightning Round Trip', 'Lightning Routing']",delving-bitcoin-1353-15-4050
+"['Mining', 'Consensus', 'Bitcoin Core', 'Soft Fork']",[],delving-bitcoin-1351-3-4046
+"['Forks', 'Smart Contracts', 'Cryptography', 'Validation', 'Consensus', 'Segwit']",[],delving-bitcoin-1353-14-4049
+"['Timelocks', 'Research', 'Cryptography', 'Proof-of-Stake', 'Consensus']",[],delving-bitcoin-1353-16-4051
+"['Soft Fork', 'Bitcoin Core', 'Block', 'Fees', 'Validation', 'Mining', 'Consensus', 'Pools']",[],delving-bitcoin-1351-4-4047
+"['Proof-of-Stake', 'Timelocks']",[],delving-bitcoin-1353-13-4048
+"['Mining', 'Bitcoin Core']","['Analysis', 'Block Header']",delving-bitcoin-1351-5-4052
+"['Mempool', 'Bitcoin Core']","['Collaboration', 'Project Management', 'Working Groups', 'Transparency']",delving-bitcoin-598-10-4042
