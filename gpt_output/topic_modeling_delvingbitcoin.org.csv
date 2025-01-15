@@ -2293,3 +2293,7 @@ primary_topics,secondary_topics,source_id
 "['Proof-of-Stake', 'Timelocks']",[],delving-bitcoin-1353-13-4048
 "['Mining', 'Bitcoin Core']","['Analysis', 'Block Header']",delving-bitcoin-1351-5-4052
 "['Mempool', 'Bitcoin Core']","['Collaboration', 'Project Management', 'Working Groups', 'Transparency']",delving-bitcoin-598-10-4042
+"['Storage', 'Blockchain', 'Pruning']","['Data Management', 'Efficiency', 'Node Operators', 'Legal Obligations']",delving-bitcoin-1385-1-4054
+['Timelocks'],"['Transaction Process', 'Settlement']",delving-bitcoin-1353-17-4056
+"['UTXO', 'Storage', 'Blockchain', 'Pruning']",['Utreexo'],delving-bitcoin-1385-2-4055
+"['Script', 'UTXO', 'Bitcoin Core', 'Storage', 'Blockchain', 'Pruning']","['Chainstate', 'Node Operators']",combined_Pruning-non-transaction-data-instead-of-pruning-whole-blocks-
