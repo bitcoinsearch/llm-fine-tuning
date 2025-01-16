@@ -2297,3 +2297,6 @@ primary_topics,secondary_topics,source_id
 ['Timelocks'],"['Transaction Process', 'Settlement']",delving-bitcoin-1353-17-4056
 "['UTXO', 'Storage', 'Blockchain', 'Pruning']",['Utreexo'],delving-bitcoin-1385-2-4055
 "['Script', 'UTXO', 'Bitcoin Core', 'Storage', 'Blockchain', 'Pruning']","['Chainstate', 'Node Operators']",combined_Pruning-non-transaction-data-instead-of-pruning-whole-blocks-
+['Pruning'],[],delving-bitcoin-1385-4-4062
+"['Fees', 'Mining', 'Transactions', 'Bitcoin Core', 'Block']","['Header', 'Optimizations']",delving-bitcoin-1351-6-4057
+"['Scalability', 'Blockchain', 'Pruning']","['Optimization', 'Data Storage', 'Efficiency']",delving-bitcoin-1385-3-4061
