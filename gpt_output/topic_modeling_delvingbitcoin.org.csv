@@ -2301,3 +2301,5 @@ primary_topics,secondary_topics,source_id
 "['Fees', 'Mining', 'Transactions', 'Bitcoin Core', 'Block']","['Header', 'Optimizations']",delving-bitcoin-1351-6-4057
 "['Scalability', 'Blockchain', 'Pruning']","['Optimization', 'Data Storage', 'Efficiency']",delving-bitcoin-1385-3-4061
 "['Segregated Witness', 'Mining', 'bitcoin-core-development', 'Bitcoin Core', 'Fees', 'Consensus']",[],delving-bitcoin-1351-7-4065
+"['security', 'Research', 'wallet', 'transactions', 'privacy', 'consensus', 'Libsecp256k1', 'Threshold Signatures', 'Schnorr', 'Mempool', 'Validation', 'mining-pools', 'bitcoin-core-development', 'Segwit', 'Cryptography', 'private-key', 'blockchain', 'FROST', 'transaction-fees']",[],delving-bitcoin-304-32-4072
+[],"['transparency', 'open-source principles', 'Bitcoin Improvement Proposal', 'GitHub', 'community-driven development']",delving-bitcoin-304-31-4067
