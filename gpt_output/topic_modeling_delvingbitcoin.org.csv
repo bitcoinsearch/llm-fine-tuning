@@ -2306,3 +2306,5 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Mempool', 'Validation', 'P2P', 'Forks', 'Package Relay']",[],delving-bitcoin-1052-6-4077
 "['Mining', 'Mempool', 'Fees']",[],delving-bitcoin-1052-5-4076
 "['Transactions', 'Consensus', 'Blockchain', 'Mining', 'Fees', 'Research', 'Privacy', 'Security']",[],delving-bitcoin-1052-7-4078
+"['Fees', 'Transactions', 'Mining']","['Transaction Management', 'Operational Dynamics', 'Block Reconstruction', 'Transaction IDs', 'Orphaned Transactions', 'Node Behavior', 'Memory Management']",delving-bitcoin-1052-8-4079
+"['Mining', 'Fees', 'Bitcoin Core', 'Consensus', 'P2P', 'Scalability']",[],delving-bitcoin-1052-9-4080
