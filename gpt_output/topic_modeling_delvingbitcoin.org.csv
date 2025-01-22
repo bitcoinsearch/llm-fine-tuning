@@ -2308,3 +2308,6 @@ primary_topics,secondary_topics,source_id
 "['Transactions', 'Consensus', 'Blockchain', 'Mining', 'Fees', 'Research', 'Privacy', 'Security']",[],delving-bitcoin-1052-7-4078
 "['Fees', 'Transactions', 'Mining']","['Transaction Management', 'Operational Dynamics', 'Block Reconstruction', 'Transaction IDs', 'Orphaned Transactions', 'Node Behavior', 'Memory Management']",delving-bitcoin-1052-8-4079
 "['Mining', 'Fees', 'Bitcoin Core', 'Consensus', 'P2P', 'Scalability']",[],delving-bitcoin-1052-9-4080
+"['Bitcoin Core', 'Mempool', 'Research']",[],delving-bitcoin-155-1-319
+"['Consensus', 'Testing', 'Bitcoin Core', 'Miners']","['Integration', 'Repository', 'Bitcoin Improvement Proposal', 'Developers']",delving-bitcoin-121-11-709
+"['Consensus', 'Testing', 'Security', 'Research', 'Bitcoin Core']",['Bitcoin Core Development'],delving-bitcoin-455-2-1283
