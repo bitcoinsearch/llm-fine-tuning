@@ -2311,3 +2311,10 @@ primary_topics,secondary_topics,source_id
 "['Bitcoin Core', 'Mempool', 'Research']",[],delving-bitcoin-155-1-319
 "['Consensus', 'Testing', 'Bitcoin Core', 'Miners']","['Integration', 'Repository', 'Bitcoin Improvement Proposal', 'Developers']",delving-bitcoin-121-11-709
 "['Consensus', 'Testing', 'Security', 'Research', 'Bitcoin Core']",['Bitcoin Core Development'],delving-bitcoin-455-2-1283
+"['Mining', 'Libbitcoin Kernel', 'Bitcoin Core', 'Pools', 'Fees', 'Mempool', 'Consensus']",[],delving-bitcoin-1052-10-4087
+"['Validation', 'Privacy', 'Forks', 'Libbitcoin Kernel', 'Security', 'Miners', 'Mempool', 'Consensus']",[],delving-bitcoin-1052-11-4088
+"['Validation', 'Mining', 'Research', 'Lightning', 'Cryptography', 'Security', 'Bitcoin Core', 'Fees', 'Update Layer', 'Consensus']",[],delving-bitcoin-1400-1-4089
+"['Mining', 'P2P', 'Fees', 'Mempool', 'Package Relay']",[],delving-bitcoin-1052-13-4092
+"['Validation', 'Mining', 'Forks', 'P2P', 'Security', 'Topology', 'Fuzzing', 'Mempool', 'Package Relay', 'Scalability', 'Consensus']",[],delving-bitcoin-1052-14-4093
+"['Limitations', 'Transactions', 'Mempool']",[],delving-bitcoin-1052-15-4094
+"['Validation', 'Privacy', 'Decentralization', 'Hashlocks', 'Timelocks', 'Spv', 'Proof-of-Work', 'P2P', 'Miners', 'Fuzzing', 'Mempool', 'Package Relay', 'Scalability', 'Consensus']",[],delving-bitcoin-1052-12-4090
