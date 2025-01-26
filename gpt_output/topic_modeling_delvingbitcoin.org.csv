@@ -2318,3 +2318,4 @@ primary_topics,secondary_topics,source_id
 "['Validation', 'Mining', 'Forks', 'P2P', 'Security', 'Topology', 'Fuzzing', 'Mempool', 'Package Relay', 'Scalability', 'Consensus']",[],delving-bitcoin-1052-14-4093
 "['Limitations', 'Transactions', 'Mempool']",[],delving-bitcoin-1052-15-4094
 "['Validation', 'Privacy', 'Decentralization', 'Hashlocks', 'Timelocks', 'Spv', 'Proof-of-Work', 'P2P', 'Miners', 'Fuzzing', 'Mempool', 'Package Relay', 'Scalability', 'Consensus']",[],delving-bitcoin-1052-12-4090
+"['Compiling', 'Script']","['GitHub Commit', 'Codebase']",delving-bitcoin-1382-5-4096
