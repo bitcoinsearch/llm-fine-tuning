@@ -2320,3 +2320,4 @@ primary_topics,secondary_topics,source_id
 "['Validation', 'Privacy', 'Decentralization', 'Hashlocks', 'Timelocks', 'Spv', 'Proof-of-Work', 'P2P', 'Miners', 'Fuzzing', 'Mempool', 'Package Relay', 'Scalability', 'Consensus']",[],delving-bitcoin-1052-12-4090
 "['Compiling', 'Script']","['GitHub Commit', 'Codebase']",delving-bitcoin-1382-5-4096
 [],"['Upgradeable NOPs', 'Coding Practices', 'Bitcoin Improvement Proposal', 'CHECKSIGFROMSTACKVERIFY']",delving-bitcoin-60-9-4099
+"['Replace-By-Fee', 'Fees', 'Mining', 'Security', 'Mempool', 'Consensus', 'Research', 'Testing', 'Bitcoin Core']",[],delving-bitcoin-1405-1-4100
