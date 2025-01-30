@@ -2324,3 +2324,11 @@ primary_topics,secondary_topics,source_id
 "['Zero-Knowledge', 'Privacy', 'Routing', 'Blockchain', 'Lightning']",[],delving-bitcoin-1407-2-4103
 "['Taproot', 'Musig', 'UTXO', 'Privacy']","['Lightning Network', 'Gossip Protocol', 'ZK-proofs', 'Utreexo']",delving-bitcoin-1407-1-4102
 "['Privacy', 'Routing', 'Utxo', 'Path-Finding', 'Lightning']","['Network Operations', 'Channel', 'Capacity', 'Gossip']",delving-bitcoin-1407-3-4104
+"['Utxo', 'Privacy', 'Taproot', 'Zero-Knowledge', 'Lightning']",[],delving-bitcoin-1407-4-4108
+"['Locktime', 'Script', 'Validation', 'Miners', 'Consensus']",['Block Header'],delving-bitcoin-710-65-4113
+"['Cryptography', 'Forks', 'Schnorr', 'Threshold Signatures', 'Proof-of-Work', 'Privacy', 'Proof-of-Stake', 'Script', 'Segwit', 'Validation', 'Fairness', 'Consensus', 'Research', 'Smart Contracts', 'Bitcoin Core', 'Security']",[],delving-bitcoin-1409-1-4107
+"['C++', 'Research']","['Algorithm', 'Open Source', 'Graph', 'Implementation', 'MIT License', 'Efficiency']",delving-bitcoin-303-9-4106
+"['Consensus', 'Mempool', 'Fees', 'Routing', 'Lightning', 'Security']",[],delving-bitcoin-1410-1-4112
+"['Consensus', 'Fees', 'Research']","['Algorithm', 'Linear Programming', 'Optimization', 'Efficiency', 'Performance']",delving-bitcoin-303-10-4109
+"['Consensus', 'Research', 'Topology']",[],delving-bitcoin-303-11-4110
+"['Cryptography', 'P2P', 'Mining', 'Privacy', 'Silent Payments', 'Scalability', 'Fuzzing', 'Consensus', 'Libbitcoin Kernel', 'Validation', 'Zero-Knowledge', 'Mempool', 'Assumeutxo', 'Research', 'Lightning']",[],delving-bitcoin-1407-5-4111
