@@ -2332,3 +2332,6 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Fees', 'Research']","['Algorithm', 'Linear Programming', 'Optimization', 'Efficiency', 'Performance']",delving-bitcoin-303-10-4109
 "['Consensus', 'Research', 'Topology']",[],delving-bitcoin-303-11-4110
 "['Cryptography', 'P2P', 'Mining', 'Privacy', 'Silent Payments', 'Scalability', 'Fuzzing', 'Consensus', 'Libbitcoin Kernel', 'Validation', 'Zero-Knowledge', 'Mempool', 'Assumeutxo', 'Research', 'Lightning']",[],delving-bitcoin-1407-5-4111
+"['Consensus', 'Protocol', 'Mining', 'Forks', 'Timestamping', 'Bitcoin Core']",[],delving-bitcoin-710-66-4116
+"['Validation', 'Consensus', 'Lightning', 'Routing', 'Utxo', 'Privacy', 'Proof-of-Work', 'Research', 'Topology', 'Cryptography', 'Forks', 'Zero-Knowledge']",[],delving-bitcoin-1407-6-4114
+"['Utxo', 'Consensus', 'Accumulators']",[],delving-bitcoin-1407-7-4115
