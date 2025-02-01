@@ -2335,3 +2335,19 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Protocol', 'Mining', 'Forks', 'Timestamping', 'Bitcoin Core']",[],delving-bitcoin-710-66-4116
 "['Validation', 'Consensus', 'Lightning', 'Routing', 'Utxo', 'Privacy', 'Proof-of-Work', 'Research', 'Topology', 'Cryptography', 'Forks', 'Zero-Knowledge']",[],delving-bitcoin-1407-6-4114
 "['Utxo', 'Consensus', 'Accumulators']",[],delving-bitcoin-1407-7-4115
+"['Mining', 'Lightning', 'Miners', 'Incentives', 'Fees']",['Transaction Fees'],delving-bitcoin-1412-2-4123
+['Research'],"['Machine Learning', 'Artificial Intelligence']",delving-bitcoin-303-13-4132
+['Lightning'],[],delving-bitcoin-1414-4-4133
+"['Consensus', 'Taproot', 'Lightning', 'Script', 'Hashlocks', 'Security', 'Signature']",[],delving-bitcoin-1414-1-4126
+"['Privacy', 'Security']",['Feedback'],delving-bitcoin-1414-3-4130
+"['Taproot', 'Lightning', 'Miners', 'Fees', 'Security']","['Witness', 'Channel', 'CPFP', 'HTLCs', 'Anchor']",delving-bitcoin-1412-1-4122
+"['Mining', 'Consensus', 'Research', 'Fees']","['Algorithm', 'Optimization']",delving-bitcoin-303-12-4131
+"['Lightning', 'Hashlocks', 'Security']","['Channel-based transactions', 'PTLCs', 'HTLCs']",delving-bitcoin-1414-2-4128
+"['Merkle Trees', 'Lightning', 'Segwit', 'Mempool', 'UTXO', 'Timelocks', 'Multisig', 'Privacy', 'Fee Management', 'Research', 'Fuzzing', 'Assumeutxo', 'Mining', 'Consensus', 'Zero-Knowledge', 'Libbitcoin Kernel', 'Cryptography', 'Proof-of-Work', 'Miners', 'Hashlocks', 'Fees', 'Validation', 'Security', 'Forks', 'Threshold Signatures', 'Atomic Swaps', 'Silent Payments', 'Smart Contracts', 'Incentives', 'P2P', 'Bech32']",[],delving-bitcoin-1407-8-4120
+"['Topology', 'Consensus', 'Network', 'P2P']","['Latency', 'Propagation']",delving-bitcoin-1416-1-4134
+"['Mining', 'Consensus', 'Blockchain', 'Validation', 'Forks', 'Privacy']",[],delving-bitcoin-1052-17-4129
+"['Mining', 'Consensus', 'Fees', 'Validation', 'Transactions']","['Memory Usage', 'Orphan Pool', 'Transaction Selection']",delving-bitcoin-1052-16-4121
+"['Mining', 'Consensus', 'Research', 'P2P', 'Bitcoin Core', 'Fees', 'Security', 'Transactions', 'Privacy']",[],delving-bitcoin-1415-1-4127
+"['ASIC', 'Linux', 'Security']",['Network Time Protocol (NTP)'],delving-bitcoin-1326-36-4119
+"['Mining', 'Consensus', 'Nodes', 'Timestamping', 'Protocol', 'Blockchain', 'Miners', 'Security', 'Network', 'Bitcoin Core', 'ASIC', 'Stratum', 'Linux', 'Forks', 'Validation']","['NTP', 'Clock', 'Bugs']",delving-bitcoin-1326-35-4118
+"['Fee Management', 'UTXO', 'Lightning']",['Transaction Management'],delving-bitcoin-1412-3-4125
