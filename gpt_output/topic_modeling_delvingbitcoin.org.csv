@@ -2351,3 +2351,14 @@ primary_topics,secondary_topics,source_id
 "['ASIC', 'Linux', 'Security']",['Network Time Protocol (NTP)'],delving-bitcoin-1326-36-4119
 "['Mining', 'Consensus', 'Nodes', 'Timestamping', 'Protocol', 'Blockchain', 'Miners', 'Security', 'Network', 'Bitcoin Core', 'ASIC', 'Stratum', 'Linux', 'Forks', 'Validation']","['NTP', 'Clock', 'Bugs']",delving-bitcoin-1326-35-4118
 "['Fee Management', 'UTXO', 'Lightning']",['Transaction Management'],delving-bitcoin-1412-3-4125
+"['Fees', 'Consensus', 'Mining', 'Research']","['Optimization', 'Graph', 'Complexity', 'Algorithm', 'Computer Vision']",delving-bitcoin-303-14-4135
+"['Research', 'Consensus', 'Validation']",[],delving-bitcoin-303-18-4140
+"['Fees', 'Mining']","['Efficiency', 'Analysis', 'Graph']",delving-bitcoin-303-16-4138
+"['Cryptography', 'Lightning', 'Validation', 'Proof-of-Stake', 'Consensus', 'Research', 'Segwit', 'Ux', 'Zero-Knowledge']",[],delving-bitcoin-1407-11-4144
+['Research'],[],delving-bitcoin-303-20-4142
+"['Lightning', 'UTXO', 'Taproot', 'Privacy', 'Zero-Knowledge']",[],delving-bitcoin-1407-10-4143
+"['Transaction-Selection', 'Fees', 'Consensus', 'Blockchain', 'Mining']",[],delving-bitcoin-303-21-4145
+"['Limitations', 'Fees', 'Assumeutxo', 'Research']",[],delving-bitcoin-303-17-4139
+"['Limitations', 'Academia', 'Research']","['AI', 'Complexity', 'Algorithm']",delving-bitcoin-303-15-4136
+"['Forks', 'Consensus', 'Validation']",[],delving-bitcoin-303-19-4141
+"['Cryptography', 'Lightning', 'Hashlocks', 'Mempool', 'Scriptsig', 'Decentralization', 'Consensus', 'Threshold Signatures', 'Algorithms', 'Multisig', 'Privacy', 'Zero-Knowledge', 'Merkle Trees', 'Miners', 'Atomic Swaps', 'Security', 'P2pool', 'Research', 'Fee Management', 'Relay', 'Testing', 'Mining', 'Verification', 'Silent Payments', 'Fuzzing', 'Bech32', 'Custody', 'Validation', 'Scalability', 'Timelocks', 'Assumeutxo', 'Libbitcoin Kernel', 'Proof-of-Stake', 'Smart Contracts', 'Proof-of-Work', 'Ethereum', 'Storage', 'Segregated Witness']","['Energy Consumption', 'Block Size Increase', 'Historical Trade Data', 'Mining Software', 'Mining Technical Details', 'CPU Mining', 'Transaction Selection', 'Source Code', 'Money Supply', 'Reward Schedule']",delving-bitcoin-1407-9-4137
