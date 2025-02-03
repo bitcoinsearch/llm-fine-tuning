@@ -2362,3 +2362,7 @@ primary_topics,secondary_topics,source_id
 "['Limitations', 'Academia', 'Research']","['AI', 'Complexity', 'Algorithm']",delving-bitcoin-303-15-4136
 "['Forks', 'Consensus', 'Validation']",[],delving-bitcoin-303-19-4141
 "['Cryptography', 'Lightning', 'Hashlocks', 'Mempool', 'Scriptsig', 'Decentralization', 'Consensus', 'Threshold Signatures', 'Algorithms', 'Multisig', 'Privacy', 'Zero-Knowledge', 'Merkle Trees', 'Miners', 'Atomic Swaps', 'Security', 'P2pool', 'Research', 'Fee Management', 'Relay', 'Testing', 'Mining', 'Verification', 'Silent Payments', 'Fuzzing', 'Bech32', 'Custody', 'Validation', 'Scalability', 'Timelocks', 'Assumeutxo', 'Libbitcoin Kernel', 'Proof-of-Stake', 'Smart Contracts', 'Proof-of-Work', 'Ethereum', 'Storage', 'Segregated Witness']","['Energy Consumption', 'Block Size Increase', 'Historical Trade Data', 'Mining Software', 'Mining Technical Details', 'CPU Mining', 'Transaction Selection', 'Source Code', 'Money Supply', 'Reward Schedule']",delving-bitcoin-1407-9-4137
+"['Cryptography', 'UTXO', 'Hash', 'Consensus']",['Public Key'],delving-bitcoin-1407-12-4149
+"['Update Layer', 'Hashlocks', 'Lightning']","['Commitment Transaction', 'HTLCs']",delving-bitcoin-1414-5-4147
+"['Compiling', 'Testing']",[],delving-bitcoin-303-22-4148
+"['Update Layer', 'Validation', 'Forks', 'P2P']",[],delving-bitcoin-1052-18-4146
