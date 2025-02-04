@@ -2366,3 +2366,11 @@ primary_topics,secondary_topics,source_id
 "['Update Layer', 'Hashlocks', 'Lightning']","['Commitment Transaction', 'HTLCs']",delving-bitcoin-1414-5-4147
 "['Compiling', 'Testing']",[],delving-bitcoin-303-22-4148
 "['Update Layer', 'Validation', 'Forks', 'P2P']",[],delving-bitcoin-1052-18-4146
+"['Blockchain', 'Security', 'Signature']","['Transaction', 'Hashed Time-Locked Contract', 'Commitment Transaction']",delving-bitcoin-1414-6-4154
+"['Lightning', 'Cryptography', 'Zero-Knowledge', 'Research']",['Alternative'],delving-bitcoin-1407-14-4151
+"['Lightning', 'Cryptography', 'Privacy', 'UTXO', 'Multisig', 'Zero-Knowledge', 'MuSig']",[],delving-bitcoin-1407-16-4157
+"['Hash', 'Lightning', 'Musig', 'Blockchain', 'Taproot', 'Privacy', 'UTXO', 'Security']",['Public Key'],delving-bitcoin-1407-15-4153
+"['Privacy', 'Security', 'Cryptography']",[],delving-bitcoin-1407-17-4158
+"['Lightning', 'GPU', 'Privacy', 'Zero-Knowledge']","['Hardware', 'Proofs', 'Cryptographic', 'Performance', 'Optimization', 'Outsourcing']",delving-bitcoin-1407-13-4150
+[],"['FIBRE', 'Peer-to-Peer', 'Optimization', 'Efficiency']",delving-bitcoin-1052-19-4152
+"['P2P', 'Bitcoin Core', 'Validation', 'Forks', 'Research', 'Testing']",[],delving-bitcoin-1418-1-4156
