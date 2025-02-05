@@ -2374,3 +2374,21 @@ primary_topics,secondary_topics,source_id
 "['Lightning', 'GPU', 'Privacy', 'Zero-Knowledge']","['Hardware', 'Proofs', 'Cryptographic', 'Performance', 'Optimization', 'Outsourcing']",delving-bitcoin-1407-13-4150
 [],"['FIBRE', 'Peer-to-Peer', 'Optimization', 'Efficiency']",delving-bitcoin-1052-19-4152
 "['P2P', 'Bitcoin Core', 'Validation', 'Forks', 'Research', 'Testing']",[],delving-bitcoin-1418-1-4156
+"['Fees', 'Lightning', 'Mining']","['Commitment Transactions', 'HTLCs', 'Fee Strategies']",delving-bitcoin-1412-5-4169
+['Security'],"['Signatures', 'Hashed Time-Locked Contracts', 'Efficiency', 'Commitment transactions', 'Payment channel operations', 'Transaction format']",delving-bitcoin-1414-7-4162
+"['Consensus', 'Fees', 'Bitcoin Core', 'Research']","['Algorithm', 'Optimization']",delving-bitcoin-1419-1-4171
+[],"['JSON Format', 'ZK', 'Proof Generation', 'Technical Intricacies', 'Hash Function', 'Collaborative Efforts']",delving-bitcoin-1407-21-4179
+"['Consensus', 'Fees', 'P2P', 'Research', 'Mempool', 'Mining']",[],delving-bitcoin-1052-21-4167
+"['Consensus', 'Decentralization', 'Fees', 'Security', 'P2P', 'Privacy']",[],delving-bitcoin-1052-20-4163
+"['Zero-Knowledge', 'Musig', 'Privacy']","['Elliptic Curve Diffie-Hellman (ECDH)', 'Lightning Network']",delving-bitcoin-1407-18-4172
+"['Consensus', 'P2P', 'Network', 'Transactions']",[],delving-bitcoin-1416-3-4176
+"['Taproot', 'Musig', 'Privacy', 'UTXO']","['Efficiency', 'Lightning Network', 'Liquidity Management']",delving-bitcoin-1407-19-4173
+"['Consensus', 'Blockchain', 'Fees', 'Security', 'Lightning', 'Attacks', 'Privacy', 'Mining', 'Routing']",[],delving-bitcoin-1412-6-4170
+"['Fees', 'Replace-By-Fee']","['Optimal Partitions', 'Implementation Tests', 'Benchmarks', 'Collaboration', 'Min-Cut/Max-Flow Strategies', 'Algorithm Performance', 'Applied Research']",delving-bitcoin-303-23-4164
+['Research'],[],delving-bitcoin-1414-8-4166
+"['Validation', 'Consensus', 'Forks', 'P2P', 'Research']","['Networking', 'Bandwidth', 'Latency']",delving-bitcoin-1420-1-4178
+"['Consensus', 'Forks', 'P2P', 'Research', 'Bitcoin Core', 'Scalability']",[],delving-bitcoin-1416-2-4165
+"['Consensus', 'Fees', 'Security', 'Lightning', 'Mempool', 'Mining']",[],delving-bitcoin-1412-4-4168
+"['Blockchain', 'Fees', 'Security', 'Fairness', 'Mining', 'Replace-By-Fee']","['Linearization', 'Algorithm', 'Min-Cut Algorithm', 'Adversarial Environment', 'Optimization']",delving-bitcoin-303-24-4177
+"['Zero-Knowledge', 'Taproot', 'Privacy', 'MuSig', 'UTXO']","['Economic Theory', 'Lightning Network']",delving-bitcoin-1407-20-4174
+"['Consensus', 'Fees', 'Security', 'Lightning', 'Network', 'Mining']",['Economic Theory'],delving-bitcoin-1412-7-4175
