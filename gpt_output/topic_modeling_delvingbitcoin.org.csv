@@ -2392,3 +2392,13 @@ primary_topics,secondary_topics,source_id
 "['Blockchain', 'Fees', 'Security', 'Fairness', 'Mining', 'Replace-By-Fee']","['Linearization', 'Algorithm', 'Min-Cut Algorithm', 'Adversarial Environment', 'Optimization']",delving-bitcoin-303-24-4177
 "['Zero-Knowledge', 'Taproot', 'Privacy', 'MuSig', 'UTXO']","['Economic Theory', 'Lightning Network']",delving-bitcoin-1407-20-4174
 "['Consensus', 'Fees', 'Security', 'Lightning', 'Network', 'Mining']",['Economic Theory'],delving-bitcoin-1412-7-4175
+"['UTXO', 'Lightning', 'Taproot', 'Mempool', 'Fees']","['Commitment', 'HTLC', 'Anchors']",delving-bitcoin-1412-8-4188
+"['Consensus', 'Script', 'P2sh', 'Segwit', 'Validation']",[],delving-bitcoin-710-67-4181
+"['UTXO', 'Security', 'Scalability', 'Lightning', 'Zero-Knowledge', 'Blockchain']","['Channel Funding', 'Decoupling']",delving-bitcoin-1407-24-4189
+"['Consensus', 'Bitcoin Core', 'Mining', 'Transactions', 'Fees']",[],delving-bitcoin-1421-1-4182
+"['Lightning', 'Research']",[],delving-bitcoin-1407-23-4186
+"['Consensus', 'P2SH', 'Security', 'Scalability', 'Segregated Witness']",['Sigops'],delving-bitcoin-710-68-4184
+"['Mempool', 'P2P', 'Transactions']",['Orphan Transactions'],delving-bitcoin-1421-2-4183
+"['P2P', 'Consensus', 'Forks', 'Topology', 'Research', 'Validation']","['Networking', 'Optimization', 'Bandwidth']",delving-bitcoin-1422-1-4187
+"['Scalability', 'UTXO', 'Multisig', 'Trust']",[],delving-bitcoin-1407-22-4185
+"['P2P', 'Fuzzing']","['Peer-to-Peer', 'TCP', 'Network Communications', 'UDP', 'Protocols']",delving-bitcoin-1052-22-4180
