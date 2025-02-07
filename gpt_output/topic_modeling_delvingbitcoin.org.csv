@@ -2402,3 +2402,18 @@ primary_topics,secondary_topics,source_id
 "['P2P', 'Consensus', 'Forks', 'Topology', 'Research', 'Validation']","['Networking', 'Optimization', 'Bandwidth']",delving-bitcoin-1422-1-4187
 "['Scalability', 'UTXO', 'Multisig', 'Trust']",[],delving-bitcoin-1407-22-4185
 "['P2P', 'Fuzzing']","['Peer-to-Peer', 'TCP', 'Network Communications', 'UDP', 'Protocols']",delving-bitcoin-1052-22-4180
+"['Security', 'Mining', 'Consensus', 'Lightning', 'Fees']",[],delving-bitcoin-1412-9-4193
+"['Zero-Knowledge', 'UTXO']",[],delving-bitcoin-1407-25-4195
+['Fees'],"['Optimization', 'Algorithmic Efficiency']",delving-bitcoin-303-27-4207
+"['Segwit', 'Validation', 'Forks', 'Terminology', 'Scalability', 'Segregated Witness', 'Bitcoin Core', 'Protocol', 'Consensus']",['Bitcoin Core Development'],delving-bitcoin-710-70-4194
+"['Research', 'Consensus', 'Fees']",[],delving-bitcoin-303-29-4211
+"['Mining', 'Consensus', 'Fees']","['Algorithm', 'Optimization']",delving-bitcoin-303-26-4204
+"['Replace-By-Fee', 'Research', 'Security', 'Mining', 'Consensus', 'Fees']","['Algorithm', 'Optimization', 'Efficiency', 'Adversarial Settings']",delving-bitcoin-303-25-4198
+"['Mempool', 'Blockchain', 'Bitcoin Core', 'Linux', 'Security', 'Testing', 'Lightning', 'Fees']","['TRUC', 'Node']",delving-bitcoin-1426-1-4199
+"['Error', 'Cryptography']","['Performance', 'Developers']",delving-bitcoin-1407-27-4203
+"['Backup', 'Multisig', 'Taproot', 'Blockchain', 'Encryption', 'Hardware Wallet']","['Recovery', ""Shamir's Secret Sharing"", 'Seed phrases', 'Source Code', 'Descriptor', 'Xpubs']",delving-bitcoin-1430-1-4209
+"['Miners', 'Mempool', 'Lightning']","['Hash Time-Locked Contracts', 'Blockchain Security', 'CPFP', 'P2TR']",delving-bitcoin-1412-11-4208
+"['Validation', 'Multisig', 'Forks', 'Script', 'Segregated Witness', 'Cryptography', 'Consensus']",[],delving-bitcoin-710-69-4190
+"['Fees', 'Research', 'Mining', 'Algorithms']","['Optimization', 'Computational Complexity']",delving-bitcoin-303-28-4210
+"['Libsecp256k1', 'Schnorr', 'Validation', 'Proof-of-Work', 'Hash', 'Research', 'Utxo', 'Fuzzing', 'Cryptography', 'Musig']",[],delving-bitcoin-1407-26-4196
+"['Mining', 'Security', 'Lightning', 'Fees']",[],delving-bitcoin-1412-10-4206
