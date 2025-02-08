@@ -2417,3 +2417,12 @@ primary_topics,secondary_topics,source_id
 "['Fees', 'Research', 'Mining', 'Algorithms']","['Optimization', 'Computational Complexity']",delving-bitcoin-303-28-4210
 "['Libsecp256k1', 'Schnorr', 'Validation', 'Proof-of-Work', 'Hash', 'Research', 'Utxo', 'Fuzzing', 'Cryptography', 'Musig']",[],delving-bitcoin-1407-26-4196
 "['Mining', 'Security', 'Lightning', 'Fees']",[],delving-bitcoin-1412-10-4206
+['Lightning'],"['Probabilistic Payments', 'PTLC', 'Signature Adaptors', 'HTLC', 'MuSig2', 'Commitment Transactions']",delving-bitcoin-1409-2-4212
+"['Decentralization', 'Privacy', 'Backup', 'Security', 'Multisig', 'Cryptography', 'Wallet']","['Ownership', 'Mnemonic Seed']",delving-bitcoin-1430-2-4216
+"['Lightning', 'Mempool', 'Fees', 'Mining']","['Bitcoin Improvement Proposal', 'Economic Incentives', 'Transaction Prioritization']",delving-bitcoin-1412-12-4213
+"['Backup', 'Security', 'Multisig', 'Seed']","['Data Backup', 'Data Storage']",delving-bitcoin-1430-3-4218
+"['Miners', 'Backup', 'Blockchain', 'Multisig', 'Seed', 'Wallet']","['Economic Incentives', 'Data Backup', 'Transaction Costs', 'Market Forces']",delving-bitcoin-1430-4-4222
+['Script'],[],delving-bitcoin-1409-4-4221
+"['Transactions', 'Bitcoin Core', 'Research']","['Efficiency', 'Performance', 'Benchmark']",delving-bitcoin-1419-2-4223
+"['Timelocks', 'Zero-Knowledge', 'Scalability', 'Cryptography']","['Efficiency', 'Protocol Adjustments', 'Conditional Payments']",delving-bitcoin-1409-3-4214
+"['Miners', 'P2P', 'Mempool', 'Transaction-Verification', 'Bitcoin Core', 'Fees', 'Mining']","['Transaction Replacement', 'LibreRelay', 'Transaction Fees', 'GitHub']",delving-bitcoin-1412-13-4215
