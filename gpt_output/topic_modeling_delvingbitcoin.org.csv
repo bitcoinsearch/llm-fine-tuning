@@ -2426,3 +2426,5 @@ primary_topics,secondary_topics,source_id
 "['Transactions', 'Bitcoin Core', 'Research']","['Efficiency', 'Performance', 'Benchmark']",delving-bitcoin-1419-2-4223
 "['Timelocks', 'Zero-Knowledge', 'Scalability', 'Cryptography']","['Efficiency', 'Protocol Adjustments', 'Conditional Payments']",delving-bitcoin-1409-3-4214
 "['Miners', 'P2P', 'Mempool', 'Transaction-Verification', 'Bitcoin Core', 'Fees', 'Mining']","['Transaction Replacement', 'LibreRelay', 'Transaction Fees', 'GitHub']",delving-bitcoin-1412-13-4215
+"['Taproot', 'Zero-Knowledge', 'MuSig', 'Schnorr']",[],delving-bitcoin-1409-5-4226
+"['Lightning', 'Mempool', 'Replace-by-Fee', 'Mining', 'Package Relay']","['Commitment Transaction', 'HTLC', 'Fee Bumping Mechanisms', 'Node Operators', 'Ancestor Package Relay']",delving-bitcoin-1412-14-4225
