@@ -2428,3 +2428,15 @@ primary_topics,secondary_topics,source_id
 "['Miners', 'P2P', 'Mempool', 'Transaction-Verification', 'Bitcoin Core', 'Fees', 'Mining']","['Transaction Replacement', 'LibreRelay', 'Transaction Fees', 'GitHub']",delving-bitcoin-1412-13-4215
 "['Taproot', 'Zero-Knowledge', 'MuSig', 'Schnorr']",[],delving-bitcoin-1409-5-4226
 "['Lightning', 'Mempool', 'Replace-by-Fee', 'Mining', 'Package Relay']","['Commitment Transaction', 'HTLC', 'Fee Bumping Mechanisms', 'Node Operators', 'Ancestor Package Relay']",delving-bitcoin-1412-14-4225
+"['Research', 'Consensus']",['Optimization'],delving-bitcoin-303-31-4229
+"['Segregated Witness', 'Validation', 'Consensus', 'Bitcoin Core', 'Forks', 'Merkle Trees', 'Hashlocks']",[],delving-bitcoin-710-72-4237
+"['Routing', 'Lightning', 'Attacks', 'Network', 'Security']","['Economic Theory', 'Reputation']",delving-bitcoin-1147-6-4239
+"['Hard Fork', 'Fungibility', 'Ux', 'Incentives', 'Soft Fork', 'Pools', 'Merkle Trees', 'Decentralization', 'P2pool', 'IBD', 'Validation', 'Layer 2', 'Fee Management', 'Fees', 'Testing', 'Research', 'Cryptography', 'Altcoin', 'Segwit', 'Security', 'Miners', 'Mining', 'Segregated Witness', 'Lightning', 'Multisig', 'Hashlocks', 'Routing', 'Wallet', 'Scalability', 'Assumeutxo', 'Consensus', 'Bitcoin Core', 'Proof-of-Stake', 'Privacy', 'Proof-of-Work']","['Energy Consumption', 'Reward Schedule']",delving-bitcoin-1430-5-4227
+[],"['Trade-offs', 'Complexity', 'Performance', 'Data Structure', 'Efficiency', 'Implementation', 'Algorithm']",delving-bitcoin-303-30-4228
+"['Scalability', 'Validation', 'Consensus', 'Merkle Trees', 'Hashlocks']",[],delving-bitcoin-710-71-4233
+"['Zero-Knowledge', 'Taproot', 'MuSig', 'Schnorr', 'Security', 'Privacy']","['Cryptographic', 'Signature Aggregation']",delving-bitcoin-1409-7-4235
+"['Mining', 'Proof-of-Work', 'Fairness', 'Difficulty', 'Development', 'Miners']","['Geometric Distribution', 'CPU Mining', 'Collaboration', 'Algorithm', 'Simulation']",delving-bitcoin-1331-21-4236
+"['Cryptography', 'Security', 'Privacy']",[],delving-bitcoin-1409-6-4232
+"['Mining', 'Fees']","['Iterative Algorithm', 'Trade-off', 'Optimization', 'Efficiency', 'Graphical Representation', 'Algorithm']",delving-bitcoin-303-34-4234
+"['Fees', 'Mining', 'Consensus']",[],delving-bitcoin-303-33-4231
+"['Research', 'Consensus']",['Optimization'],delving-bitcoin-303-32-4230
