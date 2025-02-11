@@ -2440,3 +2440,17 @@ primary_topics,secondary_topics,source_id
 "['Mining', 'Fees']","['Iterative Algorithm', 'Trade-off', 'Optimization', 'Efficiency', 'Graphical Representation', 'Algorithm']",delving-bitcoin-303-34-4234
 "['Fees', 'Mining', 'Consensus']",[],delving-bitcoin-303-33-4231
 "['Research', 'Consensus']",['Optimization'],delving-bitcoin-303-32-4230
+"['Research', 'Algorithms']","['Sparse Graphs', 'Dense Graphs', 'Complexity', 'Data Structures', 'Optimizations', 'Computational Complexity']",delving-bitcoin-303-36-4261
+"['Validation', 'Mining', 'Consensus', 'Fees', 'Research', 'Algorithms']",['Optimization'],delving-bitcoin-303-35-4260
+"['Research', 'Consensus']",[],delving-bitcoin-303-38-4271
+"['Privacy', 'Scalability', 'Security', 'Network', 'Lightning', 'Routing', 'Consensus']",[],delving-bitcoin-1438-2-4273
+"['Testing', 'Validation', 'Consensus', 'Forks', 'Research']",['Algorithm'],delving-bitcoin-303-37-4265
+"['Topology', 'Security', 'Network', 'Nodes', 'Lightning', 'Routing', 'Protocol', 'Fees']",[],delving-bitcoin-1438-1-4269
+"['Lightning', 'Payment', 'Fees']","['Risk Mitigation', 'Probabilistic HTLCs', 'Channel Factory', 'Scalable Protocols', 'On-Chain Settlement', 'Transaction Fees']",delving-bitcoin-1409-8-4262
+"['Lightning', 'Merkle Trees']","['Fan-Out Technology', 'Resource Consumption', 'Latency', 'Transaction Fees', 'Payment Channels', 'CPU Mining', 'Bandwidth']",delving-bitcoin-1409-9-4268
+"['OP_RETURN', 'Blockchain', 'SHA256', 'Smart Contracts', 'Soft Fork', 'Security', 'Cryptography', 'Layer 2', 'Testnet']","['Block Size', 'Genesis Block', 'Quantum Resistance', 'Non-Custodial', 'Transaction Confirmation', 'Open-Ended Framework', 'Collaboration', 'Bitcoin Improvement Proposal (BIP)']",delving-bitcoin-956-6-4266
+"['Algorithms', 'Validation', 'Research', 'Consensus']",[],delving-bitcoin-303-39-4274
+"['Fuzzing', 'Path-Finding', 'Privacy', 'Topology', 'Security', 'Cryptography', 'Consensus', 'Limitations', 'Research']",[],delving-bitcoin-1147-7-4272
+"['OP_RETURN', 'UTXO', 'Multisig', 'Mempool']","['Transaction Fees', 'Bitcoin Network']",delving-bitcoin-1430-6-4267
+"['Validation', 'Fairness', 'Scalability', 'Consensus', 'Forks', 'Research']",[],delving-bitcoin-303-40-4275
+"['UTXO', 'Segregated Witness', 'Cryptography', 'Consensus', 'Post-Quantum']",[],delving-bitcoin-956-7-4270
