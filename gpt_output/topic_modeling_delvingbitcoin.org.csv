@@ -2454,3 +2454,10 @@ primary_topics,secondary_topics,source_id
 "['OP_RETURN', 'UTXO', 'Multisig', 'Mempool']","['Transaction Fees', 'Bitcoin Network']",delving-bitcoin-1430-6-4267
 "['Validation', 'Fairness', 'Scalability', 'Consensus', 'Forks', 'Research']",[],delving-bitcoin-303-40-4275
 "['UTXO', 'Segregated Witness', 'Cryptography', 'Consensus', 'Post-Quantum']",[],delving-bitcoin-956-7-4270
+"['Mining', 'Fees', 'Blockchain']","['Optimization', 'Graph Theory', 'Transaction Selection']",delving-bitcoin-303-43-4280
+"['Routing', 'Lightning']","['Channel Failure', 'Efficiency', 'Network Performance', 'Node Operators', 'HA', 'Inbound Liquidity']",delving-bitcoin-1438-3-4282
+"['Mining', 'Fees', 'Transactions', 'Blockchain']",['Algorithm'],delving-bitcoin-303-45-4285
+"['Research', 'Mining', 'Consensus', 'Network', 'Fees']","['Optimization', 'Financial Technology Solutions']",delving-bitcoin-303-42-4279
+"['Path-Finding', 'Routing', 'Payment', 'Nodes', 'Lightning']","['Channel', 'TRUC', 'Network Evaluation', 'HA Nodes', 'Decentralized', 'Custodial', 'Liquidity']",delving-bitcoin-1438-4-4283
+"['Mining', 'Consensus', 'Fees']","['Optimization', 'Algorithm', 'Efficiency']",delving-bitcoin-303-44-4281
+"['Research', 'Algorithms', 'Network', 'Fees', 'Transactions', 'Blockchain']",['Optimization'],delving-bitcoin-303-41-4278
