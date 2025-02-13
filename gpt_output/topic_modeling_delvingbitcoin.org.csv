@@ -2461,3 +2461,7 @@ primary_topics,secondary_topics,source_id
 "['Path-Finding', 'Routing', 'Payment', 'Nodes', 'Lightning']","['Channel', 'TRUC', 'Network Evaluation', 'HA Nodes', 'Decentralized', 'Custodial', 'Liquidity']",delving-bitcoin-1438-4-4283
 "['Mining', 'Consensus', 'Fees']","['Optimization', 'Algorithm', 'Efficiency']",delving-bitcoin-303-44-4281
 "['Research', 'Algorithms', 'Network', 'Fees', 'Transactions', 'Blockchain']",['Optimization'],delving-bitcoin-303-41-4278
+"['Cryptography', 'Forks', 'Hashlocks', 'Research', 'Bitcoin Core']",[],delving-bitcoin-1441-1-4288
+"['Transactions', 'Mining', 'Algorithms', 'Fees']",['Optimal Fee Rate Diagrams'],delving-bitcoin-303-46-4286
+"['Lightning', 'Network', 'Privacy', 'Path-Finding']","['Probe Data', 'Full Lightning Nodes', 'Network Efficiency', 'Lightning Service Provider (LSP)', 'Hashed Timelock Contracts (HTLCs)', 'Payment Success', 'User Privacy']",delving-bitcoin-1438-6-4291
+"['Network', 'Lightning', 'Nodes', 'Path-Finding', 'Routing']",['HA Badge'],delving-bitcoin-1438-5-4287
