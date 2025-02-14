@@ -2465,3 +2465,6 @@ primary_topics,secondary_topics,source_id
 "['Transactions', 'Mining', 'Algorithms', 'Fees']",['Optimal Fee Rate Diagrams'],delving-bitcoin-303-46-4286
 "['Lightning', 'Network', 'Privacy', 'Path-Finding']","['Probe Data', 'Full Lightning Nodes', 'Network Efficiency', 'Lightning Service Provider (LSP)', 'Hashed Timelock Contracts (HTLCs)', 'Payment Success', 'User Privacy']",delving-bitcoin-1438-6-4291
 "['Network', 'Lightning', 'Nodes', 'Path-Finding', 'Routing']",['HA Badge'],delving-bitcoin-1438-5-4287
+"['Fees', 'Research', 'Bitcoin Core', 'Mempool', 'Consensus', 'Mining']",[],delving-bitcoin-303-48-4295
+"['Cryptography', 'Research', 'Layer 2', 'Consensus', 'Security']","['Lightning Network', 'FIPS240 ML-DSA', 'Quantum Computing', 'National Institute of Standards and Technology']",delving-bitcoin-956-8-4293
+"['Mempool', 'Fuzzing']",[],delving-bitcoin-303-47-4294
