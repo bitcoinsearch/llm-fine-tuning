@@ -2468,3 +2468,6 @@ primary_topics,secondary_topics,source_id
 "['Fees', 'Research', 'Bitcoin Core', 'Mempool', 'Consensus', 'Mining']",[],delving-bitcoin-303-48-4295
 "['Cryptography', 'Research', 'Layer 2', 'Consensus', 'Security']","['Lightning Network', 'FIPS240 ML-DSA', 'Quantum Computing', 'National Institute of Standards and Technology']",delving-bitcoin-956-8-4293
 "['Mempool', 'Fuzzing']",[],delving-bitcoin-303-47-4294
+"['Mempool', 'Signet', 'Transactions', 'Consensus', 'Bitcoin Core', 'BIP', 'Fees', 'Mining', 'Segregated Witness']",[],delving-bitcoin-1445-1-4297
+"['Research', 'Limitations', 'Consensus', 'Bitcoin Core']",[],delving-bitcoin-1451-1-4311
+"['Path-Finding', 'Attacks', 'Lightning', 'Routing']","['Compensation', 'Reputation']",delving-bitcoin-1147-8-4312
