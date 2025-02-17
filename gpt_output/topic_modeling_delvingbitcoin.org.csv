@@ -2471,3 +2471,4 @@ primary_topics,secondary_topics,source_id
 "['Mempool', 'Signet', 'Transactions', 'Consensus', 'Bitcoin Core', 'BIP', 'Fees', 'Mining', 'Segregated Witness']",[],delving-bitcoin-1445-1-4297
 "['Research', 'Limitations', 'Consensus', 'Bitcoin Core']",[],delving-bitcoin-1451-1-4311
 "['Path-Finding', 'Attacks', 'Lightning', 'Routing']","['Compensation', 'Reputation']",delving-bitcoin-1147-8-4312
+"['Consensus', 'Covenants', 'Research', 'Bitcoin Core']","['Documentation', 'Bitcoin Contracting Primitives Working Group']",delving-bitcoin-1451-2-4314
