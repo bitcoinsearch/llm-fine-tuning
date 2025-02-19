@@ -2472,3 +2472,8 @@ primary_topics,secondary_topics,source_id
 "['Research', 'Limitations', 'Consensus', 'Bitcoin Core']",[],delving-bitcoin-1451-1-4311
 "['Path-Finding', 'Attacks', 'Lightning', 'Routing']","['Compensation', 'Reputation']",delving-bitcoin-1147-8-4312
 "['Consensus', 'Covenants', 'Research', 'Bitcoin Core']","['Documentation', 'Bitcoin Contracting Primitives Working Group']",delving-bitcoin-1451-2-4314
+"['Utxo', 'Zero-Knowledge', 'Bitcoin Core']","['Libraries', 'Hashing', 'SHA-512']",delving-bitcoin-1407-28-4323
+"['Mining', 'Transactions', 'P2P', 'Validation', 'Consensus', 'Forks', 'Bitcoin Core']",[],delving-bitcoin-1421-3-4322
+"['Lightning', 'Fees', 'Zero-Knowledge']","['Unilateral Close', 'User Experience', 'BOLTs', 'Hashed Time-Locked Contracts', 'HTLC', 'Signatures', 'Resilience', 'Cryptocurrency Transactions', 'Mobile Wallet', 'Adoption']",delving-bitcoin-1453-1-4316
+"['Lightning', 'Fees', 'Privacy']","['Transaction Efficiency', 'Economic Theory']",delving-bitcoin-1453-2-4317
+"['Security', 'Mining', 'Fees', 'Lightning']",[],delving-bitcoin-1453-3-4319
