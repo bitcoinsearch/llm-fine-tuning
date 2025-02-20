@@ -2477,3 +2477,10 @@ primary_topics,secondary_topics,source_id
 "['Lightning', 'Fees', 'Zero-Knowledge']","['Unilateral Close', 'User Experience', 'BOLTs', 'Hashed Time-Locked Contracts', 'HTLC', 'Signatures', 'Resilience', 'Cryptocurrency Transactions', 'Mobile Wallet', 'Adoption']",delving-bitcoin-1453-1-4316
 "['Lightning', 'Fees', 'Privacy']","['Transaction Efficiency', 'Economic Theory']",delving-bitcoin-1453-2-4317
 "['Security', 'Mining', 'Fees', 'Lightning']",[],delving-bitcoin-1453-3-4319
+"['Security', 'Fees', 'Mining', 'Lightning']",[],delving-bitcoin-1453-8-4331
+"['Fees', 'Lightning']","['Update Fee', 'Commitment', 'Negatively Acknowledge (NACK)', 'Channel Close', 'Transaction Efficiency', 'Fee Rate Management', 'HTLC', 'Mobile Wallets']",delving-bitcoin-1453-10-4333
+"['Security', 'Zero-Knowledge', 'Fees', 'Wallet', 'Privacy', 'Lightning', 'Signature']",[],delving-bitcoin-1453-7-4330
+"['Security', 'Fees', 'Wallet', 'P2P']",['Transaction Fees'],delving-bitcoin-1453-9-4332
+"['Security', 'Fees', 'Wallet', 'Lightning']","['SIGHASH_ANYONECANPAY', 'Hash Time-Locked Contract (HTLC)', 'SIGHASH_SINGLE', 'Transaction Fees', 'Force-Close', 'Ephemeral Dust Policy', 'CheckSequenceVerify (CSV)']",delving-bitcoin-1453-6-4329
+"['Mempool', 'Security', 'Routing', 'Fees', 'Consensus', 'Lightning', 'Miners', 'Mining']",[],delving-bitcoin-1453-4-4325
+"['Zero-Knowledge', 'Fees', 'Relay', 'P2P', 'Lightning', 'UTXO']",['P2A'],delving-bitcoin-1453-5-4328
