@@ -2493,3 +2493,12 @@ primary_topics,secondary_topics,source_id
 "['Hash', 'Sha256', 'Taproot', 'Utxo']","['Cryptographic Processes', 'Zero-Knowledge Virtual Machine', 'Multiplications', 'Elliptic Curve', 'Zkvm', 'Data Handling', 'Ec Operations', 'Proving Time', 'Computational Demands', 'Efficiency']",delving-bitcoin-1407-29-4344
 "['Security', 'Fees', 'Mempool', 'Lightning', 'Update Layer']",[],delving-bitcoin-1453-11-4337
 "['Security', 'Cryptography', 'Bitcoin Core', 'Research', 'Consensus']",[],delving-bitcoin-1465-5-4349
+"['Bitcoin Core', 'Build Systems']",[],delving-bitcoin-1470-2-4359
+"['Security', 'Privacy', 'Wallet', 'Mining', 'Bitcoin Core']","['GUI', 'Indexing', 'RPC']",delving-bitcoin-1470-3-4360
+"['Zero-Knowledge', 'UTXO', 'Fees']","['Batching', 'Transaction Fees', 'Mobile Wallet', 'Transaction Protocols', 'Hashed Time-Locked Contract']",delving-bitcoin-1453-12-4355
+"['bitcoind', 'Bitcoin Core']","['engagement levels', 'user interface preferences', 'operating systems', 'bitcoin-wallet']",delving-bitcoin-1470-4-4363
+"['Security', 'Smart Contracts', 'Consensus', 'Cryptography', 'Research']","['Lightning Network', 'Bitcoin']",delving-bitcoin-1465-6-4362
+"['Security', 'Lightning']","['Payment Routing', 'Mobile Wallet', 'User Experience']",delving-bitcoin-1453-13-4356
+"['Transactions', 'Mempool', 'Bitcoin Core', 'Testing']",['RPC'],delving-bitcoin-303-49-4354
+"['Decentralization', 'Bitcoin Core', 'Development']",['Project Management'],delving-bitcoin-1470-1-4358
+"['Schnorr', 'ECDSA', 'Consensus', 'Segwit', 'Soft Fork']","['Quantum', 'Lamport Signatures', 'Mining Pools']",delving-bitcoin-956-9-4361
