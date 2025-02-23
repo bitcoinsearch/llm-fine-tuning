@@ -2502,3 +2502,4 @@ primary_topics,secondary_topics,source_id
 "['Transactions', 'Mempool', 'Bitcoin Core', 'Testing']",['RPC'],delving-bitcoin-303-49-4354
 "['Decentralization', 'Bitcoin Core', 'Development']",['Project Management'],delving-bitcoin-1470-1-4358
 "['Schnorr', 'ECDSA', 'Consensus', 'Segwit', 'Soft Fork']","['Quantum', 'Lamport Signatures', 'Mining Pools']",delving-bitcoin-956-9-4361
+"['Network', 'Attack', 'Decentralization', 'Security', 'Python']","['Challenges', 'Algorithm', 'Reputation', 'Compensation', 'Resilience']",delving-bitcoin-1147-11-4364
