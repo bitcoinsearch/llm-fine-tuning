@@ -2504,3 +2504,8 @@ primary_topics,secondary_topics,source_id
 "['Schnorr', 'ECDSA', 'Consensus', 'Segwit', 'Soft Fork']","['Quantum', 'Lamport Signatures', 'Mining Pools']",delving-bitcoin-956-9-4361
 "['Network', 'Attack', 'Decentralization', 'Security', 'Python']","['Challenges', 'Algorithm', 'Reputation', 'Compensation', 'Resilience']",delving-bitcoin-1147-11-4364
 "['Mempool', 'Signet', 'Bitcoin Core']",['Replace-by-Fee (RBF)'],delving-bitcoin-1470-5-4368
+"['P2p', 'PSBT', 'Mining', 'Research', 'Wallet', 'Fees', 'Consensus', 'Segwit', 'Bitcoin Core']","['MiniWallet', 'Resource Allocation', 'Software Development', 'Raw Transaction', 'Bitcoin Core Development', 'Node', 'Chain Data Source', 'RPC', 'BDK', 'Functional Testing']",delving-bitcoin-1470-9-4379
+"['Development', 'C++', 'Bitcoin Core']","['Community Engagement', 'Project Management', 'Innovation', 'Rust', 'Contributors', 'Collaboration', 'Programming Language']",delving-bitcoin-1470-6-4374
+"['Wallet', 'Development', 'Bitcoin Core']","['Review Standards', 'Project Organization', 'Coordination', 'Repository', 'Contributors', 'Legacy Code']",delving-bitcoin-1470-7-4375
+"['Privacy', 'Zero-Knowledge', 'Lightning', 'Musig', 'Taproot', 'UTXO']",[],delving-bitcoin-1407-30-4371
+['Bitcoin Core'],"['Bitcoin Development Kit', 'Software Development Practices', 'Open-Source Initiative', 'Developer Experience']",delving-bitcoin-1470-8-4376
