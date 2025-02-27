@@ -2509,3 +2509,6 @@ primary_topics,secondary_topics,source_id
 "['Wallet', 'Development', 'Bitcoin Core']","['Review Standards', 'Project Organization', 'Coordination', 'Repository', 'Contributors', 'Legacy Code']",delving-bitcoin-1470-7-4375
 "['Privacy', 'Zero-Knowledge', 'Lightning', 'Musig', 'Taproot', 'UTXO']",[],delving-bitcoin-1407-30-4371
 ['Bitcoin Core'],"['Bitcoin Development Kit', 'Software Development Practices', 'Open-Source Initiative', 'Developer Experience']",delving-bitcoin-1470-8-4376
+"['Testing', 'Script', 'Consensus', 'Segregated Witness', 'Transactions', 'Segwit']",['Bitcoin Improvement Proposal'],delving-bitcoin-710-73-4382
+"['Forks', 'Validation', 'Consensus', 'Research', 'Bitcoin Core', 'Assumeutxo']",[],delving-bitcoin-1482-1-4384
+"['Security', 'Consensus', 'Wallet', 'Bitcoin Core']","['Node Integration', 'Full Node', 'User Preferences', 'Bitcoiners', 'Bitcoin Core Development']",delving-bitcoin-1470-10-4380
