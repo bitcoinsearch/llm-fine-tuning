@@ -2512,3 +2512,10 @@ primary_topics,secondary_topics,source_id
 "['Testing', 'Script', 'Consensus', 'Segregated Witness', 'Transactions', 'Segwit']",['Bitcoin Improvement Proposal'],delving-bitcoin-710-73-4382
 "['Forks', 'Validation', 'Consensus', 'Research', 'Bitcoin Core', 'Assumeutxo']",[],delving-bitcoin-1482-1-4384
 "['Security', 'Consensus', 'Wallet', 'Bitcoin Core']","['Node Integration', 'Full Node', 'User Preferences', 'Bitcoiners', 'Bitcoin Core Development']",delving-bitcoin-1470-10-4380
+"['Segregated Witness', 'Segwit', 'Consensus', 'P2SH']",[],delving-bitcoin-710-77-4393
+"['UTXO', 'Segwit', 'Consensus', 'Assumeutxo']",[],delving-bitcoin-710-75-4391
+"['Bitcoin Core', 'Script', 'Security']","['Public Disclosure', 'Documentation']",delving-bitcoin-1184-11-4396
+"['Mempool', 'Blockchain', 'Testnet', 'Transaction-Verification', 'Segwit', 'OP_RETURN']",[],delving-bitcoin-710-74-4390
+"['Bitcoin Core', 'Silent Payments', 'Assumeutxo', 'Regulation', 'Ux', 'Mempool', 'Pools', 'Fuzzing', 'Soft Fork', 'Merkle Trees', 'Path-Finding', 'Routing Failures', 'Atomic Swaps', 'Segregated Witness', 'Miners', 'Sidechains', 'Fee Management', 'Accumulators', 'Asmap', 'Consensus', 'Lightning', 'Privacy', 'Onion', 'Incentives', 'Sphinx', 'Multisig', 'Cryptography', 'Testing', 'Smart Contracts', 'P2P', 'Mining', 'Research', 'Stratum-V2', 'Validation', 'Ethereum', 'Threshold Signatures', 'Libsecp256k1', 'Proof-of-Work', 'Proof-of-Stake', 'Bech32', 'Segwit', 'Security', 'FROST', 'Libbitcoin Kernel', 'Package Relay', 'Zero-Knowledge', 'Hashlocks', 'Build Systems', 'Schnorr', 'Update Layer', 'Covenants', 'P2pool', 'Topology', 'Timelocks', 'Halving', 'Attacks']",[],delving-bitcoin-710-76-4392
+"['Output', 'Algorithms', 'Transaction-Input', 'Schnorr-Signatures', 'Value', 'Op-Return', 'Consensus', 'Transaction-Verification']",[],delving-bitcoin-710-78-4395
+"['Miners', 'Mining', 'Fairness', 'Difficulty', 'Consensus', 'Proof-of-Work', 'Network', 'Topology', 'Fees']",['Latency'],delving-bitcoin-1331-22-4394
