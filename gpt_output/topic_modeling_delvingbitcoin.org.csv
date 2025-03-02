@@ -2522,3 +2522,5 @@ primary_topics,secondary_topics,source_id
 "['Hard Fork', 'Libbitcoin Kernel', 'Bitcoin Core', 'Segregated Witness', 'Security', 'Forks', 'Consensus']","['Node Implementation', 'Network Integrity', 'Alternative Implementations']",delving-bitcoin-1470-13-4399
 "['Hard Fork', 'Bitcoin Core', 'Protocol', 'Consensus']","['Stability', 'Innovation', 'Bitcoin Network']",delving-bitcoin-1470-11-4397
 "['Hard Fork', 'Libbitcoin Kernel', 'Bitcoin Core', 'Decentralization', 'Security', 'Soft Fork', 'Consensus']","['Openness', 'Community', 'Collaboration']",delving-bitcoin-1470-12-4398
+"['Research', 'Build Systems', 'Fuzzing', 'Development', 'Bitcoin Core', 'Testing', 'API']",[],delving-bitcoin-1470-15-4401
+"['Mac', 'Windows', 'Bitcoin Core']","['Software Development Priorities', 'Network Security', 'User Interaction', 'Resource Allocation', 'GUI']",delving-bitcoin-1470-14-4400
