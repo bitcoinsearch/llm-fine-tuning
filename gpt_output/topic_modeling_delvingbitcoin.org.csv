@@ -2524,3 +2524,7 @@ primary_topics,secondary_topics,source_id
 "['Hard Fork', 'Libbitcoin Kernel', 'Bitcoin Core', 'Decentralization', 'Security', 'Soft Fork', 'Consensus']","['Openness', 'Community', 'Collaboration']",delving-bitcoin-1470-12-4398
 "['Research', 'Build Systems', 'Fuzzing', 'Development', 'Bitcoin Core', 'Testing', 'API']",[],delving-bitcoin-1470-15-4401
 "['Mac', 'Windows', 'Bitcoin Core']","['Software Development Priorities', 'Network Security', 'User Interaction', 'Resource Allocation', 'GUI']",delving-bitcoin-1470-14-4400
+"['Bitcoin Core', 'P2P', 'Wallet']","['Full Node', 'Interfaces', 'Mobile Environments', 'Node', 'Multiprocess Architecture']",delving-bitcoin-1470-18-4407
+['Bitcoin Core'],[],delving-bitcoin-1470-16-4404
+"['Bitcoin Core', 'Scalability', 'Development']","['Innovation', 'Programming Languages', 'Best Practices', 'Software Development', 'Artificial Intelligence', 'Emerging Technologies', 'Frameworks', 'Project Management', 'Security Concerns', 'Community Engagement']",delving-bitcoin-1470-17-4406
+"['Pruning', 'Synchronization', 'P2P']","['Inbound Connections', 'Blockchain Operations', 'GitHub', 'Jupyter Notebooks', 'Bandwidth Savings', 'Node Analysis', 'Protocol Handshakes', 'Network Traffic', 'Erlay', 'TCP/IP', 'Block Messages', 'Initial Block Download (IBD)', 'Peer-Level Traffic Analysis']",delving-bitcoin-1490-1-4405
