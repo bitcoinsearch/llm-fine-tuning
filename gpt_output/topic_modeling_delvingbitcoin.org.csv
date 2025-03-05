@@ -2528,3 +2528,7 @@ primary_topics,secondary_topics,source_id
 ['Bitcoin Core'],[],delving-bitcoin-1470-16-4404
 "['Bitcoin Core', 'Scalability', 'Development']","['Innovation', 'Programming Languages', 'Best Practices', 'Software Development', 'Artificial Intelligence', 'Emerging Technologies', 'Frameworks', 'Project Management', 'Security Concerns', 'Community Engagement']",delving-bitcoin-1470-17-4406
 "['Pruning', 'Synchronization', 'P2P']","['Inbound Connections', 'Blockchain Operations', 'GitHub', 'Jupyter Notebooks', 'Bandwidth Savings', 'Node Analysis', 'Protocol Handshakes', 'Network Traffic', 'Erlay', 'TCP/IP', 'Block Messages', 'Initial Block Download (IBD)', 'Peer-Level Traffic Analysis']",delving-bitcoin-1490-1-4405
+"['Protocol', 'Consensus', 'Layer 2', 'Research']",['Bitcoin Core Development'],delving-bitcoin-1451-3-4413
+"['Lightning', 'Consensus', 'Decentralization']","['Flexibility', 'Economic Theory']",delving-bitcoin-1493-2-4412
+['P2P'],"['Data distribution', 'Traffic analysis', 'Node data', 'Data analysis', 'Statistical methods', 'Peer traffic', 'Data size', 'Optimizations', 'Message type', 'Trends', 'Peer-to-peer']",delving-bitcoin-1490-2-4408
+"['Lnd', 'Lightning', 'Consensus', 'Fees', 'Cryptography', 'Research', 'Security']",[],delving-bitcoin-1493-1-4411
