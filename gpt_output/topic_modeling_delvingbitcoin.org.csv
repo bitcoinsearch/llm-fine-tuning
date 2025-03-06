@@ -2532,3 +2532,6 @@ primary_topics,secondary_topics,source_id
 "['Lightning', 'Consensus', 'Decentralization']","['Flexibility', 'Economic Theory']",delving-bitcoin-1493-2-4412
 ['P2P'],"['Data distribution', 'Traffic analysis', 'Node data', 'Data analysis', 'Statistical methods', 'Peer traffic', 'Data size', 'Optimizations', 'Message type', 'Trends', 'Peer-to-peer']",delving-bitcoin-1490-2-4408
 "['Lnd', 'Lightning', 'Consensus', 'Fees', 'Cryptography', 'Research', 'Security']",[],delving-bitcoin-1493-1-4411
+"['Segregated Witness', 'BIP', 'Research', 'Forks', 'Bitcoin Core', 'Consensus']",[],delving-bitcoin-1494-2-4416
+"['Privacy', 'Lightning', 'Security', 'Mining', 'Consensus', 'Fees']",[],delving-bitcoin-1493-3-4415
+"['BIP', 'Bitcoin Core']",[],delving-bitcoin-1494-1-4414
