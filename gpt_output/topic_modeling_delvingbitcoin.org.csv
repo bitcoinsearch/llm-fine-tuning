@@ -2535,3 +2535,7 @@ primary_topics,secondary_topics,source_id
 "['Segregated Witness', 'BIP', 'Research', 'Forks', 'Bitcoin Core', 'Consensus']",[],delving-bitcoin-1494-2-4416
 "['Privacy', 'Lightning', 'Security', 'Mining', 'Consensus', 'Fees']",[],delving-bitcoin-1493-3-4415
 "['BIP', 'Bitcoin Core']",[],delving-bitcoin-1494-1-4414
+"['Cryptography', 'Merkle Trees', 'Consensus', 'Segregated Witness', 'Research', 'Zero-Knowledge', 'Fees', 'UTXO', 'Taproot', 'Testing']",[],delving-bitcoin-1497-1-4422
+"['Cryptography', 'Research']",[],delving-bitcoin-303-51-4418
+"['Smart Contracts', 'Covenants', 'Consensus', 'Script', 'Research', 'Layer 2', 'Security']","['Lightning Network', 'Miner Incentives', 'Bitcoin Network']",delving-bitcoin-1494-3-4421
+"['Cryptography', 'Consensus', 'Proof-of-Work', 'Research', 'Fees']",[],delving-bitcoin-303-50-4417
