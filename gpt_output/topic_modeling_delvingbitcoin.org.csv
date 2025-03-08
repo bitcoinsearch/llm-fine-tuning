@@ -2539,3 +2539,9 @@ primary_topics,secondary_topics,source_id
 "['Cryptography', 'Research']",[],delving-bitcoin-303-51-4418
 "['Smart Contracts', 'Covenants', 'Consensus', 'Script', 'Research', 'Layer 2', 'Security']","['Lightning Network', 'Miner Incentives', 'Bitcoin Network']",delving-bitcoin-1494-3-4421
 "['Cryptography', 'Consensus', 'Proof-of-Work', 'Research', 'Fees']",[],delving-bitcoin-303-50-4417
+"['Path-Finding', 'Lightning', 'Research', 'Fees', 'Lnd', 'C-Lightning', 'Routing']","['Optimization', 'Algorithm', 'Reliability', 'Performance', 'Efficiency']",delving-bitcoin-1500-1-4430
+"['Research', 'Security', 'Testing', 'Scalability', 'Blockchain', 'Signet']",['Efficiency'],delving-bitcoin-1409-11-4427
+"['Research', 'Consensus', 'Cryptography', 'Bitcoin Core', 'Fees', 'Mining']",[],delving-bitcoin-303-52-4424
+['Bitcoin Core'],[],delving-bitcoin-1470-20-4426
+"['Hashlocks', 'Cryptography', 'Script', 'Hash', 'SHA256', 'Decentralization']","['Randomness Extraction', 'Commitments', 'SHA1']",delving-bitcoin-1409-10-4425
+"['Wallet', 'Consensus', 'Bitcoin Core', 'Validation', 'Decentralization']","['Full Node', 'Interfaces']",delving-bitcoin-1470-19-4423
