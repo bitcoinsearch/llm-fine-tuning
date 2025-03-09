@@ -2545,3 +2545,5 @@ primary_topics,secondary_topics,source_id
 ['Bitcoin Core'],[],delving-bitcoin-1470-20-4426
 "['Hashlocks', 'Cryptography', 'Script', 'Hash', 'SHA256', 'Decentralization']","['Randomness Extraction', 'Commitments', 'SHA1']",delving-bitcoin-1409-10-4425
 "['Wallet', 'Consensus', 'Bitcoin Core', 'Validation', 'Decentralization']","['Full Node', 'Interfaces']",delving-bitcoin-1470-19-4423
+"['Privacy', 'Fees', 'Path-Finding', 'Routing', 'P2P', 'Lightning', 'Custody']",['Reliability'],delving-bitcoin-1503-1-4433
+"['Pruning', 'P2P', 'Forks', 'Wallet', 'Bitcoin Core', 'Assumeutxo']","['GUI', 'Contributions', 'Innovation', 'Maintenance', 'Technical Debt', 'Interfaces', 'Separation', 'Developer Engagement', 'Code Review', 'Repositories', 'Productivity', 'Maintainability']",delving-bitcoin-1470-21-4434
