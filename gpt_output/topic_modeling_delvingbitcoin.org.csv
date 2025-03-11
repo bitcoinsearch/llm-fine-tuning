@@ -2547,3 +2547,8 @@ primary_topics,secondary_topics,source_id
 "['Wallet', 'Consensus', 'Bitcoin Core', 'Validation', 'Decentralization']","['Full Node', 'Interfaces']",delving-bitcoin-1470-19-4423
 "['Privacy', 'Fees', 'Path-Finding', 'Routing', 'P2P', 'Lightning', 'Custody']",['Reliability'],delving-bitcoin-1503-1-4433
 "['Pruning', 'P2P', 'Forks', 'Wallet', 'Bitcoin Core', 'Assumeutxo']","['GUI', 'Contributions', 'Innovation', 'Maintenance', 'Technical Debt', 'Interfaces', 'Separation', 'Developer Engagement', 'Code Review', 'Repositories', 'Productivity', 'Maintainability']",delving-bitcoin-1470-21-4434
+"['Privacy', 'Security', 'Smart Contracts', 'Research', 'Covenants', 'Consensus']",[],delving-bitcoin-1509-2-4462
+"['Scalability', 'Research', 'Forks', 'Cryptography', 'Covenants', 'Consensus']",[],delving-bitcoin-1509-3-4463
+"['Mining', 'Consensus', 'Protocol', 'Fees', 'Wallet', 'Privacy', 'Decentralization', 'Mempool']","['Response', 'Fee Strategies', 'Marketplace', 'DEXs', 'Monitoring', 'Transaction Flow', 'Coordination', 'MEV', 'Dynamic Fee Estimation', 'Frontrunning', 'Blockchain Network', 'Agents', 'Technical Feasibility']",delving-bitcoin-1465-7-4459
+"['Bitcoin Core', 'Fuzzing', 'Research', 'Libbitcoin Kernel']","['Benchmarking', 'Memory Allocation', 'Performance', 'Optimization']",delving-bitcoin-1222-47-4440
+"['Security', 'Threshold Signatures', 'Libsecp256k1', 'Script', 'Layer 2', 'Covenants', 'Consensus', 'Segwit', 'Smart Contracts', 'Soft Fork', 'Forks', 'Multisig', 'Validation', 'Research', 'Privacy', 'Schnorr', 'Bitcoin Core', 'Hard Fork']","['OP_CTV', 'OP_CHECKSIGFROMSTACK (CSFS)', 'Lightning Network']",delving-bitcoin-1509-1-4461
