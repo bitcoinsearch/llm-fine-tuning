@@ -2552,3 +2552,16 @@ primary_topics,secondary_topics,source_id
 "['Mining', 'Consensus', 'Protocol', 'Fees', 'Wallet', 'Privacy', 'Decentralization', 'Mempool']","['Response', 'Fee Strategies', 'Marketplace', 'DEXs', 'Monitoring', 'Transaction Flow', 'Coordination', 'MEV', 'Dynamic Fee Estimation', 'Frontrunning', 'Blockchain Network', 'Agents', 'Technical Feasibility']",delving-bitcoin-1465-7-4459
 "['Bitcoin Core', 'Fuzzing', 'Research', 'Libbitcoin Kernel']","['Benchmarking', 'Memory Allocation', 'Performance', 'Optimization']",delving-bitcoin-1222-47-4440
 "['Security', 'Threshold Signatures', 'Libsecp256k1', 'Script', 'Layer 2', 'Covenants', 'Consensus', 'Segwit', 'Smart Contracts', 'Soft Fork', 'Forks', 'Multisig', 'Validation', 'Research', 'Privacy', 'Schnorr', 'Bitcoin Core', 'Hard Fork']","['OP_CTV', 'OP_CHECKSIGFROMSTACK (CSFS)', 'Lightning Network']",delving-bitcoin-1509-1-4461
+"['Segwit', 'Layer 2', 'Forks', 'Research', 'Lightning', 'Security', 'Consensus', 'Bitcoin Core', 'Soft Fork', 'Covenants', 'Privacy']",[],delving-bitcoin-1509-4-4466
+"['Taproot', 'Consensus', 'Covenants']","['Protocol Upgrades', 'Proof-of-Concept (PoC)', 'Integration Testing Standards']",delving-bitcoin-1509-10-4475
+"['Taproot', 'Consensus', 'Covenants']","['Developer Ecosystem', 'Discreet Log Contracts', 'Protocol Upgrades', 'CTV', 'Bitcoin Protocol']",delving-bitcoin-1509-8-4473
+"['Forks', 'Research', 'Threshold Signatures', 'Validation', 'Build Systems', 'Security', 'Update Layer', 'Consensus', 'Soft Fork', 'Covenants']",[],delving-bitcoin-1509-7-4471
+"['Security', 'Consensus', 'Soft Fork', 'Covenants']","['Pre-signed Transactions', 'Vaults']",delving-bitcoin-1509-5-4469
+"['Fees', 'Consensus', 'P2P', 'Incentives', 'Mining']",[],delving-bitcoin-1465-9-4468
+"['Consensus', 'Covenants', 'Lightning', 'Research']",[],delving-bitcoin-1509-6-4470
+"['Protocol', 'Taproot', 'Segregated Witness', 'Research', 'Forks', 'Security', 'Consensus', 'Bitcoin Core', 'Soft Fork', 'Development', 'Covenants', 'Privacy']",[],delving-bitcoin-1509-12-4478
+"['Taproot', 'UTXO', 'Security', 'Consensus', 'Bitcoin Core', 'Script', 'Covenants']","['Financial Alternative', 'Op Return', 'Funding Proposals']",delving-bitcoin-1509-13-4480
+"['Segwit', 'Forks', 'Validation', 'BIP', 'Consensus', 'Merkle Trees', 'Covenants', 'Proof-of-Work']",[],delving-bitcoin-1509-9-4474
+"['Research', 'Lightning', 'Security', 'Fees', 'Consensus', 'LND', 'Mempool']",[],delving-bitcoin-1512-1-4472
+"['Market', 'Security', 'Consensus', 'P2P', 'Mempool', 'Privacy']",[],delving-bitcoin-1465-8-4464
+"['Consensus', 'Soft Fork', 'Covenants']","['Innovation', 'Protocol Development', 'Funding']",delving-bitcoin-1509-11-4476
