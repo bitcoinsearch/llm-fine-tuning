@@ -2565,3 +2565,20 @@ primary_topics,secondary_topics,source_id
 "['Research', 'Lightning', 'Security', 'Fees', 'Consensus', 'LND', 'Mempool']",[],delving-bitcoin-1512-1-4472
 "['Market', 'Security', 'Consensus', 'P2P', 'Mempool', 'Privacy']",[],delving-bitcoin-1465-8-4464
 "['Consensus', 'Soft Fork', 'Covenants']","['Innovation', 'Protocol Development', 'Funding']",delving-bitcoin-1509-11-4476
+"['Bitcoin Core', 'Segwit', 'Research', 'Covenants', 'Consensus', 'BIP']",[],delving-bitcoin-1509-15-4482
+"['Security', 'Consensus', 'Mining', 'Fees']",[],delving-bitcoin-1512-2-4492
+"['Validation', 'Security', 'Cryptography', 'Mining', 'Fees', 'Covenants', 'Consensus', 'Miners']",[],delving-bitcoin-1509-23-4493
+"['Blockchain', 'Transactions', 'Protocol', 'Network', 'Security', 'Timelocks', 'Covenants', 'Consensus']",[],delving-bitcoin-1509-24-4494
+"['Research', 'Covenants', 'Consensus']","['Collaborative Environment', 'Public Forum', 'Transparency']",delving-bitcoin-1509-25-4495
+"['Testing', 'Development', 'Research', 'Covenants', 'Consensus']",['Quality Assurance'],delving-bitcoin-1509-16-4483
+"['IBD', 'Testing', 'Lightning', 'Taproot', 'Segwit', 'Eltoo', 'Research', 'Covenants', 'Consensus', 'BIP']",[],delving-bitcoin-1509-14-4481
+"['Layer 2', 'Threshold Signatures', 'Multisig', 'Validation', 'Privacy', 'Musig', 'Taproot', 'Lightning', 'Schnorr', 'Segwit', 'Fees', 'Research', 'Covenants', 'Consensus']",[],delving-bitcoin-1509-17-4485
+"['PSBT', 'UTXO', 'Security', 'Covenants']","['Partially Signed Bitcoin Transactions', 'OP_CTV', 'Bitcoin Protocol']",delving-bitcoin-1517-4-4502
+"['Bitcoin Core', 'Research', 'Covenants', 'Consensus']","['Community', 'Core release process']",delving-bitcoin-1509-21-4490
+"['Covenants', 'Consensus', 'Soft Fork']",[],delving-bitcoin-1509-26-4496
+"['Blockchain', 'Script', 'PSBT', 'Privacy', 'UTXO', 'Security', 'Bitcoin Core', 'Development', 'Research', 'Covenants', 'Consensus']",[],delving-bitcoin-1517-1-4497
+"['Blockchain', 'Smart Contracts', 'Research', 'Covenants', 'Consensus']",[],delving-bitcoin-1517-2-4500
+"['Validation', 'Privacy', 'Security', 'Fees', 'Segregated Witness', 'Covenants', 'Consensus']",[],delving-bitcoin-1509-28-4504
+"['Smart Contracts', 'Lightning', 'Schnorr', 'Taproot', 'Eltoo', 'Covenants', 'Consensus']",[],delving-bitcoin-1509-27-4499
+"['Segwit', 'Covenants', 'Consensus', 'BIP']","['Efficiency', 'Legacy Scripting', 'Adaptor Signatures', 'Transaction Hash']",delving-bitcoin-1509-18-4487
+"['Blockchain', 'Smart Contracts', 'Development', 'Research', 'Academia', 'Covenants']",[],delving-bitcoin-1517-3-4501
