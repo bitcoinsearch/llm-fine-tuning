@@ -2582,3 +2582,23 @@ primary_topics,secondary_topics,source_id
 "['Smart Contracts', 'Lightning', 'Schnorr', 'Taproot', 'Eltoo', 'Covenants', 'Consensus']",[],delving-bitcoin-1509-27-4499
 "['Segwit', 'Covenants', 'Consensus', 'BIP']","['Efficiency', 'Legacy Scripting', 'Adaptor Signatures', 'Transaction Hash']",delving-bitcoin-1509-18-4487
 "['Blockchain', 'Smart Contracts', 'Development', 'Research', 'Academia', 'Covenants']",[],delving-bitcoin-1517-3-4501
+"['PSBT', 'Taproot', 'UTXO', 'Covenants', 'Scalability']",['Signatures'],delving-bitcoin-1517-8-4508
+"['Consensus', 'Forks', 'Soft Fork', 'Taproot', 'Segregated Witness', 'Script', 'Validation', 'Covenants']",[],delving-bitcoin-1520-1-4524
+"['Fees', 'Lightning', 'Eclair', 'Lnd', 'Research', 'Bitcoin Core']",[],delving-bitcoin-1512-6-4517
+"['Consensus', 'BIP', 'Fees', 'Soft Fork', 'Privacy', 'Research', 'Taproot', 'Covenants', 'Transaction-Verification', 'Limitations', 'Threshold Signatures']",[],delving-bitcoin-1509-31-4516
+"['Fees', 'Consensus', 'Mining']","['Economic Factors', 'Optimization', 'Transaction Fees', 'Resource Allocation']",delving-bitcoin-1512-5-4515
+"['Consensus', 'Covenants']",[],delving-bitcoin-1509-33-4519
+"['Consensus', 'Forks', 'Lightning', 'Research', 'Segregated Witness', 'Layer 2', 'Script', 'Validation', 'Covenants']","['Optimizing', 'Blockchain Transactions', 'Costs', 'Efficiency']",delving-bitcoin-1509-30-4511
+"['Consensus', 'Covenants']",[],delving-bitcoin-1509-34-4520
+"['Fees', 'Transactions', 'Taproot', 'Segwit', 'Script', 'Bitcoin Core']",['BIP341'],delving-bitcoin-549-3-4521
+"['Fees', 'Consensus', 'Lightning', 'Privacy', 'Research', 'Mining', 'Mempool', 'Bitcoin Core']",[],delving-bitcoin-1512-4-4514
+"['PSBT', 'UTXO', 'Covenants']","['CheckTemplateVerify', 'Signatures', 'Bitcoin', 'Transaction Templates', 'Cryptocurrency Community', 'Securities', 'Pay-to-Taproot', 'P2TR', 'Financial Activities', 'CTV', 'Scaling Solutions', 'Technical Challenges', 'Stocks']",delving-bitcoin-1517-9-4513
+"['Consensus', 'Research', 'Blockchain', 'Covenants']","['Technology', 'CTV', 'Liquid', 'Innovation']",delving-bitcoin-1509-32-4518
+"['Consensus', 'Script', 'P2SH', 'Covenants']",[],delving-bitcoin-1517-7-4507
+"['Transactions', 'UTXO', 'Covenants']",['CheckTemplateVerify'],delving-bitcoin-1517-6-4506
+"['Consensus', 'Research', 'Covenants']",[],delving-bitcoin-1517-5-4505
+"['Security', 'Privacy', 'Covenants', 'Zero-Knowledge']",['Cryptocurrency Transactions'],delving-bitcoin-1509-29-4509
+"['Development', 'Bitcoin Core']","['Technical Debt', 'Software Development', 'Bitcoin Documentation']",delving-bitcoin-1470-22-4512
+"['Fees', 'Lightning', 'API', 'Research', 'Mempool', 'Bitcoin Core']",[],delving-bitcoin-1512-3-4510
+"['Consensus', 'Covenants']",[],delving-bitcoin-1509-35-4522
+"['Cryptography', 'Soft Fork', 'Hardware Wallet', 'Layer 2', 'Taproot', 'Script', 'Eltoo', 'Security', 'UTXO', 'Covenants', 'Miners', 'Zero-Knowledge']","['Timelocked Transactions', 'SNARK', 'Opcode', 'Lightning Network', 'Custody Solutions']",delving-bitcoin-1509-36-4523
