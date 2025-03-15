@@ -2602,3 +2602,17 @@ primary_topics,secondary_topics,source_id
 "['Fees', 'Lightning', 'API', 'Research', 'Mempool', 'Bitcoin Core']",[],delving-bitcoin-1512-3-4510
 "['Consensus', 'Covenants']",[],delving-bitcoin-1509-35-4522
 "['Cryptography', 'Soft Fork', 'Hardware Wallet', 'Layer 2', 'Taproot', 'Script', 'Eltoo', 'Security', 'UTXO', 'Covenants', 'Miners', 'Zero-Knowledge']","['Timelocked Transactions', 'SNARK', 'Opcode', 'Lightning Network', 'Custody Solutions']",delving-bitcoin-1509-36-4523
+"['Consensus', 'Soft Fork', 'Covenants']",[],delving-bitcoin-1509-46-4538
+"['Soft Fork', 'Segregated Witness', 'Covenants']",[],delving-bitcoin-1509-39-4531
+"['Covenants', 'BIP', 'Consensus']","['Dialogue', 'Collaborative Effort']",delving-bitcoin-1509-38-4529
+"['Covenants', 'BIP', 'Consensus']","['Opcodes', 'Improvement Proposal']",delving-bitcoin-1509-37-4526
+"['Taproot', 'Covenants', 'Custody', 'Consensus']","['Vaults', 'CTV']",delving-bitcoin-1509-45-4537
+"['Routing', 'Lightning', 'Privacy', 'Fees', 'Consensus', 'Security']",[],delving-bitcoin-1524-1-4541
+"['Covenants', 'Consensus']","['Vaults', 'UTxO management', 'OP_CSFS', 'OP_CTV', 'Lightning Network']",delving-bitcoin-1509-44-4536
+"['Covenants', 'Custody', 'Consensus', 'Security']","['Vaults', 'Innovation']",delving-bitcoin-1509-47-4539
+"['Consensus', 'Segwit', 'Forks', 'Covenants']",[],delving-bitcoin-1509-41-4533
+"['Research', 'Hardware Wallet', 'Covenants', 'Consensus', 'Security']",[],delving-bitcoin-1509-42-4534
+"['Transactions', 'Research', 'Lightning', 'Fees', 'Blockchain']","['Flexibility', 'Efficiency', 'User Experience', 'Cost-saving Measures', 'Transaction Processing']",delving-bitcoin-1512-7-4528
+"['Forks', 'Covenants', 'Consensus']","['Code', 'Efficiency', 'Optimizing']",delving-bitcoin-1509-43-4535
+"['Covenants', 'Scalability']","['Opcode', 'Efficiency', 'CTV', 'Scripting', 'Upgradeability']",delving-bitcoin-1509-48-4540
+"['Bitcoin Core', 'Validation', 'Research', 'Forks', 'Covenants', 'Script', 'Privacy', 'Consensus', 'Security']",[],delving-bitcoin-1509-40-4532
