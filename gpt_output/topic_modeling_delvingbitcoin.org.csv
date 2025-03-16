@@ -2616,3 +2616,6 @@ primary_topics,secondary_topics,source_id
 "['Forks', 'Covenants', 'Consensus']","['Code', 'Efficiency', 'Optimizing']",delving-bitcoin-1509-43-4535
 "['Covenants', 'Scalability']","['Opcode', 'Efficiency', 'CTV', 'Scripting', 'Upgradeability']",delving-bitcoin-1509-48-4540
 "['Bitcoin Core', 'Validation', 'Research', 'Forks', 'Covenants', 'Script', 'Privacy', 'Consensus', 'Security']",[],delving-bitcoin-1509-40-4532
+"['Research', 'Fees', 'Mining']",[],delving-bitcoin-303-53-4542
+"['Validation', 'Fees', 'Mining', 'Consensus', 'Mempool']",[],delving-bitcoin-303-54-4544
+"['Security', 'Covenants', 'Consensus', 'Custody']","['Technical Discussions', 'Bitcoin Improvement Proposal', 'Infrastructure Enhancements']",delving-bitcoin-1509-49-4543
