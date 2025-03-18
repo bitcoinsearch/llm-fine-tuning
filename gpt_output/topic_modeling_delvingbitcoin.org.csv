@@ -2619,3 +2619,18 @@ primary_topics,secondary_topics,source_id
 "['Research', 'Fees', 'Mining']",[],delving-bitcoin-303-53-4542
 "['Validation', 'Fees', 'Mining', 'Consensus', 'Mempool']",[],delving-bitcoin-303-54-4544
 "['Security', 'Covenants', 'Consensus', 'Custody']","['Technical Discussions', 'Bitcoin Improvement Proposal', 'Infrastructure Enhancements']",delving-bitcoin-1509-49-4543
+"['Threshold Signatures', 'Ux', 'security', 'transactions', 'protocol', 'Wallet', 'public-key', 'Hashlocks', 'Cryptography', 'full-node', 'hardware-wallet', 'altcoin', 'P2p', 'encryption', 'Schnorr', 'peer-discovery', 'services', 'Proof-of-Work', 'network', 'change', 'Fees', 'Multisig', 'MuSig', 'Research', 'Soft Fork', 'Layer 2', 'Proof-of-Stake', 'Testing', 'privacy', 'Security', 'consensus', 'script', 'testing', 'Miners', 'mining-software', 'validation', 'development', 'payment', 'Routing', 'Segwit', 'Timelocks', 'blockchain', 'decentralization', 'wallet', 'lightning-network', 'source-code', 'Consensus', 'bitcoin-core', 'Pools', 'p2p', 'Privacy', 'Altcoin', 'Covenants', 'Merkle Trees', 'P2pool', 'Validation', 'scalability', 'Lightning', 'FROST', 'Segregated Witness', 'Mining', 'Assumeutxo']",[],delving-bitcoin-1509-50-4549
+"['Consensus', 'Fees', 'Validation', 'Bitcoin Core', 'Mining']",[],delving-bitcoin-303-55-4546
+"['P2P', 'IBD']","['Encoding Method', 'Block Fetches', 'Archive Nodes', 'Bandwidth Optimization', 'Network Efficiency', 'BIP337', 'Synchronization Processes', 'Optimization', 'Bandwidth']",delving-bitcoin-1490-3-4547
+"['Threshold Signatures', 'Sidechains', 'Zero-Knowledge', 'security', 'transactions', 'Update Layer', 'Fuzzing', 'Topology', 'Cryptography', 'Hashlocks', 'Timestamping', 'Proof-of-Work', 'Attacks', 'Smart Contracts', 'Fee Management', 'Multisig', 'Research', 'Proof-of-Stake', 'Soft Fork', 'Signet', 'P2P', 'Testing', 'privacy', 'Asmap', 'Accumulators', 'Security', 'Bech32', 'consensus', 'script', 'testing', 'Miners', 'Atomic Swaps', 'Fungibility', 'development', 'validation', 'Path-Finding', 'Routing', 'Segwit', 'Sphinx', 'Onion', 'Timelocks', 'blockchain', 'decentralization', 'wallet', 'cryptography', 'Silent Payments', 'Scalability', 'source-code', 'Consensus', 'Pools', 'Covenants', 'Merkle Trees', 'Validation', 'scalability', 'Lightning', 'Privacy', 'Incentives', 'Segregated Witness', 'Mining', 'Assumeutxo']",[],delving-bitcoin-1528-1-4559
+"['Consensus', 'Taproot', 'Covenants', 'BIP', 'Blockchain']",['Bitcoin'],delving-bitcoin-1509-53-4565
+"['Protocol', 'Transactions', 'Blockchain', 'Security']","['Swaps', 'Ark', 'CTV']",delving-bitcoin-1528-2-4560
+"['Consensus', 'Taproot', 'Script', 'Fees', 'Smart Contracts', 'Validation', 'Research', 'Bitcoin Core', 'Privacy', 'Soft Fork', 'Segwit', 'Cryptography']",[],delving-bitcoin-1527-1-4551
+"['Consensus', 'Script', 'Fees']",[],delving-bitcoin-1527-3-4555
+"['Consensus', 'Covenants', 'Mining', 'Forks', 'Segregated Witness', 'Blockchain', 'Security']",[],delving-bitcoin-1517-10-4564
+"['Value', 'Script']","['Bitcoin Scripting Language', 'Bitcoin Script', 'Transaction Values', 'Errors', 'Stack', 'Bitcoin Improvement Proposal']",delving-bitcoin-1527-2-4553
+"['Consensus', 'Taproot', 'Privacy', 'Covenants', 'Script', 'Soft Fork', 'Layer 2', 'Forks', 'Segwit']",[],delving-bitcoin-1509-51-4554
+"['Consensus', 'Covenants', 'Script', 'Smart Contracts', 'BIP', 'Validation', 'Forks', 'Layer 2', 'Hardware Wallet', 'Segregated Witness', 'Testing', 'Security']",['Lightning Network'],delving-bitcoin-1509-52-4563
+"['Covenants', 'Fees', 'Fee Management', 'Package Relay']",['Anchor Outputs'],delving-bitcoin-1527-5-4562
+"['Consensus', 'Covenants']",[],delving-bitcoin-1509-54-4566
+"['Error', 'Script', 'Cryptography']",[],delving-bitcoin-1527-4-4561
