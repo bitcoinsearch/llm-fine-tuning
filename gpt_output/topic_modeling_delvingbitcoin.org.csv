@@ -2634,3 +2634,7 @@ primary_topics,secondary_topics,source_id
 "['Covenants', 'Fees', 'Fee Management', 'Package Relay']",['Anchor Outputs'],delving-bitcoin-1527-5-4562
 "['Consensus', 'Covenants']",[],delving-bitcoin-1509-54-4566
 "['Error', 'Script', 'Cryptography']",[],delving-bitcoin-1527-4-4561
+"['Network', 'Bitcoin Core', 'Nodes', 'Pruning', 'P2P']",['Satoshi Nakamoto'],delving-bitcoin-1490-4-4567
+"['Hashlocks', 'Fees', 'Lightning']","['Hold Fees', 'Lightning Service Provider', 'Double Spend', 'Channel']",delving-bitcoin-1524-2-4568
+"['Privacy', 'Taproot', 'Covenants']","['Decentralized digital currency', 'Bitcoin developer community', 'OP_COSHV', 'Documentation', 'Tapscript', 'Technical considerations', 'Efficiency', 'Bitcoin protocol development', 'CheckTemplateVerify', 'CTV', 'Continuous improvement', 'Bitcoin Improvement Proposals', 'Flexibility']",delving-bitcoin-1509-55-4570
+"['PSBT', 'UTXO', 'Blockchain', 'Fungibility', 'Taproot', 'Covenants', 'Security', 'Transactions']",['Trustless'],delving-bitcoin-1517-11-4569
