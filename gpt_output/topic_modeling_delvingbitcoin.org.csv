@@ -2638,3 +2638,6 @@ primary_topics,secondary_topics,source_id
 "['Hashlocks', 'Fees', 'Lightning']","['Hold Fees', 'Lightning Service Provider', 'Double Spend', 'Channel']",delving-bitcoin-1524-2-4568
 "['Privacy', 'Taproot', 'Covenants']","['Decentralized digital currency', 'Bitcoin developer community', 'OP_COSHV', 'Documentation', 'Tapscript', 'Technical considerations', 'Efficiency', 'Bitcoin protocol development', 'CheckTemplateVerify', 'CTV', 'Continuous improvement', 'Bitcoin Improvement Proposals', 'Flexibility']",delving-bitcoin-1509-55-4570
 "['PSBT', 'UTXO', 'Blockchain', 'Fungibility', 'Taproot', 'Covenants', 'Security', 'Transactions']",['Trustless'],delving-bitcoin-1517-11-4569
+"['Fees', 'Lightning', 'Mempool']","['Interactivity', 'Reliability', 'HTLCs', 'Cooperative Behavior', 'Operational Challenges', 'BOLT5']",delving-bitcoin-1493-4-4578
+"['Validation', 'Bitcoin Core', 'Timelocks', 'Consensus']","['BIPs', 'Coinbase Transaction']",delving-bitcoin-710-79-4577
+"['Covenants', 'Consensus']","['Design Decisions', 'Opcode', 'Programming']",delving-bitcoin-1509-56-4576
