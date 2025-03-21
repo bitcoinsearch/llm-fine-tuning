@@ -2641,3 +2641,6 @@ primary_topics,secondary_topics,source_id
 "['Fees', 'Lightning', 'Mempool']","['Interactivity', 'Reliability', 'HTLCs', 'Cooperative Behavior', 'Operational Challenges', 'BOLT5']",delving-bitcoin-1493-4-4578
 "['Validation', 'Bitcoin Core', 'Timelocks', 'Consensus']","['BIPs', 'Coinbase Transaction']",delving-bitcoin-710-79-4577
 "['Covenants', 'Consensus']","['Design Decisions', 'Opcode', 'Programming']",delving-bitcoin-1509-56-4576
+"['Development', 'Research', 'Bitcoin Core', 'Lnd', 'Lightning', 'Security']",[],delving-bitcoin-1493-5-4579
+"['Consensus', 'Taproot', 'Smart Contracts', 'Covenants', 'UTXO']","['Transaction Chains', 'OP_CODES', 'UTXO Oracles', 'Scripts', 'Scripting Language', 'Address Formats', 'CheckTemplateVerify', 'Congestion Control', 'Witnesses', 'BIPs', 'Adversarial Transactions']",delving-bitcoin-1509-57-4582
+"['Blockchain', 'Consensus', 'Transactions']",[],delving-bitcoin-710-80-4581
