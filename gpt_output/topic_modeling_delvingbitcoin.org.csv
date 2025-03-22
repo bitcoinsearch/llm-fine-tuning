@@ -2644,3 +2644,8 @@ primary_topics,secondary_topics,source_id
 "['Development', 'Research', 'Bitcoin Core', 'Lnd', 'Lightning', 'Security']",[],delving-bitcoin-1493-5-4579
 "['Consensus', 'Taproot', 'Smart Contracts', 'Covenants', 'UTXO']","['Transaction Chains', 'OP_CODES', 'UTXO Oracles', 'Scripts', 'Scripting Language', 'Address Formats', 'CheckTemplateVerify', 'Congestion Control', 'Witnesses', 'BIPs', 'Adversarial Transactions']",delving-bitcoin-1509-57-4582
 "['Blockchain', 'Consensus', 'Transactions']",[],delving-bitcoin-710-80-4581
+"['Lightning', 'Fees']","['Fee theft prevention', 'Burn outputs', 'HTLC', 'Commitment transaction', 'Grace period', 'Protocol updates']",delving-bitcoin-1524-3-4586
+"['Lightning', 'Consensus', 'Fees', 'Fee Management', 'Routing', 'Security', 'Attacks', 'Mining', 'Stratum-V2']",[],delving-bitcoin-1493-6-4587
+"['Build Systems', 'Validation', 'Consensus', 'Testing']",[],delving-bitcoin-710-82-4585
+"['Transactions', 'Bitcoin Core', 'Consensus', 'Block', 'Hash', 'Blockchain', 'Research', 'Validation', 'Mining', 'Forks']",[],delving-bitcoin-710-81-4584
+"['Consensus', 'Ux', 'Privacy', 'Security', 'Assumeutxo']",[],delving-bitcoin-1528-3-4583
