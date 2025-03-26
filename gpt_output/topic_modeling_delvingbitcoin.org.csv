@@ -2656,3 +2656,13 @@ primary_topics,secondary_topics,source_id
 "['Bitcoin Core', 'Mempool', 'Mining', 'Network', 'Fees', 'P2P', 'Consensus', 'Validation', 'Nodes']","['Efficiency', 'Bandwidth', 'Optimization', 'Propagation Time', 'Prefilling Transactions', 'Compact Blocks', 'Inbound Connections', 'Network Conditions', 'Technical Innovation', 'Performance', 'Debug Logging']",delving-bitcoin-1052-24-4596
 "['Validation', 'Privacy', 'Cryptography', 'Ux', 'Security', 'Consensus', 'Assumeutxo', 'Research', 'Fees']",[],delving-bitcoin-1528-6-4594
 "['Update Layer', 'Lightning', 'Routing Failures', 'Sphinx', 'Consensus']","['Lightning Network', 'BOLTs']",delving-bitcoin-1493-7-4593
+"['Fees', 'Bitcoin Core', 'Consensus', 'Mempool', 'Blockchain', 'Validation', 'Mining']",[],delving-bitcoin-303-56-4602
+"['Algorithms', 'Mempool', 'Transactions']","['Resource Management', 'Optimization']",delving-bitcoin-303-59-4606
+"['Signature', 'ECDSA', 'Privacy']","['Commitments', 'Proofs', 'Transaction Size', 'Blockchain Transactions']",delving-bitcoin-1537-2-4599
+"['Validation', 'Fuzzing', 'Package Relay', 'Cryptography', 'Research', 'Mempool', 'Consensus', 'P2P', 'Security']",[],delving-bitcoin-303-57-4603
+['P2P'],"['Exchange of Information', 'Interactive', 'Communication']",delving-bitcoin-1528-7-4601
+"['Taproot', 'Schnorr']","['Quantum-Resistant', 'Cryptographic Security']",delving-bitcoin-1537-3-4605
+"['Transactions', 'Blockchain', 'Security']",[],delving-bitcoin-303-58-4604
+"['Fees', 'Validation', 'Package Relay', 'Security', 'Consensus', 'P2P', 'Mining']",[],delving-bitcoin-303-60-4607
+"['Fees', 'Lightning', 'Payment', 'Routing']","['Optimistic Payment Routing', 'Hold Fees']",delving-bitcoin-1524-4-4598
+"['Fees', 'Decentralization', 'Blockchain', 'Consensus', 'Scalability', 'Mining']",[],delving-bitcoin-941-26-4610
