@@ -2666,3 +2666,8 @@ primary_topics,secondary_topics,source_id
 "['Fees', 'Validation', 'Package Relay', 'Security', 'Consensus', 'P2P', 'Mining']",[],delving-bitcoin-303-60-4607
 "['Fees', 'Lightning', 'Payment', 'Routing']","['Optimistic Payment Routing', 'Hold Fees']",delving-bitcoin-1524-4-4598
 "['Fees', 'Decentralization', 'Blockchain', 'Consensus', 'Scalability', 'Mining']",[],delving-bitcoin-941-26-4610
+"['Validation', 'Research', 'Consensus', 'Cryptography', 'Public-Key']",[],delving-bitcoin-1537-4-4630
+"['Build Systems', 'Bitcoin Core', 'Transactions', 'Scalability', 'Validation', 'Research', 'Consensus', 'Block', 'Testing', 'Forks']",['Source Code'],delving-bitcoin-303-62-4632
+"['OP_RETURN', 'Script', 'Research', 'Consensus', 'Cryptography', 'Forks']",[],delving-bitcoin-313-2-4633
+"['Blockchain', 'Soft Fork', 'Consensus', 'Protocol']",['Bitcoin Improvement Proposal'],delving-bitcoin-710-83-4634
+"['Mempool', 'Transactions', 'Blockchain', 'Mining', 'Security', 'Fees', 'Consensus', 'Forks']",['Transaction Fees'],delving-bitcoin-303-61-4631
