@@ -2676,3 +2676,4 @@ primary_topics,secondary_topics,source_id
 "['Fees', 'Multisig', 'Consensus', 'Privacy', 'Research', 'Lightning', 'Security']",[],delving-bitcoin-1528-8-4642
 [],"['Financial System', 'Volatility', 'Price Stability', 'Wealth', 'Debts', 'Legal Recognition', 'Game Theory', 'Contracts', 'Bitcoin', 'Unit of Account', 'Credit', 'Monetary Policy', 'Adoption', 'Transition', 'Economic Stability']",delving-bitcoin-1547-1-4644
 "['Consensus', 'Relay', 'Validation', 'Mempool', 'Forks', 'Package Relay']",[],delving-bitcoin-303-63-4640
+['Lightning'],"['BOLTs', 'HTLCs', 'Preimage', 'Commitment Transaction']",delving-bitcoin-1493-8-4647
