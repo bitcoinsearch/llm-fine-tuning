@@ -2677,3 +2677,9 @@ primary_topics,secondary_topics,source_id
 [],"['Financial System', 'Volatility', 'Price Stability', 'Wealth', 'Debts', 'Legal Recognition', 'Game Theory', 'Contracts', 'Bitcoin', 'Unit of Account', 'Credit', 'Monetary Policy', 'Adoption', 'Transition', 'Economic Stability']",delving-bitcoin-1547-1-4644
 "['Consensus', 'Relay', 'Validation', 'Mempool', 'Forks', 'Package Relay']",[],delving-bitcoin-303-63-4640
 ['Lightning'],"['BOLTs', 'HTLCs', 'Preimage', 'Commitment Transaction']",delving-bitcoin-1493-8-4647
+"['Consensus', 'Soft Fork', 'Replace-By-Fee', 'Mining', 'Bitcoin Core', 'Research', 'Mempool', 'Attacks', 'Fees', 'Segregated Witness', 'Network']",['GitHub proposal'],delving-bitcoin-1548-1-4649
+"['Attacks', 'Mempool', 'Bitcoin Core']",[],delving-bitcoin-303-64-4650
+"['Soft Fork', 'Consensus', 'Script', 'Bitcoin Core', 'Research', 'Security', 'Litecoin']","['Blockchain Scripts', 'Bitcoin Cash', '64-bit Arithmetic', 'Elements Project', 'Efficiency', 'Overflow Handling', 'Zcash', 'Exception Handling', 'Opcode', 'Arithmetic Operations']",delving-bitcoin-1549-1-4652
+"['Consensus', 'Transactions', 'Replace-By-Fee', 'Mining', 'Validation', 'Mempool', 'Forks', 'Relay', 'Fees']",['Cluster'],delving-bitcoin-1548-3-4655
+"['Consensus', 'Blockchain', 'Difficulty', 'Mining']",[],delving-bitcoin-1326-37-4651
+"['Replace-By-Fee', 'Attack', 'Mempool', 'Relay']","['Linearization', 'RBF', 'Wallets', 'Consistency', 'Transaction Replacement', 'Bandwidth Wastage', 'Cluster']",delving-bitcoin-1548-2-4654
