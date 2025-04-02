@@ -2683,3 +2683,10 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Transactions', 'Replace-By-Fee', 'Mining', 'Validation', 'Mempool', 'Forks', 'Relay', 'Fees']",['Cluster'],delving-bitcoin-1548-3-4655
 "['Consensus', 'Blockchain', 'Difficulty', 'Mining']",[],delving-bitcoin-1326-37-4651
 "['Replace-By-Fee', 'Attack', 'Mempool', 'Relay']","['Linearization', 'RBF', 'Wallets', 'Consistency', 'Transaction Replacement', 'Bandwidth Wastage', 'Cluster']",delving-bitcoin-1548-2-4654
+"['Consensus', 'Timestamping', 'Mining', 'Attacks', 'Forks']",[],delving-bitcoin-1326-41-4664
+"['Difficulty', 'Forks', 'Consensus', 'Mining', 'Hashpower', 'Proof-of-Work', 'Attacks', 'Timestamping']",[],delving-bitcoin-1326-40-4662
+"['Mining', 'Consensus', 'Attacks', 'Timestamping']",[],delving-bitcoin-1326-43-4667
+"['Protocol', 'Consensus', 'Blockchain', 'Mining', 'Forks']",[],delving-bitcoin-1326-39-4661
+"['Fees', 'Replace-By-Fee', 'Scalability', 'Consensus', 'Mempool', 'Bitcoin Core', 'Network', 'Security', 'Research']",[],delving-bitcoin-1426-2-4659
+"['Consensus', 'Timestamping', 'Mining', 'Security', 'Attacks', 'Forks']",[],delving-bitcoin-1326-42-4666
+"['Miners', 'Validation', 'Hashlocks', 'Difficulty', 'Consensus', 'Mining', 'Proof-of-Work']",[],delving-bitcoin-1326-38-4660
