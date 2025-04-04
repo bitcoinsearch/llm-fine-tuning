@@ -2695,3 +2695,8 @@ primary_topics,secondary_topics,source_id
 ['Bitcoin Core'],['Bitcoin Core Development'],delving-bitcoin-1536-2-4680
 "['Taproot', 'Forks', 'Cryptography', 'Research', 'Script', 'Signet', 'Consensus']",[],delving-bitcoin-1520-2-4677
 "['Proof-of-Work', 'Validation', 'Consensus', 'Forks', 'Blocksize', 'Segregated Witness']","['Efficiency', 'Compression']",delving-bitcoin-1562-3-4684
+"['UTXO', 'Covenants', 'Taproot', 'PSBT']",['Introspection'],delving-bitcoin-1520-3-4697
+"['Blockchain', 'Armory']","['Bitcoin', 'Message Signing', 'Cryptocurrency', 'Blockstream']",delving-bitcoin-850-5-4686
+['IBD'],"['Delta Encoding', 'CompactSize', 'VarInt', 'Compression']",delving-bitcoin-1562-4-4691
+"['UTXO', 'Assumeutxo', 'Consensus']",[],delving-bitcoin-1562-6-4695
+"['Blockchain', 'Synchronization', 'IBD', 'Trust', 'Assumeutxo', 'Security']","['Codebase', 'Speedup', 'Optimization']",delving-bitcoin-1562-5-4693
