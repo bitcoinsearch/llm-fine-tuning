@@ -2728,3 +2728,12 @@ primary_topics,secondary_topics,source_id
 "['Research', 'Segregated Witness', 'Validation', 'Script', 'Consensus', 'Bitcoin Core', 'Forks', 'Transactions']",[],delving-bitcoin-1527-7-4751
 "['Consensus', 'Script', 'UTXO']",[],delving-bitcoin-1527-9-4754
 "['Cryptography', 'Proof-of-Work', 'Security', 'Mining']",['Hashing'],delving-bitcoin-1597-1-4755
+"['P2P', 'P2pool', 'Consensus', 'Research', 'Package Relay', 'Mempool', 'Topology']",[],delving-bitcoin-1548-4-4758
+"['Multi-signature', 'Taproot', 'Merkle Trees', 'UTXO', 'Soft Fork']","['PAIRCOMMIT', 'CSFS']",delving-bitcoin-1599-1-4763
+"['Proof-of-Work', 'Validation', 'Script', 'Signature', 'Segregated Witness', 'Locktime', 'Consensus']","['Malleability', 'Transaction Verification', 'Implementation']",delving-bitcoin-1527-10-4760
+"['Lightning', 'UTXO']","['Hash Time-Locked Contract', 'Denial-of-Service', 'CHECKTEMPLATEVERIFY']",delving-bitcoin-1528-9-4759
+['Research'],"['Algorithm', 'Graphs', 'Efficiency', 'Computational Methodologies', 'Optimization']",delving-bitcoin-303-67-4757
+"['P2P', 'Mining', 'UTXO', 'Build Systems', 'Mempool', 'Bitcoin Core']",[],delving-bitcoin-1600-1-4764
+"['Security', 'Transactions', 'Scalability', 'Blockchain', 'Mempool']",['Wallets'],delving-bitcoin-1548-6-4762
+"['Covenants', 'Security', 'Wallet', 'Smart Contracts']",['Inheritance'],delving-bitcoin-1591-7-4765
+"['Mempool', 'Consensus', 'Decentralization']",[],delving-bitcoin-1548-5-4761
