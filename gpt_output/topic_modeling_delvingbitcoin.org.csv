@@ -2737,3 +2737,13 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Transactions', 'Scalability', 'Blockchain', 'Mempool']",['Wallets'],delving-bitcoin-1548-6-4762
 "['Covenants', 'Security', 'Wallet', 'Smart Contracts']",['Inheritance'],delving-bitcoin-1591-7-4765
 "['Mempool', 'Consensus', 'Decentralization']",[],delving-bitcoin-1548-5-4761
+"['Covenants', 'Consensus', 'Research', 'Privacy']",[],delving-bitcoin-1599-5-4793
+"['Consensus', 'Blockchain', 'Utxo', 'Transactions']",[],delving-bitcoin-1602-2-4788
+"['Security', 'Consensus', 'Validation', 'Script', 'Cryptography', 'Fees', 'Privacy', 'Proof-of-Stake', 'Proof-of-Work', 'Transactions']",[],delving-bitcoin-1602-3-4795
+"['Covenants', 'Schnorr']","['STARKs', 'Concatenation']",delving-bitcoin-1106-3-4784
+"['Consensus', 'Security']",['Scripting'],delving-bitcoin-1599-3-4787
+"['Consensus', 'Security', 'Cryptography', 'Privacy', 'Smart Contracts', 'Fuzzing', 'Segwit', 'Bitcoin Core', 'Research']",['Vulnerabilities'],delving-bitcoin-710-84-4794
+"['Cryptography', 'Consensus', 'UTXO']",[],delving-bitcoin-1602-1-4785
+"['Security', 'Fees', 'Lightning']","['Network Operations', 'Collateral', 'Channel Closure']",delving-bitcoin-1524-6-4790
+"['Schnorr', 'Cryptography', 'MuSig', 'Merkle Trees', 'Research']",[],delving-bitcoin-1599-2-4786
+"['Covenants', 'Consensus', 'Script', 'Merkle Trees']",[],delving-bitcoin-1599-4-4789
