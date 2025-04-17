@@ -2747,3 +2747,16 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Fees', 'Lightning']","['Network Operations', 'Collateral', 'Channel Closure']",delving-bitcoin-1524-6-4790
 "['Schnorr', 'Cryptography', 'MuSig', 'Merkle Trees', 'Research']",[],delving-bitcoin-1599-2-4786
 "['Covenants', 'Consensus', 'Script', 'Merkle Trees']",[],delving-bitcoin-1599-4-4789
+"['Cryptography', 'UTXO', 'Segregated Witness', 'Script']",['Transaction ID'],delving-bitcoin-1591-8-4799
+"['Script', 'scriptSig']","['CHECKSIG', 'scriptPubKey', 'CODESEPARATOR', 'EvalScript']",delving-bitcoin-1591-12-4806
+"['Security', 'P2SH', 'Segwit', 'Script', 'Validation', 'Taproot', 'Bitcoin Core']",['CTV'],delving-bitcoin-1591-11-4804
+"['Cryptography', 'Timelocks']","['User Interaction', 'Signatures', 'Commitments', 'Transaction Processing', 'Refund Transactions']",delving-bitcoin-1602-4-4798
+"['Cryptography', 'Research', 'Threshold Signatures']",[],delving-bitcoin-1591-13-4812
+"['Security', 'Multisig', 'Encryption']","['Shamir', 'Secret Sharing', 'Derivation Paths', 'Recovery']",delving-bitcoin-1607-6-4811
+"['Wallet', 'Security', 'Bitcoin Core']","['Private Key', 'GitHub']",delving-bitcoin-1607-4-4809
+"['Wallet', 'Backup']",[],delving-bitcoin-1607-2-4805
+"['Wallet', 'Security', 'Backup', 'Multisig', 'Encryption']","['Deterministic', 'Private Key', 'Asymmetric Encryption', 'Symmetric Encryption', 'Public Key', 'Recovery', 'Timelock']",delving-bitcoin-1607-1-4802
+"['Wallet', 'Backup']",[],delving-bitcoin-1607-5-4810
+"['Security', 'Multisig', 'Encryption']","['Shamir Secret Sharing', 'Derivation Paths', 'GitHub Repository']",delving-bitcoin-1607-3-4808
+"['Script', 'P2SH']",['Transaction Validation'],delving-bitcoin-1591-10-4801
+"['Security', 'P2SH', 'Script', 'Validation', 'Consensus', 'Bitcoin Core']",[],delving-bitcoin-1591-9-4800
