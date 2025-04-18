@@ -2760,3 +2760,7 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Multisig', 'Encryption']","['Shamir Secret Sharing', 'Derivation Paths', 'GitHub Repository']",delving-bitcoin-1607-3-4808
 "['Script', 'P2SH']",['Transaction Validation'],delving-bitcoin-1591-10-4801
 "['Security', 'P2SH', 'Script', 'Validation', 'Consensus', 'Bitcoin Core']",[],delving-bitcoin-1591-9-4800
+"['Proof-of-Work', 'IBD', 'Accumulators', 'Cryptography', 'Consensus', 'Validation', 'Research', 'Forks', 'Libsecp256k1']","['Optimization', 'Performance']",delving-bitcoin-1562-12-4815
+"['Fees', 'Mempool', 'Consensus', 'Research', 'Mining']","['Performance Metrics', 'Complexity Bounds']",delving-bitcoin-303-68-4818
+"['Validation', 'Research', 'Topology']",[],delving-bitcoin-303-69-4819
+"['Transactions', 'Consensus', 'Mining']",[],delving-bitcoin-303-70-4820
