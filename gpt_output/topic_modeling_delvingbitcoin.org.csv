@@ -2764,3 +2764,8 @@ primary_topics,secondary_topics,source_id
 "['Fees', 'Mempool', 'Consensus', 'Research', 'Mining']","['Performance Metrics', 'Complexity Bounds']",delving-bitcoin-303-68-4818
 "['Validation', 'Research', 'Topology']",[],delving-bitcoin-303-69-4819
 "['Transactions', 'Consensus', 'Mining']",[],delving-bitcoin-303-70-4820
+"['Fuzzing', 'Research']",[],delving-bitcoin-1419-3-4826
+"['Consensus', 'Bitcoin Core', 'Decentralization', 'Legal']",['Governance'],delving-bitcoin-1616-1-4827
+"['Privacy', 'Network', 'Security']",[],delving-bitcoin-1490-6-4823
+['Research'],"['Algorithm', 'Efficiency', 'Optimization', 'Performance']",delving-bitcoin-303-71-4822
+"['Fees', 'Consensus', 'Research', 'Validation', 'Mining']",[],delving-bitcoin-303-72-4824
