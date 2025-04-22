@@ -2773,3 +2773,7 @@ primary_topics,secondary_topics,source_id
 "['Script', 'Security', 'Transactions', 'Consensus']",[],delving-bitcoin-1591-15-4841
 "['Validation', 'Script', 'Soft Fork', 'Segregated Witness', 'Consensus']",[],delving-bitcoin-1591-14-4840
 "['Validation', 'Research', 'Script', 'Security', 'Consensus', 'Bitcoin Core']",[],delving-bitcoin-1591-16-4842
+"['Consensus', 'Segregated Witness', 'Forks', 'Validation', 'Cryptography', 'Script']",[],delving-bitcoin-1591-17-4848
+"['Consensus', 'ASIC', 'Nonce', 'Merkle Trees', 'Stratum-V2', 'Timestamp', 'Soft Fork']","['Mining Process', 'Double Spending', 'Time Warp Attacks', 'Hashing Power', 'BIP320']",delving-bitcoin-710-86-4847
+"['Research', 'Bitcoin Core']",[],delving-bitcoin-1591-18-4850
+"['Consensus', 'BIP', 'Security', 'Blockchain', 'Mining', 'Miners', 'Validation']",[],delving-bitcoin-710-85-4846
