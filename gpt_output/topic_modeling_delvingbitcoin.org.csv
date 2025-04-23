@@ -2777,3 +2777,12 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'ASIC', 'Nonce', 'Merkle Trees', 'Stratum-V2', 'Timestamp', 'Soft Fork']","['Mining Process', 'Double Spending', 'Time Warp Attacks', 'Hashing Power', 'BIP320']",delving-bitcoin-710-86-4847
 "['Research', 'Bitcoin Core']",[],delving-bitcoin-1591-18-4850
 "['Consensus', 'BIP', 'Security', 'Blockchain', 'Mining', 'Miners', 'Validation']",[],delving-bitcoin-710-85-4846
+"['Taproot', 'Script', 'BIP', 'Segregated Witness']",[],delving-bitcoin-1632-5-4858
+"['Smart Contracts', 'Consensus', 'Script']",[],delving-bitcoin-1632-2-4853
+"['Script', 'Locktime', 'Blockchain', 'Validation', 'Smart Contracts', 'Transactions']",[],delving-bitcoin-1632-3-4855
+['Script'],"['OP_ELSE', 'OP_SUCCESS3', 'OP_IF', 'OP_SUCCESS126']",delving-bitcoin-1632-4-4857
+"['Research', 'Scalability', 'Bitcoin Core', 'Mempool', 'Fuzzing', 'Mining']",[],delving-bitcoin-303-73-4854
+"['Bitcoin Core', 'Consensus', 'Fees', 'P2P', 'Transactions']","['Optimization', 'TCP packets', 'Bandwidth', 'Network Performance']",delving-bitcoin-1052-28-4856
+"['Research', 'Script', 'Bitcoin Core', 'Wallet', 'Consensus', 'Segwit', 'Fees']",[],delving-bitcoin-1632-6-4859
+"['Taproot', 'Script', 'Security']",[],delving-bitcoin-1632-7-4860
+"['Taproot', 'Covenants', 'Timelocks', 'Blockchain', 'Soft Fork', 'sCrypt', 'Smart Contracts']","['Bitcoin Improvement Proposal', 'Prediction Markets', 'Scripting', 'OP_CAT', 'Concatenation', 'Bitcoin Scripting Language', 'Decentralized Bet']",delving-bitcoin-1632-1-4852
