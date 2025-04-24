@@ -2786,3 +2786,7 @@ primary_topics,secondary_topics,source_id
 "['Research', 'Script', 'Bitcoin Core', 'Wallet', 'Consensus', 'Segwit', 'Fees']",[],delving-bitcoin-1632-6-4859
 "['Taproot', 'Script', 'Security']",[],delving-bitcoin-1632-7-4860
 "['Taproot', 'Covenants', 'Timelocks', 'Blockchain', 'Soft Fork', 'sCrypt', 'Smart Contracts']","['Bitcoin Improvement Proposal', 'Prediction Markets', 'Scripting', 'OP_CAT', 'Concatenation', 'Bitcoin Scripting Language', 'Decentralized Bet']",delving-bitcoin-1632-1-4852
+"['Consensus', 'Cryptography', 'Mining', 'Security', 'Forks', 'Bitcoin Core', 'Script']",[],delving-bitcoin-1632-8-4867
+"['Mempool', 'Fees']","['Linearization', 'Cluster', 'Algorithm', 'Optimization']",delving-bitcoin-202-21-4862
+['Research'],"['Benchmarking', 'Computational Efficiency', 'Performance Analysis', 'Algorithm', 'Graph Theory', 'Data Structures', 'Optimization']",delving-bitcoin-1419-4-4861
+"['Cryptography', 'Backup', 'Security', 'Error', 'Privacy', 'Hardware Wallet', 'Validation']",[],delving-bitcoin-1607-7-4866
