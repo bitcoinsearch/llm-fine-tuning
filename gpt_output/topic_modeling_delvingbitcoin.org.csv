@@ -2790,3 +2790,6 @@ primary_topics,secondary_topics,source_id
 "['Mempool', 'Fees']","['Linearization', 'Cluster', 'Algorithm', 'Optimization']",delving-bitcoin-202-21-4862
 ['Research'],"['Benchmarking', 'Computational Efficiency', 'Performance Analysis', 'Algorithm', 'Graph Theory', 'Data Structures', 'Optimization']",delving-bitcoin-1419-4-4861
 "['Cryptography', 'Backup', 'Security', 'Error', 'Privacy', 'Hardware Wallet', 'Validation']",[],delving-bitcoin-1607-7-4866
+['Transactions'],"['Dependencies', 'Optimization']",delving-bitcoin-303-74-4868
+"['Error', 'Privacy', 'Backup', 'Limitations', 'Security']",[],delving-bitcoin-1607-9-4870
+"['Encryption', 'Error', 'Blockchain', 'Hardware Wallet', 'Backup', 'Custody', 'Security']","['Disaster Recovery', 'Cloud Storage', 'Inheritance']",delving-bitcoin-1607-8-4869
