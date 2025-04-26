@@ -2793,3 +2793,6 @@ primary_topics,secondary_topics,source_id
 ['Transactions'],"['Dependencies', 'Optimization']",delving-bitcoin-303-74-4868
 "['Error', 'Privacy', 'Backup', 'Limitations', 'Security']",[],delving-bitcoin-1607-9-4870
 "['Encryption', 'Error', 'Blockchain', 'Hardware Wallet', 'Backup', 'Custody', 'Security']","['Disaster Recovery', 'Cloud Storage', 'Inheritance']",delving-bitcoin-1607-8-4869
+"['Fees', 'Lightning']","['Behavioral Dynamics', 'Hashed Time-Locked Contracts', 'Programmatic Control', 'Optimal Payment Routing']",delving-bitcoin-1524-7-4877
+"['Research', 'Lightning', 'Security']",[],delving-bitcoin-1524-8-4878
+"['Signature', 'Cryptography', 'Consensus', 'Validation']",[],delving-bitcoin-1591-19-4876
