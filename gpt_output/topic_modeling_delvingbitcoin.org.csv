@@ -2796,3 +2796,5 @@ primary_topics,secondary_topics,source_id
 "['Fees', 'Lightning']","['Behavioral Dynamics', 'Hashed Time-Locked Contracts', 'Programmatic Control', 'Optimal Payment Routing']",delving-bitcoin-1524-7-4877
 "['Research', 'Lightning', 'Security']",[],delving-bitcoin-1524-8-4878
 "['Signature', 'Cryptography', 'Consensus', 'Validation']",[],delving-bitcoin-1591-19-4876
+"['Zero-Knowledge', 'Covenants', 'Security', 'Forks', 'Proof-of-Work', 'Hashlocks', 'Merkle Trees', 'Scalability', 'Consensus']",[],delving-bitcoin-1106-4-4879
+"['Smart Contracts', 'Covenants']","['Proof Systems', 'Schnorr Signatures', 'Blockchain Technology', 'OP_CAT', 'State Tracking']",delving-bitcoin-1106-5-4880
