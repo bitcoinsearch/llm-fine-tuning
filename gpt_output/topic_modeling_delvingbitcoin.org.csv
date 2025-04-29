@@ -2798,3 +2798,8 @@ primary_topics,secondary_topics,source_id
 "['Signature', 'Cryptography', 'Consensus', 'Validation']",[],delving-bitcoin-1591-19-4876
 "['Zero-Knowledge', 'Covenants', 'Security', 'Forks', 'Proof-of-Work', 'Hashlocks', 'Merkle Trees', 'Scalability', 'Consensus']",[],delving-bitcoin-1106-4-4879
 "['Smart Contracts', 'Covenants']","['Proof Systems', 'Schnorr Signatures', 'Blockchain Technology', 'OP_CAT', 'State Tracking']",delving-bitcoin-1106-5-4880
+"['Routing', 'Privacy', 'Lightning', 'Path-Finding', 'Fees', 'Network']","['Adaptability', 'Efficiency', 'Liquidity Management']",delving-bitcoin-1640-2-4885
+"['Routing', 'Privacy', 'Consensus', 'Scalability', 'Lightning', 'Smart Contracts', 'Fees', 'Path-Finding', 'Layer 2', 'Topology', 'Bitcoin Core']",['Channel Depletion'],delving-bitcoin-1640-1-4884
+"['Segwit', 'Validation', 'Consensus', 'Research', 'Forks', 'Bitcoin Core']",[],delving-bitcoin-1591-20-4882
+"['Threshold Signatures', 'Limitations', 'Consensus', 'Research', 'Cryptography', 'Assumeutxo']",[],delving-bitcoin-1591-21-4883
+"['Proof-of-Stake', 'Segregated Witness', 'Validation', 'Consensus', 'Hashlocks', 'Script', 'Proof-of-Work', 'Cryptography', 'Forks']",[],delving-bitcoin-1106-6-4886
