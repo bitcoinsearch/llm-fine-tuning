@@ -2803,3 +2803,13 @@ primary_topics,secondary_topics,source_id
 "['Segwit', 'Validation', 'Consensus', 'Research', 'Forks', 'Bitcoin Core']",[],delving-bitcoin-1591-20-4882
 "['Threshold Signatures', 'Limitations', 'Consensus', 'Research', 'Cryptography', 'Assumeutxo']",[],delving-bitcoin-1591-21-4883
 "['Proof-of-Stake', 'Segregated Witness', 'Validation', 'Consensus', 'Hashlocks', 'Script', 'Proof-of-Work', 'Cryptography', 'Forks']",[],delving-bitcoin-1106-6-4886
+[],"['Commitment Schemes', 'Bitcoin Improvement Proposals', 'Scripting Language', 'Opcode', 'Transaction Hash']",delving-bitcoin-1591-22-4888
+[],"['Transaction ID', 'Transaction Handling', 'Validation Checks', 'Outputs']",delving-bitcoin-1591-24-4898
+"['Consensus', 'Research', 'Post-Quantum', 'Proof-of-Stake', 'Bitcoin Core', 'Segregated Witness', 'Cryptography']",[],delving-bitcoin-1320-5-4899
+"['Routing', 'Lightning', 'Protocol', 'Balance']","['Channel', 'Liquidity']",delving-bitcoin-1640-4-4893
+"['Security', 'UX', 'Wallet']","['QR Code', 'User Experience']",delving-bitcoin-1644-2-4897
+"['Consensus', 'Taproot', 'Segwit', 'Script', 'Cryptography']",[],delving-bitcoin-1591-23-4894
+['Lightning'],"['Decentralized Networks', 'Channel', 'Control Mechanisms', 'Operational Strategies', 'Network Efficiency', 'Interoperability', 'Node Software']",delving-bitcoin-1640-3-4889
+"['Multisig', 'Privacy']","['State Management', 'User Experience', 'Output Descriptors', 'Key Reuse', 'Derivation Paths']",delving-bitcoin-1644-1-4896
+"['Consensus', 'Layer 2', 'Smart Contracts', 'Covenants']","['Stateful Computation', 'OP_CAT']",delving-bitcoin-1106-8-4892
+"['Signature', 'Script', 'Cryptography']","['Hashing', 'Documentation']",delving-bitcoin-1106-7-4890
