@@ -2813,3 +2813,7 @@ primary_topics,secondary_topics,source_id
 "['Multisig', 'Privacy']","['State Management', 'User Experience', 'Output Descriptors', 'Key Reuse', 'Derivation Paths']",delving-bitcoin-1644-1-4896
 "['Consensus', 'Layer 2', 'Smart Contracts', 'Covenants']","['Stateful Computation', 'OP_CAT']",delving-bitcoin-1106-8-4892
 "['Signature', 'Script', 'Cryptography']","['Hashing', 'Documentation']",delving-bitcoin-1106-7-4890
+"['Sidechains', 'Scalability', 'Privacy', 'Lightning', 'Routing']",[],delving-bitcoin-1640-6-4904
+"['Security', 'Backup', 'Privacy', 'Hardware Wallet', 'Storage']","['BIPs', 'Standards']",delving-bitcoin-1644-3-4903
+"['Assumeutxo', 'Security', 'Validation', 'IBD', 'Scalability', 'Research', 'UTXO']","['Optimizations', 'Blockchain synchronization', 'Hashing', 'Bitcoin node operability', 'Efficiency', 'Memory']",delving-bitcoin-1562-13-4901
+['Lightning'],"['Optimizing Liquidity Management', 'Liquidity Provision', 'Channel Management']",delving-bitcoin-1640-5-4902
