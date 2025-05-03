@@ -2823,3 +2823,8 @@ primary_topics,secondary_topics,source_id
 "['Schnorr', 'Assumeutxo', 'Security', 'IBD']","['CPU load', 'Hashing', 'Optimization']",delving-bitcoin-1562-14-4911
 "['Script', 'OP_RETURN']","['OP_FALSE OP_IF', 'Blockchain Efficiency', 'Transaction Fees', 'Bitcoin Script']",delving-bitcoin-1645-2-4907
 "['Bitcoin Core', 'Scalability', 'Segwit', 'Fees', 'OP_RETURN', 'Research', 'Mempool', 'UTXO']","['Github Comment', 'Data Storage', 'Libre Relay', 'Blockchain Efficiency', 'Compact Block Relay', 'Protocol Developers', 'Discussion', 'Bitcoin Development Group', 'Full Node', 'Mining Pools']",delving-bitcoin-1645-1-4906
+"['Development', 'Consensus', 'Blockchain', 'Wallet', 'Bitcoin Core', 'Security']",[],delving-bitcoin-1650-4-4922
+"['Script', 'UTXO', 'Covenants']",[],delving-bitcoin-1655-1-4924
+"['Bitcoin Core', 'Decentralization', 'OP_RETURN', 'UTXO', 'Protocol', 'Network']","['Developers', 'Open-source software culture']",delving-bitcoin-1650-3-4921
+"['Privacy', 'Consensus', 'OP_RETURN', 'Fees', 'UTXO', 'Research', 'Trust']","['Transparency', 'Communication', 'Community']",delving-bitcoin-1650-1-4915
+['Script'],"['Opcode', 'OP_INOUT_AMOUNT', '64-bit Arithmetic', 'Transaction', 'Amount Locks']",delving-bitcoin-549-4-4923
