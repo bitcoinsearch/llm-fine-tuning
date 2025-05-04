@@ -2828,3 +2828,7 @@ primary_topics,secondary_topics,source_id
 "['Bitcoin Core', 'Decentralization', 'OP_RETURN', 'UTXO', 'Protocol', 'Network']","['Developers', 'Open-source software culture']",delving-bitcoin-1650-3-4921
 "['Privacy', 'Consensus', 'OP_RETURN', 'Fees', 'UTXO', 'Research', 'Trust']","['Transparency', 'Communication', 'Community']",delving-bitcoin-1650-1-4915
 ['Script'],"['Opcode', 'OP_INOUT_AMOUNT', '64-bit Arithmetic', 'Transaction', 'Amount Locks']",delving-bitcoin-549-4-4923
+"['Privacy', 'Proof-of-Work', 'Security', 'Mining', 'Cryptography', 'Hashlocks', 'Consensus', 'Fees', 'Schnorr', 'Validation']",['CPU Mining'],delving-bitcoin-1562-15-4926
+"['Cryptography', 'Privacy', 'Research', 'Smart Contracts']",[],delving-bitcoin-1650-6-4931
+"['Forks', 'Accumulators', 'Security', 'IBD', 'Consensus', 'Validation', 'Hash']",[],delving-bitcoin-1562-16-4930
+"['Forks', 'Consensus', 'Cryptography', 'Trust', 'Validation', 'Segregated Witness']",[],delving-bitcoin-1650-5-4927
