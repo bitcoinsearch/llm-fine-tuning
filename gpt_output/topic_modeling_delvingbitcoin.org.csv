@@ -2832,3 +2832,6 @@ primary_topics,secondary_topics,source_id
 "['Cryptography', 'Privacy', 'Research', 'Smart Contracts']",[],delving-bitcoin-1650-6-4931
 "['Forks', 'Accumulators', 'Security', 'IBD', 'Consensus', 'Validation', 'Hash']",[],delving-bitcoin-1562-16-4930
 "['Forks', 'Consensus', 'Cryptography', 'Trust', 'Validation', 'Segregated Witness']",[],delving-bitcoin-1650-5-4927
+"['Backup', 'Security', 'Multisig', 'Hardware Wallet']","['User Experience', 'Derivation', 'Unix Time']",delving-bitcoin-1644-5-4939
+['UX'],['BIP32 HD Wallets'],delving-bitcoin-1644-4-4935
+"['Multisig', 'Smart Contracts', 'Covenants', 'Research', 'Scalability', 'Privacy', 'Layer 2']","['Hash Function', 'Stateful Computation']",delving-bitcoin-1662-1-4936
