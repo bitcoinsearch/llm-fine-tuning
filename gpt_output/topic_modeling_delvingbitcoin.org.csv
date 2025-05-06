@@ -2835,3 +2835,4 @@ primary_topics,secondary_topics,source_id
 "['Backup', 'Security', 'Multisig', 'Hardware Wallet']","['User Experience', 'Derivation', 'Unix Time']",delving-bitcoin-1644-5-4939
 ['UX'],['BIP32 HD Wallets'],delving-bitcoin-1644-4-4935
 "['Multisig', 'Smart Contracts', 'Covenants', 'Research', 'Scalability', 'Privacy', 'Layer 2']","['Hash Function', 'Stateful Computation']",delving-bitcoin-1662-1-4936
+"['Research', 'Covenants', 'Consensus', 'Bitcoin Core', 'Segregated Witness']",[],delving-bitcoin-1509-61-4944
