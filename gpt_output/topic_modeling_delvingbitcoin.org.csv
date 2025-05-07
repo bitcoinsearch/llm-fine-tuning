@@ -2836,3 +2836,8 @@ primary_topics,secondary_topics,source_id
 ['UX'],['BIP32 HD Wallets'],delving-bitcoin-1644-4-4935
 "['Multisig', 'Smart Contracts', 'Covenants', 'Research', 'Scalability', 'Privacy', 'Layer 2']","['Hash Function', 'Stateful Computation']",delving-bitcoin-1662-1-4936
 "['Research', 'Covenants', 'Consensus', 'Bitcoin Core', 'Segregated Witness']",[],delving-bitcoin-1509-61-4944
+"['Security', 'Cryptography', 'Bitcoin Core', 'Forks', 'Consensus']",['Bitcoin Wiki'],delving-bitcoin-1509-62-4945
+"['Bitcoin Core', 'Development', 'Covenants', 'Research', 'Consensus']","['Collaboration', 'Community Engagement', 'Open-source Projects']",delving-bitcoin-1509-63-4946
+"['Security', 'BIP', 'Script', 'C++', 'Taproot']",[],delving-bitcoin-1670-1-4948
+"['Security', 'Fungibility', 'BIP', 'Bitcoin Core', 'Segregated Witness', 'Research', 'Script', 'Taproot', 'Consensus', 'Privacy']","['Delegation', 'Composability']",delving-bitcoin-1669-1-4947
+"['Network', 'Path-Finding', 'Topology', 'Decentralization', 'Routing', 'Fees', 'Privacy']",[],delving-bitcoin-1672-1-4950
