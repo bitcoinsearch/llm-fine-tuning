@@ -2841,3 +2841,6 @@ primary_topics,secondary_topics,source_id
 "['Security', 'BIP', 'Script', 'C++', 'Taproot']",[],delving-bitcoin-1670-1-4948
 "['Security', 'Fungibility', 'BIP', 'Bitcoin Core', 'Segregated Witness', 'Research', 'Script', 'Taproot', 'Consensus', 'Privacy']","['Delegation', 'Composability']",delving-bitcoin-1669-1-4947
 "['Network', 'Path-Finding', 'Topology', 'Decentralization', 'Routing', 'Fees', 'Privacy']",[],delving-bitcoin-1672-1-4950
+['Covenants'],"['Opcode', 'Bitcoin Script', 'Script Execution', 'P2WSH']",delving-bitcoin-1655-2-4952
+"['Hardware Wallet', 'Security', 'Privacy', 'Ux', 'Path-Finding', 'Cryptography']",['Randomness'],delving-bitcoin-1644-6-4955
+"['Script', 'Output', 'BIP', 'Python', 'Soft Fork']","['Covenant Proposals', 'Transaction', 'Blockchain Technologies', 'Opcode', 'Bitvectors', 'Amount Locks', 'Opcodes', 'OP_CHECKCONTRACTVERIFY', 'Input']",delving-bitcoin-549-5-4956
