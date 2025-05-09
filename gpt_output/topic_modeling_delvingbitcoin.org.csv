@@ -2844,3 +2844,9 @@ primary_topics,secondary_topics,source_id
 ['Covenants'],"['Opcode', 'Bitcoin Script', 'Script Execution', 'P2WSH']",delving-bitcoin-1655-2-4952
 "['Hardware Wallet', 'Security', 'Privacy', 'Ux', 'Path-Finding', 'Cryptography']",['Randomness'],delving-bitcoin-1644-6-4955
 "['Script', 'Output', 'BIP', 'Python', 'Soft Fork']","['Covenant Proposals', 'Transaction', 'Blockchain Technologies', 'Opcode', 'Bitvectors', 'Amount Locks', 'Opcodes', 'OP_CHECKCONTRACTVERIFY', 'Input']",delving-bitcoin-549-5-4956
+"['Bitcoin Core', 'Covenants', 'Consensus']","['Bitcoin Development', 'Scripting']",delving-bitcoin-1655-3-4958
+"['Mempool', 'Covenants', 'Core-Lightning', 'Testing', 'Regtest']",[],delving-bitcoin-1509-64-4961
+"['Script', 'Testing', 'Transactions', 'UTXO', 'Consensus', 'Security']",[],delving-bitcoin-549-8-4965
+"['Segwit', 'Merkle Trees', 'Covenants', 'Script', 'Privacy', 'Hashlocks', 'Consensus', 'Security', 'Validation', 'Forks']",[],delving-bitcoin-1655-5-4960
+"['Covenants', 'Script', 'Research', 'UTXO', 'Consensus', 'BIP']",[],delving-bitcoin-549-7-4964
+"['UTXO', 'Covenants']","['OP_OUT_AMOUNT', 'OP_IN_AMOUNT']",delving-bitcoin-549-6-4962
