@@ -2850,3 +2850,5 @@ primary_topics,secondary_topics,source_id
 "['Segwit', 'Merkle Trees', 'Covenants', 'Script', 'Privacy', 'Hashlocks', 'Consensus', 'Security', 'Validation', 'Forks']",[],delving-bitcoin-1655-5-4960
 "['Covenants', 'Script', 'Research', 'UTXO', 'Consensus', 'BIP']",[],delving-bitcoin-549-7-4964
 "['UTXO', 'Covenants']","['OP_OUT_AMOUNT', 'OP_IN_AMOUNT']",delving-bitcoin-549-6-4962
+['Covenants'],"['Statechannels', 'Proof-of-Concept']",delving-bitcoin-1655-6-4966
+"['Routing', 'Cryptography', 'Privacy', 'Consensus', 'Path-Finding']",[],delving-bitcoin-1672-2-4969
