@@ -2852,3 +2852,7 @@ primary_topics,secondary_topics,source_id
 "['UTXO', 'Covenants']","['OP_OUT_AMOUNT', 'OP_IN_AMOUNT']",delving-bitcoin-549-6-4962
 ['Covenants'],"['Statechannels', 'Proof-of-Concept']",delving-bitcoin-1655-6-4966
 "['Routing', 'Cryptography', 'Privacy', 'Consensus', 'Path-Finding']",[],delving-bitcoin-1672-2-4969
+"['Fees', 'Mining', 'Research']","['Problem-solving', 'Adaptability', 'Exploration', 'Optimization', 'Dynamic', 'Algorithm', 'Exploitation', 'Iterations', 'Efficiency']",delving-bitcoin-303-75-4974
+"['Transactions', 'Development']",[],delving-bitcoin-303-77-4977
+"['Consensus', 'Testing', 'Cryptography', 'Validation', 'Forks', 'Limitations', 'Topology', 'Research']",[],delving-bitcoin-1419-6-4978
+"['Forks', 'Research']","['Optimization', 'Algorithm', 'Efficiency']",delving-bitcoin-303-76-4975
