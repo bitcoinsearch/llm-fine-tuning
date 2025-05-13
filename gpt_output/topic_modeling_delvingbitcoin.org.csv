@@ -2856,3 +2856,11 @@ primary_topics,secondary_topics,source_id
 "['Transactions', 'Development']",[],delving-bitcoin-303-77-4977
 "['Consensus', 'Testing', 'Cryptography', 'Validation', 'Forks', 'Limitations', 'Topology', 'Research']",[],delving-bitcoin-1419-6-4978
 "['Forks', 'Research']","['Optimization', 'Algorithm', 'Efficiency']",delving-bitcoin-303-76-4975
+"['Consensus', 'Bitcoin Core', 'Testing', 'Research']",[],delving-bitcoin-1419-7-4995
+"['mempool', 'fees', 'IBD', 'Bitcoin Core', 'OP_RETURN', 'blockchain', 'decentralization', 'relay']","['cultural implications', 'mempool saturation', 'data embedding', 'spam transactions', 'full nodes', 'Pull Request', 'Bitcoin Core principles']",delving-bitcoin-1689-1-4992
+"['OP_RETURN', 'Privacy', 'Blockchain', 'Transactions']","['Coinjoin', 'Bitcoin network']",delving-bitcoin-1645-4-4994
+"['Mempool', 'Blockchain', 'Transactions', 'Consensus']",[],delving-bitcoin-393-23-4985
+"['UTXO', 'Assumeutxo', 'Mempool', 'Blockchain', 'Transactions']",['Double Spend'],delving-bitcoin-393-24-4986
+"['Fees', 'Routing', 'Security', 'Consensus', 'Lightning']",[],delving-bitcoin-1524-9-4993
+"['SHA256', 'Mempool', 'Locktime', 'Blockchain', 'Hash', 'Testnet']","['Plaintext', 'Cryptographic Signatures', 'Transaction']",delving-bitcoin-1441-2-4981
+"['Testing', 'Research', 'Limitations']",[],delving-bitcoin-303-78-4984
