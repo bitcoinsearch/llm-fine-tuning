@@ -2864,3 +2864,5 @@ primary_topics,secondary_topics,source_id
 "['Fees', 'Routing', 'Security', 'Consensus', 'Lightning']",[],delving-bitcoin-1524-9-4993
 "['SHA256', 'Mempool', 'Locktime', 'Blockchain', 'Hash', 'Testnet']","['Plaintext', 'Cryptographic Signatures', 'Transaction']",delving-bitcoin-1441-2-4981
 "['Testing', 'Research', 'Limitations']",[],delving-bitcoin-303-78-4984
+['Bitcoin Core'],"['Open Source', 'CLI', 'Documentation', 'Tracing', 'GitHub', 'Rust', 'eBPF']",delving-bitcoin-1694-1-5000
+"['Privacy', 'P2P']","['Bitcoin', 'Decentralized Networks', 'Layer 1', 'Spam']",delving-bitcoin-1692-1-4998
