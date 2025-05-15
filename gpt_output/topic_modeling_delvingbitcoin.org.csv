@@ -2866,3 +2866,10 @@ primary_topics,secondary_topics,source_id
 "['Testing', 'Research', 'Limitations']",[],delving-bitcoin-303-78-4984
 ['Bitcoin Core'],"['Open Source', 'CLI', 'Documentation', 'Tracing', 'GitHub', 'Rust', 'eBPF']",delving-bitcoin-1694-1-5000
 "['Privacy', 'P2P']","['Bitcoin', 'Decentralized Networks', 'Layer 1', 'Spam']",delving-bitcoin-1692-1-4998
+"['UTXO', 'Bitcoin Core', 'OP_RETURN']","['Bitcoin Ecosystem', 'Network Efficiency', 'Technical Merits', 'Digital Currencies', 'Peer-to-Peer Relay Networks', 'Data Storage', 'Blockchain Technology', 'Innovation', 'Community Communication', 'Governance', 'Blockchain Space']",delving-bitcoin-1697-1-5007
+"['Privacy', 'Security', 'Blockchain', 'Altcoin']","['Bitcoin', 'Spam']",delving-bitcoin-1692-2-5013
+"['Fees', 'Privacy', 'Scalability', 'Security', 'Decentralization', 'Smart Contracts', 'Blockchain', 'Consensus', 'Fairness', 'Incentives', 'Mining']",[],delving-bitcoin-1670-3-5009
+"['Privacy', 'Fees', 'Scalability', 'Network', 'Layer 2', 'Payment', 'Routing']",['Channel'],delving-bitcoin-1672-4-5008
+"['Security', 'BIP']",['Opcode'],delving-bitcoin-1670-2-5004
+"['Fees', 'Lightning', 'Limitations', 'Routing']","['Dynamic Routing Policies', 'Efficiency', 'Liquidity', 'Reliability', 'Channel Graph', 'Network Growth']",delving-bitcoin-1672-3-5003
+"['Security', 'BIP', 'Encryption', 'Multisig', 'Backup', 'xpub']","[""Shamir's Secret Sharing""]",delving-bitcoin-1607-10-5005
