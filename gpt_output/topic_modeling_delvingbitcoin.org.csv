@@ -2873,3 +2873,7 @@ primary_topics,secondary_topics,source_id
 "['Security', 'BIP']",['Opcode'],delving-bitcoin-1670-2-5004
 "['Fees', 'Lightning', 'Limitations', 'Routing']","['Dynamic Routing Policies', 'Efficiency', 'Liquidity', 'Reliability', 'Channel Graph', 'Network Growth']",delving-bitcoin-1672-3-5003
 "['Security', 'BIP', 'Encryption', 'Multisig', 'Backup', 'xpub']","[""Shamir's Secret Sharing""]",delving-bitcoin-1607-10-5005
+"['Layer 2', 'Mining', 'Consensus', 'Lightning', 'Fees', 'Bitcoin Core', 'Segwit']",[],delving-bitcoin-1692-3-5014
+"['Script', 'Taproot', 'BIP']",[],delving-bitcoin-1670-4-5016
+"['Testing', 'Research']","['GitHub', 'Tooling', 'Challenges', 'Performance', 'Software Development Tools', 'Collaboration', 'Efficiency']",delving-bitcoin-1694-2-5017
+"['Research', 'Mempool', 'Libbitcoin Kernel']",[],delving-bitcoin-1694-3-5018
