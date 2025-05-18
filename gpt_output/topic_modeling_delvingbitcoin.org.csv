@@ -2877,3 +2877,8 @@ primary_topics,secondary_topics,source_id
 "['Script', 'Taproot', 'BIP']",[],delving-bitcoin-1670-4-5016
 "['Testing', 'Research']","['GitHub', 'Tooling', 'Challenges', 'Performance', 'Software Development Tools', 'Collaboration', 'Efficiency']",delving-bitcoin-1694-2-5017
 "['Research', 'Mempool', 'Libbitcoin Kernel']",[],delving-bitcoin-1694-3-5018
+"['Covenants', 'Consensus', 'Scalability', 'Privacy', 'Fungibility', 'Soft Fork', 'Security']",[],delving-bitcoin-1703-1-5025
+"['Research', 'Consensus', 'Validation', 'Forks']",[],delving-bitcoin-1419-8-5022
+"['Covenants', 'Consensus', 'Limitations', 'Security']",[],delving-bitcoin-556-16-5026
+"['Testing', 'Development', 'Research', 'Cryptography', 'Smart Contracts']",[],delving-bitcoin-1645-5-5023
+"['Covenants', 'Ethereum', 'Blockchain', 'Privacy', 'Bitcoin Core', 'Security', 'Smart Contracts']",[],delving-bitcoin-556-15-5024
