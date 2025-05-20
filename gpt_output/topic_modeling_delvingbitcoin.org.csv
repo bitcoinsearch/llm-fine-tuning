@@ -2883,3 +2883,7 @@ primary_topics,secondary_topics,source_id
 "['Testing', 'Development', 'Research', 'Cryptography', 'Smart Contracts']",[],delving-bitcoin-1645-5-5023
 "['Covenants', 'Ethereum', 'Blockchain', 'Privacy', 'Bitcoin Core', 'Security', 'Smart Contracts']",[],delving-bitcoin-556-15-5024
 "['Development', 'Research', 'Bitcoin Core']","['Efficiency', 'Optimization', 'User Experience']",delving-bitcoin-303-79-5028
+['Script'],"['Bitcoin Script', '64-bit arithmetics']",delving-bitcoin-313-3-5031
+"['Decentralization', 'Privacy', 'Consensus', 'Cryptography', 'Blockchain', 'Regulation', 'Smart Contracts']","['Supply Chain Management', 'Decentralized Finance (DeFi)', 'Digital Identity Verification']",delving-bitcoin-1645-6-5029
+"['P2pool', 'Privacy', 'Consensus', 'Fees', 'UTXO', 'Soft Fork', 'Mining', 'Assumeutxo', 'Segwit']",['Spam'],delving-bitcoin-1707-1-5034
+"['Privacy', 'Backup', 'Cryptography', 'UX', 'Wallet', 'Security', 'Multisig']",['Recovery'],delving-bitcoin-1644-7-5030
