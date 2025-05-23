@@ -2926,3 +2926,10 @@ primary_topics,secondary_topics,source_id
 [],"['Minisketch', 'Fiber', 'Bandwidth', 'Network Protocols', 'UDP']",delving-bitcoin-1052-30-5071
 "['Privacy', 'Security', 'Lightning', 'Bitcoin Core', 'Script', 'Cryptography', 'Mining', 'OP_RETURN', 'Consensus', 'Fees', 'Mempool']",['Devops'],delving-bitcoin-1465-10-5075
 "['Fuzzing', 'Validation', 'Consensus']",[],delving-bitcoin-1716-5-5082
+"['Security', 'Testing', 'Validation']",[],delving-bitcoin-1716-6-5085
+"['Timelocks', 'Hashlocks', 'Proof-of-Stake', 'Forks', 'Mining', 'Libbitcoin Kernel', 'Miners', 'Decentralization', 'Fuzzing', 'Segregated Witness', 'Consensus', 'P2P', 'Bech32', 'Proof-of-Work', 'Privacy', 'Security', 'Topology', 'Zero-Knowledge', 'UTXO', 'BIP174-PSBT', 'P2pool', 'Validation', 'Assumeutxo', 'Silent Payments', 'Cryptography', 'Mempool', 'Merkle Trees', 'Research']",['Mining Technical Details'],delving-bitcoin-1707-27-5088
+"['Timelocks', 'Hashlocks', 'Wallet', 'Forks', 'Mining', 'Bitcoin Core', 'Miners', 'Fuzzing', 'Segregated Witness', 'Accumulators', 'Consensus', 'P2P', 'Lightning', 'Proof-of-Work', 'Layer 2', 'Privacy', 'Security', 'Topology', 'UTXO', 'Scalability', 'Validation', 'Multisig', 'Transactions', 'Threshold Signatures', 'Assumeutxo', 'Silent Payments', 'Blockchain', 'Fees', 'Cryptography', 'Mempool', 'Research']",[],delving-bitcoin-1707-26-5083
+['Layer 2'],['Internet'],delving-bitcoin-1692-4-5089
+"['Consensus', 'Mining', 'Fees', 'Bitcoin Core', 'Validation', 'Research']",[],delving-bitcoin-1052-31-5086
+"['Research', 'Fees', 'Lightning']",[],delving-bitcoin-1524-10-5092
+"['Consensus', 'Mining', 'Segwit', 'IBD', 'Fees', 'Lightning', 'Scalability', 'Validation', 'Layer 2']",[],delving-bitcoin-1692-5-5090
