@@ -2933,3 +2933,15 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Mining', 'Fees', 'Bitcoin Core', 'Validation', 'Research']",[],delving-bitcoin-1052-31-5086
 "['Research', 'Fees', 'Lightning']",[],delving-bitcoin-1524-10-5092
 "['Consensus', 'Mining', 'Segwit', 'IBD', 'Fees', 'Lightning', 'Scalability', 'Validation', 'Layer 2']",[],delving-bitcoin-1692-5-5090
+"['Fees', 'Bitcoin Core', 'Segregated Witness', 'Consensus']",[],delving-bitcoin-1419-9-5108
+"['Fees', 'Storage', 'Privacy', 'IBD', 'Wallet', 'Miners', 'P2pool', 'Mining', 'Security', 'Assumeutxo', 'Validation', 'Layer 2', 'Pools', 'Consensus']",[],delving-bitcoin-1707-29-5094
+"['Covenants', 'Soft Fork']",[],delving-bitcoin-1703-4-5101
+"['Scalability', 'Research', 'Accumulators', 'Security', 'Fuzzing', 'Proof-of-Work', 'Libbitcoin Kernel', 'Mempool', 'Zero-Knowledge', 'Miners', 'Fees', 'P2P', 'Privacy', 'Cryptography', 'Merkle Trees', 'UTXO', 'Mining', 'Consensus', 'Segregated Witness', 'Assumeutxo', 'Validation', 'Lightning', 'Hashlocks']",[],delving-bitcoin-1707-32-5104
+"['Soft Fork', 'Scalability', 'Security', 'Lightning', 'Covenants']","['Payment Channels', 'Bitcoin Community', 'Bitcoin Development', 'Bitcoin Improvement Proposal (BIP)', 'Bitcoin Magazine']",delving-bitcoin-1703-5-5102
+"['Fees', 'Privacy', 'Forks', 'Miners', 'Ux', 'Mining', 'Assumeutxo', 'Validation', 'Consensus']",[],delving-bitcoin-1707-31-5096
+"['Multisig', 'Soft Fork', 'Lightning', 'Covenants', 'Consensus']",['Vaults'],delving-bitcoin-1703-3-5100
+"['Research', 'Multisig', 'Covenants', 'Soft Fork']",[],delving-bitcoin-1703-6-5106
+"['Scalability', 'Wallet', 'Research', 'Accumulators', 'Security', 'Fuzzing', 'Proof-of-Work', 'Proof-of-Stake', 'Mempool', 'Timelocks', 'Miners', 'Segwit', 'Layer 2', 'Fees', 'P2P', 'Privacy', 'Cryptography', 'UTXO', 'Mining', 'Multisig', 'Consensus', 'Silent Payments', 'Segregated Witness', 'Assumeutxo', 'Validation', 'Lightning', 'Threshold Signatures', 'Pools', 'Hashlocks']",[],delving-bitcoin-1707-28-5093
+"['Fees', 'Privacy', 'Cryptography', 'Ux', 'Research', 'Mining', 'Assumeutxo', 'Validation', 'Consensus']",[],delving-bitcoin-1707-30-5095
+"['Privacy', 'Routing', 'Incentives', 'Security', 'Lightning', 'Attacks', 'Consensus']",[],delving-bitcoin-1723-1-5107
+"['Privacy', 'Routing', 'Network', 'Incentives', 'Lightning']",['Protocol Changes'],delving-bitcoin-1723-2-5109
