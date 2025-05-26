@@ -2950,3 +2950,5 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Mining', 'Segregated Witness', 'Bitcoin Core', 'Op-Return', 'Fees']","['Spam Transactions', 'Communication Strategy']",delving-bitcoin-1650-9-5111
 "['Encryption', 'Wallet', 'Privacy', 'Cryptography', 'Security']",[],delving-bitcoin-1607-13-5113
 "['Nodes', 'UTXO', 'Accumulators']","['Full Nodes', 'Header Chain', 'Blockchain Infrastructure', 'Blockchain Synchronization', 'Full Validation', 'UTXO Set Size', 'Blockchain Optimization', 'Node Designs', 'Libbitcoin', 'Hardware Requirements', 'Initial Block Download', 'Utreexo Servers']",delving-bitcoin-1707-34-5112
+"['Multi-signature', 'Security', 'Wallet', 'Privacy']",['Recovery'],delving-bitcoin-1607-15-5118
+"['Threshold Signatures', 'Multisig', 'Security', 'Miniscript', 'Wallet']",['Usability'],delving-bitcoin-1607-14-5117
