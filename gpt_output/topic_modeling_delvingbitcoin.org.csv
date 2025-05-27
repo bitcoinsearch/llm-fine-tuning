@@ -2952,3 +2952,9 @@ primary_topics,secondary_topics,source_id
 "['Nodes', 'UTXO', 'Accumulators']","['Full Nodes', 'Header Chain', 'Blockchain Infrastructure', 'Blockchain Synchronization', 'Full Validation', 'UTXO Set Size', 'Blockchain Optimization', 'Node Designs', 'Libbitcoin', 'Hardware Requirements', 'Initial Block Download', 'Utreexo Servers']",delving-bitcoin-1707-34-5112
 "['Multi-signature', 'Security', 'Wallet', 'Privacy']",['Recovery'],delving-bitcoin-1607-15-5118
 "['Threshold Signatures', 'Multisig', 'Security', 'Miniscript', 'Wallet']",['Usability'],delving-bitcoin-1607-14-5117
+"['Security', 'UTXO', 'Covenants']","['Certificate Authorities', 'TLS']",delving-bitcoin-556-18-5120
+"['Bitcoin Core', 'Fees', 'Consensus', 'Mempool', 'Mining']",[],delving-bitcoin-1697-4-5123
+"['Privacy', 'Network', 'Nodes', 'Lightning']","['Bandwidth', 'Efficiency', 'Performance', 'Simulation']",delving-bitcoin-1723-3-5122
+"['Bitcoin Core', 'Security', 'Forks', 'Consensus', 'Mining', 'P2P', 'Segregated Witness']",['Mining Pools'],delving-bitcoin-1697-3-5119
+"['Pools', 'Bitcoin Core', 'Security', 'Fees', 'Attacks', 'Research', 'Consensus', 'Mining']",[],delving-bitcoin-1697-5-5127
+"['Privacy', 'Lightning', 'Protocol']","['Hashed Timelock Contracts', 'Batching', 'Endpoint Receivers', 'Forwarding', 'Message Exchange', 'Efficiency', 'Multipath Payments', 'Latency']",delving-bitcoin-1723-4-5124
