@@ -2958,3 +2958,10 @@ primary_topics,secondary_topics,source_id
 "['Bitcoin Core', 'Security', 'Forks', 'Consensus', 'Mining', 'P2P', 'Segregated Witness']",['Mining Pools'],delving-bitcoin-1697-3-5119
 "['Pools', 'Bitcoin Core', 'Security', 'Fees', 'Attacks', 'Research', 'Consensus', 'Mining']",[],delving-bitcoin-1697-5-5127
 "['Privacy', 'Lightning', 'Protocol']","['Hashed Timelock Contracts', 'Batching', 'Endpoint Receivers', 'Forwarding', 'Message Exchange', 'Efficiency', 'Multipath Payments', 'Latency']",delving-bitcoin-1723-4-5124
+"['Privacy', 'Lightning', 'Consensus']",[],delving-bitcoin-1723-8-5134
+"['Fees', 'UTXO']","['Sybil', 'Coinjoin', 'Market Makers', 'Centralized Coordinator', 'Fidelity Bonds']",delving-bitcoin-1728-1-5140
+"['Lightning', 'Privacy', 'Network', 'Security', 'Routing']",['Anonymity'],delving-bitcoin-1723-7-5131
+"['Mempool', 'Research', 'Cryptography', 'Fees', 'Lightning', 'Consensus', 'Privacy', 'Security', 'Layer 2', 'Routing']",['Lightning Network Daemon'],delving-bitcoin-1723-9-5139
+"['Lightning', 'Privacy', 'Network', 'Security', 'Routing']","['BOLT12', 'BOLT11']",delving-bitcoin-1723-5-5128
+"['Development', 'Testing', 'Covenants', 'Blockchain', 'Regtest']",[],delving-bitcoin-1509-65-5135
+"['Lightning', 'Path-Finding', 'Privacy', 'Network', 'Security', 'Routing']","['Traffic Obfuscation', 'Adversaries']",delving-bitcoin-1723-6-5130
