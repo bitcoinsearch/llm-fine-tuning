@@ -2965,3 +2965,7 @@ primary_topics,secondary_topics,source_id
 "['Lightning', 'Privacy', 'Network', 'Security', 'Routing']","['BOLT12', 'BOLT11']",delving-bitcoin-1723-5-5128
 "['Development', 'Testing', 'Covenants', 'Blockchain', 'Regtest']",[],delving-bitcoin-1509-65-5135
 "['Lightning', 'Path-Finding', 'Privacy', 'Network', 'Security', 'Routing']","['Traffic Obfuscation', 'Adversaries']",delving-bitcoin-1723-6-5130
+[],['Sybil Resistance'],delving-bitcoin-1728-2-5144
+"['Mempool', 'Testing']",[],delving-bitcoin-1509-66-5143
+"['Consensus', 'Mining', 'Blocksize', 'Miners', 'Decentralization', 'Segwit', 'Fees', 'Bitcoin Core']","['Quadratic hashing', 'MEV']",delving-bitcoin-1732-1-5147
+['Cryptography'],"['Bitcoin', 'Quantum Computing']",delving-bitcoin-1730-1-5145
