@@ -2969,3 +2969,145 @@ primary_topics,secondary_topics,source_id
 "['Mempool', 'Testing']",[],delving-bitcoin-1509-66-5143
 "['Consensus', 'Mining', 'Blocksize', 'Miners', 'Decentralization', 'Segwit', 'Fees', 'Bitcoin Core']","['Quadratic hashing', 'MEV']",delving-bitcoin-1732-1-5147
 ['Cryptography'],"['Bitcoin', 'Quantum Computing']",delving-bitcoin-1730-1-5145
+['Privacy'],[],delving-bitcoin-934-23-5215
+"['Privacy', 'Path-Finding', 'Lightning', 'Research', 'Routing Failures']",['Latency'],delving-bitcoin-1723-32-5231
+"['Encryption', 'Privacy', 'Miniscript']","['Descriptor', 'ChaCha20', 'Variable-Length Encoding', 'Wallet Integration', 'Rust', 'Shamir Secret Sharing', 'Public Blockchain', 'Web Assembly']",delving-bitcoin-1750-1-5205
+"['Proof-of-Work', 'Consensus', 'Mining']",['Hashrate'],delving-bitcoin-1745-14-5381
+['Segregated Witness'],[],delving-bitcoin-1781-2-5341
+"['Privacy', 'Lightning', 'Routing']","['Forwarding Delays', 'Batching', 'Latency', 'Message Padding', 'Database Operations', 'Node Performance', 'HTLCs', 'Cover Traffic']",delving-bitcoin-1723-37-5238
+"['Lightning', 'Assumeutxo']",[],delving-bitcoin-1524-13-5379
+"['Privacy', 'Script', 'Academia', 'Eltoo', 'Musig', 'Regulation', 'C-Lightning', 'Stratum-V2', 'Asmap', 'Eclair', 'Mempool', 'Bitcoin Core', 'Signet', 'Forks', 'Submarine Swaps', 'Segwit', 'P2P', 'Routing', 'PSBT', 'Multisig', 'RGB', 'Hardware Wallet', 'Fuzzing', 'Attacks', 'Smart Contracts', 'Sidechains', 'Fungibility', 'Silent Payments', 'Multiple-Path Payments', 'Soft Fork', 'Testing', 'Taproot', 'Schnorr', 'Splicing', 'Sphinx', 'Onion', 'Assumeutxo', 'Accumulators', 'Miniscript', 'Threshold Signatures', 'Ux', 'Consensus', 'Cryptography', 'Covenants', 'Package Relay', 'Mining', 'Update Layer', 'Pools', 'Path-Finding', 'Libsecp256k1', 'Libbitcoin Kernel', 'Lnd', 'P2pool', 'FROST', 'Security', 'Lightning', 'Hard Fork', 'Fees', 'Altcoin', 'IBD', 'Wallet', 'Limitations', 'Layer 2', 'Scalability', 'Research', 'Routing Failures']",['Zero'],delving-bitcoin-1753-8-5260
+['Privacy'],[],delving-bitcoin-934-24-5337
+"['Validation', 'Consensus', 'Research']",[],delving-bitcoin-1745-12-5377
+"['Privacy', 'Lightning', 'Fees', 'Routing']","['Thresholds', 'Latency']",delving-bitcoin-1723-29-5225
+"['Pools', 'Stratum-V2', 'Consensus', 'Mining']",['CoinbaseOutputConstraints'],delving-bitcoin-1753-14-5294
+"['Miners', 'ASIC', 'Antminer']","['Firmware', 'Coinbase']",delving-bitcoin-1753-4-5246
+"['Proof-of-Work', 'Consensus', 'Research', 'Mining']","['Selfish Mining', 'Markov Chain', 'Simulation']",delving-bitcoin-1757-1-5233
+"['Privacy', 'Fees', 'Cryptography', 'Bitcoin Core', 'Research']",[],delving-bitcoin-1773-1-5301
+"['Backup', 'Wallet', 'Seed']","['Recovery', 'Account']",delving-bitcoin-1607-20-5186
+"['Privacy', 'Lightning', 'UX']",['Latency'],delving-bitcoin-1723-27-5223
+['Backup'],"['Ciphertext', 'XOR', 'Xpubs', 'Shared Secret']",delving-bitcoin-1607-21-5326
+"['Nodes', 'P2P']",['Sybil Nodes'],delving-bitcoin-1786-3-5335
+['timestamp'],"['descriptors', 'hardened derivation', 'BIP32', 'xpubs']",delving-bitcoin-1607-18-5183
+"['Privacy', 'Path-Finding', 'Onion', 'Security', 'Lightning', 'Topology', 'Cryptography', 'Consensus', 'Layer 2', 'Routing', 'Network']","['Overlay', 'Interoperability', 'Deployment']",delving-bitcoin-1799-1-5361
+"['Pools', 'Scalability', 'Consensus', 'Mining']",[],delving-bitcoin-1753-6-5253
+"['Covenants', 'Taproot', 'Segwit', 'Bech32']",[],delving-bitcoin-1509-73-5248
+"['Privacy', 'Script', 'Academia', 'Eltoo', 'Musig', 'Regulation', 'C-Lightning', 'Stratum-V2', 'Asmap', 'Eclair', 'Mempool', 'Bitcoin Core', 'Signet', 'Forks', 'Submarine Swaps', 'Segwit', 'P2P', 'Routing', 'PSBT', 'Multisig', 'Custody', 'RGB', 'Hardware Wallet', 'Fuzzing', 'Attacks', 'Smart Contracts', 'Sidechains', 'Fungibility', 'Silent Payments', 'Multiple-Path Payments', 'Soft Fork', 'Testing', 'Taproot', 'Schnorr', 'Splicing', 'Sphinx', 'Onion', 'Assumeutxo', 'Accumulators', 'Miniscript', 'Threshold Signatures', 'Ux', 'Zero-Knowledge', 'Topology', 'Consensus', 'Cryptography', 'Covenants', 'Package Relay', 'Mining', 'Update Layer', 'Pools', 'Path-Finding', 'Libsecp256k1', 'Libbitcoin Kernel', 'Lnd', 'P2pool', 'FROST', 'Security', 'Lightning', 'Hard Fork', 'Fees', 'Altcoin', 'IBD', 'Wallet', 'Limitations', 'Layer 2', 'Scalability', 'Research', 'Routing Failures']",[],delving-bitcoin-1766-1-5267
+"['Privacy', 'Path-Finding', 'Lightning', 'Fees', 'Research']","['Latency', 'Flexibility']",delving-bitcoin-1723-24-5218
+"['Privacy', 'Security', 'Lightning', 'Cryptography', 'Routing']",[],delving-bitcoin-1723-39-5240
+"['Privacy', 'Path-Finding', 'Lightning', 'Topology', 'Routing Failures']","['Performance', 'Latency', 'Network Configuration']",delving-bitcoin-1723-26-5222
+"['MuSig', 'Blockchain', 'Bitcoin Core', 'Wallet', 'Locktime']","['CTV', 'Descriptors']",delving-bitcoin-1766-5-5285
+"['ASIC', 'Covenants', 'Mining']","['Non-custodial', 'Transaction fees', 'Payouts']",delving-bitcoin-1753-9-5262
+"['Security', 'Cryptography', 'Bitcoin Core']",[],delving-bitcoin-113-7-5299
+"['Security', 'Privacy', 'Lightning']",[],delving-bitcoin-1723-41-5254
+"['Utxo', 'Consensus', 'Cryptography', 'Timelocks']",['Descriptors'],delving-bitcoin-1766-7-5287
+[],[],delving-bitcoin-1723-22-5201
+[],['Vaults'],delving-bitcoin-113-8-5300
+"['Lightning', 'Privacy', 'Path-Finding', 'Routing Failures']",[],delving-bitcoin-1723-19-5195
+"['Script', 'UTXO', 'Consensus', 'Covenants']","['Legacy Script', 'Stack Sentinel', 'OP_NOP']",delving-bitcoin-1509-69-5234
+"['Pools', 'Custody', 'Musig', 'Fee Management', 'Transactions', 'ASIC', 'Consensus', 'Mempool', 'Mining']","['Firmware', 'CTV', 'Commitment', 'Coinjoin', 'Off-chain', 'Coinbase Outputs', 'Signers', 'Coinbase', 'Bitcoin Scripts']",delving-bitcoin-1753-1-5214
+['Cryptography'],[],delving-bitcoin-1745-7-5364
+"['Validation', 'Proof-of-Work', 'Fees', 'Consensus', 'Cryptography', 'Research', 'Mining']",[],delving-bitcoin-1745-4-5358
+"['BIP', 'Consensus', 'Covenants', 'Taproot', 'Segregated Witness']",[],delving-bitcoin-1509-78-5315
+"['Privacy', 'Routing', 'Lightning', 'Incentives']",['Open-source software'],delving-bitcoin-1723-31-5228
+"['Script', 'Soft Fork']","['Assertion', 'Opcode']",delving-bitcoin-1527-13-5292
+"['Lightning', 'Limitations', 'Routing']",[],delving-bitcoin-1672-5-5212
+"['Covenants', 'Research', 'Threshold Signatures', 'Consensus']",[],delving-bitcoin-1509-81-5333
+"['Wallet', 'Backup']","['Derivation Paths', 'Key']",delving-bitcoin-1607-19-5185
+"['Privacy', 'Lightning', 'Soft Fork', 'Covenants', 'Taproot']",['PTLC'],delving-bitcoin-1509-80-5332
+"['Privacy', 'Lightning', 'Network']","['Developers', 'Decentralized Network', 'Latency', 'Philosophical', 'Low Fees', 'Credit Card Payments', 'Electronic Payments', 'Open Access', 'Censorship Resistance']",delving-bitcoin-1723-25-5221
+"['Timestamping', 'Fuzzing', 'P2P', 'Research', 'Package Relay']",[],delving-bitcoin-1786-5-5342
+['Research'],[],delving-bitcoin-1409-12-5317
+"['Research', 'Mining']",[],delving-bitcoin-1745-6-5362
+"['Timestamping', 'Difficulty', 'Hashlocks', 'Fees', 'Mining']",[],delving-bitcoin-1745-5-5359
+['Onion'],"['TCP', 'Quality of Service', 'Latency', 'Queue Management']",delving-bitcoin-1799-3-5374
+"['Privacy', 'Script', 'Merkle Trees', 'Atomic Swaps', 'Musig', 'Regulation', 'C-Lightning', 'Ethereum', 'wallet', 'Mempool', 'Forks', 'P2P', 'Timelocks', 'Routing', 'transactions', 'Multisig', 'Timestamping', 'security', 'Fee Management', 'Attacks', 'Fuzzing', 'Hardware Wallet', 'Smart Contracts', 'Sidechains', 'Hashlocks', 'Silent Payments', 'Soft Fork', 'Testing', 'Taproot', 'Segregated Witness', 'Sphinx', 'Proof-of-Work', 'Onion', 'Assumeutxo', 'Accumulators', 'P2sh', 'Threshold Signatures', 'Ux', 'Zero-Knowledge', 'Topology', 'Consensus', 'Cryptography', 'Bech32', 'Proof-of-Stake', 'blockchain', 'Mining', 'Update Layer', 'Incentives', 'Validation', 'Build Systems', 'Security', 'Miners', 'Lightning', 'Hard Fork', 'Fees', 'Wallet', 'Limitations', 'Layer 2', 'Scalability', 'Research', 'Routing Failures']",[],delving-bitcoin-1753-13-5276
+"['Privacy', 'Lightning', 'Routing']","['Adaptive Batching', 'Latency']",delving-bitcoin-1723-38-5239
+"['Proof-of-Work', 'Consensus', 'Mining']",[],delving-bitcoin-1745-8-5370
+"['Script', 'Segwit', 'Transactions', 'Security', 'Lightning', 'Layer 2', 'Fees', 'Consensus', 'Cryptography', 'Taproot', 'Segregated Witness']","['TXSIGHASH', 'CPFP', 'TXHASH', 'Stacking', 'Tx Sponsors']",delving-bitcoin-1760-1-5256
+"['Proof-of-Work', 'Difficulty', 'Mining']",[],delving-bitcoin-1745-11-5376
+"['Lightning', 'Privacy']",[],delving-bitcoin-1723-23-5202
+"['Assumeutxo', 'Mining']",[],delving-bitcoin-1745-13-5378
+"['Topology', 'P2P']",[],delving-bitcoin-1786-8-5351
+"['Pools', 'Miners', 'Mining']","['CTV', 'Noncustodial']",delving-bitcoin-1753-15-5295
+"['Covenants', 'Threshold Signatures', 'Consensus']",[],delving-bitcoin-1509-77-5269
+"['Privacy', 'Path-Finding', 'Lightning', 'Network']","['Delay', 'Timing']",delving-bitcoin-1723-20-5197
+"['Lightning', 'Privacy']",['Latency'],delving-bitcoin-1723-30-5227
+"['Onion', 'UTXO', 'P2P']","['TCP', 'Queue Management']",delving-bitcoin-1799-4-5380
+"['UTXO', 'Security', 'Backup', 'Fees', 'Wallet']","['Transaction', 'Descriptor', 'Policy', 'Software']",delving-bitcoin-1766-9-5325
+"['Research', 'Mining']",['Quantum Computing'],delving-bitcoin-1730-6-5194
+"['Soft Fork', 'Scalability']","['Mining Payouts', 'Bitcoin Change', 'Non-Interactive', 'Firmware', 'CTV', 'Scaling', 'Congestion Control', 'Block Space', 'Payouts', 'Ark']",delving-bitcoin-1753-3-5243
+"['Lightning', 'Privacy', 'Routing']",[],delving-bitcoin-1723-35-5236
+['Lightning'],[],delving-bitcoin-1723-17-5187
+"['Nodes', 'Lightning', 'Privacy', 'Routing']",[],delving-bitcoin-1723-33-5232
+"['Privacy', 'Validation', 'Timestamping', 'Security', 'Topology', 'Consensus', 'Cryptography', 'Forks', 'P2P']",[],delving-bitcoin-1786-7-5346
+"['Lightning', 'Ux']",[],delving-bitcoin-1723-28-5224
+"['Proof-of-Work', 'UTXO']",['Quantum Computing'],delving-bitcoin-1730-5-5193
+"['Timestamping', 'Proof-of-Work', 'Attacks', 'Consensus', 'Mining']",[],delving-bitcoin-1757-2-5365
+"['Covenants', 'Consensus', 'Bitcoin Core']",[],delving-bitcoin-1509-67-5217
+"['Covenants', 'Research', 'Consensus']",[],delving-bitcoin-1509-68-5226
+"['Transactions', 'Fees', 'Consensus', 'Mining']",[],delving-bitcoin-1732-9-5244
+"['Security', 'Backup', 'Cryptography', 'Wallet', 'Limitations']","['Recovery', 'Descriptors']",delving-bitcoin-1766-8-5288
+"['Covenants', 'Lightning', 'Taproot']",[],delving-bitcoin-1509-74-5251
+"['Lightning', 'Pools']",[],delving-bitcoin-1753-16-5296
+"['Privacy', 'Fuzzing', 'Security', 'Topology', 'Consensus', 'P2P', 'Research']",[],delving-bitcoin-1786-4-5338
+"['Difficulty', 'Mining']","['Hashrate', 'Blocks']",delving-bitcoin-1745-2-5354
+"['Covenants', 'Schnorr', 'Consensus']",['HSMs'],delving-bitcoin-1509-76-5265
+"['Research', 'Fees', 'Consensus', 'Mining']",[],delving-bitcoin-1745-1-5190
+"['Script', 'Cryptography', 'Consensus', 'Testing', 'Forks', 'Segwit']",[],delving-bitcoin-1591-25-5344
+"['BIP', 'Taproot']",[],delving-bitcoin-1766-2-5268
+['Cryptography'],[],delving-bitcoin-1750-2-5213
+"['Privacy', 'Lightning', 'Incentives', 'Network']","['Performance', 'Latency', 'Transparency']",delving-bitcoin-1723-21-5200
+"['Covenants', 'Taproot', 'Segwit', 'Consensus']",[],delving-bitcoin-1509-70-5241
+['Consensus'],[],delving-bitcoin-1307-3-5249
+"['Onion', 'C-Lightning', 'Lightning', 'Topology', 'Layer 2', 'P2P', 'Routing', 'Network']","['Web', 'Overlay']",delving-bitcoin-1799-2-5367
+['Mining'],"['Hashrate', 'PoW', 'Probability']",delving-bitcoin-1745-10-5375
+"['Validation', 'Custody', 'P2pool', 'Miners', 'Fees', 'Consensus', 'Segwit', 'Mining']",[],delving-bitcoin-1753-17-5297
+"['Topology', 'Lightning', 'Research']","['Target state negotiation', 'Central coordination', 'Integer approximation', 'Mathematical theory', 'Linear programming', 'Wealth distribution', 'Optimization', 'Constrained optimization', 'Channel balancing', 'Quadratic programming', 'Network simulation', 'Conservation constraints', 'Payment channels', 'Continuous relaxation', 'Computational cost', 'Integer linear programming', 'CDF diagram', 'Convex polytope']",delving-bitcoin-1768-1-5277
+['UTXO'],"['CTV', 'Security Guarantees', 'Noncustodial', 'Mining Pools']",delving-bitcoin-1753-10-5271
+['P2P'],[],delving-bitcoin-1786-2-5331
+"['Pools', 'Custody', 'Fees', 'Consensus', 'Mempool', 'Scalability', 'Mining']",[],delving-bitcoin-1753-5-5252
+"['Script', 'Validation', 'Consensus', 'Soft Fork', 'Forks']",[],delving-bitcoin-1527-12-5291
+['Script'],"['BIP32 HD Wallets', 'Descriptors']",delving-bitcoin-1766-3-5283
+"['Lightning', 'Fees']",[],delving-bitcoin-1524-11-5192
+"['Smart Contracts', 'Lightning', 'Consensus', 'Covenants', 'Layer 2', 'Research']",[],delving-bitcoin-1781-1-5320
+"['UTXO', 'Mining']","['CTV', 'Transaction Tree']",delving-bitcoin-1753-2-5220
+['Lightning'],['Congestion Control'],delving-bitcoin-1753-12-5275
+"['Covenants', 'Taproot']",[],delving-bitcoin-1509-72-5247
+"['Privacy', 'Validation', 'Timestamping', 'Fuzzing', 'Security', 'Consensus', 'Cryptography', 'Bitcoin Core', 'Research', 'Network']",[],delving-bitcoin-1786-1-5328
+"['Security', 'Privacy', 'Lightning', 'Routing']",[],delving-bitcoin-1723-40-5242
+"['Proof-of-Work', 'Timestamping', 'Consensus']",[],delving-bitcoin-1745-3-5355
+"['Package Relay', 'P2P']",[],delving-bitcoin-1786-10-5353
+"['Covenants', 'Consensus']",[],delving-bitcoin-1509-75-5258
+"['Covenants', 'Taproot']",[],delving-bitcoin-1509-71-5245
+"['Lightning', 'Privacy', 'Incentives', 'Routing']",[],delving-bitcoin-1723-36-5237
+['P2P'],[],delving-bitcoin-1786-6-5343
+"['Lightning', 'Fees', 'Mining']",[],delving-bitcoin-1753-11-5273
+"['Privacy', 'Security', 'Lightning', 'Fees', 'Consensus', 'Cryptography', 'Network']",[],delving-bitcoin-1723-18-5191
+"['Lightning', 'Fees']","['Hold Fee', 'Payment Delay', 'Taproot Assets', 'HTLC', 'Capital']",delving-bitcoin-1524-12-5371
+"['Pools', 'Fees', 'Mining']",[],delving-bitcoin-1753-7-5257
+"['BIP', 'Script']",['Descriptor'],delving-bitcoin-1766-4-5284
+"['Cryptography', 'Consensus', 'Bitcoin Core', 'Forks', 'Research']",[],delving-bitcoin-1732-2-5154
+"['Consensus', 'Soft Fork']",[],delving-bitcoin-1732-4-5160
+"['Privacy', 'Lightning', 'Fees', 'Layer 2', 'Research', 'Routing']",[],delving-bitcoin-1723-11-5165
+['Lightning'],"['TCP', 'Latency', 'IPv4', 'Fragmentation']",delving-bitcoin-1052-32-5164
+['Lightning'],"['TCP', 'IP']",delving-bitcoin-1723-16-5173
+"['Covenants', 'Limitations', 'UTXO']",['Cosigner'],delving-bitcoin-556-19-5171
+"['Lightning', 'Tor']","['Integrity checks', 'Latency', 'RFC8900', 'IPv6', 'RFC4963', 'LN graph', 'Mainnet testing', 'IP packets', 'MTU', 'Checksum', 'Path MTU Discovery', 'ICMP', 'Fragmentation']",delving-bitcoin-1723-13-5167
+"['Validation', 'Transaction-Input', 'Block-Header', 'Block', 'Proof-of-Work', 'Transaction-Verification', 'Miners', 'UTXO', 'Consensus', 'Soft Fork', 'Forks', 'Protocol', 'Segregated Witness', 'Mining', 'Blocksize']",[],delving-bitcoin-1732-6-5163
+"['Network', 'Assumeutxo', 'Security', 'Fees', 'Consensus', 'Bitcoin Core', 'IBD', 'Segregated Witness', 'Mining', 'Pruning']","['Data Availability', 'Bandwidth', 'CPU', 'Scripts']",delving-bitcoin-1742-1-5178
+"['Mac', 'Lightning']","['Headers', 'Payload Size', 'IPv6', 'TCP Header', 'IPv4', 'MTU', 'Fragmentation']",delving-bitcoin-1723-14-5168
+"['Consensus', 'Cryptography', 'Taproot', 'Segregated Witness']",['Quantum Computing'],delving-bitcoin-1730-3-5155
+[],"['Quantum Computing', 'BIP32']",delving-bitcoin-1730-2-5153
+['Fees'],"['Serialization', 'Bandwidth']",delving-bitcoin-1742-2-5181
+"['Privacy', 'Lightning', 'Testing', 'P2P']",['Latency'],delving-bitcoin-1723-12-5166
+"['Fees', 'Consensus', 'Mempool', 'P2P', 'Mining']",[],delving-bitcoin-1732-8-5172
+[],"['Address Reuse', 'Quantum Computing']",delving-bitcoin-1730-4-5156
+"['Multisig', 'Validation', 'Hardware Wallet', 'Cryptography']","['Wallet Recovery', 'Public Key']",delving-bitcoin-1607-17-5182
+"['Consensus', 'Fuzzing']",[],delving-bitcoin-1052-33-5179
+[],"['Transaction', 'Coinbase', 'CTV']",delving-bitcoin-1732-5-5161
+['Wallet'],"['Date', 'Block Height', 'Rescan']",delving-bitcoin-1607-16-5180
+"['Miners', 'Mempool']",[],delving-bitcoin-1732-3-5157
+['Lightning'],"['TCP packets', 'IP fragmentation', 'Checksum']",delving-bitcoin-1723-10-5162
+"['Fees', 'Consensus', 'Mining']",[],delving-bitcoin-1732-7-5170
+"['Sphinx', 'Onion', 'Lightning', 'Testing', 'Update Layer', 'Routing Failures']","['Simulations', 'Mainnet']",delving-bitcoin-1723-15-5169
