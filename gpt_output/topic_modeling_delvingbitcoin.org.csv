@@ -3119,3 +3119,11 @@ primary_topics,secondary_topics,source_id
 "['Routing', 'Fees', 'Lightning']","['Capital', 'Risk Assessments', 'Financial Projections']",delving-bitcoin-1524-14-5387
 "['UTXO', 'Onion', 'Security', 'P2P']",['DoS'],delving-bitcoin-1799-5-5383
 "['API', 'Miniscript', 'Hardware Wallet', 'Multisig']","['Data Payload', 'Encoding', 'Private Keys', 'Variable-Length Encoding', 'Structural Template', 'QR Codes', 'GitHub', 'Bandwidth Reduction', 'Descriptors', 'Memory-Constrained Environments', 'NFC Communication']",delving-bitcoin-1804-1-5385
+"['Privacy', 'Security', 'Consensus', 'Covenants']",[],delving-bitcoin-1509-84-5397
+"['Lightning', 'UTXO', 'Scalability']",[],delving-bitcoin-1799-10-5399
+"['Musig', 'Covenants', 'Secp256k1', 'Schnorr']","['Adaptor Signatures', 'BIP-327']",delving-bitcoin-1509-82-5391
+"['Consensus', 'Timestamping', 'Blockchain', 'Proof-of-Work', 'Mining']",[],delving-bitcoin-1757-3-5396
+"['Consensus', 'Timestamping', 'Forks', 'Proof-of-Work', 'Mining']",[],delving-bitcoin-1757-4-5398
+"['Onion', 'Nodes', 'Network', 'Layer 2', 'Routing', 'Path-Finding', 'Topology']","['Graph', 'Connectivity']",delving-bitcoin-1799-9-5395
+"['Security', 'Lightning', 'Wallet', 'Fees', 'Blockchain', 'Bitcoin Core', 'Transactions']",[],delving-bitcoin-1524-15-5392
+"['Security', 'Consensus', 'Covenants', 'Hash', 'Cryptography', 'Validation', 'Script']","['Public Key', 'Elliptic Curve']",delving-bitcoin-1509-83-5394
