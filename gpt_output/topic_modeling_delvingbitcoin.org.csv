@@ -3138,3 +3138,5 @@ primary_topics,secondary_topics,source_id
 ['Mining'],[],delving-bitcoin-1757-6-5410
 "['Taproot', 'BIP', 'Security', 'Post-Quantum']","['Signature Algorithms', 'Quantum Resistant', 'PQ Signatures']",delving-bitcoin-1811-1-5412
 "['Fairness', 'Consensus', 'Pools', 'Fees', 'Blockchain', 'Hashlocks', 'Mining', 'Network']","['Blocks', 'Latency', 'Propagation']",delving-bitcoin-1757-7-5411
+"['Build Systems', 'Forks', 'Research', 'Smart Contracts']",[],delving-bitcoin-1275-3-5415
+"['Onion', 'Network', 'Limitations']","['Algorithmic Solutions', 'Topology Optimization', 'Efficiency', 'Minimum Spanning Trees', 'Fragility', 'Economic Disincentives', 'Security Threats', 'Autonomy', 'Algorithm', 'Eligibility Criteria', 'Overlay Layer', 'Message Sizes', 'Constraints']",delving-bitcoin-1799-11-5416
