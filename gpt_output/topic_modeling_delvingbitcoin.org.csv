@@ -3140,3 +3140,8 @@ primary_topics,secondary_topics,source_id
 "['Fairness', 'Consensus', 'Pools', 'Fees', 'Blockchain', 'Hashlocks', 'Mining', 'Network']","['Blocks', 'Latency', 'Propagation']",delving-bitcoin-1757-7-5411
 "['Build Systems', 'Forks', 'Research', 'Smart Contracts']",[],delving-bitcoin-1275-3-5415
 "['Onion', 'Network', 'Limitations']","['Algorithmic Solutions', 'Topology Optimization', 'Efficiency', 'Minimum Spanning Trees', 'Fragility', 'Economic Disincentives', 'Security Threats', 'Autonomy', 'Algorithm', 'Eligibility Criteria', 'Overlay Layer', 'Message Sizes', 'Constraints']",delving-bitcoin-1799-11-5416
+"['Bech32', 'Miners', 'Cryptography', 'Hard Fork', 'Hashlocks', 'Topology', 'Proof-of-Work', 'Attacks', 'Proof-of-Stake', 'Pools', 'Silent Payments', 'Fee Management', 'Privacy', 'Segregated Witness', 'Incentives', 'Mining', 'P2P', 'Fees', 'Research', 'Testing', 'Merkle Trees', 'Fuzzing', 'Zero-Knowledge', 'Soft Fork', 'Timelocks', 'Security', 'Mempool', 'Validation', 'Assumeutxo', 'Consensus', 'Forks']",['Proof-of'],delving-bitcoin-1809-8-5422
+"['Security', 'UTXO']",[],delving-bitcoin-1809-7-5421
+"['Assumeutxo', 'Fuzzing', 'Segwit', 'BIP', 'Utxo']",[],delving-bitcoin-1809-10-5424
+"['BIP', 'OP_RETURN', 'Encryption']","['Stealth Addresses', 'Shared Secrets', 'Python Code Examples', 'NIP', 'User Experience', 'Proof of Concept', 'Developers', 'Privacy Enhancements', 'Privacy Features', 'Cryptocurrency Payments', 'Private Transactions']",delving-bitcoin-1816-1-5419
+"['Mining', 'Privacy', 'Security', 'Mempool', 'Covenants', 'Research', 'Assumeutxo', 'Fuzzing', 'Consensus', 'Segwit', 'Scalability']",[],delving-bitcoin-1809-9-5423
