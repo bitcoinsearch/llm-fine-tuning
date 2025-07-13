@@ -3154,3 +3154,8 @@ primary_topics,secondary_topics,source_id
 "['Privacy', 'Consensus']",[],delving-bitcoin-1087-5-5440
 "['Consensus', 'Validation', 'Research', 'Cryptography', 'Security']",[],delving-bitcoin-1087-4-5436
 "['Consensus', 'Blockchain', 'Difficulty', 'Mining', 'Hash', 'Proof-of-Work']",['Exponential Distribution'],delving-bitcoin-1745-16-5441
+"['Security', 'Decentralization', 'Backup', 'Encryption', 'Multisig', 'Public-Key', 'Wallet']",[],delving-bitcoin-1607-22-5445
+"['Validation', 'Research', 'Testing', 'Error']",[],delving-bitcoin-1745-17-5443
+"['UTXO', 'Script', 'Security', 'Multi-Signature', 'Python']","['Test Suite', 'AMOUNTVERIFY', 'Recovery', 'OP_CTV', 'OP_IN_AMOUNT', 'Forwarding Address', 'Amount', 'Blockchain Technology', 'OP_OUT_AMOUNT', 'Opcode']",delving-bitcoin-549-9-5447
+"['Segwit', 'Build Systems', 'Taproot', 'Script', 'Research', 'Bitcoin Core', 'Multisig', 'Libbitcoin Kernel', 'Wallet']",['Rust'],delving-bitcoin-1804-2-5444
+"['Lightning', 'Fees', 'Routing']",[],delving-bitcoin-1524-16-5448
