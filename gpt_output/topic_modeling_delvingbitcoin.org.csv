@@ -3159,3 +3159,17 @@ primary_topics,secondary_topics,source_id
 "['UTXO', 'Script', 'Security', 'Multi-Signature', 'Python']","['Test Suite', 'AMOUNTVERIFY', 'Recovery', 'OP_CTV', 'OP_IN_AMOUNT', 'Forwarding Address', 'Amount', 'Blockchain Technology', 'OP_OUT_AMOUNT', 'Opcode']",delving-bitcoin-549-9-5447
 "['Segwit', 'Build Systems', 'Taproot', 'Script', 'Research', 'Bitcoin Core', 'Multisig', 'Libbitcoin Kernel', 'Wallet']",['Rust'],delving-bitcoin-1804-2-5444
 "['Lightning', 'Fees', 'Routing']",[],delving-bitcoin-1524-16-5448
+"['Development', 'Taproot', 'Segwit', 'Covenants', 'Forks', 'BIP', 'Soft Fork', 'Consensus', 'Bitcoin Core', 'Script']","['Legacy Script Contexts', 'Public Review', 'Optimization', 'Stack Interactions', 'Technical Refinements', 'Community', 'Upgrade Hooks', 'Efficiency']",delving-bitcoin-1509-85-5453
+"['Taproot', 'BIP']","['Bitcoin Improvement Proposals', 'Proposal Request', 'Naming Convention', 'Community Approval']",delving-bitcoin-1811-7-5464
+"['Schnorr', 'Multisig', 'FROST']","['Chain Code Delegation', 'BIP32']",delving-bitcoin-1837-1-5469
+"['Segwit', 'BIP', 'Security']","['Quantum Resistant', 'User-Friendly Labeling', 'Quantum Computing', 'Cryptographic Methods', 'Addresses']",delving-bitcoin-1811-4-5458
+"['Fees', 'Bitcoin Core', 'Lightning', 'Security']",[],delving-bitcoin-1524-17-5454
+"['BIP', 'Cryptography', 'Soft Fork', 'Terminology']","['Quantum Resistant', 'Op-codes']",delving-bitcoin-1811-2-5450
+"['BIP', 'SHA256']","['Naming Conventions', 'Bitcoin Features', 'User Experience', 'Quantum Resistance']",delving-bitcoin-1811-5-5459
+"['Fees', 'Taproot', 'Segregated Witness', 'Privacy', 'Consensus', 'Bitcoin Core', 'UTXO']",[],delving-bitcoin-1811-11-5471
+"['Smart Contracts', 'Taproot', 'Covenants', 'BIP']","['Technical Trade-offs', 'Quantum Resistant']",delving-bitcoin-1811-9-5466
+"['Consensus', 'Timelocks', 'Soft Fork']",['Relative Timelocks'],delving-bitcoin-1818-3-5449
+"['BIP', 'SHA256']","['Transaction Size Reduction', 'Segwit Addresses', 'Wallet Updates', 'Bitcoin Protocol', 'Opcodes', 'Quantum Resistance', 'User Error']",delving-bitcoin-1811-6-5460
+"['Consensus', 'BIP', 'Taproot']",['Bitcoin Improvement Proposals'],delving-bitcoin-1811-10-5467
+"['Schnorr', 'Lightning']","['Bitcoin', 'Off-chain', 'Hash-Time Locked Contracts', 'Watchtowers']",delving-bitcoin-1830-1-5452
+"['BIP', 'Segregated Witness', 'Proof-of-Work', 'Consensus', 'Bitcoin Core']",[],delving-bitcoin-1811-8-5465
