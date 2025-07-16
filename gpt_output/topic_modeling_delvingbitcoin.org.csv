@@ -3173,3 +3173,16 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'BIP', 'Taproot']",['Bitcoin Improvement Proposals'],delving-bitcoin-1811-10-5467
 "['Schnorr', 'Lightning']","['Bitcoin', 'Off-chain', 'Hash-Time Locked Contracts', 'Watchtowers']",delving-bitcoin-1830-1-5452
 "['BIP', 'Segregated Witness', 'Proof-of-Work', 'Consensus', 'Bitcoin Core']",[],delving-bitcoin-1811-8-5465
+"['Consensus', 'Timelocks']","['System Design', 'Legacy Features']",delving-bitcoin-1818-8-5483
+['Lightning'],"['Off-chain', 'Decentralized Systems', 'Research Update', 'Collaboration', 'Optimal Channel Rebalancing', 'Liquidity Management']",delving-bitcoin-1640-7-5481
+"['Mining', 'Consensus', 'P2P', 'Research', 'Validation', 'Fees', 'Bitcoin Core', 'Testing']",[],delving-bitcoin-1052-34-5488
+"['Taproot', 'Privacy', 'Security', 'Merkle Trees']",['Quantum Resistance'],delving-bitcoin-1811-14-5484
+"['Consensus', 'Timelocks', 'Blockchain', 'Validation', 'Forks']",[],delving-bitcoin-1818-5-5475
+['Timelocks'],"['Programming', 'Bit Manipulation']",delving-bitcoin-1818-6-5476
+"['Proof-of-Work', 'Consensus', 'Segwit', 'Zero-Knowledge', 'Research', 'BIP', 'Bitcoin Core']","['Usability', 'Community']",delving-bitcoin-1811-13-5482
+"['Security', 'Privacy', 'Threshold Signatures', 'Wallet']",[],delving-bitcoin-1607-23-5478
+"['Consensus', 'Timelocks', 'Update Layer', 'Validation', 'Forks']",[],delving-bitcoin-1818-7-5477
+"['Segwit', 'Security', 'Hashlocks']","['Confidentiality', 'Blockchain Space', 'Efficiency', 'Payload Size']",delving-bitcoin-1811-12-5479
+"['Timelocks', 'Multi-signature']","['Lost Bitcoins', 'Conditions']",delving-bitcoin-1818-4-5473
+"['Cryptography', 'Consensus', 'Merkle Trees', 'Privacy']",[],delving-bitcoin-1811-15-5485
+"['Cryptography', 'Backup', 'Seed', 'Threshold Signatures', 'Multisig']","['Inheritance', ""Shamir's Secret Sharing""]",delving-bitcoin-1607-24-5480
