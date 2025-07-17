@@ -3186,3 +3186,13 @@ primary_topics,secondary_topics,source_id
 "['Timelocks', 'Multi-signature']","['Lost Bitcoins', 'Conditions']",delving-bitcoin-1818-4-5473
 "['Cryptography', 'Consensus', 'Merkle Trees', 'Privacy']",[],delving-bitcoin-1811-15-5485
 "['Cryptography', 'Backup', 'Seed', 'Threshold Signatures', 'Multisig']","['Inheritance', ""Shamir's Secret Sharing""]",delving-bitcoin-1607-24-5480
+"['BIP', 'Hash']","['Payload Size', 'Protocol Versions']",delving-bitcoin-1811-17-5505
+"['Timelocks', 'Transactions', 'Blockchain']","['CLTV', 'Flexibility']",delving-bitcoin-1818-10-5490
+"['Timelocks', 'Wallet']","['UI Design', 'Software Upgrade', 'Legacy Features']",delving-bitcoin-1818-9-5489
+"['Security', 'Miniscript']","['Usability', 'Policy']",delving-bitcoin-1818-14-5494
+"['Fees', 'Mempool', 'API', 'Mining']","['Benchmarking', 'Bitcoin', 'Open Source']",delving-bitcoin-1848-1-5510
+"['Cryptography', 'Security', 'Privacy']",['Public Key'],delving-bitcoin-1837-2-5506
+"['Timelocks', 'Security', 'Transactions', 'Wallet']","['Descriptors', 'Bitcoin']",delving-bitcoin-1818-11-5491
+"['BIP', 'Bitcoin Core', 'Segwit', 'Taproot', 'Segregated Witness']",['Bitcoin Improvement Proposal'],delving-bitcoin-1811-16-5497
+"['Backup', 'Security', 'Timelocks', 'Validation', 'Wallet']",[],delving-bitcoin-1818-12-5492
+"['Security', 'Cryptography', 'Validation', 'Timelocks']",[],delving-bitcoin-1818-13-5493
