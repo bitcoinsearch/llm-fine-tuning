@@ -3196,3 +3196,7 @@ primary_topics,secondary_topics,source_id
 "['BIP', 'Bitcoin Core', 'Segwit', 'Taproot', 'Segregated Witness']",['Bitcoin Improvement Proposal'],delving-bitcoin-1811-16-5497
 "['Backup', 'Security', 'Timelocks', 'Validation', 'Wallet']",[],delving-bitcoin-1818-12-5492
 "['Security', 'Cryptography', 'Validation', 'Timelocks']",[],delving-bitcoin-1818-13-5493
+"['Fees', 'Bitcoin Core', 'Mining', 'Research']",['Bitcoin Core Development'],delving-bitcoin-1848-4-5514
+"['Bitcoin Core', 'Development']",[],delving-bitcoin-1848-3-5513
+"['Segregated Witness', 'Scalability', 'Blockchain', 'Taproot']","['Versatility', 'Protocol Development', 'Efficiency', 'Optimization']",delving-bitcoin-1811-18-5512
+"['Bitcoin Core', 'Research', 'Fees']",['Library'],delving-bitcoin-1848-2-5511
