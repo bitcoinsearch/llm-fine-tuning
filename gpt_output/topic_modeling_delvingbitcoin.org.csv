@@ -3200,3 +3200,5 @@ primary_topics,secondary_topics,source_id
 "['Bitcoin Core', 'Development']",[],delving-bitcoin-1848-3-5513
 "['Segregated Witness', 'Scalability', 'Blockchain', 'Taproot']","['Versatility', 'Protocol Development', 'Efficiency', 'Optimization']",delving-bitcoin-1811-18-5512
 "['Bitcoin Core', 'Research', 'Fees']",['Library'],delving-bitcoin-1848-2-5511
+['BIP'],"['Tapscript', 'ML-DSA', 'Dynamic script endorsement', 'Quantum Resistant', 'OTS public key', 'PQ opcodes', 'SPHINCS', 'TLS certificate authorities', 'Quantum-resistant cryptographic mechanisms', 'SLH-DSA']",delving-bitcoin-1811-19-5519
+"['Limitations', 'Miniscript', 'Timelocks']",['Signing Devices'],delving-bitcoin-1818-15-5520
