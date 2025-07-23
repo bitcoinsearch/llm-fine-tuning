@@ -3211,3 +3211,8 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Timelocks', 'Multi-signature', 'Soft Fork']",[],delving-bitcoin-1818-16-5528
 "['Privacy', 'Security', 'Timelocks', 'Wallet']","['User Experience', 'Public Key', 'Compatibility', 'Interoperability', 'Bitcoin Protocol']",delving-bitcoin-1818-17-5529
 "['Security', 'Development', 'BIP', 'Signature', 'ECDSA', 'Research']","['Lamport Signatures', 'Public Key', 'Bitcoin Improvement Proposal', 'Quantum Resistant', 'Script Hash']",delving-bitcoin-1811-23-5534
+"['Musig', 'Threshold Signatures', 'Research', 'FROST', 'Post-Quantum', 'Cryptography', 'ECDSA', 'Silent Payments']",[],delving-bitcoin-1854-2-5539
+"['Lnd', 'Update Layer', 'Lightning', 'Timestamping', 'Security']",['Gossip'],delving-bitcoin-1859-1-5537
+"['Lightning', 'Security']","['Open Source', 'Collaboration']",delving-bitcoin-1859-2-5540
+"['Bitcoin Core', 'Research', 'Fees']","['Dataset', 'Transparency', 'Benchmarking']",delving-bitcoin-1848-5-5541
+"['Mempool', 'Security', 'Proof-of-Work']",[],delving-bitcoin-937-6-5535
