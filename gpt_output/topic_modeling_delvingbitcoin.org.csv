@@ -3216,3 +3216,6 @@ primary_topics,secondary_topics,source_id
 "['Lightning', 'Security']","['Open Source', 'Collaboration']",delving-bitcoin-1859-2-5540
 "['Bitcoin Core', 'Research', 'Fees']","['Dataset', 'Transparency', 'Benchmarking']",delving-bitcoin-1848-5-5541
 "['Mempool', 'Security', 'Proof-of-Work']",[],delving-bitcoin-937-6-5535
+"['Development', 'Script', 'Cryptography', 'BIP']",['Bitcoin Improvement Proposal'],delving-bitcoin-1811-24-5545
+"['Mining', 'Segwit', 'Consensus', 'Forks', 'Validation', 'Soft Fork']",[],delving-bitcoin-1818-20-5544
+"['BIP', 'Bitcoin Core', 'Blockchain', 'Consensus', 'Soft Fork', 'Taproot', 'Zero-Knowledge', 'Secp256k1']","['ZK-STARK', 'Elliptic Curve', 'Quantum-Resistant']",delving-bitcoin-1811-25-5546
