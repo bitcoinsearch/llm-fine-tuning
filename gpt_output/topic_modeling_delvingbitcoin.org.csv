@@ -3219,3 +3219,5 @@ primary_topics,secondary_topics,source_id
 "['Development', 'Script', 'Cryptography', 'BIP']",['Bitcoin Improvement Proposal'],delving-bitcoin-1811-24-5545
 "['Mining', 'Segwit', 'Consensus', 'Forks', 'Validation', 'Soft Fork']",[],delving-bitcoin-1818-20-5544
 "['BIP', 'Bitcoin Core', 'Blockchain', 'Consensus', 'Soft Fork', 'Taproot', 'Zero-Knowledge', 'Secp256k1']","['ZK-STARK', 'Elliptic Curve', 'Quantum-Resistant']",delving-bitcoin-1811-25-5546
+"['Blocksize', 'Hashlocks', 'Validation', 'Decentralization', 'Security', 'Mining', 'Timelocks', 'Consensus', 'Blockchain', 'Network', 'Timestamping', 'Stratum-V2', 'Forks', 'Nodes', 'Miners', 'Pools']","['Technology Innovation', 'Policy Implementation']",delving-bitcoin-1757-8-5551
+"['BIP', 'Taproot']","['Post-Quantum Cryptography', 'Elliptic Curve Cryptography', 'Quantum Resistant', 'Script Path']",delving-bitcoin-1811-26-5554
