@@ -3221,3 +3221,5 @@ primary_topics,secondary_topics,source_id
 "['BIP', 'Bitcoin Core', 'Blockchain', 'Consensus', 'Soft Fork', 'Taproot', 'Zero-Knowledge', 'Secp256k1']","['ZK-STARK', 'Elliptic Curve', 'Quantum-Resistant']",delving-bitcoin-1811-25-5546
 "['Blocksize', 'Hashlocks', 'Validation', 'Decentralization', 'Security', 'Mining', 'Timelocks', 'Consensus', 'Blockchain', 'Network', 'Timestamping', 'Stratum-V2', 'Forks', 'Nodes', 'Miners', 'Pools']","['Technology Innovation', 'Policy Implementation']",delving-bitcoin-1757-8-5551
 "['BIP', 'Taproot']","['Post-Quantum Cryptography', 'Elliptic Curve Cryptography', 'Quantum Resistant', 'Script Path']",delving-bitcoin-1811-26-5554
+"['Miners', 'Smart Contracts', 'Mining', 'Fees', 'Blockchain', 'Consensus', 'Op-return', 'Timestamping', 'Validation']","['Transaction Fees', 'Block Reward']",delving-bitcoin-1757-9-5555
+"['Security', 'Mining', 'Hashpower', 'Blockchain', 'Consensus', 'Incentives', 'Decentralization', 'Proof-of-Work']","['FLOPs', 'Economic Theory', 'Double Spend']",delving-bitcoin-1867-1-5556
