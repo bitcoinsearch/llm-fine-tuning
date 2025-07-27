@@ -3223,3 +3223,5 @@ primary_topics,secondary_topics,source_id
 "['BIP', 'Taproot']","['Post-Quantum Cryptography', 'Elliptic Curve Cryptography', 'Quantum Resistant', 'Script Path']",delving-bitcoin-1811-26-5554
 "['Miners', 'Smart Contracts', 'Mining', 'Fees', 'Blockchain', 'Consensus', 'Op-return', 'Timestamping', 'Validation']","['Transaction Fees', 'Block Reward']",delving-bitcoin-1757-9-5555
 "['Security', 'Mining', 'Hashpower', 'Blockchain', 'Consensus', 'Incentives', 'Decentralization', 'Proof-of-Work']","['FLOPs', 'Economic Theory', 'Double Spend']",delving-bitcoin-1867-1-5556
+"['Lightning', 'Fees', 'Routing']","['Hashed Time-Locked Contracts', 'Payment Processing', 'Channel']",delving-bitcoin-1524-18-5565
+"['Hard Fork', 'Consensus', 'Mining', 'Wallet', 'Incentives', 'Privacy', 'Blockchain', 'Decentralization']",['Identity'],delving-bitcoin-1877-1-5567
