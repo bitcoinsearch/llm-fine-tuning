@@ -3225,3 +3225,6 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Mining', 'Hashpower', 'Blockchain', 'Consensus', 'Incentives', 'Decentralization', 'Proof-of-Work']","['FLOPs', 'Economic Theory', 'Double Spend']",delving-bitcoin-1867-1-5556
 "['Lightning', 'Fees', 'Routing']","['Hashed Time-Locked Contracts', 'Payment Processing', 'Channel']",delving-bitcoin-1524-18-5565
 "['Hard Fork', 'Consensus', 'Mining', 'Wallet', 'Incentives', 'Privacy', 'Blockchain', 'Decentralization']",['Identity'],delving-bitcoin-1877-1-5567
+"['Consensus', 'Security', 'BIP', 'Cryptography', 'Segregated Witness']","['Elliptic Curve', 'Public Key']",delving-bitcoin-1811-27-5572
+"['Consensus', 'Privacy', 'Security', 'Research', 'Bitcoin Core']",[],delving-bitcoin-1877-3-5571
+"['Privacy', 'Security']","['Biometric Data', 'Ethical Considerations', 'Global Digital Currency']",delving-bitcoin-1877-2-5570
