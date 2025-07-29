@@ -3228,3 +3228,15 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Security', 'BIP', 'Cryptography', 'Segregated Witness']","['Elliptic Curve', 'Public Key']",delving-bitcoin-1811-27-5572
 "['Consensus', 'Privacy', 'Security', 'Research', 'Bitcoin Core']",[],delving-bitcoin-1877-3-5571
 "['Privacy', 'Security']","['Biometric Data', 'Ethical Considerations', 'Global Digital Currency']",delving-bitcoin-1877-2-5570
+"['Blockchain', 'Fungibility', 'Decentralization']","['Cryptocurrencies', 'Bitcoin', 'Digital Economy']",delving-bitcoin-1877-6-5580
+"['Soft Fork', 'Covenants']",[],delving-bitcoin-1703-11-5582
+"['Bitcoin Core', 'Testing']","['Source Code', 'Release', 'GitHub']",delving-bitcoin-1881-1-5585
+"['Hard Fork', 'Soft Fork', 'Security', 'Cryptography', 'BIP']","['Elliptic Curve', 'Quantum Resistant', 'Bitcoin Protocol']",delving-bitcoin-1811-29-5583
+"['Regulation', 'Research', 'Academia', 'Scalability', 'Altcoin', 'Security', 'Privacy', 'Consensus']",[],delving-bitcoin-1877-5-5574
+"['Validation', 'Research', 'Incentives', 'Decentralization', 'Cryptography', 'Consensus']",[],delving-bitcoin-1877-4-5573
+"['Validation', 'Blockchain', 'Proof-of-Work', 'Proof-of-Stake', 'Soft Fork', 'Covenants', 'Security', 'Consensus']","['SMS', 'Technology Evolution', 'Innovation']",delving-bitcoin-1703-10-5581
+"['Wallet', 'Multi-signature', 'Covenants', 'Security']",[],delving-bitcoin-1703-9-5579
+"['Schnorr', 'Security', 'BIP', 'Consensus']","['EC Cryptography', 'Quantum Resistant', 'Post-Quantum Cryptography']",delving-bitcoin-1811-28-5575
+"['Threshold Signatures', 'Silent Payments', 'Post-Quantum']",[],delving-bitcoin-1854-3-5584
+"['Covenants', 'Security', 'Multisig']","['Vaults', 'Trustless']",delving-bitcoin-1703-7-5577
+"['Soft Fork', 'Covenants', 'Alternatives', 'Scalability']",[],delving-bitcoin-1703-8-5578
