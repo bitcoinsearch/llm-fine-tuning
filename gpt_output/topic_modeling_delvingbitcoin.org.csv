@@ -3240,3 +3240,10 @@ primary_topics,secondary_topics,source_id
 "['Threshold Signatures', 'Silent Payments', 'Post-Quantum']",[],delving-bitcoin-1854-3-5584
 "['Covenants', 'Security', 'Multisig']","['Vaults', 'Trustless']",delving-bitcoin-1703-7-5577
 "['Soft Fork', 'Covenants', 'Alternatives', 'Scalability']",[],delving-bitcoin-1703-8-5578
+"['Consensus', 'Research', 'Bitcoin Core', 'Blockchain', 'Mining', 'Fees']",[],delving-bitcoin-1757-10-5589
+"['Privacy', 'Consensus', 'Cryptography']",['Philosophy'],delving-bitcoin-1877-7-5586
+"['Cryptography', 'Schnorr']",[],delving-bitcoin-1837-3-5593
+"['Privacy', 'Research', 'Security', 'Fuzzing']",[],delving-bitcoin-1786-11-5590
+"['Consensus', 'Fungibility']","['Economic Theory', 'Philosophy']",delving-bitcoin-1877-8-5587
+"['Timestamping', 'Consensus', 'Privacy', 'Nodes', 'Validation']",[],delving-bitcoin-1786-12-5592
+"['Consensus', 'Research', 'Covenants', 'Security', 'Soft Fork']",[],delving-bitcoin-1703-12-5588
