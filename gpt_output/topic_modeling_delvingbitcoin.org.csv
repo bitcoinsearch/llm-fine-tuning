@@ -3247,3 +3247,6 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Fungibility']","['Economic Theory', 'Philosophy']",delving-bitcoin-1877-8-5587
 "['Timestamping', 'Consensus', 'Privacy', 'Nodes', 'Validation']",[],delving-bitcoin-1786-12-5592
 "['Consensus', 'Research', 'Covenants', 'Security', 'Soft Fork']",[],delving-bitcoin-1703-12-5588
+"['Bitcoin Core', 'Package Relay', 'Fees', 'P2P', 'Consensus', 'Mining', 'Mempool']",[],delving-bitcoin-1886-1-5601
+"['Development', 'Wallet']","['Ruby', 'Programming Language', 'Rust', 'Github']",delving-bitcoin-1607-25-5602
+"['RGB', 'Smart Contracts', 'Consensus', 'Research', 'Privacy']",['Open Source'],delving-bitcoin-1885-1-5600
