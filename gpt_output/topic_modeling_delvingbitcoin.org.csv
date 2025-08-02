@@ -3250,3 +3250,13 @@ primary_topics,secondary_topics,source_id
 "['Bitcoin Core', 'Package Relay', 'Fees', 'P2P', 'Consensus', 'Mining', 'Mempool']",[],delving-bitcoin-1886-1-5601
 "['Development', 'Wallet']","['Ruby', 'Programming Language', 'Rust', 'Github']",delving-bitcoin-1607-25-5602
 "['RGB', 'Smart Contracts', 'Consensus', 'Research', 'Privacy']",['Open Source'],delving-bitcoin-1885-1-5600
+[],['Philosophy'],delving-bitcoin-1877-11-5608
+[],"['Implementation Process', 'Rust', 'Development Effort', 'Programming Environment', 'Technical Details']",delving-bitcoin-1607-26-5611
+"['Bitcoin Core', 'Consensus']",[],delving-bitcoin-1877-12-5609
+['Bitcoin Core'],[],delving-bitcoin-1877-10-5606
+"['Consensus', 'Proof-of-Work', 'Fees', 'Lightning', 'Scalability', 'Segwit', 'Mining', 'P2P', 'Mempool']",[],delving-bitcoin-1886-2-5610
+['Decentralization'],"['Monetary Policy', 'Economic Engagement', 'Wealth Distribution']",delving-bitcoin-1877-9-5603
+"['Decentralization', 'Forks']",['Institutional Involvement'],delving-bitcoin-1877-13-5618
+"['Encryption', 'Security', 'Wallet']","['Data Structure', 'Optimization', 'Compression']",delving-bitcoin-1607-27-5612
+"['Fees', 'Lightning']",[],delving-bitcoin-1524-19-5617
+"['Consensus', 'Timestamping', 'Forks', 'Security', 'Privacy']",[],delving-bitcoin-1786-13-5613
