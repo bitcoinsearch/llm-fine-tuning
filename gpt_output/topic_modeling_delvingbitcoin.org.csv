@@ -3261,3 +3261,4 @@ primary_topics,secondary_topics,source_id
 "['Fees', 'Lightning']",[],delving-bitcoin-1524-19-5617
 "['Consensus', 'Timestamping', 'Forks', 'Security', 'Privacy']",[],delving-bitcoin-1786-13-5613
 "['Segwit', 'Mempool', 'Transactions', 'Consensus', 'Fees', 'Mining']",[],delving-bitcoin-1886-3-5623
+"['Ux', 'Custody', 'Timelocks']",[],delving-bitcoin-1818-21-5624
