@@ -3262,3 +3262,7 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Timestamping', 'Forks', 'Security', 'Privacy']",[],delving-bitcoin-1786-13-5613
 "['Segwit', 'Mempool', 'Transactions', 'Consensus', 'Fees', 'Mining']",[],delving-bitcoin-1886-3-5623
 "['Ux', 'Custody', 'Timelocks']",[],delving-bitcoin-1818-21-5624
+"['Consensus', 'BIP', 'Soft Fork', 'Bitcoin Core', 'Protocol', 'Segregated Witness']",[],delving-bitcoin-1818-22-5631
+"['Fee Management', 'Security', 'Blockchain', 'Development', 'Smart Contracts']","['Rust', 'Bitcoin Transactions', 'Programming']",delving-bitcoin-1900-1-5638
+"['Consensus', 'Script', 'Taproot', 'Timelocks', 'Lightning', 'Bitcoin Core', 'Segregated Witness', 'Forks']",[],delving-bitcoin-1818-23-5635
+"['Consensus', 'Fees', 'Segwit', 'Security', 'Mempool', 'Mining']",[],delving-bitcoin-1886-4-5636
