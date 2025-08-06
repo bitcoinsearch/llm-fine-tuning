@@ -3266,3 +3266,10 @@ primary_topics,secondary_topics,source_id
 "['Fee Management', 'Security', 'Blockchain', 'Development', 'Smart Contracts']","['Rust', 'Bitcoin Transactions', 'Programming']",delving-bitcoin-1900-1-5638
 "['Consensus', 'Script', 'Taproot', 'Timelocks', 'Lightning', 'Bitcoin Core', 'Segregated Witness', 'Forks']",[],delving-bitcoin-1818-23-5635
 "['Consensus', 'Fees', 'Segwit', 'Security', 'Mempool', 'Mining']",[],delving-bitcoin-1886-4-5636
+"['Fees', 'Mining', 'Bitcoin Core', 'Mempool']","['Compact Blocks', 'Template Sharing', 'Security Threats', 'Orphan Rates', 'Network Operations', 'Block Relay']",delving-bitcoin-1906-1-5654
+"['Consensus', 'Security', 'Proof-of-Work', 'Script', 'Lightning', 'Fees', 'Mining']",[],delving-bitcoin-1886-5-5641
+"['Transactions', 'Block', 'Fees', 'Mining', 'Bitcoin Core', 'Update Layer']",[],delving-bitcoin-1052-35-5649
+"['Security', 'Cryptography', 'Fees', 'Smart Contracts']",[],delving-bitcoin-1900-2-5650
+['Lightning'],"[""Bitcoin's technological framework"", 'Documentation', 'Bitcoin Improvement Proposal (BIP)']",delving-bitcoin-1818-24-5643
+"['Consensus', 'Cryptography', 'Script', 'Research', 'Bitcoin Core']",[],delving-bitcoin-1902-1-5647
+"['Transactions', 'Layer 2', 'Block', 'Fees', 'Segwit', 'Relay', 'Bitcoin Core', 'Mining', 'Mempool']",[],delving-bitcoin-1886-6-5644
