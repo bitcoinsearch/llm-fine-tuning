@@ -3273,3 +3273,12 @@ primary_topics,secondary_topics,source_id
 ['Lightning'],"[""Bitcoin's technological framework"", 'Documentation', 'Bitcoin Improvement Proposal (BIP)']",delving-bitcoin-1818-24-5643
 "['Consensus', 'Cryptography', 'Script', 'Research', 'Bitcoin Core']",[],delving-bitcoin-1902-1-5647
 "['Transactions', 'Layer 2', 'Block', 'Fees', 'Segwit', 'Relay', 'Bitcoin Core', 'Mining', 'Mempool']",[],delving-bitcoin-1886-6-5644
+"['Security', 'Privacy']",[],delving-bitcoin-1906-3-5660
+"['Bitcoin Core', 'Taproot', 'Cryptography', 'Research', 'Script', 'Segregated Witness']",[],delving-bitcoin-1900-3-5667
+"['Bitcoin Core', 'Fees', 'Security', 'Development', 'Consensus']",[],delving-bitcoin-1886-8-5664
+"['Pools', 'Mining', 'Security', 'Privacy', 'Consensus']",[],delving-bitcoin-1906-2-5659
+"['Difficulty', 'Mining', 'Proof-of-Work']",['Blockchains'],delving-bitcoin-1745-18-5668
+"['Consensus', 'UTXO', 'Hard Fork']",[],delving-bitcoin-1907-2-5656
+"['Regulation', 'Fees', 'Security']","['Product Development Lifecycle', 'Policy Changes', 'Software Development Cycle', 'Communication Channels', 'Organizational Strategy', 'Stakeholders', 'Operational Capabilities']",delving-bitcoin-1886-7-5662
+"['Consensus', 'Decentralization']",[],delving-bitcoin-1907-1-5655
+"['Research', 'Stratum-V2']",[],delving-bitcoin-1906-4-5666
