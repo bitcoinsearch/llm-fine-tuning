@@ -3282,3 +3282,8 @@ primary_topics,secondary_topics,source_id
 "['Regulation', 'Fees', 'Security']","['Product Development Lifecycle', 'Policy Changes', 'Software Development Cycle', 'Communication Channels', 'Organizational Strategy', 'Stakeholders', 'Operational Capabilities']",delving-bitcoin-1886-7-5662
 "['Consensus', 'Decentralization']",[],delving-bitcoin-1907-1-5655
 "['Research', 'Stratum-V2']",[],delving-bitcoin-1906-4-5666
+"['Backup', 'Cryptography', 'Research', 'Security', 'Encryption']","['Open Source', 'Community Collaboration', 'Quantum Computing']",delving-bitcoin-1607-28-5670
+"['Backup', 'Security', 'Encryption']","['Open Source', 'Community Collaboration', 'AES-GCM', 'Metadata']",delving-bitcoin-1607-29-5671
+"['Fuzzing', 'Consensus', 'Assumeutxo', 'Research']",[],delving-bitcoin-1745-20-5674
+"['Mining', 'Hashlocks', 'Difficulty', 'Validation', 'Fees', 'Consensus', 'Proof-of-Work']","['Blocks', 'Variance', 'Estimation']",delving-bitcoin-1745-19-5673
+"['Altcoin', 'Consensus', 'Privacy']",[],delving-bitcoin-1907-3-5669
