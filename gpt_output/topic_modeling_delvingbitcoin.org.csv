@@ -3287,3 +3287,7 @@ primary_topics,secondary_topics,source_id
 "['Fuzzing', 'Consensus', 'Assumeutxo', 'Research']",[],delving-bitcoin-1745-20-5674
 "['Mining', 'Hashlocks', 'Difficulty', 'Validation', 'Fees', 'Consensus', 'Proof-of-Work']","['Blocks', 'Variance', 'Estimation']",delving-bitcoin-1745-19-5673
 "['Altcoin', 'Consensus', 'Privacy']",[],delving-bitcoin-1907-3-5669
+"['Encryption', 'PSBT']","['Decryption', 'Compression', 'BIP39', 'Community Feedback', 'AES', 'Backward Compatibility']",delving-bitcoin-1912-1-5677
+"['Hashlocks', 'Proof-of-Work', 'Blockchain', 'Mining', 'Merkle Trees']",[],delving-bitcoin-1745-21-5675
+"['Backup', 'Bitcoin Core', 'Security', 'Wallet']",['RPC'],delving-bitcoin-1607-30-5678
+"['Scalability', 'Hashlocks', 'Proof-of-Work', 'Consensus', 'Blockchain', 'Mining', 'Difficulty']","['Block Header', 'Block Count', 'Chain Reorganization']",delving-bitcoin-1745-22-5676
