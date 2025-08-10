@@ -3291,3 +3291,8 @@ primary_topics,secondary_topics,source_id
 "['Hashlocks', 'Proof-of-Work', 'Blockchain', 'Mining', 'Merkle Trees']",[],delving-bitcoin-1745-21-5675
 "['Backup', 'Bitcoin Core', 'Security', 'Wallet']",['RPC'],delving-bitcoin-1607-30-5678
 "['Scalability', 'Hashlocks', 'Proof-of-Work', 'Consensus', 'Blockchain', 'Mining', 'Difficulty']","['Block Header', 'Block Count', 'Chain Reorganization']",delving-bitcoin-1745-22-5676
+[],"['Gamma Distribution', 'Beta Distribution', 'Statistics', 'Poisson Distribution', 'Erlang Distribution', 'Binomial Distribution', 'Probability Theory', 'Mathematical Adjustments']",delving-bitcoin-1745-26-5683
+"['Research', 'Mining', 'Cryptography', 'Hashlocks', 'Privacy', 'Consensus', 'Proof-of-Work', 'Scalability', 'Zero-Knowledge', 'Proof-of-Stake', 'Validation', 'Segwit', 'Timestamping', 'Fees', 'Forks', 'Merkle Trees']",[],delving-bitcoin-1745-23-5680
+"['RGB', 'Development', 'Blockchain', 'Smart Contracts']","['High-Performance Blockchains', 'Collaboration']",delving-bitcoin-1885-2-5684
+"['Consensus', 'Research']",[],delving-bitcoin-1745-25-5682
+"['Research', 'Mining', 'Consensus', 'Proof-of-Work', 'Bitcoin Core', 'Protocol', 'Blockchain', 'Block', 'Forks', 'Hash']",[],delving-bitcoin-1745-24-5681
