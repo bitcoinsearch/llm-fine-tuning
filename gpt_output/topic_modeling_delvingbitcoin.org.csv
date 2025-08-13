@@ -3296,3 +3296,9 @@ primary_topics,secondary_topics,source_id
 "['RGB', 'Development', 'Blockchain', 'Smart Contracts']","['High-Performance Blockchains', 'Collaboration']",delving-bitcoin-1885-2-5684
 "['Consensus', 'Research']",[],delving-bitcoin-1745-25-5682
 "['Research', 'Mining', 'Consensus', 'Proof-of-Work', 'Bitcoin Core', 'Protocol', 'Blockchain', 'Block', 'Forks', 'Hash']",[],delving-bitcoin-1745-24-5681
+"['Soft Fork', 'Cryptography', 'Script', 'Bitcoin Core', 'Trust', 'Security', 'Privacy']","['Bitcoin Scripting', 'Bitcoin Upgrades', 'Bitcoin Development', 'TEE', 'Bitcoin Mainnet', 'AWS', 'Bitcoin Protocol', 'Key Management System', 'Bitcoin Security']",delving-bitcoin-1918-1-5695
+"['Consensus', 'Bitcoin Core', 'Security', 'Fees', 'Mining', 'Mempool']",[],delving-bitcoin-1886-12-5694
+"['P2P', 'Consensus', 'Bitcoin Core', 'Security', 'Mining', 'Package Relay', 'Research', 'Fees']",[],delving-bitcoin-1886-9-5686
+"['Consensus', 'Bitcoin Core', 'Mining', 'Validation', 'Pools', 'Fees']",[],delving-bitcoin-1886-10-5691
+"['UTXO', 'Fees', 'Mining', 'Mempool']",[],delving-bitcoin-1886-11-5693
+"['Segwit', 'Consensus', 'Script', 'Blockchain', 'Taproot', 'Transactions']",[],delving-bitcoin-1818-25-5687
