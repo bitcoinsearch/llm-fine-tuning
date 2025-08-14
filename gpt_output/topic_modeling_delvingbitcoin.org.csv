@@ -3302,3 +3302,7 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Bitcoin Core', 'Mining', 'Validation', 'Pools', 'Fees']",[],delving-bitcoin-1886-10-5691
 "['UTXO', 'Fees', 'Mining', 'Mempool']",[],delving-bitcoin-1886-11-5693
 "['Segwit', 'Consensus', 'Script', 'Blockchain', 'Taproot', 'Transactions']",[],delving-bitcoin-1818-25-5687
+"['UTXO', 'Scalability', 'Consensus', 'Security', 'Lightning', 'Trust']",[],delving-bitcoin-1922-1-5702
+"['Privacy', 'Research', 'Bitcoin Core', 'Consensus']",[],delving-bitcoin-1907-4-5698
+"['Proof-of-Work', 'Consensus', 'Security', 'ASIC', 'Mining']",[],delving-bitcoin-1920-1-5699
+"['Fees', 'Research', 'Consensus', 'Mining', 'Validation']",[],delving-bitcoin-1745-27-5700
