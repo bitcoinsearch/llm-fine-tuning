@@ -3306,3 +3306,11 @@ primary_topics,secondary_topics,source_id
 "['Privacy', 'Research', 'Bitcoin Core', 'Consensus']",[],delving-bitcoin-1907-4-5698
 "['Proof-of-Work', 'Consensus', 'Security', 'ASIC', 'Mining']",[],delving-bitcoin-1920-1-5699
 "['Fees', 'Research', 'Consensus', 'Mining', 'Validation']",[],delving-bitcoin-1745-27-5700
+"['Security', 'P2P', 'Consensus', 'Mining', 'Bitcoin Core', 'Fees']","['Economic Theory', 'USD', 'Policy']",delving-bitcoin-1886-13-5712
+"['Validation', 'Forks', 'Consensus', 'Mining', 'Blockchain', 'Hashlocks']",[],delving-bitcoin-1745-28-5705
+"['Consensus', 'Research', 'Scalability', 'Forks']",[],delving-bitcoin-1906-6-5711
+"['Difficulty', 'Mining', 'Network']","['Metrics', 'Analytical Tools', 'Measurement', 'Hashrate']",delving-bitcoin-1745-31-5709
+"['Mining', 'Network', 'Blockchain', 'Hash']","['Simulation', 'Block Selection', 'Hash Rate', 'Time Variables', 'Difficulty Adjustment']",delving-bitcoin-1745-29-5706
+"['Protocol', 'BIP']","['Pull Request', 'Open Source', 'Bitcoin Improvement Proposal', 'GitHub', 'Community Feedback', 'Collaboration', 'Infrastructure']",delving-bitcoin-1906-5-5703
+"['Proof-of-Work', 'Forks', 'Consensus', 'Difficulty', 'Mining', 'Timestamping', 'Hashlocks']",[],delving-bitcoin-1745-30-5708
+"['P2P', 'Consensus', 'Block', 'Peer-Discovery', 'Transactions', 'Research', 'BIP', 'Fees']",['Scaling'],delving-bitcoin-1906-7-5713
