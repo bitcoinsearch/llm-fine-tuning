@@ -3314,3 +3314,8 @@ primary_topics,secondary_topics,source_id
 "['Protocol', 'BIP']","['Pull Request', 'Open Source', 'Bitcoin Improvement Proposal', 'GitHub', 'Community Feedback', 'Collaboration', 'Infrastructure']",delving-bitcoin-1906-5-5703
 "['Proof-of-Work', 'Forks', 'Consensus', 'Difficulty', 'Mining', 'Timestamping', 'Hashlocks']",[],delving-bitcoin-1745-30-5708
 "['P2P', 'Consensus', 'Block', 'Peer-Discovery', 'Transactions', 'Research', 'BIP', 'Fees']",['Scaling'],delving-bitcoin-1906-7-5713
+"['Script', 'Soft Fork']",[],delving-bitcoin-1918-2-5715
+"['Mining', 'Hashlocks', 'Error']",['Stdev'],delving-bitcoin-1745-32-5717
+"['Research', 'Scalability', 'Transactions', 'Blockchain', 'Consensus']",[],delving-bitcoin-1867-2-5716
+"['Script', 'Segwit']",[],delving-bitcoin-1900-4-5719
+['Mempool'],"['Compact Blocks', 'Reconciliation Protocol', 'Block Relay', 'Deltas', 'TCP Window Sizes']",delving-bitcoin-1906-8-5722
