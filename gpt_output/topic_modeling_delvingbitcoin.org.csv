@@ -3347,3 +3347,5 @@ primary_topics,secondary_topics,source_id
 "['Cryptography', 'Fuzzing', 'Research']",[],delving-bitcoin-1906-16-5764
 "['Incentives', 'Consensus']",['Economic Theory'],delving-bitcoin-1547-2-5778
 "['Lightning', 'Bitcoin Core', 'Security', 'C-Lightning', 'Build Systems', 'Testing', 'Research', 'Libsecp256k1', 'Lnd', 'Fuzzing']",[],delving-bitcoin-1946-1-5775
+"['Cryptography', 'Fungibility', 'Consensus', 'Research', 'Incentives', 'Bitcoin Core']",['Economics'],delving-bitcoin-1547-3-5781
+"['Proof-of-Stake', 'Consensus', 'Research', 'Bitcoin Core']","['Economics', 'Bitcoin Core Development']",delving-bitcoin-1547-4-5782
