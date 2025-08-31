@@ -3349,3 +3349,5 @@ primary_topics,secondary_topics,source_id
 "['Lightning', 'Bitcoin Core', 'Security', 'C-Lightning', 'Build Systems', 'Testing', 'Research', 'Libsecp256k1', 'Lnd', 'Fuzzing']",[],delving-bitcoin-1946-1-5775
 "['Cryptography', 'Fungibility', 'Consensus', 'Research', 'Incentives', 'Bitcoin Core']",['Economics'],delving-bitcoin-1547-3-5781
 "['Proof-of-Stake', 'Consensus', 'Research', 'Bitcoin Core']","['Economics', 'Bitcoin Core Development']",delving-bitcoin-1547-4-5782
+['Bitcoin Core'],[],delving-bitcoin-1881-2-5780
+"['Soft Fork', 'UTXO']",[],delving-bitcoin-1918-6-5789
