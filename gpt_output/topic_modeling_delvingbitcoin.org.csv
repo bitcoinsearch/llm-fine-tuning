@@ -3353,3 +3353,4 @@ primary_topics,secondary_topics,source_id
 "['Soft Fork', 'UTXO']",[],delving-bitcoin-1918-6-5789
 "['Layer 2', 'Research', 'Fungibility', 'Hashlocks', 'Bech32', 'Script', 'Mining', 'Proof-of-Work', 'Hard Fork', 'P2P', 'Timelocks', 'Security', 'Mempool', 'Fees', 'Attacks', 'Assumeutxo', 'Proof-of-Stake', 'Validation', 'Soft Fork', 'Multisig', 'Segregated Witness', 'Privacy', 'Miners', 'Cryptography', 'Segwit', 'Libbitcoin Kernel', 'Silent Payments', 'Testing', 'Scalability', 'Ethereum', 'Wallet', 'Merkle Trees', 'Fuzzing', 'Consensus']",[],delving-bitcoin-1730-7-5784
 "['Cryptography', 'Proof-of-Work', 'Validation', 'Smart Contracts', 'Consensus', 'Hashlocks']",[],delving-bitcoin-1956-1-5795
+"['Consensus', 'Validation', 'Bitcoin Core', 'Research', 'Security']","['Bitcoin Core Development', 'Open Source']",delving-bitcoin-1184-12-5796
