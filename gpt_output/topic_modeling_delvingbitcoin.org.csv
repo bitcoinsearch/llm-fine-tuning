@@ -3356,3 +3356,6 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Validation', 'Bitcoin Core', 'Research', 'Security']","['Bitcoin Core Development', 'Open Source']",delving-bitcoin-1184-12-5796
 "['Wallet', 'Backup']",[],delving-bitcoin-1607-31-5812
 "['Security', 'Consensus', 'Privacy', 'Bitcoin Core', 'Mining', 'Network', 'Routing', 'Attacks']",['BGP'],delving-bitcoin-1965-1-5832
+"['development', 'security', 'Bitcoin Core']",['Bitcoin network'],delving-bitcoin-1881-3-5836
+"['Tor', 'Wallet', 'Privacy', 'Onion', 'Security']","['Coinjoin', 'BTCPay Server', 'Plugin', 'Developers', 'GitHub']",delving-bitcoin-934-25-5837
+"['Network', 'Bitcoin Core', 'Security']","['Peer Observer', 'BGP', 'Monitoring', 'Autonomous System']",delving-bitcoin-1965-2-5838
