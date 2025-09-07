@@ -3359,3 +3359,7 @@ primary_topics,secondary_topics,source_id
 "['development', 'security', 'Bitcoin Core']",['Bitcoin network'],delving-bitcoin-1881-3-5836
 "['Tor', 'Wallet', 'Privacy', 'Onion', 'Security']","['Coinjoin', 'BTCPay Server', 'Plugin', 'Developers', 'GitHub']",delving-bitcoin-934-25-5837
 "['Network', 'Bitcoin Core', 'Security']","['Peer Observer', 'BGP', 'Monitoring', 'Autonomous System']",delving-bitcoin-1965-2-5838
+"['Routing', 'Security', 'Attacks']",[],delving-bitcoin-1965-4-5841
+"['Stratum-V2', 'Tor']","['Bitcoin Nodes', 'I2P', 'Bitcoin Optech', 'Bitcoin Infrastructure Providers', 'Network Level Attacks', 'Ping Response Times', 'Eclipse Attacks', 'ASPA', 'Autonomous System Provider Authorization', 'Peer Connections', 'Route Changes', 'ROAs', 'Node Operators', 'BGP Interception Attacks', 'BIP324', 'Prefix Hijacking', 'Traceroute', 'CAIDA']",delving-bitcoin-1965-6-5843
+"['Privacy', 'Consensus', 'Forks', 'Network', 'Validation', 'Mining', 'Security']",[],delving-bitcoin-1965-5-5842
+"['Privacy', 'Consensus', 'Network', 'Validation', 'Attacks', 'Routing', 'Security', 'P2P', 'Blockchain']",[],delving-bitcoin-1965-3-5840
