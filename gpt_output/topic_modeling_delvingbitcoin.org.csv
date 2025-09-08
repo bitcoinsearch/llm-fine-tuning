@@ -3363,3 +3363,4 @@ primary_topics,secondary_topics,source_id
 "['Stratum-V2', 'Tor']","['Bitcoin Nodes', 'I2P', 'Bitcoin Optech', 'Bitcoin Infrastructure Providers', 'Network Level Attacks', 'Ping Response Times', 'Eclipse Attacks', 'ASPA', 'Autonomous System Provider Authorization', 'Peer Connections', 'Route Changes', 'ROAs', 'Node Operators', 'BGP Interception Attacks', 'BIP324', 'Prefix Hijacking', 'Traceroute', 'CAIDA']",delving-bitcoin-1965-6-5843
 "['Privacy', 'Consensus', 'Forks', 'Network', 'Validation', 'Mining', 'Security']",[],delving-bitcoin-1965-5-5842
 "['Privacy', 'Consensus', 'Network', 'Validation', 'Attacks', 'Routing', 'Security', 'P2P', 'Blockchain']",[],delving-bitcoin-1965-3-5840
+"['Testing', 'Development', 'IBD', 'Synchronization']","['Efficiency', 'Framework', 'Cross-Platform', 'Sync', 'Beta Testing', 'Feedback', 'Developer Community', 'Open Communication Channel', 'Real-Time Data Exchange']",delving-bitcoin-1562-17-5844
