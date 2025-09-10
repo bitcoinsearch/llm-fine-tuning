@@ -3368,3 +3368,6 @@ primary_topics,secondary_topics,source_id
 "['Synchronization', 'Testing', 'IBD', 'Libbitcoin Kernel', 'UTXO']",['Optimization'],delving-bitcoin-1562-18-5850
 "['OP_RETURN', 'blockchain', 'transactions']","['child pornography', 'images', 'illegal content', 'Bitcoin blockchain', 'technical changes', 'legal risks', 'uploading', 'data visualization', 'misuse', 'mining pools', 'debates', 'innovation']",delving-bitcoin-1689-2-5847
 "['Transactions', 'Bitcoin Core', 'Legal', 'OP_RETURN', 'Blockchain', 'Security']",['CSAM'],delving-bitcoin-1697-6-5848
+"['Op-Return', 'Blockchain']","['Hexadecimal', 'JPEG Images']",delving-bitcoin-1689-4-5854
+"['Security', 'Bitcoin Core', 'Algorithms', 'Validation', 'Hash', 'Schnorr', 'Segregated Witness', 'Proof-of-Stake', 'Consensus', 'Forks', 'Proof-of-Work', 'Research', 'Cryptography', 'Signature']",[],delving-bitcoin-1974-1-5855
+"['Segwit', 'OP_RETURN', 'Script', 'Transactions', 'Blockchain']","['Fragmentation', 'Data', 'Parser']",delving-bitcoin-1689-3-5853
