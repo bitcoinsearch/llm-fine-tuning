@@ -3371,3 +3371,5 @@ primary_topics,secondary_topics,source_id
 "['Op-Return', 'Blockchain']","['Hexadecimal', 'JPEG Images']",delving-bitcoin-1689-4-5854
 "['Security', 'Bitcoin Core', 'Algorithms', 'Validation', 'Hash', 'Schnorr', 'Segregated Witness', 'Proof-of-Stake', 'Consensus', 'Forks', 'Proof-of-Work', 'Research', 'Cryptography', 'Signature']",[],delving-bitcoin-1974-1-5855
 "['Segwit', 'OP_RETURN', 'Script', 'Transactions', 'Blockchain']","['Fragmentation', 'Data', 'Parser']",delving-bitcoin-1689-3-5853
+['Bitcoin Core'],[],delving-bitcoin-1697-8-5857
+"['Build Systems', 'Bitcoin Core', 'Testing', 'Mining', 'Research', 'P2P', 'Fees', 'Validation', 'Mempool']",[],delving-bitcoin-1978-1-5860
