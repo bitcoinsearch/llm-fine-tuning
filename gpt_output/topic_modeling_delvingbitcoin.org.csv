@@ -3373,3 +3373,4 @@ primary_topics,secondary_topics,source_id
 "['Segwit', 'OP_RETURN', 'Script', 'Transactions', 'Blockchain']","['Fragmentation', 'Data', 'Parser']",delving-bitcoin-1689-3-5853
 ['Bitcoin Core'],[],delving-bitcoin-1697-8-5857
 "['Build Systems', 'Bitcoin Core', 'Testing', 'Mining', 'Research', 'P2P', 'Fees', 'Validation', 'Mempool']",[],delving-bitcoin-1978-1-5860
+"['Relay', 'Blockchain', 'P2p', 'Consensus', 'Mining', 'Forks', 'Blocksize']",[],delving-bitcoin-1906-18-5861
