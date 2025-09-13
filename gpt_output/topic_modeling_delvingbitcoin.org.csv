@@ -3374,3 +3374,7 @@ primary_topics,secondary_topics,source_id
 ['Bitcoin Core'],[],delving-bitcoin-1697-8-5857
 "['Build Systems', 'Bitcoin Core', 'Testing', 'Mining', 'Research', 'P2P', 'Fees', 'Validation', 'Mempool']",[],delving-bitcoin-1978-1-5860
 "['Relay', 'Blockchain', 'P2p', 'Consensus', 'Mining', 'Forks', 'Blocksize']",[],delving-bitcoin-1906-18-5861
+"['Fees', 'Package Relay', 'Testing', 'Pools', 'Limitations', 'Mempool', 'Security', 'Research', 'P2P', 'Validation', 'Consensus', 'Attacks', 'Mining']",[],delving-bitcoin-1906-19-5862
+"['Bitcoin Core', 'Testing']",['Bitcoin Core Development'],delving-bitcoin-1980-1-5865
+"['Merkle Trees', 'Consensus', 'Mining']",[],delving-bitcoin-1906-20-5863
+"['Bitcoin Core', 'Forks', 'P2P', 'Validation', 'Consensus', 'Mining']",[],delving-bitcoin-1906-21-5866
