@@ -3378,3 +3378,6 @@ primary_topics,secondary_topics,source_id
 "['Bitcoin Core', 'Testing']",['Bitcoin Core Development'],delving-bitcoin-1980-1-5865
 "['Merkle Trees', 'Consensus', 'Mining']",[],delving-bitcoin-1906-20-5863
 "['Bitcoin Core', 'Forks', 'P2P', 'Validation', 'Consensus', 'Mining']",[],delving-bitcoin-1906-21-5866
+"['Routing', 'Consensus', 'Fees', 'Security', 'Cryptography', 'Multisig', 'Smart Contracts', 'Privacy', 'Lightning']","['Availability', 'Hashed Timelock Contracts', 'Channel', 'Point Time-Locked Contracts']",delving-bitcoin-1983-1-5870
+"['OP_RETURN', 'Tor']","['decentralized network infrastructure', 'node mempool', 'miner actions', 'Bitcoin nodes', 'open-source projects', 'minrelaytxfee', 'communication']",delving-bitcoin-1982-2-5869
+"['Attacks', 'Consensus', 'Bitcoin Core', 'Security', 'Cryptography', 'Soft Fork', 'Validation', 'Privacy']","['Conflicts of Interest', 'Public Engagement']",delving-bitcoin-1982-1-5868
