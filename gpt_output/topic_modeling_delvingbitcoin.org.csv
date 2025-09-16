@@ -3381,3 +3381,7 @@ primary_topics,secondary_topics,source_id
 "['Routing', 'Consensus', 'Fees', 'Security', 'Cryptography', 'Multisig', 'Smart Contracts', 'Privacy', 'Lightning']","['Availability', 'Hashed Timelock Contracts', 'Channel', 'Point Time-Locked Contracts']",delving-bitcoin-1983-1-5870
 "['OP_RETURN', 'Tor']","['decentralized network infrastructure', 'node mempool', 'miner actions', 'Bitcoin nodes', 'open-source projects', 'minrelaytxfee', 'communication']",delving-bitcoin-1982-2-5869
 "['Attacks', 'Consensus', 'Bitcoin Core', 'Security', 'Cryptography', 'Soft Fork', 'Validation', 'Privacy']","['Conflicts of Interest', 'Public Engagement']",delving-bitcoin-1982-1-5868
+"['Peer-discovery', 'Security', 'Validation', 'P2P', 'Attacks', 'Mining', 'Consensus', 'Routing', 'Fuzzing']",[],delving-bitcoin-1965-7-5879
+"['Security', 'Cryptography', 'Database', 'Consensus', 'Terminology']",['Quantum Computing'],delving-bitcoin-1983-3-5881
+"['Security', 'Privacy', 'Lightning', 'Fees', 'Routing']",[],delving-bitcoin-1983-2-5880
+"['Security', 'Privacy', 'Cryptography', 'Bitcoin Core', 'Hashlocks']",['Public Key'],delving-bitcoin-1816-2-5878
