@@ -3391,3 +3391,20 @@ primary_topics,secondary_topics,source_id
 "['Script', 'Cryptography', 'Consensus', 'Taproot']",[],delving-bitcoin-1602-7-5883
 "['Security', 'Consensus', 'Scalability', 'Cryptography', 'Lightning', 'Privacy']",[],delving-bitcoin-1983-5-5886
 "['Topology', 'Lightning']",[],delving-bitcoin-1259-7-5884
+"['Consensus', 'Mining', 'Research']",[],delving-bitcoin-1052-41-5899
+"['Mempool', 'Bitcoin Core', 'Fees', 'Consensus']",[],delving-bitcoin-1991-3-5908
+"['Security', 'Trust', 'Lightning']","['Payment Path', 'Forward Error Correction', 'UDP']",delving-bitcoin-1983-7-5888
+"['Privacy', 'Bitcoin Core', 'Transactions', 'Wallet']",[],delving-bitcoin-1816-4-5909
+"['Trust', 'Security', 'Lightning']","['Online Presence', 'Channel State', 'Onchain Cleanup', 'Payment Channels']",delving-bitcoin-1994-1-5910
+"['Bitcoin Core', 'Privacy', 'Consensus', 'Segwit', 'Lightning', 'Mining', 'Mempool', 'Fees']",[],delving-bitcoin-1991-1-5901
+"['Block', 'Fees', 'Consensus', 'Update Layer', 'Mining', 'P2P']",[],delving-bitcoin-1052-40-5894
+"['Consensus', 'Testing', 'Research', 'Forks']",[],delving-bitcoin-1052-39-5892
+['P2P'],"['RPC', 'Data extraction methods', 'Resilience', 'Node implementations', 'Network security', 'DoS attacks']",delving-bitcoin-1988-2-5895
+"['Scalability', 'Bitcoin Core', 'Consensus', 'Testing', 'Fees']",[],delving-bitcoin-1052-38-5890
+"['Bitcoin Core', 'Security', 'Fees', 'Consensus', 'Research', 'Privacy', 'P2P']",[],delving-bitcoin-1989-2-5897
+"['Bitcoin Core', 'Fees', 'Consensus', 'Research', 'Mining', 'P2P']",[],delving-bitcoin-1989-1-5896
+"['Security', 'Privacy', 'Consensus', 'Mining', 'Mempool', 'Fees']",[],delving-bitcoin-1991-2-5907
+"['Privacy', 'P2P']","['Open Source', 'Infrastructure', 'Monitoring', 'Transparency', 'GitHub']",delving-bitcoin-1988-1-5893
+"['Privacy', 'Cryptography', 'Security']",[],delving-bitcoin-1816-3-5891
+"['Bitcoin Core', 'IBD', 'Synchronization']","['Hardware Capabilities', 'Migration', 'Blockchain Statistics']",delving-bitcoin-1980-2-5898
+"['Mining', 'Mempool', 'Fees', 'Transactions']",['Block Reconstruction'],delving-bitcoin-1052-37-5889
