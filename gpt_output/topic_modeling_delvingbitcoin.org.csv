@@ -3408,3 +3408,10 @@ primary_topics,secondary_topics,source_id
 "['Privacy', 'Cryptography', 'Security']",[],delving-bitcoin-1816-3-5891
 "['Bitcoin Core', 'IBD', 'Synchronization']","['Hardware Capabilities', 'Migration', 'Blockchain Statistics']",delving-bitcoin-1980-2-5898
 "['Mining', 'Mempool', 'Fees', 'Transactions']",['Block Reconstruction'],delving-bitcoin-1052-37-5889
+"['Privacy', 'Bitcoin Core', 'Research', 'Mining', 'Fees', 'P2P', 'Segwit']","['Policy Fees', 'Net Processing']",delving-bitcoin-1989-3-5913
+"['Validation', 'Consensus', 'Security', 'Cryptography', 'Lightning']",[],delving-bitcoin-1983-8-5918
+"['Forks', 'Segregated Witness', 'Consensus', 'Security', 'Cryptography', 'Lightning', 'Script']",[],delving-bitcoin-1994-2-5915
+"['Forks', 'Bitcoin Core', 'Validation', 'Consensus', 'Mining']",[],delving-bitcoin-1980-3-5914
+"['Bitcoin Core', 'IBD', 'Mining', 'Fees', 'P2P']",[],delving-bitcoin-1989-4-5917
+"['Privacy', 'Security', 'Cryptography']",[],delving-bitcoin-1816-5-5912
+"['Fee Management', 'UTXO', 'Fees', 'Lightning']","['Centralization', 'Onchain Resource Utilization', 'Liquidity', 'State Updates', 'Revocation', 'Consolidation', 'Channel Management']",delving-bitcoin-1994-3-5916
