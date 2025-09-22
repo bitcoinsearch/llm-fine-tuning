@@ -3416,3 +3416,6 @@ primary_topics,secondary_topics,source_id
 "['Privacy', 'Security', 'Cryptography']",[],delving-bitcoin-1816-5-5912
 "['Fee Management', 'UTXO', 'Fees', 'Lightning']","['Centralization', 'Onchain Resource Utilization', 'Liquidity', 'State Updates', 'Revocation', 'Consolidation', 'Channel Management']",delving-bitcoin-1994-3-5916
 "['Research', 'Scalability', 'Privacy', 'Routing']",[],delving-bitcoin-1983-9-5939
+"['Consensus', 'Decentralization', 'Lightning', 'Layer 2']",[],delving-bitcoin-1991-4-5941
+"['Privacy', 'Silent Payments', 'Relay']","['Notification', 'Efficiency']",delving-bitcoin-1816-6-5943
+"['Synchronization', 'UTXO', 'Assumeutxo', 'Blockchain']","['Parallelization', 'RAM', 'Node Operations', 'CPU']",delving-bitcoin-1707-35-5944
