@@ -3428,3 +3428,8 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Fees', 'Testing', 'Lightning', 'Hashlocks']",['Lightning Routing'],delving-bitcoin-2010-1-5956
 "['Forks', 'Validation', 'Script', 'Cryptography', 'Research', 'Segregated Witness', 'Threshold Signatures', 'Privacy', 'Multisig', 'Consensus']",[],delving-bitcoin-2009-1-5955
 "['Security', 'Lightning', 'Research', 'Testing']",[],delving-bitcoin-2010-2-5957
+"['Multisig', 'Lightning', 'Forks', 'Scalability', 'Routing', 'Consensus', 'UTXO']",[],delving-bitcoin-1994-4-5961
+"['Privacy', 'Attacks', 'Blockchain', 'Bitcoin Core', 'OP_RETURN', 'Security', 'Cryptography', 'Forks', 'Regulation', 'Consensus']",[],delving-bitcoin-2013-1-5968
+"['Fees', 'Script', 'Security', 'Lightning', 'UTXO', 'Mempool', 'Consensus']",[],delving-bitcoin-1983-12-5962
+"['Privacy', 'Decentralization', 'Layer 2', 'Security', 'Schnorr', 'Client', 'Scalability', 'UTXO', 'Consensus']","['Spam', 'Data Management', 'Layer 1']",delving-bitcoin-1991-6-5963
+"['Privacy', 'Blockchain', 'Fees', 'Layer 2', 'Scalability', 'UTXO', 'Consensus']","['Spam', 'Data Storage', 'Free Speech', 'Centralization', 'Autonomy']",delving-bitcoin-1991-7-5967
