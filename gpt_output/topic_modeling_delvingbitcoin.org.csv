@@ -3433,3 +3433,6 @@ primary_topics,secondary_topics,source_id
 "['Fees', 'Script', 'Security', 'Lightning', 'UTXO', 'Mempool', 'Consensus']",[],delving-bitcoin-1983-12-5962
 "['Privacy', 'Decentralization', 'Layer 2', 'Security', 'Schnorr', 'Client', 'Scalability', 'UTXO', 'Consensus']","['Spam', 'Data Management', 'Layer 1']",delving-bitcoin-1991-6-5963
 "['Privacy', 'Blockchain', 'Fees', 'Layer 2', 'Scalability', 'UTXO', 'Consensus']","['Spam', 'Data Storage', 'Free Speech', 'Centralization', 'Autonomy']",delving-bitcoin-1991-7-5967
+"['Mempool', 'Consensus', 'UTXO', 'Scalability']",['Spam Transactions'],delving-bitcoin-1991-8-5970
+"['Mempool', 'Pruning', 'Forks', 'Consensus', 'Validation', 'Blockchain', 'Proof-of-Work', 'Nodes', 'Transaction-Verification', 'Privacy', 'Relay']",['Spam'],delving-bitcoin-2013-2-5972
+"['UTXO', 'Scalability', 'Consensus']",[],delving-bitcoin-1991-9-5974
