@@ -3436,3 +3436,6 @@ primary_topics,secondary_topics,source_id
 "['Mempool', 'Consensus', 'UTXO', 'Scalability']",['Spam Transactions'],delving-bitcoin-1991-8-5970
 "['Mempool', 'Pruning', 'Forks', 'Consensus', 'Validation', 'Blockchain', 'Proof-of-Work', 'Nodes', 'Transaction-Verification', 'Privacy', 'Relay']",['Spam'],delving-bitcoin-2013-2-5972
 "['UTXO', 'Scalability', 'Consensus']",[],delving-bitcoin-1991-9-5974
+"['Consensus', 'Blockchain', 'UTXO', 'Privacy', 'Scalability']",['Economic Theory'],delving-bitcoin-1991-10-5975
+"['Consensus', 'Legal', 'Blockchain', 'Decentralization']","['Content Distribution', 'Ethical Considerations']",delving-bitcoin-2013-3-5977
+"['Electrum', 'Proof-of-Work', 'Privacy', 'Relay', 'Wallet', 'Silent Payments']","['Spam Filtering', 'Efficiency', 'Protocol Development', 'Notifications']",delving-bitcoin-1816-7-5976
