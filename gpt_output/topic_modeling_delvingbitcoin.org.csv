@@ -3439,3 +3439,4 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Blockchain', 'UTXO', 'Privacy', 'Scalability']",['Economic Theory'],delving-bitcoin-1991-10-5975
 "['Consensus', 'Legal', 'Blockchain', 'Decentralization']","['Content Distribution', 'Ethical Considerations']",delving-bitcoin-2013-3-5977
 "['Electrum', 'Proof-of-Work', 'Privacy', 'Relay', 'Wallet', 'Silent Payments']","['Spam Filtering', 'Efficiency', 'Protocol Development', 'Notifications']",delving-bitcoin-1816-7-5976
+"['Blockchain', 'Decentralization', 'Synchronization', 'Network', 'IBD', 'Pruning', 'Consensus']","['Full Node', 'Centralized Solutions']",delving-bitcoin-2013-4-5978
