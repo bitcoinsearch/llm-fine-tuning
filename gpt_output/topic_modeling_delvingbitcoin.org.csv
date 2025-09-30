@@ -3442,3 +3442,7 @@ primary_topics,secondary_topics,source_id
 "['Blockchain', 'Decentralization', 'Synchronization', 'Network', 'IBD', 'Pruning', 'Consensus']","['Full Node', 'Centralized Solutions']",delving-bitcoin-2013-4-5978
 "['Consensus', 'Security', 'Cryptography', 'Multisig', 'Lightning', 'Threshold Signatures', 'Hardware Wallet']",[],delving-bitcoin-2018-1-5981
 "['Routing', 'Lightning']",[],delving-bitcoin-2003-2-5980
+"['Silent Payments', 'Security', 'Cryptography', 'Privacy']",[],delving-bitcoin-1816-8-5985
+"['Bitcoin Core', 'Privacy', 'Mining', 'Lightning', 'Fees', 'Consensus', 'Scalability']",['LN'],delving-bitcoin-2003-3-5982
+"['Security', 'Wallet', 'Relay', 'Privacy']",[],delving-bitcoin-1816-9-5986
+"['Security', 'Smart Contracts', 'Bitcoin Core', 'Privacy', 'Cryptography', 'Validation', 'Consensus', 'Hardware Wallet']",[],delving-bitcoin-2018-2-5983
