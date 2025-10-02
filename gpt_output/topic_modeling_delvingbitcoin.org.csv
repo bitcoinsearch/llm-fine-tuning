@@ -3449,3 +3449,6 @@ primary_topics,secondary_topics,source_id
 "['Limitations', 'Validation', 'Research', 'Consensus', 'Mempool', 'Miners', 'Package Relay', 'P2P', 'Build Systems', 'Cryptography', 'Testing', 'Topology', 'Fuzzing']",[],delving-bitcoin-1757-11-5990
 "['Transactions', 'Fees', 'BIP']",['Bitcoin Improvement Proposal'],delving-bitcoin-1760-2-5989
 "['Nodes', 'Validation', 'Consensus', 'Bitcoin Core', 'Fees', 'Segregated Witness', 'P2P', 'Soft Fork', 'Relay', 'BIP']",[],delving-bitcoin-2019-1-5987
+"['Cryptography', 'BIP']","['Evolutionary Steps', 'Scripting', 'Cryptographic Strategy', 'Quantum Resistant', 'Post-Quantum Cryptography', 'Security Foresight']",delving-bitcoin-1811-31-5995
+"['Submarine Swaps', 'Electrum']","['Wallet Integration', 'Cryptocurrency Wallets', 'Privacy Enhancement', 'Metadata Leakage', 'Human Readable Parts', 'Color Addresses', 'Whitenoise', 'NIP-17', 'Stealth Addresses', 'MLS', 'NIP-EE']",delving-bitcoin-1816-10-5991
+"['Miners', 'Nodes', 'Mempool', 'Transactions']","['Performance Issues', 'Default Configurations', 'Block Relay', 'Software Version']",delving-bitcoin-1757-12-5992
