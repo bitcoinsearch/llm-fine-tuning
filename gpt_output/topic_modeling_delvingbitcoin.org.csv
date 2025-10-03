@@ -3452,3 +3452,6 @@ primary_topics,secondary_topics,source_id
 "['Cryptography', 'BIP']","['Evolutionary Steps', 'Scripting', 'Cryptographic Strategy', 'Quantum Resistant', 'Post-Quantum Cryptography', 'Security Foresight']",delving-bitcoin-1811-31-5995
 "['Submarine Swaps', 'Electrum']","['Wallet Integration', 'Cryptocurrency Wallets', 'Privacy Enhancement', 'Metadata Leakage', 'Human Readable Parts', 'Color Addresses', 'Whitenoise', 'NIP-17', 'Stealth Addresses', 'MLS', 'NIP-EE']",delving-bitcoin-1816-10-5991
 "['Miners', 'Nodes', 'Mempool', 'Transactions']","['Performance Issues', 'Default Configurations', 'Block Relay', 'Software Version']",delving-bitcoin-1757-12-5992
+"['Validation', 'Segregated Witness', 'Consensus']",[],delving-bitcoin-1742-3-5998
+"['Threshold Signatures', 'Taproot', 'Security', 'Timelocks']","['Dynamic Scenarios', 'Bitcoin Ecosystem', 'Source Code', 'Optimal Threshold', 'Access Probabilities', 'Bitcoin Script', 'GitHub Repository']",delving-bitcoin-2023-1-5996
+"['Fees', 'Threshold Signatures', 'Segregated Witness', 'Bitcoin Core', 'Taproot', 'Transactions', 'Privacy', 'Security', 'Multisig', 'Segwit']",[],delving-bitcoin-2023-2-5997
