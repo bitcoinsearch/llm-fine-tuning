@@ -3455,3 +3455,5 @@ primary_topics,secondary_topics,source_id
 "['Validation', 'Segregated Witness', 'Consensus']",[],delving-bitcoin-1742-3-5998
 "['Threshold Signatures', 'Taproot', 'Security', 'Timelocks']","['Dynamic Scenarios', 'Bitcoin Ecosystem', 'Source Code', 'Optimal Threshold', 'Access Probabilities', 'Bitcoin Script', 'GitHub Repository']",delving-bitcoin-2023-1-5996
 "['Fees', 'Threshold Signatures', 'Segregated Witness', 'Bitcoin Core', 'Taproot', 'Transactions', 'Privacy', 'Security', 'Multisig', 'Segwit']",[],delving-bitcoin-2023-2-5997
+"['Consensus', 'Threshold Signatures', 'Multisig', 'Security', 'Research']",[],delving-bitcoin-2023-4-6002
+"['Consensus', 'Threshold Signatures', 'Multisig', 'Security', 'Research', 'Academia']",[],delving-bitcoin-2023-3-6000
