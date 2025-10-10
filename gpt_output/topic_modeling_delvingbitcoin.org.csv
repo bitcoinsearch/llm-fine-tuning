@@ -3467,3 +3467,5 @@ primary_topics,secondary_topics,source_id
 "['Mempool', 'P2P']","['Peer-to-Peer Messaging', 'Policy Divergence']",delving-bitcoin-1991-13-6023
 "['Testing', 'Bitcoin Core']","['Release', 'Version']",delving-bitcoin-2036-1-6025
 "['Security', 'Research', 'Testing', 'Bitcoin Core']",[],delving-bitcoin-1980-4-6020
+"['Consensus', 'Relay', 'Security', 'Validation', 'Forks', 'Package Relay', 'P2P', 'Blockchain', 'Transactions', 'Miners', 'Privacy']",[],delving-bitcoin-1906-22-6032
+"['Consensus', 'Security', 'Mining']","['Game Theory', 'Vulnerability', 'Power']",delving-bitcoin-1547-9-6035
