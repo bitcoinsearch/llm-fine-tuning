@@ -3469,3 +3469,5 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Research', 'Testing', 'Bitcoin Core']",[],delving-bitcoin-1980-4-6020
 "['Consensus', 'Relay', 'Security', 'Validation', 'Forks', 'Package Relay', 'P2P', 'Blockchain', 'Transactions', 'Miners', 'Privacy']",[],delving-bitcoin-1906-22-6032
 "['Consensus', 'Security', 'Mining']","['Game Theory', 'Vulnerability', 'Power']",delving-bitcoin-1547-9-6035
+['Encryption'],"['Cryptographic Components', 'Atomicity', 'Journaling', 'Checksums', 'Filesystem Design']",delving-bitcoin-2029-4-6038
+"['Forks', 'Validation', 'Fees', 'Consensus', 'Attacks', 'Mining', 'Security', 'Package Relay', 'Routing', 'P2P', 'Mempool']",[],delving-bitcoin-1906-23-6037
