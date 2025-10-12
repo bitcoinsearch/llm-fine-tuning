@@ -3471,3 +3471,6 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Security', 'Mining']","['Game Theory', 'Vulnerability', 'Power']",delving-bitcoin-1547-9-6035
 ['Encryption'],"['Cryptographic Components', 'Atomicity', 'Journaling', 'Checksums', 'Filesystem Design']",delving-bitcoin-2029-4-6038
 "['Forks', 'Validation', 'Fees', 'Consensus', 'Attacks', 'Mining', 'Security', 'Package Relay', 'Routing', 'P2P', 'Mempool']",[],delving-bitcoin-1906-23-6037
+"['Security', 'Privacy', 'Covenants', 'Taproot', 'Consensus', 'Wallet']",[],delving-bitcoin-2047-3-6051
+"['Miniscript', 'Taproot']","['Blockstream', 'GitHub']",delving-bitcoin-2047-2-6049
+"['Security', 'Privacy', 'Miniscript', 'Covenants', 'Taproot', 'Cryptography']",[],delving-bitcoin-2047-1-6048
