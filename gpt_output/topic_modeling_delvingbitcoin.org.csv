@@ -3476,3 +3476,7 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Privacy', 'Miniscript', 'Covenants', 'Taproot', 'Cryptography']",[],delving-bitcoin-2047-1-6048
 "['P2P', 'Installation', 'Bitcoin Core', 'Fees', 'Security', 'Mining', 'Mempool', 'Wallet']",['RPC'],delving-bitcoin-2050-1-6053
 "['BIP', 'Electrum', 'Bitcoin Core', 'Fees', 'Testnet', 'Testing', 'Security', 'Wallet']",[],delving-bitcoin-2049-1-6052
+"['Security', 'Algorithms']","['Machine Learning', 'Programming Languages', 'Data Structures', 'Tools', 'Programming', 'Artificial Intelligence', 'Software Development Methodologies']",delving-bitcoin-2051-1-6054
+"['Transactions', 'Fees', 'Mempool']",[],delving-bitcoin-2052-3-6057
+"['Fees', 'Mempool']","['Block Template', 'TxGraph']",delving-bitcoin-2052-2-6056
+"['Mempool', 'Fees', 'Mining', 'Relay', 'Bitcoin Core']","['Asynchronous Handling', 'Chunk Fee Rate', 'Cluster Mempool', 'Thread Safety', 'RPC', 'Transaction Processing', 'Validation Interface', 'Block Template Manager', 'Fee Rate Diagram', 'Node', 'Bin-Packing Effects', 'Block Template', 'Block Validation']",delving-bitcoin-2052-1-6055
