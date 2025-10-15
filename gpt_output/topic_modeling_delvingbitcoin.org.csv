@@ -3480,3 +3480,10 @@ primary_topics,secondary_topics,source_id
 "['Transactions', 'Fees', 'Mempool']",[],delving-bitcoin-2052-3-6057
 "['Fees', 'Mempool']","['Block Template', 'TxGraph']",delving-bitcoin-2052-2-6056
 "['Mempool', 'Fees', 'Mining', 'Relay', 'Bitcoin Core']","['Asynchronous Handling', 'Chunk Fee Rate', 'Cluster Mempool', 'Thread Safety', 'RPC', 'Transaction Processing', 'Validation Interface', 'Block Template Manager', 'Fee Rate Diagram', 'Node', 'Bin-Packing Effects', 'Block Template', 'Block Validation']",delving-bitcoin-2052-1-6055
+"['Regtest', 'Blockchain', 'Bitcoin Core', 'Storage']","['Disk Usage', 'Chainstate', 'Indexes', 'Blocks', 'Wallets']",delving-bitcoin-2050-3-6061
+['Bitcoin Core'],"['Release Notes', 'Disk Usage', 'Chainstate']",delving-bitcoin-2050-2-6060
+"['Consensus', 'Cryptography', 'Segregated Witness', 'Validation', 'Hard Fork', 'Security', 'Taproot', 'Proof-of-Stake', 'Zero-Knowledge', 'Soft Fork', 'Bitcoin Core', 'C++']",['Bitcoin Core Development'],delving-bitcoin-2056-1-6071
+"['Consensus', 'Segwit', 'Mining', 'Cryptography', 'Fees', 'Proof-of-Work', 'Blockchain', 'Script', 'Security', 'Bitcoin Core', 'Privacy']",[],delving-bitcoin-2056-2-6080
+"['P2p', 'Consensus', 'Mining', 'Wallet', 'Cryptography', 'Research', 'Validation', 'Fees', 'Security', 'Testing', 'Build Systems', 'Bitcoin Core']","['Documentation', 'Contributors']",delving-bitcoin-2061-1-6082
+"['P2P', 'Testing', 'Package Relay', 'Scalability', 'Fuzzing']","['Efficiency', 'Network Performance', 'Bandwidth']",delving-bitcoin-1052-42-6081
+"['Research', 'Attacks', 'Security', 'Lightning', 'Network', 'Routing']",['Fingerprints'],delving-bitcoin-1965-9-6083
