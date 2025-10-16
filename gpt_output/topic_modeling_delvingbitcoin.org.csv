@@ -3487,3 +3487,12 @@ primary_topics,secondary_topics,source_id
 "['P2p', 'Consensus', 'Mining', 'Wallet', 'Cryptography', 'Research', 'Validation', 'Fees', 'Security', 'Testing', 'Build Systems', 'Bitcoin Core']","['Documentation', 'Contributors']",delving-bitcoin-2061-1-6082
 "['P2P', 'Testing', 'Package Relay', 'Scalability', 'Fuzzing']","['Efficiency', 'Network Performance', 'Bandwidth']",delving-bitcoin-1052-42-6081
 "['Research', 'Attacks', 'Security', 'Lightning', 'Network', 'Routing']",['Fingerprints'],delving-bitcoin-1965-9-6083
+"['Privacy', 'Decentralization', 'Forks', 'Security', 'Consensus', 'Validation']",[],delving-bitcoin-2064-1-6087
+"['Consensus', 'Security', 'Bitcoin Core', 'Mempool']",[],delving-bitcoin-2064-6-6094
+"['Custody', 'Routing', 'Lightning']","['LN', 'Infrastructure', 'Adoption', 'Merchants']",delving-bitcoin-2003-4-6091
+"['Bitcoin Core', 'Research']","['Bitcoin development', 'Open-source projects']",delving-bitcoin-2064-2-6088
+"['Bitcoin Core', 'Transactions', 'Mempool', 'Fees']","['Source Code', 'Policy']",delving-bitcoin-2064-5-6093
+"['Network', 'Sidechains', 'Transactions', 'Fees', 'Lightning']",['Channel Liquidity'],delving-bitcoin-2003-5-6095
+['Research'],['Collaboration'],delving-bitcoin-2064-3-6089
+['BIP'],"['blockchain technology development', 'Bitcoin Improvement Proposal', 'stakeholders', 'open-source community', 'collaborative nature', 'feedback process', 'Bitcoin network', 'GitHub', 'developers', 'protocol changes']",delving-bitcoin-1837-6-6086
+"['Decentralization', 'Fee Management', 'Consensus', 'Mempool', 'Transactions', 'Mining']",['Policy'],delving-bitcoin-2064-4-6092
