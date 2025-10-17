@@ -3496,3 +3496,5 @@ primary_topics,secondary_topics,source_id
 ['Research'],['Collaboration'],delving-bitcoin-2064-3-6089
 ['BIP'],"['blockchain technology development', 'Bitcoin Improvement Proposal', 'stakeholders', 'open-source community', 'collaborative nature', 'feedback process', 'Bitcoin network', 'GitHub', 'developers', 'protocol changes']",delving-bitcoin-1837-6-6086
 "['Decentralization', 'Fee Management', 'Consensus', 'Mempool', 'Transactions', 'Mining']",['Policy'],delving-bitcoin-2064-4-6092
+"['Consensus', 'Validation', 'Script', 'Bitcoin Core', 'Privacy', 'Cryptography', 'Fees', 'Segregated Witness', 'Proof-of-Work', 'Research']",[],delving-bitcoin-2056-3-6097
+"['Fuzzing', 'Consensus', 'Scalability', 'Validation', 'Forks', 'Fees', 'Testing', 'Research']",[],delving-bitcoin-1052-43-6096
