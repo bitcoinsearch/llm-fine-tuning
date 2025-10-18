@@ -3498,3 +3498,10 @@ primary_topics,secondary_topics,source_id
 "['Decentralization', 'Fee Management', 'Consensus', 'Mempool', 'Transactions', 'Mining']",['Policy'],delving-bitcoin-2064-4-6092
 "['Consensus', 'Validation', 'Script', 'Bitcoin Core', 'Privacy', 'Cryptography', 'Fees', 'Segregated Witness', 'Proof-of-Work', 'Research']",[],delving-bitcoin-2056-3-6097
 "['Fuzzing', 'Consensus', 'Scalability', 'Validation', 'Forks', 'Fees', 'Testing', 'Research']",[],delving-bitcoin-1052-43-6096
+"['Transactions', 'Mempool', 'Replace-By-Fee']","['RBF', 'Block Discovery', 'Template Sharing', 'Peer', 'INV/GETDATA', 'Timing', 'Template Requests']",delving-bitcoin-1906-24-6099
+"['P2P', 'Testing', 'Server', 'Peer-Discovery']","['Infrastructure', 'GitHub']",delving-bitcoin-1988-3-6101
+"['Soft Fork', 'Segregated Witness', 'Proof-of-Work', 'Zero-Knowledge', 'Market', 'Consensus', 'Testing']",['Source Code'],delving-bitcoin-2056-4-6100
+"['Security', 'Taproot', 'Wallet', 'Timelocks', 'Covenants']",['CSV'],delving-bitcoin-2047-6-6107
+"['Security', 'Taproot', 'Consensus', 'Cryptography', 'Privacy', 'Smart Contracts', 'Wallet', 'Covenants']",[],delving-bitcoin-2047-5-6106
+"['Mining', 'Security', 'Forks', 'Bitcoin Core', 'Consensus', 'Research', 'Attacks']",[],delving-bitcoin-2069-1-6105
+"['Security', 'Miniscript', 'Decentralization', 'Cryptography', 'Scalability']","['Efficiency', 'Programming']",delving-bitcoin-2047-4-6102
