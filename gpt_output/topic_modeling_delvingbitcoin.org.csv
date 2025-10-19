@@ -3505,3 +3505,6 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Taproot', 'Consensus', 'Cryptography', 'Privacy', 'Smart Contracts', 'Wallet', 'Covenants']",[],delving-bitcoin-2047-5-6106
 "['Mining', 'Security', 'Forks', 'Bitcoin Core', 'Consensus', 'Research', 'Attacks']",[],delving-bitcoin-2069-1-6105
 "['Security', 'Miniscript', 'Decentralization', 'Cryptography', 'Scalability']","['Efficiency', 'Programming']",delving-bitcoin-2047-4-6102
+"['Security', 'Consensus', 'Taproot']",['CSV'],delving-bitcoin-2047-7-6108
+"['Covenants', 'Taproot']","['CLTV', 'Bitcoin Optech']",delving-bitcoin-2047-9-6110
+"['Timelocks', 'Consensus', 'Security', 'Taproot', 'Custody']",['CSV'],delving-bitcoin-2047-8-6109
