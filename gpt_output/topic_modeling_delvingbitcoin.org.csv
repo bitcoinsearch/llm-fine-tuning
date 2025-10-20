@@ -3508,3 +3508,4 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Consensus', 'Taproot']",['CSV'],delving-bitcoin-2047-7-6108
 "['Covenants', 'Taproot']","['CLTV', 'Bitcoin Optech']",delving-bitcoin-2047-9-6110
 "['Timelocks', 'Consensus', 'Security', 'Taproot', 'Custody']",['CSV'],delving-bitcoin-2047-8-6109
+"['Privacy', 'Research', 'Fees', 'Consensus']",[],delving-bitcoin-824-8-6111
