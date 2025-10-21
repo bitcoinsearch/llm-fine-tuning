@@ -3509,3 +3509,11 @@ primary_topics,secondary_topics,source_id
 "['Covenants', 'Taproot']","['CLTV', 'Bitcoin Optech']",delving-bitcoin-2047-9-6110
 "['Timelocks', 'Consensus', 'Security', 'Taproot', 'Custody']",['CSV'],delving-bitcoin-2047-8-6109
 "['Privacy', 'Research', 'Fees', 'Consensus']",[],delving-bitcoin-824-8-6111
+"['Scalability', 'Research', 'Consensus', 'Bitcoin Core']",['Governance'],delving-bitcoin-2070-2-6117
+"['Segregated Witness', 'Cryptography', 'Consensus', 'Privacy', 'Forks', 'Bitcoin Core']",[],delving-bitcoin-1991-15-6112
+"['Lightning', 'Cryptography', 'Consensus', 'Privacy', 'Bitcoin Core', 'Fees']","['Policy', 'Spam']",delving-bitcoin-1991-16-6121
+"['Consensus', 'Research']","['Game Theory', 'Economic Theory']",delving-bitcoin-1547-10-6113
+"['Decentralization', 'Consensus']",['Spam'],delving-bitcoin-1692-6-6115
+"['Mining', 'Consensus', 'Privacy', 'Bitcoin Core', 'Fees']",[],delving-bitcoin-1547-11-6114
+"['Lightning', 'Bitcoin Core']","['Nick Szabo', 'Global Economy', 'Blockchain Technology', 'Hal Finney', 'Central Banking', 'Nash', 'Hayek', 'Ideal Money', 'Game Theory', ""Gresham's Law""]",delving-bitcoin-2070-1-6116
+['Mining'],"['Bitcoin', 'Economics']",delving-bitcoin-1692-7-6120
