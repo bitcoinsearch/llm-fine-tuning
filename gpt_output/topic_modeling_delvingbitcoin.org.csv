@@ -3517,3 +3517,4 @@ primary_topics,secondary_topics,source_id
 "['Mining', 'Consensus', 'Privacy', 'Bitcoin Core', 'Fees']",[],delving-bitcoin-1547-11-6114
 "['Lightning', 'Bitcoin Core']","['Nick Szabo', 'Global Economy', 'Blockchain Technology', 'Hal Finney', 'Central Banking', 'Nash', 'Hayek', 'Ideal Money', 'Game Theory', ""Gresham's Law""]",delving-bitcoin-2070-1-6116
 ['Mining'],"['Bitcoin', 'Economics']",delving-bitcoin-1692-7-6120
+"['ASIC', 'Mining']",['Centralization'],delving-bitcoin-1920-2-6123
