@@ -3518,3 +3518,6 @@ primary_topics,secondary_topics,source_id
 "['Lightning', 'Bitcoin Core']","['Nick Szabo', 'Global Economy', 'Blockchain Technology', 'Hal Finney', 'Central Banking', 'Nash', 'Hayek', 'Ideal Money', 'Game Theory', ""Gresham's Law""]",delving-bitcoin-2070-1-6116
 ['Mining'],"['Bitcoin', 'Economics']",delving-bitcoin-1692-7-6120
 "['ASIC', 'Mining']",['Centralization'],delving-bitcoin-1920-2-6123
+['Consensus'],"['Block Size Increase', 'Bitcoin Cash', 'Satoshi Nakamoto', 'Centralization']",delving-bitcoin-1907-5-6136
+"['Consensus', 'Full-Node', 'Decentralization']",[],delving-bitcoin-2079-1-6135
+"['Validation', 'Full-Node', 'Consensus', 'Security', 'Blockchain', 'Privacy', 'Decentralization']",[],delving-bitcoin-2079-2-6137
