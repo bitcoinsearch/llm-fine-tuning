@@ -3521,3 +3521,5 @@ primary_topics,secondary_topics,source_id
 ['Consensus'],"['Block Size Increase', 'Bitcoin Cash', 'Satoshi Nakamoto', 'Centralization']",delving-bitcoin-1907-5-6136
 "['Consensus', 'Full-Node', 'Decentralization']",[],delving-bitcoin-2079-1-6135
 "['Validation', 'Full-Node', 'Consensus', 'Security', 'Blockchain', 'Privacy', 'Decentralization']",[],delving-bitcoin-2079-2-6137
+['Decentralization'],['Full Node'],delving-bitcoin-2079-3-6138
+"['Address', 'Segregated Witness', 'Schnorr']","['Private Key', 'BIP32 HD Wallets', 'Bitcoin Core Development']",delving-bitcoin-2080-1-6139
