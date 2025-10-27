@@ -3526,3 +3526,5 @@ primary_topics,secondary_topics,source_id
 "['Lightning', 'Security', 'Bitcoin Core', 'P2P', 'Privacy', 'Cryptography', 'Validation', 'Nodes', 'Research', 'Wallet', 'Layer 2']",[],delving-bitcoin-2079-5-6142
 "['Security', 'Bitcoin Core', 'Multisig', 'Blockchain', 'Consensus', 'Trust']",[],delving-bitcoin-2079-4-6141
 "['Taproot', 'Custody', 'Covenants']",['Recovery'],delving-bitcoin-2047-10-6143
+"['Validation', 'Covenants', 'Custody', 'Security', 'Taproot', 'Privacy']",[],delving-bitcoin-2047-12-6145
+"['Cryptography', 'Threshold Signatures', 'Validation', 'Covenants', 'Custody', 'Smart Contracts', 'Security', 'Taproot', 'Consensus', 'Forks']",['Recovery'],delving-bitcoin-2047-11-6144
