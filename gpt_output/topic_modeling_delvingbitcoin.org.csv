@@ -3528,3 +3528,8 @@ primary_topics,secondary_topics,source_id
 "['Taproot', 'Custody', 'Covenants']",['Recovery'],delving-bitcoin-2047-10-6143
 "['Validation', 'Covenants', 'Custody', 'Security', 'Taproot', 'Privacy']",[],delving-bitcoin-2047-12-6145
 "['Cryptography', 'Threshold Signatures', 'Validation', 'Covenants', 'Custody', 'Smart Contracts', 'Security', 'Taproot', 'Consensus', 'Forks']",['Recovery'],delving-bitcoin-2047-11-6144
+"['UTXO', 'Blockchain', 'Fungibility']",['MimbleWimble'],delving-bitcoin-2081-3-6151
+"['Hard Fork', 'Research', 'Segregated Witness', 'Altcoin', 'Privacy', 'Atomic Swaps', 'Bitcoin Core', 'Fungibility', 'Consensus', 'Sidechains', 'Cryptography', 'Soft Fork', 'Scalability']","['Lightning Network', 'MimbleWimble']",delving-bitcoin-2081-1-6146
+"['OP_RETURN', 'Segregated Witness', 'Privacy', 'Covenants', 'Blockchain', 'Bitcoin Core']",['Monero'],delving-bitcoin-2081-2-6148
+"['Silent Payments', 'Research', 'Privacy', 'Bitcoin Core', 'Cryptography']",[],delving-bitcoin-2080-3-6149
+"['Decentralization', 'Privacy', 'Consensus', 'Validation', 'Security']","['Collaboration', 'Open-source']",delving-bitcoin-2079-6-6147
