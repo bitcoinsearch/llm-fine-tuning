@@ -3533,3 +3533,5 @@ primary_topics,secondary_topics,source_id
 "['OP_RETURN', 'Segregated Witness', 'Privacy', 'Covenants', 'Blockchain', 'Bitcoin Core']",['Monero'],delving-bitcoin-2081-2-6148
 "['Silent Payments', 'Research', 'Privacy', 'Bitcoin Core', 'Cryptography']",[],delving-bitcoin-2080-3-6149
 "['Decentralization', 'Privacy', 'Consensus', 'Validation', 'Security']","['Collaboration', 'Open-source']",delving-bitcoin-2079-6-6147
+"['Proof-of-Work', 'Consensus', 'Scriptsig', 'Relay', 'Cryptography', 'Soft Fork', 'Blockchain', 'Altcoin', 'Regulation', 'Privacy', 'Fees']",[],delving-bitcoin-2081-5-6154
+"['Consensus', 'Cryptography', 'Mining', 'Regulation', 'Privacy', 'Security']",[],delving-bitcoin-2081-4-6152
