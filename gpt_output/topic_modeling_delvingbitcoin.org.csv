@@ -3535,3 +3535,7 @@ primary_topics,secondary_topics,source_id
 "['Decentralization', 'Privacy', 'Consensus', 'Validation', 'Security']","['Collaboration', 'Open-source']",delving-bitcoin-2079-6-6147
 "['Proof-of-Work', 'Consensus', 'Scriptsig', 'Relay', 'Cryptography', 'Soft Fork', 'Blockchain', 'Altcoin', 'Regulation', 'Privacy', 'Fees']",[],delving-bitcoin-2081-5-6154
 "['Consensus', 'Cryptography', 'Mining', 'Regulation', 'Privacy', 'Security']",[],delving-bitcoin-2081-4-6152
+"['Layer 2', 'Consensus', 'Bitcoin Core', 'Privacy', 'Research', 'Security', 'Lightning']",[],delving-bitcoin-2056-5-6156
+"['Consensus', 'Privacy', 'Validation', 'UTXO', 'P2P', 'Ux', 'Cryptography', 'Security', 'Miners', 'Fees', 'Lightning']",[],delving-bitcoin-2079-8-6158
+"['Testing', 'Bitcoin Core', 'Privacy', 'Research', 'Development']",[],delving-bitcoin-2081-6-6159
+"['Bitcoin Core', 'Decentralization', 'Development']","['CLI', 'Business', 'Blockchain Technology', 'Commercial Use Cases', 'Full Node']",delving-bitcoin-2079-7-6157
