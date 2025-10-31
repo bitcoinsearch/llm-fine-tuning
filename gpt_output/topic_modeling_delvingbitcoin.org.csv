@@ -3539,3 +3539,9 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Privacy', 'Validation', 'UTXO', 'P2P', 'Ux', 'Cryptography', 'Security', 'Miners', 'Fees', 'Lightning']",[],delving-bitcoin-2079-8-6158
 "['Testing', 'Bitcoin Core', 'Privacy', 'Research', 'Development']",[],delving-bitcoin-2081-6-6159
 "['Bitcoin Core', 'Decentralization', 'Development']","['CLI', 'Business', 'Blockchain Technology', 'Commercial Use Cases', 'Full Node']",delving-bitcoin-2079-7-6157
+"['Academia', 'Research']",[],delving-bitcoin-2081-9-6168
+"['Regulation', 'Privacy', 'Bitcoin Core', 'Legal', 'Consensus']",[],delving-bitcoin-2081-8-6166
+"['Decentralization', 'Privacy', 'Consensus', 'Cryptography']",[],delving-bitcoin-2079-9-6167
+"['Protocol', 'Blockchain', 'Privacy', 'Transactions']","['Layer 1', 'Whitepaper']",delving-bitcoin-2081-10-6169
+"['Privacy', 'Cryptography']","['Bitcoin Development', 'Lightning Network', 'Venture Capital']",delving-bitcoin-2081-11-6171
+"['Miniscript', 'Taproot', 'Testnet', 'Segwit']","['HD Wallet Descriptors', 'Bitcoin', 'Mainnet', 'Lift Functionality', 'Collaboration', 'Rust', 'Spending Cost Analysis', 'Sharing', 'Optimization', 'IDE', 'tpubs', 'Compile Debug Info', 'Debugging', 'xpubs']",delving-bitcoin-2086-1-6172
