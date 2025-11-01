@@ -3545,3 +3545,9 @@ primary_topics,secondary_topics,source_id
 "['Protocol', 'Blockchain', 'Privacy', 'Transactions']","['Layer 1', 'Whitepaper']",delving-bitcoin-2081-10-6169
 "['Privacy', 'Cryptography']","['Bitcoin Development', 'Lightning Network', 'Venture Capital']",delving-bitcoin-2081-11-6171
 "['Miniscript', 'Taproot', 'Testnet', 'Segwit']","['HD Wallet Descriptors', 'Bitcoin', 'Mainnet', 'Lift Functionality', 'Collaboration', 'Rust', 'Spending Cost Analysis', 'Sharing', 'Optimization', 'IDE', 'tpubs', 'Compile Debug Info', 'Debugging', 'xpubs']",delving-bitcoin-2086-1-6172
+"['Security', 'Mining', 'Scalability', 'Transactions', 'Proof-of-Work', 'Blockchain', 'Relay', 'Fees']",['Packing'],delving-bitcoin-2056-6-6178
+['Miniscript'],[],delving-bitcoin-2086-3-6175
+"['Mining', 'P2p', 'Consensus', 'Testing', 'Research', 'Bitcoin Core', 'Fees']",[],delving-bitcoin-1052-44-6176
+"['Mining', 'Proof-of-Work', 'Decentralization', 'Incentives', 'Consensus', 'Altcoin', 'Cryptography', 'Privacy']","['Game Theory Principles', 'Peer-to-Peer Electronic Cash System', 'CPU Mining', 'Digital Currency', 'GPU Mining']",delving-bitcoin-2081-12-6177
+['Miniscript'],[],delving-bitcoin-2086-2-6174
+"['Consensus', 'Validation', 'Fuzzing', 'Research', 'Bitcoin Core']",[],delving-bitcoin-87-7-6173
