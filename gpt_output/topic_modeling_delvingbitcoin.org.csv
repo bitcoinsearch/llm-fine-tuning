@@ -3551,3 +3551,6 @@ primary_topics,secondary_topics,source_id
 "['Mining', 'Proof-of-Work', 'Decentralization', 'Incentives', 'Consensus', 'Altcoin', 'Cryptography', 'Privacy']","['Game Theory Principles', 'Peer-to-Peer Electronic Cash System', 'CPU Mining', 'Digital Currency', 'GPU Mining']",delving-bitcoin-2081-12-6177
 ['Miniscript'],[],delving-bitcoin-2086-2-6174
 "['Consensus', 'Validation', 'Fuzzing', 'Research', 'Bitcoin Core']",[],delving-bitcoin-87-7-6173
+"['BIP', 'Protocol']","['Bitcoin Improvement Proposals', 'Open Source', 'GitHub', 'Community Engagement', 'Development Community']",delving-bitcoin-2080-5-6182
+"['BIP', 'Wallet']","['Label Information', 'Restoration Process', 'BIP39', 'Array', 'Transaction Data', 'Birthday', 'Pull Request', 'Labels', 'Scan Action', 'Block Number']",delving-bitcoin-2080-4-6181
+"['ECDSA', 'Bitcoin Core', 'Libsecp256k1']","['Elliptic Curve Cryptography', 'Consensus Code', 'OpenSSL', 'Signature Verification', 'Benchmarking', 'Schnorr Signatures', 'GLV Endomorphism Optimization', 'Performance Optimization', 'Modular Inverses']",delving-bitcoin-2087-1-6180
