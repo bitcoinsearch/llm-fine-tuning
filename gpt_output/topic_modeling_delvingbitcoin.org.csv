@@ -3559,3 +3559,5 @@ primary_topics,secondary_topics,source_id
 "['ECDSA', 'Scalability', 'libsecp256k1']","['Logarithmic Scale', 'Performance Improvements', 'Progress Tracking', 'Percentage Improvements', 'Software Development', 'Human Perception', 'Log Scale', 'Metrics', 'Exponential Growth', 'Data Representation', 'Visual Distortion', 'Updates', 'Continuous Improvement', 'Incremental Advancements', 'Version Releases', 'Graph Visualization', 'Dynamic Document']",delving-bitcoin-2087-3-6187
 "['Cryptography', 'Bitcoin Core', 'Update Layer', 'Development', 'Research', 'Libsecp256k1']",['Open Source'],delving-bitcoin-2087-4-6188
 "['Cryptography', 'Schnorr', 'Consensus', 'Smart Contracts', 'Scalability', 'Research', 'Fees', 'Segregated Witness']",[],delving-bitcoin-2091-1-6190
+"['Cryptography', 'Script', 'UTXO', 'Schnorr', 'Smart Contracts', 'Zero-Knowledge']",[],delving-bitcoin-2056-7-6194
+"['Cryptography', 'Covenants', 'Consensus', 'Schnorr', 'Segregated Witness', 'Fungibility', 'Privacy', 'Scalability']",[],delving-bitcoin-2056-8-6195
