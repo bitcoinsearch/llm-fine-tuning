@@ -3561,3 +3561,4 @@ primary_topics,secondary_topics,source_id
 "['Cryptography', 'Schnorr', 'Consensus', 'Smart Contracts', 'Scalability', 'Research', 'Fees', 'Segregated Witness']",[],delving-bitcoin-2091-1-6190
 "['Cryptography', 'Script', 'UTXO', 'Schnorr', 'Smart Contracts', 'Zero-Knowledge']",[],delving-bitcoin-2056-7-6194
 "['Cryptography', 'Covenants', 'Consensus', 'Schnorr', 'Segregated Witness', 'Fungibility', 'Privacy', 'Scalability']",[],delving-bitcoin-2056-8-6195
+"['Fairness', 'Incentives', 'Decentralization', 'Consensus', 'Security', 'Mining']","['Efficiency', 'Reward Schedule', 'Trustless']",delving-bitcoin-2093-1-6196
