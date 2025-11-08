@@ -3562,3 +3562,7 @@ primary_topics,secondary_topics,source_id
 "['Cryptography', 'Script', 'UTXO', 'Schnorr', 'Smart Contracts', 'Zero-Knowledge']",[],delving-bitcoin-2056-7-6194
 "['Cryptography', 'Covenants', 'Consensus', 'Schnorr', 'Segregated Witness', 'Fungibility', 'Privacy', 'Scalability']",[],delving-bitcoin-2056-8-6195
 "['Fairness', 'Incentives', 'Decentralization', 'Consensus', 'Security', 'Mining']","['Efficiency', 'Reward Schedule', 'Trustless']",delving-bitcoin-2093-1-6196
+"['Consensus', 'Mining', 'Privacy', 'UTXO']",[],delving-bitcoin-2093-3-6199
+"['Cryptography', 'Research', 'Privacy', 'Layer 2', 'Fees', 'Security', 'Consensus', 'Scalability']",[],delving-bitcoin-2056-9-6200
+"['Script', 'Taproot']","['Community Involvement', 'Developers', 'Varops Budget', 'GitHub', 'Schnorr Signatures', 'Benchmarks', 'CPU', 'Sigops', 'Transaction Weight', 'Benchmarking']",delving-bitcoin-2094-1-6198
+"['Block', 'Layer 2', 'P2pool', 'Forks', 'Security', 'Consensus', 'Mining', 'Lightning']",[],delving-bitcoin-2093-2-6197
