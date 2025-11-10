@@ -3566,3 +3566,10 @@ primary_topics,secondary_topics,source_id
 "['Cryptography', 'Research', 'Privacy', 'Layer 2', 'Fees', 'Security', 'Consensus', 'Scalability']",[],delving-bitcoin-2056-9-6200
 "['Script', 'Taproot']","['Community Involvement', 'Developers', 'Varops Budget', 'GitHub', 'Schnorr Signatures', 'Benchmarks', 'CPU', 'Sigops', 'Transaction Weight', 'Benchmarking']",delving-bitcoin-2094-1-6198
 "['Block', 'Layer 2', 'P2pool', 'Forks', 'Security', 'Consensus', 'Mining', 'Lightning']",[],delving-bitcoin-2093-2-6197
+"['SegWit', 'Consensus', 'Mining', 'Proof-of-Stake']","['Solo Mining', 'ASICBOOST']",delving-bitcoin-2093-4-6203
+"['Consensus', 'Decentralization', 'Cryptography', 'Privacy']","['Digital Currency', 'Philosophy', 'Trustless Design']",delving-bitcoin-2096-1-6202
+"['Assumeutxo', 'Scalability', 'Consensus', 'UTXO', 'Mining', 'Research', 'Security', 'IBD', 'Validation']",[],delving-bitcoin-2097-1-6206
+"['Investing', 'Consensus', 'Bitcoin-Economy', 'Proof-of-Work', 'Mining', 'P2pool']",[],delving-bitcoin-2093-7-6207
+"['Sidechains', 'Consensus', 'Miners', 'Forks', 'Mining', 'Merkle Trees', 'Synchronization', 'P2pool', 'Blockchain', 'Validation']",[],delving-bitcoin-2093-5-6204
+"['Soft Fork', 'Consensus', 'Mining', 'Altcoin']",['Bitcoin'],delving-bitcoin-2093-8-6208
+"['Consensus', 'Scalability', 'Forks', 'Smart Contracts', 'Mining', 'Custody', 'Lightning', 'P2pool', 'Zero-Knowledge']","['OP_CTV', 'Centralization', 'Censorship']",delving-bitcoin-2093-6-6205
