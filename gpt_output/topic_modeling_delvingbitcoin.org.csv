@@ -3573,3 +3573,8 @@ primary_topics,secondary_topics,source_id
 "['Sidechains', 'Consensus', 'Miners', 'Forks', 'Mining', 'Merkle Trees', 'Synchronization', 'P2pool', 'Blockchain', 'Validation']",[],delving-bitcoin-2093-5-6204
 "['Soft Fork', 'Consensus', 'Mining', 'Altcoin']",['Bitcoin'],delving-bitcoin-2093-8-6208
 "['Consensus', 'Scalability', 'Forks', 'Smart Contracts', 'Mining', 'Custody', 'Lightning', 'P2pool', 'Zero-Knowledge']","['OP_CTV', 'Centralization', 'Censorship']",delving-bitcoin-2093-6-6205
+"['Atomic Swaps', 'P2pool', 'Script', 'Mining', 'Market', 'Scalability']","['GitHub', 'Coinbase', 'Transaction System', 'Bitcoin Script']",delving-bitcoin-2093-9-6209
+"['libsecp256k1', 'ECDSA', 'scalability']","['cryptographic operations', 'efficiency', 'performance', 'processor architectures', 'cryptographic libraries', 'optimization']",delving-bitcoin-2087-5-6211
+"['P2pool', 'Proof-of-Work', 'Incentives', 'Consensus', 'Mining', 'Market', 'Decentralization']",[],delving-bitcoin-2093-10-6213
+[],"['Errors', 'Script Evaluation', 'OP_DIV', 'Benchmarks', 'Performance Evaluation', 'Compute Units', 'Hashing Algorithm Performance', 'GitHub', 'Operation Costs', 'OP_MOD', 'XOR Tests', 'Input Byte Performance', 'Varops Budget', 'Data Handling', 'Programming Projects', 'Data Analysis', 'Benchmarking']",delving-bitcoin-2094-3-6212
+['Compiling'],"['Script Errors', 'Git', 'Opcode Factors', 'XOR Operations', 'Debug', 'Methodological Improvement', 'Per-Hardware Calculations', 'Hashing Results', 'Script Execution Performance', 'Hardware Performance', 'Varops Budget', 'Stack Setup', 'Benchmarking']",delving-bitcoin-2094-2-6210
