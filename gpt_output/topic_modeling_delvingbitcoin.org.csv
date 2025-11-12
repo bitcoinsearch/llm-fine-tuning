@@ -3578,3 +3578,7 @@ primary_topics,secondary_topics,source_id
 "['P2pool', 'Proof-of-Work', 'Incentives', 'Consensus', 'Mining', 'Market', 'Decentralization']",[],delving-bitcoin-2093-10-6213
 [],"['Errors', 'Script Evaluation', 'OP_DIV', 'Benchmarks', 'Performance Evaluation', 'Compute Units', 'Hashing Algorithm Performance', 'GitHub', 'Operation Costs', 'OP_MOD', 'XOR Tests', 'Input Byte Performance', 'Varops Budget', 'Data Handling', 'Programming Projects', 'Data Analysis', 'Benchmarking']",delving-bitcoin-2094-3-6212
 ['Compiling'],"['Script Errors', 'Git', 'Opcode Factors', 'XOR Operations', 'Debug', 'Methodological Improvement', 'Per-Hardware Calculations', 'Hashing Results', 'Script Execution Performance', 'Hardware Performance', 'Varops Budget', 'Stack Setup', 'Benchmarking']",delving-bitcoin-2094-2-6210
+"['P2pool', 'Atomic Swaps', 'FROST', 'Consensus', 'Script']",[],delving-bitcoin-2093-11-6215
+"['MuSig', 'UTXO', 'Taproot', 'ECDSA', 'Encryption']","['Private Key', 'Schnorr Signatures']",delving-bitcoin-2098-1-6214
+"['Fees', 'Covenants', 'UTXO', 'Market', 'Decentralization', 'Incentives', 'Consensus', 'Mining']",['Reward Schedule'],delving-bitcoin-2093-12-6216
+"['Fees', 'UTXO', 'Lightning', 'Wallet', 'Transactions', 'Replace-By-Fee']",['Protocols'],delving-bitcoin-2098-2-6218
