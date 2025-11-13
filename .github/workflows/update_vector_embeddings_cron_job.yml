@@ -36,3 +36,14 @@ jobs:
 
     - name: Execute Python script
       run: python update_vector_embedding_to_es.py
+
+    - name: Add and commit changes
+      run: |
+        git add .
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git pull
+          git commit -m "Updated logs"
+          git push
+        fi
