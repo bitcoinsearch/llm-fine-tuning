@@ -3582,3 +3582,7 @@ primary_topics,secondary_topics,source_id
 "['MuSig', 'UTXO', 'Taproot', 'ECDSA', 'Encryption']","['Private Key', 'Schnorr Signatures']",delving-bitcoin-2098-1-6214
 "['Fees', 'Covenants', 'UTXO', 'Market', 'Decentralization', 'Incentives', 'Consensus', 'Mining']",['Reward Schedule'],delving-bitcoin-2093-12-6216
 "['Fees', 'UTXO', 'Lightning', 'Wallet', 'Transactions', 'Replace-By-Fee']",['Protocols'],delving-bitcoin-2098-2-6218
+['UTXO'],"['Descriptors', 'Standardization', 'Wallet Recovery']",delving-bitcoin-2080-9-6228
+['BIP'],"['Complex Ideas', 'Technical Discussions', 'Industry Updates', 'Programming', 'Blog Post', 'Summarizing', 'Markdown Syntax', 'Guidelines', 'Emails', 'Private Key']",delving-bitcoin-2080-6-6220
+['Limitations'],"['Programming', 'Output Descriptors', 'Blockchain Technology', 'Documentation', 'Transaction Analysis']",delving-bitcoin-2080-7-6223
+[],"['Hex Pubkey', 'XPRV', 'Descriptors', 'Encoding', 'Cryptographic Communities', 'Secure Transmission', 'Private Key']",delving-bitcoin-2080-8-6224
