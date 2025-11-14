@@ -3586,3 +3586,10 @@ primary_topics,secondary_topics,source_id
 ['BIP'],"['Complex Ideas', 'Technical Discussions', 'Industry Updates', 'Programming', 'Blog Post', 'Summarizing', 'Markdown Syntax', 'Guidelines', 'Emails', 'Private Key']",delving-bitcoin-2080-6-6220
 ['Limitations'],"['Programming', 'Output Descriptors', 'Blockchain Technology', 'Documentation', 'Transaction Analysis']",delving-bitcoin-2080-7-6223
 [],"['Hex Pubkey', 'XPRV', 'Descriptors', 'Encoding', 'Cryptographic Communities', 'Secure Transmission', 'Private Key']",delving-bitcoin-2080-8-6224
+['Cryptography'],"['GPU Mining', 'Benchmarking']",delving-bitcoin-2080-12-6232
+['BIP'],"['Private Key', 'Descriptors']",delving-bitcoin-2080-10-6230
+"['Silent Payments', 'MuSig', 'Taproot', 'Security', 'Verification', 'PSBT']","['BIPs', 'Schnorr signatures', 'Public Key', 'Hashing', 'Interoperability']",delving-bitcoin-877-31-6237
+"['Bitcoin Core', 'Assumeutxo', 'Blockchain', 'Validation', 'IBD', 'Consensus']",[],delving-bitcoin-2094-5-6234
+"['Segwit', 'Taproot', 'Zero-Knowledge', 'Blockchain', 'Validation', 'Signature']",['Optimization'],delving-bitcoin-2094-6-6239
+"['Bitcoin Core', 'Mining', 'Schnorr', 'Verification', 'Fees', 'Mempool', 'IBD']","['Network Performance', 'Benchmarking']",delving-bitcoin-2094-4-6233
+[],"['Transaction Processing Efficiency', 'Extended Public Keys', 'Elliptic Curve', 'Output Descriptors', 'Key Management', 'BIP32']",delving-bitcoin-2080-11-6231
