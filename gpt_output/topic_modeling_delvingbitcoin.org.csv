@@ -3593,3 +3593,8 @@ primary_topics,secondary_topics,source_id
 "['Segwit', 'Taproot', 'Zero-Knowledge', 'Blockchain', 'Validation', 'Signature']",['Optimization'],delving-bitcoin-2094-6-6239
 "['Bitcoin Core', 'Mining', 'Schnorr', 'Verification', 'Fees', 'Mempool', 'IBD']","['Network Performance', 'Benchmarking']",delving-bitcoin-2094-4-6233
 [],"['Transaction Processing Efficiency', 'Extended Public Keys', 'Elliptic Curve', 'Output Descriptors', 'Key Management', 'BIP32']",delving-bitcoin-2080-11-6231
+"['Zero-Knowledge', 'Decentralization', 'Security', 'Smart Contracts', 'Blockchain', 'Ethereum']",[],delving-bitcoin-2056-10-6248
+"['Fees', 'Validation', 'Assumeutxo', 'Bitcoin Core', 'IBD', 'Research']",[],delving-bitcoin-2094-7-6242
+"['Lightning', 'Scalability', 'Miniscript', 'Topology', 'P2P', 'BIP']","['Gossip', 'LN Implementers', 'Erlay', 'Efficiency', 'Set Reconciliation', 'Bandwidth Consumption', 'Hashing']",delving-bitcoin-2105-2-6247
+"['Lightning', 'Taproot', 'P2P']","['Gossip', 'Node Announcement', 'Anomaly Detection', 'Bandwidth Usage', 'Peer-to-Peer Connections', 'Geographic Locations', 'Message Propagation', 'Channel Updates']",delving-bitcoin-2105-1-6246
+"['Mining', 'Consensus', 'Security']","['Transaction Fees', 'Scripting', 'Bitcoin Network', 'Coinbase Maturity', 'Child Pays for Parent (CPFP)']",delving-bitcoin-512-12-6244
