@@ -3598,3 +3598,5 @@ primary_topics,secondary_topics,source_id
 "['Lightning', 'Scalability', 'Miniscript', 'Topology', 'P2P', 'BIP']","['Gossip', 'LN Implementers', 'Erlay', 'Efficiency', 'Set Reconciliation', 'Bandwidth Consumption', 'Hashing']",delving-bitcoin-2105-2-6247
 "['Lightning', 'Taproot', 'P2P']","['Gossip', 'Node Announcement', 'Anomaly Detection', 'Bandwidth Usage', 'Peer-to-Peer Connections', 'Geographic Locations', 'Message Propagation', 'Channel Updates']",delving-bitcoin-2105-1-6246
 "['Mining', 'Consensus', 'Security']","['Transaction Fees', 'Scripting', 'Bitcoin Network', 'Coinbase Maturity', 'Child Pays for Parent (CPFP)']",delving-bitcoin-512-12-6244
+"['Blockchain', 'Zero-Knowledge', 'Research', 'Cryptography', 'Privacy']",[],delving-bitcoin-2056-11-6252
+"['Security', 'Hashlocks', 'Forks', 'Blockchain', 'Consensus', 'Mining', 'Bitcoin Core', 'Validation']",[],delving-bitcoin-2108-1-6254
