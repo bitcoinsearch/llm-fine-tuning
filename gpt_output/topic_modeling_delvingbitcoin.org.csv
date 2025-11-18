@@ -3600,3 +3600,11 @@ primary_topics,secondary_topics,source_id
 "['Mining', 'Consensus', 'Security']","['Transaction Fees', 'Scripting', 'Bitcoin Network', 'Coinbase Maturity', 'Child Pays for Parent (CPFP)']",delving-bitcoin-512-12-6244
 "['Blockchain', 'Zero-Knowledge', 'Research', 'Cryptography', 'Privacy']",[],delving-bitcoin-2056-11-6252
 "['Security', 'Hashlocks', 'Forks', 'Blockchain', 'Consensus', 'Mining', 'Bitcoin Core', 'Validation']",[],delving-bitcoin-2108-1-6254
+"['Blockchain', 'Smart Contracts', 'P2SH']",['Transaction Fees'],delving-bitcoin-512-13-6260
+"['Decentralization', 'Mining', 'Fairness']","['Block Propagation Times', 'Pool Size', 'Network Hashrate Control', 'Simulation', 'P2P Network', 'Centralization', 'P2P Network Improvements', 'Miner Strategies', 'Stale Rate', 'Propagation Delay', 'Hashrate']",delving-bitcoin-2110-1-6256
+"['Network', 'Protocol', 'Block', 'Security', 'Consensus', 'Mining', 'Forks']",['Propagation Delay'],delving-bitcoin-2110-2-6265
+"['Lightning', 'P2P', 'Scalability']","['Efficiency', 'IBLT', 'Minisketch', 'Decoding Costs', 'Communication Overheads']",delving-bitcoin-2105-3-6264
+"['Bitcoin Core', 'Accumulators', 'Assumeutxo', 'UTXO']",[],delving-bitcoin-2097-2-6261
+"['Bech32', 'Zero-Knowledge', 'Hashlocks', 'Silent Payments', 'Incentives', 'Signet', 'Proof-of-Stake', 'Security', 'Fuzzing', 'Assumeutxo', 'Multisig', 'Mining', 'Proof-of-Work', 'Timestamping', 'Threshold Signatures', 'Attacks', 'Atomic Swaps', 'Fungibility', 'Libbitcoin Kernel', 'Testing', 'Segwit', 'Fee Management', 'Pools', 'Fees', 'UTXO', 'Merkle Trees', 'Validation', 'Consensus', 'Mempool', 'Cryptography', 'P2pool', 'Smart Contracts', 'Timelocks', 'Miners', 'P2P', 'Privacy', 'FROST', 'Schnorr', 'Research', 'Scalability']",[],delving-bitcoin-2111-1-6258
+"['Smart Contracts', 'Pools', 'Fees', 'Miners', 'Security', 'Consensus', 'Mining']",['Transaction Fees'],delving-bitcoin-512-14-6262
+"['Bech32', 'Taproot', 'Merkle Trees', 'Security']","['Redemption Time', 'Witness Expressions', 'Commitment Merkle Root', 'Efficiency', 'Blockchain Programming', 'BIP-0341', 'BIP-0340', 'Signature Data', 'Flexibility']",delving-bitcoin-2113-1-6263
