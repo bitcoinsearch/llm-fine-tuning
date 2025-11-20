@@ -3620,3 +3620,13 @@ primary_topics,secondary_topics,source_id
 "['Incentives', 'Fees', 'Miners', 'Consensus', 'Replace-by-Fee', 'Mempool', 'Blockchain']",[],delving-bitcoin-2115-1-6280
 "['Proof-of-Work', 'Bitcoin Core', 'Script']",[],delving-bitcoin-2056-14-6269
 "['Bitcoin Core', 'Consensus', 'Fees', 'P2P', 'Mining', 'Forks', 'Research', 'Blockchain']","['Block Validity', 'Propagation Delay']",delving-bitcoin-2110-4-6273
+"['Decentralization', 'Forks', 'Incentives', 'Mining', 'Consensus', 'Blockchain', 'Protocol', 'P2p']",[],delving-bitcoin-2093-15-6290
+"['Mining', 'Consensus', 'Research', 'Pools', 'Mempool', 'Fees']",[],delving-bitcoin-2115-3-6291
+['Mempool'],['Bitcoin'],delving-bitcoin-2115-2-6289
+"['ASIC', 'Proof-of-Work', 'Decentralization', 'Fairness', 'Incentives', 'Mining', 'Consensus']",['Reward Schedule'],delving-bitcoin-2093-13-6282
+"['Lightning', 'P2P']","['RIBLT', 'IBLT', 'Erlay', 'Cuckoo filters', 'CPU utilization', 'Bandwidth overhead', 'Minisketch']",delving-bitcoin-2105-4-6293
+"['Security', 'Consensus', 'Research', 'P2P', 'Fuzzing']",[],delving-bitcoin-1052-46-6287
+"['P2pool', 'Fairness', 'Mining', 'Pools', 'Fees']",['Reward Schedule'],delving-bitcoin-2093-14-6286
+['P2P'],"['Peer-to-Peer Interaction', 'Optimization', 'Communication', 'Shared Knowledge', 'Indexing', 'Coordination Challenges', 'Collaborative Framework', 'Efficiency']",delving-bitcoin-1052-47-6288
+"['Package Relay', 'Proof-of-Work', 'Cryptography', 'Topology', 'Consensus', 'Research', 'Validation', 'Scalability', 'P2P', 'Mempool', 'Fuzzing']",[],delving-bitcoin-1052-45-6285
+"['Lightning', 'P2P', 'Research']",[],delving-bitcoin-2105-5-6294
