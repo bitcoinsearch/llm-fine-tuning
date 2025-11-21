@@ -3630,3 +3630,7 @@ primary_topics,secondary_topics,source_id
 ['P2P'],"['Peer-to-Peer Interaction', 'Optimization', 'Communication', 'Shared Knowledge', 'Indexing', 'Coordination Challenges', 'Collaborative Framework', 'Efficiency']",delving-bitcoin-1052-47-6288
 "['Package Relay', 'Proof-of-Work', 'Cryptography', 'Topology', 'Consensus', 'Research', 'Validation', 'Scalability', 'P2P', 'Mempool', 'Fuzzing']",[],delving-bitcoin-1052-45-6285
 "['Lightning', 'P2P', 'Research']",[],delving-bitcoin-2105-5-6294
+"['Privacy', 'Multisig', 'Timelocks', 'Regtest', 'SegWit', 'Testnet']","['Bitcoin transactions', 'Online platform', 'Cryptocurrency transactions', 'Mainnet', 'GitHub', 'Educational tool', 'Visual editor', 'Open-source', 'Learning tool', 'Local installation', 'Education', 'Payment channels']",delving-bitcoin-2119-1-6298
+"['Routing', 'Research', 'P2P', 'Mining', 'Consensus', 'Fees', 'Lightning']",['Optimization'],delving-bitcoin-2105-6-6299
+"['Research', 'Proof-of-Work', 'Cryptography', 'Validation', 'Segwit', 'Consensus', 'Fees', 'Schnorr', 'Bitcoin Core']",[],delving-bitcoin-2056-17-6300
+"['Fairness', 'Proof-of-Stake', 'Segregated Witness', 'Forks', 'Decentralization', 'Consensus', 'Scalability', 'Incentives', 'Atomic Swaps', 'Mining', 'P2pool']",[],delving-bitcoin-2093-16-6295
