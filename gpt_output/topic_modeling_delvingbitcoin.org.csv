@@ -3634,3 +3634,7 @@ primary_topics,secondary_topics,source_id
 "['Routing', 'Research', 'P2P', 'Mining', 'Consensus', 'Fees', 'Lightning']",['Optimization'],delving-bitcoin-2105-6-6299
 "['Research', 'Proof-of-Work', 'Cryptography', 'Validation', 'Segwit', 'Consensus', 'Fees', 'Schnorr', 'Bitcoin Core']",[],delving-bitcoin-2056-17-6300
 "['Fairness', 'Proof-of-Stake', 'Segregated Witness', 'Forks', 'Decentralization', 'Consensus', 'Scalability', 'Incentives', 'Atomic Swaps', 'Mining', 'P2pool']",[],delving-bitcoin-2093-16-6295
+"['Research', 'Privacy', 'Development', 'Security', 'Fees', 'Validation', 'Consensus', 'Bitcoin Core']",[],delving-bitcoin-2056-18-6306
+"['Security', 'Cryptography', 'Consensus']",[],delving-bitcoin-2056-20-6308
+"['Mining', 'Fees', 'Mempool', 'Consensus', 'Forks']",[],delving-bitcoin-1052-48-6309
+"['Assumeutxo', 'UTXO']","['Resource Requirements', 'Signature Validation', 'Memory Usage', 'Efficiency Gains', 'Data Management']",delving-bitcoin-2097-3-6304
