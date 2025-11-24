@@ -3640,3 +3640,4 @@ primary_topics,secondary_topics,source_id
 "['Assumeutxo', 'UTXO']","['Resource Requirements', 'Signature Validation', 'Memory Usage', 'Efficiency Gains', 'Data Management']",delving-bitcoin-2097-3-6304
 "['P2P', 'Lightning', 'Scalability']","['Updates', 'Optimization', 'Data Structures']",delving-bitcoin-2105-9-6314
 "['P2P', 'Blockchain', 'Lightning', 'Scalability']","['Bandwidth Usage', 'Data Transmission', 'Data Management', 'Efficiency', 'Performance Optimization', 'Communication Protocols']",delving-bitcoin-2105-7-6312
+"['Transactions', 'Validation', 'Blockchain', 'Mining', 'Consensus', 'Forks']",['Orphaned Transactions'],delving-bitcoin-1052-49-6315
