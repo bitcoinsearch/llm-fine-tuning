@@ -3643,3 +3643,11 @@ primary_topics,secondary_topics,source_id
 "['Transactions', 'Validation', 'Blockchain', 'Mining', 'Consensus', 'Forks']",['Orphaned Transactions'],delving-bitcoin-1052-49-6315
 "['Consensus', 'Fuzzing', 'Bitcoin Core']","['NBitcoin', 'Bug']",delving-bitcoin-2120-1-6318
 "['Bitcoin Core', 'Mempool']",[],delving-bitcoin-1989-5-6317
+"['Proof-of-Work', 'Consensus', 'Fees', 'Mining', 'Market']",[],delving-bitcoin-2093-23-6346
+"['Sidechains', 'Decentralization', 'Incentives', 'Consensus', 'Blockchain', 'Fairness', 'Proof-of-Work', 'Mining']",['Transaction Verification'],delving-bitcoin-2093-20-6339
+"['P2pool', 'Validation', 'Decentralization', 'Miners', 'Network', 'Consensus', 'Blockchain', 'Fees', 'Proof-of-Work', 'Mining', 'Difficulty', 'Scalability']",['Reward Schedule'],delving-bitcoin-2093-18-6320
+"['Sidechains', 'P2P', 'Incentives', 'Consensus', 'UTXO', 'Fairness', 'Fees', 'Mining']",[],delving-bitcoin-2093-22-6342
+"['Forks', 'Incentives', 'Consensus', 'UTXO', 'Fairness', 'Mining', 'Market']","['Reward Schedule', 'Issuance']",delving-bitcoin-2093-21-6341
+"['Lightning', 'P2P', 'Synchronization', 'Blockchain']","['Sketches', 'Efficiency', 'Bandwidth', 'Communication']",delving-bitcoin-2105-10-6347
+"['Pools', 'Lightning', 'Decentralization', 'P2P', 'Atomic Swaps', 'Research', 'Consensus', 'Privacy', 'Hard Fork', 'Altcoin', 'Fees', 'Mining', 'Scalability']",[],delving-bitcoin-2093-19-6321
+"['Decentralization', 'Legal', 'Atomic Swaps', 'Consensus', 'Proof-of-Work', 'Mining', 'Market']",['Transaction Fees'],delving-bitcoin-2093-17-6319
