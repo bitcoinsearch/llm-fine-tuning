@@ -3651,3 +3651,5 @@ primary_topics,secondary_topics,source_id
 "['Lightning', 'P2P', 'Synchronization', 'Blockchain']","['Sketches', 'Efficiency', 'Bandwidth', 'Communication']",delving-bitcoin-2105-10-6347
 "['Pools', 'Lightning', 'Decentralization', 'P2P', 'Atomic Swaps', 'Research', 'Consensus', 'Privacy', 'Hard Fork', 'Altcoin', 'Fees', 'Mining', 'Scalability']",[],delving-bitcoin-2093-19-6321
 "['Decentralization', 'Legal', 'Atomic Swaps', 'Consensus', 'Proof-of-Work', 'Mining', 'Market']",['Transaction Fees'],delving-bitcoin-2093-17-6319
+"['Research', 'BIP', 'Bitcoin Core', 'Development', 'Consensus', 'Testing']",[],delving-bitcoin-710-87-6354
+"['P2P', 'Scalability', 'Lightning']","['Efficiency', 'Message Management', 'Channel Updates', 'Data Reconciliation', 'Network Communication', 'Bandwidth']",delving-bitcoin-2105-11-6353
