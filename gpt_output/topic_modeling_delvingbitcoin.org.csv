@@ -3657,3 +3657,6 @@ primary_topics,secondary_topics,source_id
 "['Nonce', 'SHA256', 'OP_RETURN', 'Consensus', 'BIP', 'Mining']",[],delving-bitcoin-710-88-6355
 "['Fees', 'Security', 'Attacks', 'Lightning']",[],delving-bitcoin-2069-2-6357
 "['Testing', 'Scalability', 'Fuzzing', 'Validation', 'P2P', 'Lightning', 'Research', 'Consensus']",[],delving-bitcoin-2105-13-6358
+"['Blockchain', 'Mempool', 'Transactions']",[],delving-bitcoin-1052-50-6361
+"['Forks', 'Consensus', 'Validation', 'Mining']","['Orphan Transactions', 'Bandwidth Savings', 'Block Reconstruction']",delving-bitcoin-1052-51-6362
+"['Cryptography', 'Blockchain', 'Consensus', 'Smart Contracts', 'Security', 'Mining']",[],delving-bitcoin-1494-4-6360
