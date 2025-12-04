@@ -3660,3 +3660,9 @@ primary_topics,secondary_topics,source_id
 "['Blockchain', 'Mempool', 'Transactions']",[],delving-bitcoin-1052-50-6361
 "['Forks', 'Consensus', 'Validation', 'Mining']","['Orphan Transactions', 'Bandwidth Savings', 'Block Reconstruction']",delving-bitcoin-1052-51-6362
 "['Cryptography', 'Blockchain', 'Consensus', 'Smart Contracts', 'Security', 'Mining']",[],delving-bitcoin-1494-4-6360
+"['Validation', 'Soft Fork', 'Mempool', 'Fees', 'BIP', 'Security', 'Consensus', 'Mining']",[],delving-bitcoin-2139-3-6371
+"['Miners', 'Validation', 'Fees', 'Security', 'Consensus', 'Mining']","['Block Header', 'Orphan Blocks', 'Efficiency']",delving-bitcoin-2139-1-6365
+"['Encryption', 'Cryptography', 'Security']","['Secure Element', 'Memory', 'RISC-V', 'Bitcoin-related use cases', 'Firmware', 'Authentication', 'Performance', 'Audit']",delving-bitcoin-2142-1-6370
+"['Timelocks', 'Protocol', 'Musig', 'Security', 'Zero-Knowledge', 'Testing', 'Regtest']","['Signer', 'Recovery', 'Vault']",delving-bitcoin-2141-1-6368
+['BIP'],['Bitcoin Improvement Proposal'],delving-bitcoin-2080-13-6367
+"['Validation', 'P2P', 'Fees', 'Security', 'Mining', 'Consensus', 'Mempool']","['Centralization Risks', 'Share Relay Speed', 'Optimistic Mining', 'UDP/QUIC Protocol', '51% Attack', 'Braidpool', 'Orphaned Blocks', 'Block Propagation']",delving-bitcoin-2139-2-6369
