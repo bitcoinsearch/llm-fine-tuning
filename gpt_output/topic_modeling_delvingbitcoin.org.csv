@@ -3666,3 +3666,8 @@ primary_topics,secondary_topics,source_id
 "['Timelocks', 'Protocol', 'Musig', 'Security', 'Zero-Knowledge', 'Testing', 'Regtest']","['Signer', 'Recovery', 'Vault']",delving-bitcoin-2141-1-6368
 ['BIP'],['Bitcoin Improvement Proposal'],delving-bitcoin-2080-13-6367
 "['Validation', 'P2P', 'Fees', 'Security', 'Mining', 'Consensus', 'Mempool']","['Centralization Risks', 'Share Relay Speed', 'Optimistic Mining', 'UDP/QUIC Protocol', '51% Attack', 'Braidpool', 'Orphaned Blocks', 'Block Propagation']",delving-bitcoin-2139-2-6369
+"['Trust', 'Bitcoin Core', 'Consensus', 'Protocol', 'Soft Fork', 'Script']","['Honesty', 'Liveness', 'Soft Forks', 'Op-codes', 'Miner Extractable Value (MEV)']",delving-bitcoin-2141-2-6376
+"['Lightning', 'P2P']","['Sketch', 'Computational Cost', 'Information Dissemination', 'Minisketch Library', 'Decoding Process', 'Reconciliation', 'Temporary Solution', 'Early Exit Feature', 'Inefficiency', 'Compute Resources', 'Efficiency', 'Sketch Size Limitation']",delving-bitcoin-2105-15-6375
+"['Lightning', 'Security', 'Consensus', 'Mining', 'Lnd', 'Update Layer', 'Fees', 'Research', 'Attacks']",[],delving-bitcoin-2145-1-6378
+"['Bitcoin Core', 'Consensus', 'Mining', 'Block']","['Coinbase Transaction', 'Safety Margins', 'Revenue', 'Mining Pools', 'Configuration Settings', 'Space Utilization']",delving-bitcoin-710-89-6377
+"['Lightning', 'P2P']","['Bandwidth', 'Computational Resources', 'Simulation', 'Decoding', 'Flexibility']",delving-bitcoin-2105-14-6374
