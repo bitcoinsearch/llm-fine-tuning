@@ -3682,3 +3682,5 @@ primary_topics,secondary_topics,source_id
 "['Script', 'Zero-Knowledge']","['Integers', 'Varops', 'Bitcoin Development', 'Memory Overflow', 'Stack Limits', 'Benchmarks', 'Network Security', 'Validation Times', 'OP_MUL', 'DDoS Attacks', 'Benchmarking', 'Transaction Types']",delving-bitcoin-2094-8-6382
 "['Scalability', 'Blockchain', 'Taproot', 'Consensus', 'Security', 'Development']","['Efficiency', 'Optimization', 'BIPs', 'Adaptability', 'Innovation', 'Flexibility']",delving-bitcoin-2094-9-6385
 "['Lnd', 'Research', 'Lightning', 'Security']","['Patch', 'Preventive Approach', 'Vulnerabilities', 'Cybersecurity', 'Developers']",delving-bitcoin-2145-2-6384
+"['Security', 'Lightning', 'Fees']","['Double Spend', 'Vulnerabilities', 'Interoperability', 'Protocol Stability', 'Disclosure', 'Fee Bumping Strategies', 'Force Close Fees']",delving-bitcoin-2145-6-6391
+"['Consensus', 'Research', 'Security', 'Lightning', 'Fees']",['BOLT'],delving-bitcoin-2145-5-6390
