@@ -3686,3 +3686,11 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Research', 'Security', 'Lightning', 'Fees']",['BOLT'],delving-bitcoin-2145-5-6390
 "['Bitcoin Core', 'Consensus', 'Development', 'Transactions']",['RPC'],delving-bitcoin-2148-1-6394
 "['Smart Contracts', 'Assumeutxo', 'Hashlocks', 'Spv', 'wallet', 'op-return', 'Mempool', 'public-key', 'ledger-hardware-wallet', 'Timestamping', 'Schnorr', 'protocol', 'output', 'Pools', 'Attacks', 'Timelocks', 'full-node', 'Mining', 'P2P', 'trust', 'storage', 'Lightning', 'Soft Fork', 'script', 'error', 'validation', 'Fees', 'Segregated Witness', 'mining-software', 'privacy', 'consensus', 'scriptsig', 'offline', 'Research', 'Multisig', 'Package Relay', 'message-signing', 'verification', 'algorithms', 'Hard Fork', 'scalability', 'Fee Management', 'Security', 'transactions', 'raw-transaction', 'P2pool', 'Validation', 'Consensus', 'Privacy', 'blockchain', 'decentralization', 'Fuzzing', 'Testing', 'block-header', 'Proof-of-Work', 'Proof-of-Stake', 'testnet', 'payment', 'testing', 'Merkle Trees', 'Threshold Signatures', 'network', 'Miners', 'Libbitcoin Kernel', 'Cryptography', 'connection', 'Segwit', 'relay', 'source-code']",[],delving-bitcoin-2150-1-6396
+"['Transactions', 'Blockchain', 'Security']","['Network Performance', 'Anonymity', 'RPC', 'Node']",delving-bitcoin-2148-3-6403
+"['Consensus', 'Security', 'Privacy', 'Timestamping']",[],delving-bitcoin-2148-2-6400
+['UTXO'],"['Bitcoin development community', 'Open discussion', 'Critique', 'Community engagement', 'Bitcoin Improvement Proposal (BIP)']",delving-bitcoin-2153-1-6402
+"['Segwit', 'Privacy', 'Mining', 'UTXO', 'Assumeutxo', 'P2pool', 'Fees', 'Bitcoin Core']",[],delving-bitcoin-1707-37-6405
+"['Consensus', 'Mining', 'Fuzzing', 'Assumeutxo', 'Mempool', 'Security']",[],delving-bitcoin-1707-36-6404
+"['Smart Contracts', 'Ethereum', 'Privacy', 'Multisig', 'Cryptography', 'Security', 'Wallet', 'Lightning']","['Cross-Chain', 'DeFi', 'Web3', 'ERC-4337']",delving-bitcoin-2152-1-6399
+['Script'],"['Communication', 'Proposal']",delving-bitcoin-2150-2-6406
+"['Segwit', 'Consensus', 'Segregated Witness', 'Fees', 'Soft Fork', 'Bitcoin Core']","['Block Size Increase', 'Bitcoin Core Development']",delving-bitcoin-2094-12-6401
