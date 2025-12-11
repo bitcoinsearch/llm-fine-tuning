@@ -3694,3 +3694,9 @@ primary_topics,secondary_topics,source_id
 "['Smart Contracts', 'Ethereum', 'Privacy', 'Multisig', 'Cryptography', 'Security', 'Wallet', 'Lightning']","['Cross-Chain', 'DeFi', 'Web3', 'ERC-4337']",delving-bitcoin-2152-1-6399
 ['Script'],"['Communication', 'Proposal']",delving-bitcoin-2150-2-6406
 "['Segwit', 'Consensus', 'Segregated Witness', 'Fees', 'Soft Fork', 'Bitcoin Core']","['Block Size Increase', 'Bitcoin Core Development']",delving-bitcoin-2094-12-6401
+"['Trust', 'Zero-Knowledge', 'Security', 'Covenants', 'Consensus', 'Taproot']",[],delving-bitcoin-2141-3-6416
+"['Privacy', 'P2P', 'Cryptography', 'Security', 'Decentralization', 'Atomic Swaps', 'Pools', 'Consensus', 'Mining', 'Fungibility']",[],delving-bitcoin-2081-13-6414
+"['Consensus', 'Decentralization', 'UTXO', 'Regulation']",[],delving-bitcoin-2153-2-6415
+"['Blockchain', 'Wallet', 'Client', 'Transactions']","['Node', 'RPC', 'Automation', 'Scheduled Transactions']",delving-bitcoin-2148-4-6411
+['Script'],[],delving-bitcoin-2150-3-6413
+[],"['Tapscript', 'Bitcoin Improvement Proposals', 'Sigversion', 'Security Benefits', 'Schnorr Signatures', 'Denial of Service', 'Computational Budget']",delving-bitcoin-2094-13-6412
