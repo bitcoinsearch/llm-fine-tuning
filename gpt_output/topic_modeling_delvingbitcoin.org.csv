@@ -3700,3 +3700,6 @@ primary_topics,secondary_topics,source_id
 "['Blockchain', 'Wallet', 'Client', 'Transactions']","['Node', 'RPC', 'Automation', 'Scheduled Transactions']",delving-bitcoin-2148-4-6411
 ['Script'],[],delving-bitcoin-2150-3-6413
 [],"['Tapscript', 'Bitcoin Improvement Proposals', 'Sigversion', 'Security Benefits', 'Schnorr Signatures', 'Denial of Service', 'Computational Budget']",delving-bitcoin-2094-13-6412
+"['Cryptography', 'Post-Quantum', 'Encryption', 'Security']","['Computing', 'Quantum']",delving-bitcoin-2158-2-6421
+"['Cryptography', 'Post-Quantum', 'Hashlocks', 'Zero-Knowledge', 'Research', 'Security']",[],delving-bitcoin-2158-1-6418
+"['Mempool', 'Validation', 'Consensus', 'Blocksize', 'Fees', 'Mining']",[],delving-bitcoin-1732-10-6422
