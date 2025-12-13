@@ -3703,3 +3703,6 @@ primary_topics,secondary_topics,source_id
 "['Cryptography', 'Post-Quantum', 'Encryption', 'Security']","['Computing', 'Quantum']",delving-bitcoin-2158-2-6421
 "['Cryptography', 'Post-Quantum', 'Hashlocks', 'Zero-Knowledge', 'Research', 'Security']",[],delving-bitcoin-2158-1-6418
 "['Mempool', 'Validation', 'Consensus', 'Blocksize', 'Fees', 'Mining']",[],delving-bitcoin-1732-10-6422
+[],"['Neural Networks', 'Data Analysis', 'Pattern Recognition', 'Machine Learning', 'Optimization']",delving-bitcoin-1732-12-6425
+"['Block-Size-Increase', 'Consensus', 'Transactions', 'Mempool', 'Transaction-Selection', 'Mining', 'Fees', 'Transaction-Verification']","['Child-Pays-For-Parent', 'Transaction-Relay']",delving-bitcoin-1732-11-6423
+"['Research', 'Bitcoin Core']","['Community Input', 'Revision Process', 'Feedback']",delving-bitcoin-2161-1-6424
