@@ -3706,3 +3706,5 @@ primary_topics,secondary_topics,source_id
 [],"['Neural Networks', 'Data Analysis', 'Pattern Recognition', 'Machine Learning', 'Optimization']",delving-bitcoin-1732-12-6425
 "['Block-Size-Increase', 'Consensus', 'Transactions', 'Mempool', 'Transaction-Selection', 'Mining', 'Fees', 'Transaction-Verification']","['Child-Pays-For-Parent', 'Transaction-Relay']",delving-bitcoin-1732-11-6423
 "['Research', 'Bitcoin Core']","['Community Input', 'Revision Process', 'Feedback']",delving-bitcoin-2161-1-6424
+"['P2P', 'Miners', 'Consensus', 'Privacy', 'Fuzzing', 'Ux', 'Validation', 'Hashlocks', 'Assumeutxo', 'Cryptography', 'Research', 'Mempool', 'Segwit']",[],delving-bitcoin-1707-38-6427
+"['Forks', 'Segregated Witness', 'Security', 'Consensus', 'Blockchain', 'Layer 2', 'Mining', 'Timestamping', 'BIP', 'Soft Fork']","['Longevity', 'Overflow', 'Protocol Development']",delving-bitcoin-2163-1-6428
