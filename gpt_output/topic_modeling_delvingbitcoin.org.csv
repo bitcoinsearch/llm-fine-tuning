@@ -3708,3 +3708,8 @@ primary_topics,secondary_topics,source_id
 "['Research', 'Bitcoin Core']","['Community Input', 'Revision Process', 'Feedback']",delving-bitcoin-2161-1-6424
 "['P2P', 'Miners', 'Consensus', 'Privacy', 'Fuzzing', 'Ux', 'Validation', 'Hashlocks', 'Assumeutxo', 'Cryptography', 'Research', 'Mempool', 'Segwit']",[],delving-bitcoin-1707-38-6427
 "['Forks', 'Segregated Witness', 'Security', 'Consensus', 'Blockchain', 'Layer 2', 'Mining', 'Timestamping', 'BIP', 'Soft Fork']","['Longevity', 'Overflow', 'Protocol Development']",delving-bitcoin-2163-1-6428
+"['Privacy', 'Regulation', 'Consensus', 'Fees', 'Security', 'Bitcoin Core']",[],delving-bitcoin-1991-17-6430
+"['Protocol', 'Lightning', 'P2P', 'API']","['Efficiency', 'Bandwidth Use', 'Encoding', 'Query Protocols', 'Decoding', 'Data Transmission']",delving-bitcoin-2105-16-6435
+"['Soft Fork', 'Hard Fork', 'Timestamping', 'Consensus']",[],delving-bitcoin-2163-2-6429
+"['Privacy', 'UTXO', 'Consensus', 'Fungibility', 'Research']",[],delving-bitcoin-2153-3-6434
+['UTXO'],[],delving-bitcoin-1707-39-6433
