@@ -3713,3 +3713,14 @@ primary_topics,secondary_topics,source_id
 "['Soft Fork', 'Hard Fork', 'Timestamping', 'Consensus']",[],delving-bitcoin-2163-2-6429
 "['Privacy', 'UTXO', 'Consensus', 'Fungibility', 'Research']",[],delving-bitcoin-2153-3-6434
 ['UTXO'],[],delving-bitcoin-1707-39-6433
+"['Post-Quantum', 'Cryptography']",['Checksums'],delving-bitcoin-2158-5-6446
+"['Lightning', 'P2P', 'Protocol']","['Data Exchange', 'Efficiency', 'Bandwidth Usage', 'Community Proposal', 'Innovation', 'Network Communication', 'Decentralized Networks']",delving-bitcoin-2105-19-6441
+"['Lightning', 'BIP', 'P2P']","['Gossip query behavior', 'Reliability', 'Message delays', 'CPU usage', 'Erlay', 'Network view', 'Gossip protocol', 'Bandwidth', 'Tor support', 'Network synchronization', 'Observer tool', 'Message propagation']",delving-bitcoin-2105-18-6440
+"['Fungibility', 'Consensus', 'Mining', 'Proof-of-Work', 'Decentralization', 'Market']",['Economic Theory'],delving-bitcoin-2165-1-6444
+"['Lightning', 'P2P']","['Message Delays', 'Optimizations', 'Network Efficiency', 'Bandwidth', 'Message Propagation', 'Gossip']",delving-bitcoin-2105-17-6438
+"['Post-Quantum', 'Cryptography', 'Security']",[],delving-bitcoin-2158-3-6437
+"['Lightning', 'Consensus', 'Validation', 'Hardware Wallet', 'Topology', 'Routing', 'P2P', 'Fees']",['Raspberry Pi'],delving-bitcoin-2105-20-6442
+"['Hash', 'Post-Quantum', 'Cryptography', 'ASIC']",[],delving-bitcoin-2158-4-6443
+"['Consensus', 'Privacy', 'Zero-Knowledge', 'UTXO', 'Multisig', 'Smart Contracts']","['zkSNARKs', 'Statechains']",delving-bitcoin-2166-1-6445
+"['Post-Quantum', 'Cryptography']",[],delving-bitcoin-2158-6-6447
+"['Hard Fork', 'Timelocks', 'Legal', 'Soft Fork', 'Security']","['Adaptations', 'Foresight', 'Blockchain Protocol Evolution', 'BIP54', 'Confiscation', 'Regulatory']",delving-bitcoin-2163-3-6439
