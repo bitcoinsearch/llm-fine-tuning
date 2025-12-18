@@ -3724,3 +3724,9 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Privacy', 'Zero-Knowledge', 'UTXO', 'Multisig', 'Smart Contracts']","['zkSNARKs', 'Statechains']",delving-bitcoin-2166-1-6445
 "['Post-Quantum', 'Cryptography']",[],delving-bitcoin-2158-6-6447
 "['Hard Fork', 'Timelocks', 'Legal', 'Soft Fork', 'Security']","['Adaptations', 'Foresight', 'Blockchain Protocol Evolution', 'BIP54', 'Confiscation', 'Regulatory']",delving-bitcoin-2163-3-6439
+"['Mining', 'P2pool', 'Decentralization', 'Fairness']","['Transferable Tickets', 'Perpetual Lottery']",delving-bitcoin-2165-2-6452
+"['Hard Fork', 'Consensus', 'Soft Fork']",[],delving-bitcoin-2163-4-6451
+['Privacy'],[],delving-bitcoin-2166-2-6450
+"['Mining', 'Soft Fork', 'Forks', 'Research', 'Validation', 'Bitcoin Core', 'Proof-of-Stake', 'Cryptography', 'Script', 'Fees', 'Segregated Witness', 'Consensus', 'Threshold Signatures']",['Bitcoin Core Development'],delving-bitcoin-2094-14-6454
+"['Security', 'Timestamping', 'Proof-of-Work', 'Hash', 'Block', 'Blockchain', 'Transaction-Verification', 'JSON-RPC', 'Privacy']",[],delving-bitcoin-2166-3-6453
+"['Mining', 'Fees', 'Consensus']","['Risk', 'Economic Theory', 'Interest Rates']",delving-bitcoin-2165-3-6455
