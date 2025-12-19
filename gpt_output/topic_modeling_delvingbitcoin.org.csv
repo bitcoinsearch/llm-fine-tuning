@@ -3730,3 +3730,10 @@ primary_topics,secondary_topics,source_id
 "['Mining', 'Soft Fork', 'Forks', 'Research', 'Validation', 'Bitcoin Core', 'Proof-of-Stake', 'Cryptography', 'Script', 'Fees', 'Segregated Witness', 'Consensus', 'Threshold Signatures']",['Bitcoin Core Development'],delving-bitcoin-2094-14-6454
 "['Security', 'Timestamping', 'Proof-of-Work', 'Hash', 'Block', 'Blockchain', 'Transaction-Verification', 'JSON-RPC', 'Privacy']",[],delving-bitcoin-2166-3-6453
 "['Mining', 'Fees', 'Consensus']","['Risk', 'Economic Theory', 'Interest Rates']",delving-bitcoin-2165-3-6455
+"['Nodes', 'Privacy', 'Network', 'Fees', 'P2P', 'Mempool']",[],delving-bitcoin-1989-6-6460
+"['BIP', 'Segregated Witness', 'UTXO', 'Script', 'Taproot']","['Quantum Resistance', 'OP_TXHASH', 'OP_CTV']",delving-bitcoin-2168-1-6461
+"['Hard Fork', 'Soft Fork', 'Consensus']",[],delving-bitcoin-2163-6-6457
+"['Bitcoin Core', 'P2P', 'Lightning']","['Network Reliability', 'Bandwidth Usage', 'Message Dissemination', 'Message Propagation Efficiency']",delving-bitcoin-2105-21-6458
+"['Consensus', 'Privacy', 'Blockchain', 'Transactions', 'Mining', 'Cryptography']",[],delving-bitcoin-2081-14-6459
+"['Incentives', 'Decentralization', 'Security', 'Mining']","['Risk Management', 'Bitcoin', 'Capital Allocation']",delving-bitcoin-2165-4-6462
+"['Hard Fork', 'Soft Fork', 'Consensus']",[],delving-bitcoin-2163-5-6456
