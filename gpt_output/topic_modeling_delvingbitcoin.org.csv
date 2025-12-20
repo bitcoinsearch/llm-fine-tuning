@@ -3737,3 +3737,6 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Privacy', 'Blockchain', 'Transactions', 'Mining', 'Cryptography']",[],delving-bitcoin-2081-14-6459
 "['Incentives', 'Decentralization', 'Security', 'Mining']","['Risk Management', 'Bitcoin', 'Capital Allocation']",delving-bitcoin-2165-4-6462
 "['Hard Fork', 'Soft Fork', 'Consensus']",[],delving-bitcoin-2163-5-6456
+"['Validation', 'Privacy', 'Consensus', 'Mempool', 'Cryptography', 'Research', 'Forks', 'UTXO', 'Assumeutxo', 'Security', 'Fuzzing']",[],delving-bitcoin-1809-13-6464
+"['Python', 'BIP', 'Security']","['Rust', 'Quantum Resistance']",delving-bitcoin-2170-1-6466
+"['Fees', 'Mining', 'Consensus', 'Pools', 'Incentives', 'Market']",['Risk'],delving-bitcoin-2165-5-6463
