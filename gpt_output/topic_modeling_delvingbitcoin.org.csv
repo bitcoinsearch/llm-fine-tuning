@@ -3740,3 +3740,8 @@ primary_topics,secondary_topics,source_id
 "['Validation', 'Privacy', 'Consensus', 'Mempool', 'Cryptography', 'Research', 'Forks', 'UTXO', 'Assumeutxo', 'Security', 'Fuzzing']",[],delving-bitcoin-1809-13-6464
 "['Python', 'BIP', 'Security']","['Rust', 'Quantum Resistance']",delving-bitcoin-2170-1-6466
 "['Fees', 'Mining', 'Consensus', 'Pools', 'Incentives', 'Market']",['Risk'],delving-bitcoin-2165-5-6463
+"['Mining', 'Custody', 'Privacy', 'Incentives', 'Bitcoin Core', 'Fees', 'Security', 'Pools', 'Validation', 'Consensus']",['Economic Theory'],delving-bitcoin-2165-7-6471
+"['Mining', 'Fees', 'Research', 'Consensus']",[],delving-bitcoin-2165-6-6467
+"['Taproot', 'Smart Contracts', 'Cryptography', 'Terminology', 'Blockchain']",[],delving-bitcoin-2170-2-6469
+"['Mining', 'Decentralization', 'Custody']",[],delving-bitcoin-1753-18-6470
+"['Script', 'UTXO', 'JavaScript']","['Programming', 'Web Applications', 'OP_CTV', 'Data Types', 'Floating-Point Numbers', 'BigInt', 'Financial Computations', 'Integers', 'Cryptocurrency Transactions']",delving-bitcoin-1809-14-6468
