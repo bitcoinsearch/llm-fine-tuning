@@ -3761,3 +3761,12 @@ primary_topics,secondary_topics,source_id
 "['Signature', 'UTXO', 'Taproot', 'Blockchain']",['Transaction'],delving-bitcoin-2177-4-6490
 "['Covenants', 'Segwit', 'BIP', 'Soft Fork', 'Bitcoin Core', 'Forks', 'Consensus', 'Script']",['Bitcoin Core Development'],delving-bitcoin-1809-19-6491
 "['Segwit', 'Bitcoin Core', 'UTXO', 'Taproot', 'Script']",['Witness'],delving-bitcoin-2177-1-6487
+"['Scalability', 'Lightning', 'UTXO', 'Topology']","['Routing Improvements', 'Incentive Structures', 'Trust Issues', 'Hub-and-Spoke Models', 'Liquidity Management', 'Operational Complexities', 'Payment Feasibility', 'Ark Service Provider', 'vTXOs', 'Multi-party State Updates', 'Reallocation', 'Off-chain Rebalancing', 'Inter-round Settlement', 'On-chain Transactions', 'Dynamic Liquidity Pooling', 'Collaborative Effort', 'Channel Graph', 'Channel Factory']",delving-bitcoin-2179-1-6497
+"['Script', 'Fees', 'Package Relay', 'Consensus', 'Blockchain']",['Transaction Fees'],delving-bitcoin-2177-11-6505
+"['Blockchain', 'Scalability', 'Privacy']",[],delving-bitcoin-2177-9-6503
+"['Consensus', 'Scalability', 'Privacy']",[],delving-bitcoin-2177-10-6504
+"['Consensus', 'Smart Contracts', 'Script']",[],delving-bitcoin-2177-5-6498
+"['Security', 'Wallet', 'Privacy', 'Consensus', 'Bitcoin Core', 'Blockchain']",[],delving-bitcoin-2177-7-6501
+"['Consensus', 'UTXO', 'Script']",[],delving-bitcoin-2177-6-6500
+"['Mempool', 'Security', 'P2P', 'Privacy', 'Consensus', 'Routing', 'Lightning']",[],delving-bitcoin-2179-2-6499
+"['Proof-of-Work', 'Fees', 'Scalability', 'Privacy', 'Consensus']",['Energy Consumption'],delving-bitcoin-2177-8-6502
