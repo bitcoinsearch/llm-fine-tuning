@@ -3772,3 +3772,5 @@ primary_topics,secondary_topics,source_id
 "['Proof-of-Work', 'Fees', 'Scalability', 'Privacy', 'Consensus']",['Energy Consumption'],delving-bitcoin-2177-8-6502
 "['Privacy', 'Transactions', 'Consensus', 'Fees', 'Wallet']",[],delving-bitcoin-2177-12-6506
 "['Bitcoin Core', 'Mining', 'Build Systems', 'P2P', 'Testing', 'Wallet']","['GUI', 'Continuous Integration', 'Bitcoin Core Development']",delving-bitcoin-2183-1-6556
+"['Security', 'Cryptography', 'Consensus', 'Research']","['International Cooperation', 'NIST', 'Policy Formulation', 'Quantum Resistant']",delving-bitcoin-2177-13-6557
+"['Fees', 'Network', 'Lightning', 'Payment']","['Capital Allocation', 'Economic Theory', 'Liquidity', 'Channel Factory']",delving-bitcoin-2179-3-6558
