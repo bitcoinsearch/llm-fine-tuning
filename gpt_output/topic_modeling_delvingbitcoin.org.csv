@@ -3775,3 +3775,9 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Cryptography', 'Consensus', 'Research']","['International Cooperation', 'NIST', 'Policy Formulation', 'Quantum Resistant']",delving-bitcoin-2177-13-6557
 "['Fees', 'Network', 'Lightning', 'Payment']","['Capital Allocation', 'Economic Theory', 'Liquidity', 'Channel Factory']",delving-bitcoin-2179-3-6558
 "['Routing', 'Scalability', 'Lightning']","['Channels', 'Scripting', 'Mobile Wallets', 'Interoperability', 'Proof-of-Concept']",delving-bitcoin-2179-4-6560
+"['Bitcoin Core', 'Taproot', 'Segregated Witness', 'Script', 'Research', 'Consensus']",[],delving-bitcoin-2170-5-6561
+['Soft Fork'],['Address Reuse'],delving-bitcoin-2177-14-6567
+"['Fees', 'P2sh', 'Security', 'Blockchain', 'Validation', 'Soft Fork', 'Script', 'Consensus', 'Multisig', 'Privacy', 'Smart Contracts']",[],delving-bitcoin-2170-6-6566
+"['Lightning', 'Trust']","['Layered Network Solutions', 'Liquidity', 'Ark Protocol', 'Inbound Liquidity', 'ASP/LSP Liquidity', 'Channels', 'Payment Feasibility']",delving-bitcoin-2179-6-6564
+"['Payment', 'Routing']","['Standardization', 'Protocol Dynamics', 'Economic Viability', 'Channel Management', 'Liquidity Management', 'Interoperability']",delving-bitcoin-2179-5-6563
+"['Soft Fork', 'Sidechains']","['Core Untouched Soft Fork', 'Bitcoin Improvement Proposals']",delving-bitcoin-2161-2-6568
