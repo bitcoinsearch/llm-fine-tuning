@@ -3785,3 +3785,6 @@ primary_topics,secondary_topics,source_id
 "['Merkle Trees', 'Hash', 'Terminology', 'Cryptography']",['Quantum Resistance'],delving-bitcoin-2170-7-6573
 ['Client'],"['State Transitions', 'Operational Dynamics', 'Forfeit Dance', 'Migration', 'Language Server Protocol', 'Channel']",delving-bitcoin-2179-8-6575
 "['Taproot', 'Security', 'Segwit', 'Miniscript', 'Smart Contracts', 'Cryptography']","['Bitcoin Script', 'LR(1) Parser', 'Signature Verification', 'Type Safety', 'HTLC', 'Static Analysis', 'Conditional Logic', 'Formal Verification', 'Transaction Rules', 'Community Engagement', 'Compiler', 'Opcode Optimization', 'Stack Operations', 'Safety Proofs']",delving-bitcoin-2189-1-6576
+"['Schnorr', 'Cryptography', 'Smart Contracts', 'Scalability', 'Privacy', 'Research']",[],delving-bitcoin-2189-2-6579
+"['Script', 'Signature', 'Bitcoin Core', 'Consensus', 'Validation']","['BIP16', 'Legacy', 'Source Code', 'GitHub', 'Pull Request']",delving-bitcoin-710-90-6582
+['Cryptography'],[],delving-bitcoin-1974-2-6578
