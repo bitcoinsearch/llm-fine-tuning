@@ -3788,3 +3788,5 @@ primary_topics,secondary_topics,source_id
 "['Schnorr', 'Cryptography', 'Smart Contracts', 'Scalability', 'Privacy', 'Research']",[],delving-bitcoin-2189-2-6579
 "['Script', 'Signature', 'Bitcoin Core', 'Consensus', 'Validation']","['BIP16', 'Legacy', 'Source Code', 'GitHub', 'Pull Request']",delving-bitcoin-710-90-6582
 ['Cryptography'],[],delving-bitcoin-1974-2-6578
+"['Consensus', 'Cryptography', 'Zero-Knowledge']",[],delving-bitcoin-2168-3-6585
+"['Fuzzing', 'Security', 'Mining', 'Bitcoin Core', 'Research', 'Testing']",[],delving-bitcoin-2197-1-6588
