@@ -3790,3 +3790,12 @@ primary_topics,secondary_topics,source_id
 ['Cryptography'],[],delving-bitcoin-1974-2-6578
 "['Consensus', 'Cryptography', 'Zero-Knowledge']",[],delving-bitcoin-2168-3-6585
 "['Fuzzing', 'Security', 'Mining', 'Bitcoin Core', 'Research', 'Testing']",[],delving-bitcoin-2197-1-6588
+"['P2P', 'Privacy', 'Nodes', 'Security', 'Decentralization', 'Consensus']",[],delving-bitcoin-2079-14-6619
+"['Decentralization', 'Validation', 'Consensus', 'Scalability']",[],delving-bitcoin-2079-10-6598
+"['Schnorr', 'Taproot', 'Script', 'Segwit']","['Stack Management', 'Compiler']",delving-bitcoin-2189-3-6590
+"['Script', 'Security']","['CTV', 'TXHASH', 'Quantum Resistance', 'P2TR', 'Vulnerabilities']",delving-bitcoin-2168-4-6591
+"['Research', 'Validation', 'Script', 'Bitcoin Core', 'Consensus', 'Blockchain', 'Mining']","['GitHub', 'Efficiency', 'Bitcoin Core Development', 'Mining Strategies', 'Analytical Projects']",delving-bitcoin-2110-5-6620
+"['P2P', 'Nodes', 'Package Relay']","['Distributed Participation', 'Bandwidth Costs', 'Blockchain Network', 'Resource Allocation']",delving-bitcoin-2079-11-6616
+"['Schnorr', 'UTXO']",[],delving-bitcoin-2189-5-6615
+"['Covenants', 'Smart Contracts']","['Introspection', 'Simplification Strategies', 'Formal Verification', 'Optimization']",delving-bitcoin-2189-4-6592
+"['Network', 'Validation', 'P2P', 'Nodes', 'Scalability', 'Consensus']",['Configuration'],delving-bitcoin-2079-13-6618
