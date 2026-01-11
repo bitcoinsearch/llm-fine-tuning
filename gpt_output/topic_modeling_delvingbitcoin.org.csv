@@ -3799,3 +3799,4 @@ primary_topics,secondary_topics,source_id
 "['Schnorr', 'UTXO']",[],delving-bitcoin-2189-5-6615
 "['Covenants', 'Smart Contracts']","['Introspection', 'Simplification Strategies', 'Formal Verification', 'Optimization']",delving-bitcoin-2189-4-6592
 "['Network', 'Validation', 'P2P', 'Nodes', 'Scalability', 'Consensus']",['Configuration'],delving-bitcoin-2079-13-6618
+"['Encryption', 'Security']",[],delving-bitcoin-1607-32-6621
