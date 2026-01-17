@@ -3807,3 +3807,7 @@ primary_topics,secondary_topics,source_id
 "['Routing', 'Lightning', 'Fees', 'Research', 'Payment']","['Liquidity', 'Channel', 'Multi-party Channels', 'Developer Community', 'Networks', 'Protocol Design']",delving-bitcoin-2204-1-6629
 "['Blockchain', 'Transactions', 'Silent Payments', 'Security']",[],delving-bitcoin-2203-2-6628
 "['Silent Payments', 'Security', 'Privacy']","['Nostr', 'JSON', 'Notifications', 'Relays', 'Spam Prevention', 'Metadata Leakage', 'Communication Layer', 'Stealth Addresses']",delving-bitcoin-2203-1-6626
+"['Validation', 'Research', 'Consensus']",[],delving-bitcoin-1419-10-6630
+"['Fees', 'Research']",['Optimization'],delving-bitcoin-1419-11-6633
+['Lightning'],['Payment Channel Networks'],delving-bitcoin-2204-2-6632
+"['Bitcoin Core', 'BIP', 'PSBT', 'Silent Payments']","['Community Involvement', 'Bitcoin Development', 'GitHub']",delving-bitcoin-877-32-6631
