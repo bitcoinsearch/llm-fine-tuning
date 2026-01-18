@@ -3811,3 +3811,5 @@ primary_topics,secondary_topics,source_id
 "['Fees', 'Research']",['Optimization'],delving-bitcoin-1419-11-6633
 ['Lightning'],['Payment Channel Networks'],delving-bitcoin-2204-2-6632
 "['Bitcoin Core', 'BIP', 'PSBT', 'Silent Payments']","['Community Involvement', 'Bitcoin Development', 'GitHub']",delving-bitcoin-877-32-6631
+"['Proof-of-Work', 'Smart Contracts', 'Mempool', 'Blockchain', 'Timestamping', 'Cryptography', 'Privacy', 'Wallet', 'Validation', 'Electrum', 'Security']","['Transaction Verification', 'Web Archiving Services', 'Public Key', 'Transaction Fees']",delving-bitcoin-1816-12-6636
+"['Lightning', 'Package Relay', 'IBD', 'Bitcoin Core', 'Mempool', 'Consensus', 'P2P', 'Cryptography', 'Assumeutxo', 'Research', 'Privacy', 'Segwit', 'Fees', 'Wallet', 'Validation', 'Mining', 'Security']",[],delving-bitcoin-2201-2-6637
