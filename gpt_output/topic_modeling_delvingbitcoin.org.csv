@@ -3818,3 +3818,7 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Silent Payments', 'Privacy']","['Wallet Design', 'Light Clients', 'Efficiency', 'Transaction Verification', 'Trust Dynamics', 'Client Design']",delving-bitcoin-2203-3-6642
 "['Taproot', 'Security', 'Privacy', 'Post-Quantum', 'Cryptography']",[],delving-bitcoin-2158-8-6649
 "['Privacy', 'Post-Quantum', 'Cryptography', 'UTXO']",[],delving-bitcoin-2177-15-6648
+"['Cryptography', 'Segregated Witness', 'Consensus', 'Bitcoin Core', 'Script', 'Hashlocks', 'Threshold Signatures']","['OP_CAT', 'Satoshi Nakamoto', 'Quantum Resistance']",delving-bitcoin-2207-1-6653
+"['Wallet', 'Post-Quantum', 'Seed', 'UTXO']","['Address Reuse', 'OP_XMSS', 'XMSS', 'State Management']",delving-bitcoin-2158-9-6650
+"['Taproot', 'Post-Quantum', 'Privacy', 'Cryptography', 'Merkle Trees', 'Security']",[],delving-bitcoin-2158-10-6651
+"['Forks', 'Scalability', 'P2pool', 'UTXO', 'Mining', 'Consensus', 'Fairness', 'Incentives']","['Mining Pools', 'Solo Mining', 'FIFO Queue', 'Token Issuance', 'Pool Mining', 'Share Burning', 'Share Management', 'Scalability Challenges']",delving-bitcoin-2165-9-6654
