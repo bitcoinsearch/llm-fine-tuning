@@ -3822,3 +3822,7 @@ primary_topics,secondary_topics,source_id
 "['Wallet', 'Post-Quantum', 'Seed', 'UTXO']","['Address Reuse', 'OP_XMSS', 'XMSS', 'State Management']",delving-bitcoin-2158-9-6650
 "['Taproot', 'Post-Quantum', 'Privacy', 'Cryptography', 'Merkle Trees', 'Security']",[],delving-bitcoin-2158-10-6651
 "['Forks', 'Scalability', 'P2pool', 'UTXO', 'Mining', 'Consensus', 'Fairness', 'Incentives']","['Mining Pools', 'Solo Mining', 'FIFO Queue', 'Token Issuance', 'Pool Mining', 'Share Burning', 'Share Management', 'Scalability Challenges']",delving-bitcoin-2165-9-6654
+"['Mining', 'Testing', 'Segregated Witness', 'Cryptography']","['Scripting', 'Quantum Resistance']",delving-bitcoin-2207-2-6658
+"['Cryptography', 'Hardware Wallet', 'Post-Quantum', 'Validation', 'Security']",[],delving-bitcoin-2158-11-6656
+"['Protocol', 'Bitcoin Core', 'Splicing', 'Lightning', 'Taproot', 'Blockchain']","['GitHub', 'Invoices', 'Gossip', 'Authentication', 'Onion Routing', 'Programming']",delving-bitcoin-2209-1-6661
+"['Silent Payments', 'Trust', 'Taproot']","['Light Clients', 'Web of Trust', 'Transaction Verification', 'Protocol Design']",delving-bitcoin-2203-4-6657
