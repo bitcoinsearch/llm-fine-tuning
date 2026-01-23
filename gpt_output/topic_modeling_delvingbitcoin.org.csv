@@ -3826,3 +3826,11 @@ primary_topics,secondary_topics,source_id
 "['Cryptography', 'Hardware Wallet', 'Post-Quantum', 'Validation', 'Security']",[],delving-bitcoin-2158-11-6656
 "['Protocol', 'Bitcoin Core', 'Splicing', 'Lightning', 'Taproot', 'Blockchain']","['GitHub', 'Invoices', 'Gossip', 'Authentication', 'Onion Routing', 'Programming']",delving-bitcoin-2209-1-6661
 "['Silent Payments', 'Trust', 'Taproot']","['Light Clients', 'Web of Trust', 'Transaction Verification', 'Protocol Design']",delving-bitcoin-2203-4-6657
+"['Privacy', 'P2P']",[],delving-bitcoin-2148-5-6670
+"['Security', 'Cryptography', 'Post-Quantum', 'Backup']",['Key Management'],delving-bitcoin-2158-13-6672
+"['Research', 'Cryptography', 'Scalability', 'Blockchain', 'Smart Contracts']","['SNARKs', 'Efficiency', 'Garbling']",delving-bitcoin-2210-1-6662
+"['Mempool', 'Op-return', 'Regtest', 'Package Relay']","['Anchor Bumping', 'Cooperative Closures', 'Bolt Draft Revisions', 'Proof-of-Concept (PoC)', 'Community Involvement', 'GitHub Repositories']",delving-bitcoin-359-17-6671
+"['Bitcoin Core', 'Consensus', 'Mempool', 'Cryptography', 'Validation', 'IBD', 'Topology', 'Assumeutxo', 'Fuzzing', 'Scalability', 'Package Relay', 'Zero-Knowledge', 'Ux', 'Security', 'Lightning', 'Libbitcoin Kernel', 'Forks', 'P2P', 'Mining', 'Build Systems', 'Wallet', 'Proof-of-Work', 'Hashlocks', 'Segregated Witness', 'Miners', 'Research', 'Timelocks']",[],delving-bitcoin-2201-4-6665
+"['Bitcoin Core', 'Security', 'Mempool', 'Hashlocks', 'Libbitcoin Kernel', 'Miners', 'Research', 'P2P', 'Privacy', 'Cryptography', 'Storage', 'Validation', 'Mining', 'Build Systems', 'Assumeutxo', 'Fuzzing']",[],delving-bitcoin-2201-6-6667
+"['Consensus', 'Assumeutxo', 'Scalability', 'Validation']",[],delving-bitcoin-2201-5-6666
+"['Security', 'Seed', 'Post-Quantum', 'Validation', 'Encryption']",[],delving-bitcoin-2158-12-6669
