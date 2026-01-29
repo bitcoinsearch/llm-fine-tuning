@@ -3851,3 +3851,11 @@ primary_topics,secondary_topics,source_id
 "['Sphinx', 'Segwit', 'Smart Contracts', 'Mempool', 'Eltoo', 'Multisig', 'Testing', 'Fees', 'Path-Finding', 'Research', 'Fungibility', 'P2P', 'Accumulators', 'Forks', 'Package Relay', 'Pools', 'Libsecp256k1', 'Layer 2', 'RGB', 'Attacks', 'C-Lightning', 'PSBT', 'Lightning', 'Splicing', 'Update Layer', 'Cryptography', 'Wallet', 'Submarine Swaps', 'Musig', 'Regulation', 'Script', 'P2pool', 'Assumeutxo', 'Altcoin', 'IBD', 'Security', 'Onion', 'Limitations', 'Lnd', 'Covenants', 'Bitcoin Core', 'Schnorr', 'Asmap', 'Taproot', 'Ux', 'Routing', 'Eclair', 'Stratum-V2', 'Scalability', 'Libbitcoin Kernel', 'Fuzzing', 'Threshold Signatures', 'Soft Fork', 'Multiple-Path Payments', 'Hard Fork', 'Privacy', 'Miniscript', 'Hardware Wallet', 'Signet', 'Mining', 'Sidechains', 'FROST', 'Academia', 'Silent Payments', 'Consensus', 'Routing Failures']",['Zero'],delving-bitcoin-2215-4-6690
 "['Regtest', 'Transactions', 'Script']","['Denial of Service', 'Performance', 'Blocks', 'Vulnerabilities', 'Performance Scaling', 'Benchmarking', 'Development Environment', 'Software Versions', 'Compatibility', 'Chain', 'Optimization', 'System Evolution']",delving-bitcoin-2094-16-6685
 "['Security', 'Cryptography', 'Validation', 'Post-Quantum']",[],delving-bitcoin-2158-14-6694
+['Blockchain'],"['Block Height', 'Transaction Scheduling']",delving-bitcoin-2148-9-6703
+"['Script', 'Taproot', 'BIP']",['Bitcoin Script'],delving-bitcoin-2170-8-6704
+"['Libbitcoin Kernel', 'Fuzzing', 'Mempool', 'Scalability', 'P2P', 'Validation', 'UTXO', 'Assumeutxo']",[],delving-bitcoin-2201-8-6699
+"['MuSig', 'Threshold Signatures', 'Cryptography', 'Security']",['Elliptic Curve'],delving-bitcoin-2217-3-6698
+['Musig'],"['Transaction Validation', 'Policy', 'Authorization', 'Signatures']",delving-bitcoin-2217-2-6696
+"['Script', 'Merkle Trees']",[],delving-bitcoin-2170-9-6705
+"['Mining', 'Proof-of-Work', 'Cryptography', 'Consensus', 'Security', 'Privacy', 'Script', 'Fees']",[],delving-bitcoin-2168-5-6701
+"['Storage', 'Package Relay', 'Mining', 'Fuzzing', 'Mempool', 'IBD', 'Scalability', 'P2P', 'Validation', 'Assumeutxo', 'Segwit', 'Fees']",[],delving-bitcoin-2201-9-6700
