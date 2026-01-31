@@ -3859,3 +3859,8 @@ primary_topics,secondary_topics,source_id
 "['Script', 'Merkle Trees']",[],delving-bitcoin-2170-9-6705
 "['Mining', 'Proof-of-Work', 'Cryptography', 'Consensus', 'Security', 'Privacy', 'Script', 'Fees']",[],delving-bitcoin-2168-5-6701
 "['Storage', 'Package Relay', 'Mining', 'Fuzzing', 'Mempool', 'IBD', 'Scalability', 'P2P', 'Validation', 'Assumeutxo', 'Segwit', 'Fees']",[],delving-bitcoin-2201-9-6700
+"['Cryptography', 'Security']",[],delving-bitcoin-2207-3-6707
+"['Multisig', 'Zero-Knowledge', 'Threshold Signatures', 'Cryptography', 'Schnorr']",[],delving-bitcoin-2217-4-6711
+"['Security', 'UTXO', 'Privacy']",[],delving-bitcoin-2215-7-6708
+"['UTXO', 'Bitcoin Core']","['RPC', 'CSV', 'GitHub', 'Community', 'Pull Request', 'SQL']",delving-bitcoin-2215-8-6709
+"['Assumeutxo', 'Utxo']",[],delving-bitcoin-2215-9-6710
