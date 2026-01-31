@@ -1,21 +1,23 @@
 import os
 import re
-import shutil
+# import shutil
 import traceback
 import pandas as pd
 from dotenv import load_dotenv
 from dateutil.parser import parse
 from loguru import logger
 import warnings
-
+from datetime import datetime
+import csv
+from src.elasticsearch_utils import ElasticSearchClient
 warnings.filterwarnings("ignore")
 load_dotenv()
 
 
 month_dict = {
-            1: "Jan", 2: "Feb", 3: "March", 4: "April", 5: "May", 6: "June",
-            7: "July", 8: "Aug", 9: "Sept", 10: "Oct", 11: "Nov", 12: "Dec"
-        }
+    1: "Jan", 2: "Feb", 3: "March", 4: "April", 5: "May", 6: "June",
+    7: "July", 8: "Aug", 9: "Sept", 10: "Oct", 11: "Nov", 12: "Dec"
+}
 
 # pre-compile the patterns
 regex_url = re.compile(r'http\S+|www\S+|https\S+')
@@ -243,3 +245,35 @@ def get_duplicated_docs_ids(df):
     logger.info(f"Total: {len(total_ids)}, Keeping: {df_to_keep.shape[0]}, Dropping: {len(ids_to_drop)}")
 
     return ids_to_drop
+
+
+def log_csv(file_name, url=None, inserted=0, updated=0, no_changes=0, folder_path="daily_logs",
+            error="False", error_log="---"):
+    date = datetime.utcnow().strftime("%d_%m_%Y")
+    month_year = datetime.utcnow().strftime("%Y_%m")
+    time = datetime.utcnow().strftime("%H:%M:%S")
+
+    log_folder_path = os.path.join(folder_path, month_year)
+    if not os.path.exists(log_folder_path):
+        os.makedirs(log_folder_path)
+
+    csv_file_path = os.path.join(log_folder_path, f'{date}_logs.csv')
+    with open(csv_file_path, mode='a', newline='') as csv_file:
+        writer = csv.writer(csv_file)
+        if csv_file.tell() == 0:
+            writer.writerow(
+                ['Date', 'Time', 'File name', 'URL', 'Inserted records', 'Updated records', 'No changes records',
+                 'Total records', 'Error', 'Error log'])
+
+        total_docs = 0
+
+        if isinstance(url, str):
+            total_docs = ElasticSearchClient().get_domain_counts(index_name=os.getenv('INDEX'), domain=url)
+
+        elif isinstance(url, list):
+            for i in url:
+                t_docs = ElasticSearchClient().get_domain_counts(index_name=os.getenv('INDEX'), domain=i)
+                total_docs += t_docs
+
+        writer.writerow([date, time, file_name, url, inserted, updated, no_changes, total_docs, error, error_log])
+    logger.success("CSV Update Successfully :)")
