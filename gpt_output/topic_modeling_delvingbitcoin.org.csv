@@ -3864,3 +3864,4 @@ primary_topics,secondary_topics,source_id
 "['Security', 'UTXO', 'Privacy']",[],delving-bitcoin-2215-7-6708
 "['UTXO', 'Bitcoin Core']","['RPC', 'CSV', 'GitHub', 'Community', 'Pull Request', 'SQL']",delving-bitcoin-2215-8-6709
 "['Assumeutxo', 'Utxo']",[],delving-bitcoin-2215-9-6710
+"['Consensus', 'Terminology']",[],delving-bitcoin-2170-10-6713
