@@ -3867,3 +3867,7 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Terminology']",[],delving-bitcoin-2170-10-6713
 "['Validation', 'Public-Key', 'Cryptography', 'Consensus', 'Zero-Knowledge', 'Security']",[],delving-bitcoin-2217-5-6715
 "['Hash', 'Cryptography', 'Taproot', 'Script', 'Merkle Trees']",[],delving-bitcoin-2170-11-6714
+"['Privacy', 'UTXO', 'Tor']","['Sybil Attacks', 'Denial-of-Service Attacks', 'I2P']",delving-bitcoin-2215-13-6719
+"['Privacy', 'Forks', 'Routing', 'P2P', 'Consensus']",[],delving-bitcoin-2215-11-6717
+"['Privacy', 'Routing', 'UTXO', 'P2P', 'Network']","['Dandelion', 'Private Broadcast']",delving-bitcoin-2215-12-6718
+"['Assumeutxo', 'Privacy', 'Fees', 'Segregated Witness', 'Soft Fork', 'Research', 'P2P', 'Consensus', 'Validation', 'Security', 'Bitcoin Core']",['Bitcoin Core Development'],delving-bitcoin-2215-10-6716
