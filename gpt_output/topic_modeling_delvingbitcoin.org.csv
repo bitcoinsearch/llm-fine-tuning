@@ -3871,3 +3871,17 @@ primary_topics,secondary_topics,source_id
 "['Privacy', 'Forks', 'Routing', 'P2P', 'Consensus']",[],delving-bitcoin-2215-11-6717
 "['Privacy', 'Routing', 'UTXO', 'P2P', 'Network']","['Dandelion', 'Private Broadcast']",delving-bitcoin-2215-12-6718
 "['Assumeutxo', 'Privacy', 'Fees', 'Segregated Witness', 'Soft Fork', 'Research', 'P2P', 'Consensus', 'Validation', 'Security', 'Bitcoin Core']",['Bitcoin Core Development'],delving-bitcoin-2215-10-6716
+['Blockchain'],"['Cryptographic Standards', 'Bitcoin Improvement Proposal', 'Protocol Standards']",delving-bitcoin-2223-2-6723
+"['Fees', 'Mining', 'Research', 'Consensus']",['Economic Theory'],delving-bitcoin-2225-1-6732
+"['BIP', 'Forks', 'Bitcoin Core', 'Mining', 'Blockchain', 'Consensus']",['Upgrade'],delving-bitcoin-2223-3-6724
+"['Forks', 'Miners', 'Consensus', 'Soft Fork']","['Upgrade Process', 'Bitcoin Improvement Proposal (BIP)', 'Signaling', 'Blockchain Protocols']",delving-bitcoin-2223-8-6730
+"['MuSig', 'Encryption', 'Scalability']","['Cryptographic Techniques', 'Elliptic Curve Diffie-Hellman (ECDH)', 'Signature Aggregation Mechanisms', 'Logical Operations', 'Security of Signature Schemes', 'Cryptographic Constructs']",delving-bitcoin-2217-6-6720
+"['Libsecp256k1', 'Threshold Signatures', 'IBD', 'Fungibility', 'Altcoin', 'Fees', 'Mining', 'Multiple-Path Payments', 'Onion', 'Regulation', 'Limitations', 'Eclair', 'Asmap', 'Testing', 'Signet', 'Stratum-V2', 'PSBT', 'Lightning', 'Mempool', 'Research', 'Wallet', 'Layer 2', 'Security', 'Eltoo', 'Attacks', 'C-Lightning', 'FROST', 'Miniscript', 'Soft Fork', 'Scalability', 'Splicing', 'Cryptography', 'Sidechains', 'Hard Fork', 'Lnd', 'Forks', 'Bitcoin Core', 'Schnorr', 'Privacy', 'P2pool', 'Segwit', 'Accumulators', 'Multisig', 'Path-Finding', 'Script', 'Sphinx', 'Ux', 'Musig', 'Academia', 'Routing Failures', 'Silent Payments', 'Fuzzing', 'Update Layer', 'Package Relay', 'P2P', 'Submarine Swaps', 'RGB', 'Hardware Wallet', 'Routing', 'Pools', 'Covenants', 'Taproot', 'Smart Contracts', 'Consensus', 'Libbitcoin Kernel', 'Assumeutxo']",['Zero'],delving-bitcoin-2223-1-6722
+"['Incentives', 'Fee Management', 'Forks', 'Fees', 'Segregated Witness', 'Mining', 'Validation', 'Miners', 'Consensus', 'Soft Fork']","['Block Inclusion', 'Network Integrity', 'Scaling', 'Transaction Validation']",delving-bitcoin-2223-7-6729
+"['Fuzzing', 'P2P', 'Mempool', 'Consensus', 'Soft Fork', 'Assumeutxo']",[],delving-bitcoin-2223-4-6725
+"['BIP', 'Fees', 'Bitcoin Core', 'Mining', 'Pools', 'Segwit', 'Miners', 'Consensus', 'Research', 'Security', 'Soft Fork']",['Governance'],delving-bitcoin-2223-5-6726
+"['MuSig', 'Cryptography']",[],delving-bitcoin-2217-7-6731
+"['Threshold Signatures', 'Cryptography', 'Privacy', 'Multisig']",['Boolean Gates'],delving-bitcoin-2217-8-6733
+"['Cryptography', 'Research', 'Consensus']",[],delving-bitcoin-2217-9-6734
+"['Cryptography', 'Forks', 'Mining', 'Validation', 'Consensus']",[],delving-bitcoin-2223-6-6727
+"['Halving', 'Hard Fork', 'Forks', 'Segregated Witness', 'Bitcoin Core', 'Mining', 'Lightning', 'Consensus', 'Layer 2', 'Security', 'Soft Fork']",[],delving-bitcoin-2214-2-6721
