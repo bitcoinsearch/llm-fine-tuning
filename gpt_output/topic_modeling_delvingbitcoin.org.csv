@@ -3885,3 +3885,13 @@ primary_topics,secondary_topics,source_id
 "['Cryptography', 'Research', 'Consensus']",[],delving-bitcoin-2217-9-6734
 "['Cryptography', 'Forks', 'Mining', 'Validation', 'Consensus']",[],delving-bitcoin-2223-6-6727
 "['Halving', 'Hard Fork', 'Forks', 'Segregated Witness', 'Bitcoin Core', 'Mining', 'Lightning', 'Consensus', 'Layer 2', 'Security', 'Soft Fork']",[],delving-bitcoin-2214-2-6721
+"['Development', 'BIP', 'Script']","['Community', 'Dialogue', 'Feedback', 'Innovation']",delving-bitcoin-2170-12-6740
+"['Cryptography', 'Security', 'Consensus', 'Lightning']",[],delving-bitcoin-2217-12-6746
+"['Mempool', 'Mining', 'Transactions', 'Consensus', 'Miners', 'Validation', 'Block', 'Blockchain', 'Fees']",[],delving-bitcoin-2225-2-6736
+"['Taproot', 'Compiling', 'Cryptography', 'Script']",[],delving-bitcoin-2217-11-6744
+"['Blockchain', 'Consensus']",[],delving-bitcoin-2225-3-6743
+"['Proof-of-Work', 'Bitcoin Core', 'Segregated Witness', 'Mining', 'Soft Fork', 'Consensus', 'Miners', 'Cryptography', 'Script', 'Forks']","['OP_CHECKPROGRAMVERIFY', 'Oracles', 'OP_NOP10']",delving-bitcoin-2223-11-6742
+"['Soft Fork', 'Mining', 'Consensus', 'Bitcoin Core']",[],delving-bitcoin-2223-10-6741
+"['Soft Fork', 'Consensus', 'Miners', 'Development']","['Signaling', 'Community', 'Full Node', 'Bitcoin Ecosystem']",delving-bitcoin-2223-9-6738
+"['Proof-of-Work', 'Hashlocks', 'Timelocks', 'Consensus', 'Cryptography', 'Threshold Signatures', 'Multisig', 'Smart Contracts']",[],delving-bitcoin-2217-10-6737
+"['Mining', 'Timestamping', 'Blockchain', 'Block']",[],delving-bitcoin-2225-4-6745
