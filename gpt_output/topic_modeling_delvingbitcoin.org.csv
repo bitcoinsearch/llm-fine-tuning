@@ -3899,3 +3899,8 @@ primary_topics,secondary_topics,source_id
 "['Blockchain', 'Scalability', 'Mining', 'Consensus']",[],delving-bitcoin-2225-6-6751
 "['Mining', 'Blockchain', 'ASIC', 'Network']","['Historical Data', 'Bitmain', 'Analytical Tools']",delving-bitcoin-2225-5-6748
 "['Threshold Signatures', 'Research', 'MuSig', 'Cryptography']",[],delving-bitcoin-2217-13-6749
+"['Consensus', 'Fees', 'Package Relay', 'Mempool', 'Mining']","['Optimization', 'Block Assembly']",delving-bitcoin-2235-1-6762
+['Taproot'],[],delving-bitcoin-2170-13-6752
+"['Terminology', 'Taproot', 'BIP']",[],delving-bitcoin-2170-15-6761
+['BIP'],"['EC opcodes', 'adoption', 'documentation']",delving-bitcoin-2170-14-6759
+"['Covenants', 'Smart Contracts']","['Static Analysis', 'Analyzability']",delving-bitcoin-2189-8-6763
