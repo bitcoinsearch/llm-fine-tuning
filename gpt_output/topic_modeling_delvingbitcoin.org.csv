@@ -3904,3 +3904,11 @@ primary_topics,secondary_topics,source_id
 "['Terminology', 'Taproot', 'BIP']",[],delving-bitcoin-2170-15-6761
 ['BIP'],"['EC opcodes', 'adoption', 'documentation']",delving-bitcoin-2170-14-6759
 "['Covenants', 'Smart Contracts']","['Static Analysis', 'Analyzability']",delving-bitcoin-2189-8-6763
+"['BIP', 'Script', 'Forks', 'Segregated Witness', 'Transactions', 'Bitcoin Core', 'Consensus', 'P2P', 'Validation']",[],delving-bitcoin-2236-1-6767
+"['Miners', 'Forks', 'Soft Fork', 'Blockchain', 'Consensus', 'Pools']","['Mining Pools', 'Community Engagement']",delving-bitcoin-2223-12-6773
+"['Mempool', 'Consensus', 'Fees', 'Mining']",[],delving-bitcoin-2235-2-6772
+"['Mempool', 'Assumeutxo', 'Wallet', 'Fees']","['Community Involvement', 'Bitcoin Improvement Proposal (BIP)', 'Collaboration']",delving-bitcoin-2215-14-6764
+"['Bitcoin Core', 'Research', 'Scalability', 'Pools', 'Fees', 'UTXO', 'Mining', 'Privacy']",[],delving-bitcoin-2215-15-6771
+"['Blocksize', 'UTXO', 'Privacy']",[],delving-bitcoin-2177-16-6768
+"['Post-Quantum', 'Privacy', 'Consensus', 'Security']",[],delving-bitcoin-2158-15-6770
+"['Miners', 'Limitations', 'Mining']","['Strategic Decision-Making', 'Block Assembly']",delving-bitcoin-2235-3-6774
