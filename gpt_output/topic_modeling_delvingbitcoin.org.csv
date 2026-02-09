@@ -3912,3 +3912,6 @@ primary_topics,secondary_topics,source_id
 "['Blocksize', 'UTXO', 'Privacy']",[],delving-bitcoin-2177-16-6768
 "['Post-Quantum', 'Privacy', 'Consensus', 'Security']",[],delving-bitcoin-2158-15-6770
 "['Miners', 'Limitations', 'Mining']","['Strategic Decision-Making', 'Block Assembly']",delving-bitcoin-2235-3-6774
+['Zero-Knowledge'],"['Efficiency', 'OP_SHA256', 'Research and Development', 'OP_ADD', 'Opcode Exploration', 'OP_DUP', 'OP_SWAP', 'OP_PICK', 'Block Space', 'ZKP', 'OP_CAT', 'Computational Resources', 'Blockchain Computations']",delving-bitcoin-2094-17-6779
+"['Multisig', 'Bitcoin Core', 'Security', 'Hardware Wallet', 'Taproot', 'Timelocks', 'Development']","['MuSig2', 'Proof-of-Concept', 'Rust', 'GitHub']",delving-bitcoin-2239-1-6780
+"['Mempool', 'Tor', 'Security', 'Nodes', 'Privacy', 'UTXO']",[],delving-bitcoin-2215-16-6775
