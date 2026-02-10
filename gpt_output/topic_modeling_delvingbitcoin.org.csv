@@ -3915,3 +3915,9 @@ primary_topics,secondary_topics,source_id
 ['Zero-Knowledge'],"['Efficiency', 'OP_SHA256', 'Research and Development', 'OP_ADD', 'Opcode Exploration', 'OP_DUP', 'OP_SWAP', 'OP_PICK', 'Block Space', 'ZKP', 'OP_CAT', 'Computational Resources', 'Blockchain Computations']",delving-bitcoin-2094-17-6779
 "['Multisig', 'Bitcoin Core', 'Security', 'Hardware Wallet', 'Taproot', 'Timelocks', 'Development']","['MuSig2', 'Proof-of-Concept', 'Rust', 'GitHub']",delving-bitcoin-2239-1-6780
 "['Mempool', 'Tor', 'Security', 'Nodes', 'Privacy', 'UTXO']",[],delving-bitcoin-2215-16-6775
+"['Research', 'Lightning', 'Network', 'Synchronization', 'P2P']","['Gossip', 'Core Lightning']",delving-bitcoin-2105-22-6784
+"['Development', 'BIP', 'Bitcoin Core', 'Script', 'Terminology', 'Consensus']",[],delving-bitcoin-2170-16-6787
+[],"['Terminological Choices', 'Bitcoin Governance', 'Decision-making Process', 'Naming Convention', 'Community Consensus', 'BIPs']",delving-bitcoin-2170-17-6788
+"['Client', 'BIP', 'Consensus']","['Activation', 'Deployment', 'Repository']",delving-bitcoin-2242-1-6786
+"['Schnorr', 'Research', 'Forks', 'Cryptography', 'Hashlocks', 'BIP', 'Consensus', 'Validation', 'Proof-of-Stake', 'Segregated Witness']",[],delving-bitcoin-2241-1-6785
+"['Cryptography', 'Privacy', 'Hardware Wallet', 'Security', 'Consensus']",[],delving-bitcoin-2239-2-6783
