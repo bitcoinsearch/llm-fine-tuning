@@ -3921,3 +3921,6 @@ primary_topics,secondary_topics,source_id
 "['Client', 'BIP', 'Consensus']","['Activation', 'Deployment', 'Repository']",delving-bitcoin-2242-1-6786
 "['Schnorr', 'Research', 'Forks', 'Cryptography', 'Hashlocks', 'BIP', 'Consensus', 'Validation', 'Proof-of-Stake', 'Segregated Witness']",[],delving-bitcoin-2241-1-6785
 "['Cryptography', 'Privacy', 'Hardware Wallet', 'Security', 'Consensus']",[],delving-bitcoin-2239-2-6783
+['Mining'],"['P2PK', 'Lost Bitcoins', 'Bitcoin', 'Migration']",delving-bitcoin-2246-2-6798
+"['Soft Fork', 'Security', 'Consensus']","['Quantum Attacks', 'Digital Assets']",delving-bitcoin-2246-4-6800
+['Bitcoin Core'],"['P2PK', 'Community Engagement', 'GitHub', 'Proposal']",delving-bitcoin-2246-1-6797
