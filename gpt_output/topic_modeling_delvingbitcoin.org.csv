@@ -3924,3 +3924,6 @@ primary_topics,secondary_topics,source_id
 ['Mining'],"['P2PK', 'Lost Bitcoins', 'Bitcoin', 'Migration']",delving-bitcoin-2246-2-6798
 "['Soft Fork', 'Security', 'Consensus']","['Quantum Attacks', 'Digital Assets']",delving-bitcoin-2246-4-6800
 ['Bitcoin Core'],"['P2PK', 'Community Engagement', 'GitHub', 'Proposal']",delving-bitcoin-2246-1-6797
+"['Post-Quantum', 'Privacy', 'Covenants', 'Security']","['Cryptocurrency', 'Cryptographic Techniques', 'Blockchain Technology']",delving-bitcoin-2158-16-6804
+"['Blockchain', 'Transactions', 'OP_RETURN', 'Mempool']","['Bytes', 'Satoshis']",delving-bitcoin-2248-1-6803
+"['Blockchain', 'Validation', 'Transactions', 'Segwit', 'Script']",[],delving-bitcoin-2168-6-6801
