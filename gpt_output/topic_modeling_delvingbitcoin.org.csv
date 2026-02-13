@@ -3927,3 +3927,11 @@ primary_topics,secondary_topics,source_id
 "['Post-Quantum', 'Privacy', 'Covenants', 'Security']","['Cryptocurrency', 'Cryptographic Techniques', 'Blockchain Technology']",delving-bitcoin-2158-16-6804
 "['Blockchain', 'Transactions', 'OP_RETURN', 'Mempool']","['Bytes', 'Satoshis']",delving-bitcoin-2248-1-6803
 "['Blockchain', 'Validation', 'Transactions', 'Segwit', 'Script']",[],delving-bitcoin-2168-6-6801
+"['Validation', 'Privacy']","['Bitcoin Cash', 'Blockchain Fork', 'Full Node']",delving-bitcoin-2079-15-6807
+"['Post-Quantum', 'Scalability', 'Privacy', 'Security', 'Validation']",[],delving-bitcoin-2158-18-6809
+"['Research', 'Testing', 'Relay', 'Blockchain', 'Security', 'Forks', 'Consensus', 'Validation']",['Propagation Delay'],delving-bitcoin-2110-6-6806
+"['Soft Fork', 'Taproot']","['Quantum Security', 'Quantum Computing', 'Cryptocurrency Resilience', 'Bitcoin Improvement Proposal', 'Signature Opcode']",delving-bitcoin-2170-18-6805
+"['Mining', 'Security']","['Software Development Lifecycle', 'Programming Languages', 'Version Control Systems']",delving-bitcoin-2110-8-6815
+"['BIP', 'Bitcoin Core']","['Bitcoin scalability', 'Bitcoin network', 'Bitcoin protocol', 'Bitcoin research and development', 'Bitcoin community', 'Bitcoin ecosystem', 'Cryptocurrency technology', 'Bitcoin protocol enhancements']",delving-bitcoin-2110-7-6814
+"['Research', 'Schnorr', 'Privacy', 'Cryptography', 'Zero-Knowledge', 'Covenants', 'Forks', 'Consensus', 'Validation']",[],delving-bitcoin-2249-1-6811
+"['Privacy', 'Security', 'Post-Quantum', 'Cryptography']",[],delving-bitcoin-2158-17-6808
