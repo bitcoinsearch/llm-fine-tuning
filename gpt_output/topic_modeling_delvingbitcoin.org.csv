@@ -3935,3 +3935,21 @@ primary_topics,secondary_topics,source_id
 "['BIP', 'Bitcoin Core']","['Bitcoin scalability', 'Bitcoin network', 'Bitcoin protocol', 'Bitcoin research and development', 'Bitcoin community', 'Bitcoin ecosystem', 'Cryptocurrency technology', 'Bitcoin protocol enhancements']",delving-bitcoin-2110-7-6814
 "['Research', 'Schnorr', 'Privacy', 'Cryptography', 'Zero-Knowledge', 'Covenants', 'Forks', 'Consensus', 'Validation']",[],delving-bitcoin-2249-1-6811
 "['Privacy', 'Security', 'Post-Quantum', 'Cryptography']",[],delving-bitcoin-2158-17-6808
+"['Security', 'Consensus', 'Multisig', 'Limitations', 'Cryptography']",[],delving-bitcoin-1143-34-6824
+"['Segwit', 'Forks', 'Consensus', 'Bitcoin Core', 'UTXO', 'Soft Fork']",[],delving-bitcoin-2223-14-6832
+['BIP'],"['Hash-based Signatures', 'Quantum Resistance', 'P2WSH', 'Tapscript', 'Quantum Computing']",delving-bitcoin-2170-20-6829
+"['Segregated Witness', 'Covenants', 'Script', 'Hashlocks', 'UTXO']",['Witness Encryption'],delving-bitcoin-2249-2-6822
+['Research'],"['GitHub', 'Open Source', 'Collaboration']",delving-bitcoin-1143-33-6823
+"['Consensus', 'BIP']",[],delving-bitcoin-710-92-6837
+['Bitcoin Core'],"['Open-Source Projects', 'Bitcoin Core GUI', 'RPC interface', 'Resource Allocation', 'Modularity', 'GUI', 'IPC interface', 'Wallet Management', 'Inter-Process Communication', 'Graphical User Interface']",delving-bitcoin-2253-1-6821
+"['Consensus', 'Soft Fork']",[],delving-bitcoin-2223-15-6834
+"['Post-Quantum', 'Security', 'Segregated Witness', 'Bitcoin Core', 'Cryptography', 'BIP', 'Taproot']",['Quantum Computing'],delving-bitcoin-2170-21-6831
+"['Post-Quantum', 'Protocol', 'Security', 'Signature', 'BIP']",['Upgrade Process'],delving-bitcoin-2170-22-6838
+['Testing'],"['Innovation', 'Open-source', 'Collaboration', 'Efficiency', 'Bitcoin Improvement Proposal']",delving-bitcoin-2110-9-6819
+"['Segwit', 'Timelocks', 'Threshold Signatures', 'Mining', 'Consensus', 'Proof-of-Work', 'Cryptography', 'Schnorr', 'Research', 'Miners', 'Wallet', 'Validation', 'Proof-of-Stake', 'Mempool', 'Bech32', 'Privacy', 'Assumeutxo', 'Fees', 'Merkle Trees', 'P2P', 'Segregated Witness', 'FROST', 'Multisig', 'Silent Payments', 'Hashlocks', 'Fee Management', 'UTXO', 'Incentives', 'Scalability', 'Security', 'P2pool', 'Lightning']",['Transaction Verification'],delving-bitcoin-2257-1-6835
+"['Wallet', 'Bitcoin Core']","['Software Quality', 'User Base', 'Node', 'GUI', 'Code Churn', 'Development Pace', 'Communication', 'Security Updates', 'Deprecation', 'Transition']",delving-bitcoin-2253-2-6825
+"['Consensus', 'Covenants', 'Development', 'Smart Contracts']",['Bitcoin Script'],delving-bitcoin-2189-9-6818
+"['Forks', 'Protocol', 'Consensus', 'Mining', 'Soft Fork']",['Upgrade Layer'],delving-bitcoin-2223-13-6830
+"['Segwit', 'Forks', 'P2P', 'Consensus', 'Mining', 'Threshold Signatures', 'Multisig', 'Privacy']",[],delving-bitcoin-2223-16-6836
+"['Threshold Signatures', 'Musig', 'Covenants', 'Security']",[],delving-bitcoin-2249-3-6826
+['Taproot'],"['Post-Quantum Cryptography', 'Quantum Computing', 'Bitcoin Security']",delving-bitcoin-2170-19-6820
