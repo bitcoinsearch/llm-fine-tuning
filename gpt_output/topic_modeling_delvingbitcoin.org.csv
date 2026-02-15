@@ -3953,3 +3953,10 @@ primary_topics,secondary_topics,source_id
 "['Segwit', 'Forks', 'P2P', 'Consensus', 'Mining', 'Threshold Signatures', 'Multisig', 'Privacy']",[],delving-bitcoin-2223-16-6836
 "['Threshold Signatures', 'Musig', 'Covenants', 'Security']",[],delving-bitcoin-2249-3-6826
 ['Taproot'],"['Post-Quantum Cryptography', 'Quantum Computing', 'Bitcoin Security']",delving-bitcoin-2170-19-6820
+"['Validation', 'Taproot', 'Replace-By-Fee', 'Trust', 'UX', 'Silent Payments']","['Message Validation', 'Denial-of-Service', 'Web of Trust']",delving-bitcoin-2203-5-6850
+"['Musig', 'Multisig', 'Covenants', 'Threshold Signatures']",[],delving-bitcoin-2249-4-6844
+['Bitcoin Core'],"['GUI', 'User Interface', 'Web UI', 'Wallet Integration', 'Node Management']",delving-bitcoin-2253-5-6847
+"['Zero-Knowledge', 'Multisig', 'Covenants']",['Bitcoin Improvement Proposals (BIPs)'],delving-bitcoin-2249-5-6848
+['Silent Payments'],[],delving-bitcoin-1816-13-6851
+['Bitcoin Core'],"['GUI', 'Community', 'User Experience', 'Developers', 'Communication']",delving-bitcoin-2253-3-6843
+"['Security', 'Coldstorage', 'Privacy', 'Encryption', 'Hardware Wallet']",[],delving-bitcoin-2239-3-6845
