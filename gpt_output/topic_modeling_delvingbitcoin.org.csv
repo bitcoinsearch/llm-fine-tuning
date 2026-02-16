@@ -3960,3 +3960,10 @@ primary_topics,secondary_topics,source_id
 ['Silent Payments'],[],delving-bitcoin-1816-13-6851
 ['Bitcoin Core'],"['GUI', 'Community', 'User Experience', 'Developers', 'Communication']",delving-bitcoin-2253-3-6843
 "['Security', 'Coldstorage', 'Privacy', 'Encryption', 'Hardware Wallet']",[],delving-bitcoin-2239-3-6845
+"['Privacy', 'Cryptography', 'Wallet']",[],delving-bitcoin-1816-15-6855
+['Privacy'],[],delving-bitcoin-1816-14-6854
+"['Bitcoin Core', 'Decentralization']","['Maintenance Mode', 'Quality Control', 'Inter-process Communication', 'Transparency', 'Decoupling', 'GUI', 'Community Involvement']",delving-bitcoin-2253-6-6857
+"['Bitcoin Core', 'Mempool', 'OP_RETURN', 'Research', 'Transactions', 'Blockchain']",[],delving-bitcoin-2248-2-6868
+['Silent Payments'],[],delving-bitcoin-1816-16-6858
+"['Security', 'Multisig', 'Trust', 'Cryptography']",[],delving-bitcoin-2249-6-6853
+"['Multisig', 'Research', 'Privacy', 'Security', 'Covenants']",[],delving-bitcoin-2249-7-6856
