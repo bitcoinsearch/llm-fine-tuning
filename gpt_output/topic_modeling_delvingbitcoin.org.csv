@@ -3967,3 +3967,7 @@ primary_topics,secondary_topics,source_id
 ['Silent Payments'],[],delving-bitcoin-1816-16-6858
 "['Security', 'Multisig', 'Trust', 'Cryptography']",[],delving-bitcoin-2249-6-6853
 "['Multisig', 'Research', 'Privacy', 'Security', 'Covenants']",[],delving-bitcoin-2249-7-6856
+"['Musig', 'Taproot', 'Consensus', 'Multi-signature', 'Trust', 'Covenants', 'Layer 2']","['HTLCs', 'Hash Time Locked Contracts']",delving-bitcoin-2249-8-6883
+"['Libsecp256k1', 'Bitcoin Core', 'Segregated Witness', 'Development']","['Repository', 'GUI', 'Maintenance']",delving-bitcoin-2253-7-6869
+['Lightning'],"['Policy Adjustment', 'Adaptor Points', 'Security Risks', 'Discrete Log Contracts', 'DLC Attestation Protocols', 'Nonce Reuse', 'Oracle']",delving-bitcoin-2217-15-6884
+"['UX', 'Security', 'Bitcoin Core']",[],delving-bitcoin-2253-8-6885
