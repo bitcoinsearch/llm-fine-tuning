@@ -3971,3 +3971,6 @@ primary_topics,secondary_topics,source_id
 "['Libsecp256k1', 'Bitcoin Core', 'Segregated Witness', 'Development']","['Repository', 'GUI', 'Maintenance']",delving-bitcoin-2253-7-6869
 ['Lightning'],"['Policy Adjustment', 'Adaptor Points', 'Security Risks', 'Discrete Log Contracts', 'DLC Attestation Protocols', 'Nonce Reuse', 'Oracle']",delving-bitcoin-2217-15-6884
 "['UX', 'Security', 'Bitcoin Core']",[],delving-bitcoin-2253-8-6885
+['Bitcoin Core'],"['GUI', 'Dependencies', 'User Experience', 'Sparrow Wallet', 'Wallet Rescan Process', 'Pruned Nodes', 'GitHub', 'Local Instances', 'Disk Space Usage', 'Watch-only Wallets']",delving-bitcoin-2253-9-6886
+['Bitcoin Core'],"['GUI', 'Inter-Process Communication', 'Maintenance', 'Resource Allocation', 'Security Risks', 'RPC', 'Node Adoption Rate', 'Full Node', 'Decentralized Ecosystem', 'GitHub Repository']",delving-bitcoin-2253-10-6888
+"['Scalability', 'Wallet', 'Bitcoin Core', 'Development']","['GUI', 'User Experience', 'Full Node', 'Network Reliability', 'Software']",delving-bitcoin-2253-11-6890
