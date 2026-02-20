@@ -3980,3 +3980,7 @@ primary_topics,secondary_topics,source_id
 ['Bitcoin Core'],"['Inclusivity', 'Node Configuration', 'Transparency', 'Technological Advancements', 'User Experience', 'User Interface', 'GUI', 'Accessibility']",delving-bitcoin-2253-16-6898
 "['IBD', 'Wallet', 'Miniscript', 'Pruning', 'Bitcoin Core']","['Full Node', 'Cryptocurrency Software Development', 'GUI']",delving-bitcoin-2253-13-6892
 "['Development', 'Bitcoin Core']","['Collaboration', 'GUI']",delving-bitcoin-2253-15-6897
+"['Testing', 'UTXO', 'Compiling', 'Cryptography', 'Hardware Wallet', 'Regtest', 'PSBT', 'Bitcoin Core', 'Wallet']",['Rust'],delving-bitcoin-2215-18-6905
+"['UTXO', 'Hardware Wallet', 'PSBT', 'Security']","['Collaboration', 'Community-driven Projects']",delving-bitcoin-2215-17-6902
+"['Development', 'Bitcoin Core']","['RPC', 'IPC', 'GUI', 'Qt']",delving-bitcoin-2253-17-6903
+"['Validation', 'Proof-of-Stake', 'Consensus', 'Soft Fork', 'Research']",['Bitcoin'],delving-bitcoin-956-10-6900
