@@ -3984,3 +3984,9 @@ primary_topics,secondary_topics,source_id
 "['UTXO', 'Hardware Wallet', 'PSBT', 'Security']","['Collaboration', 'Community-driven Projects']",delving-bitcoin-2215-17-6902
 "['Development', 'Bitcoin Core']","['RPC', 'IPC', 'GUI', 'Qt']",delving-bitcoin-2253-17-6903
 "['Validation', 'Proof-of-Stake', 'Consensus', 'Soft Fork', 'Research']",['Bitcoin'],delving-bitcoin-956-10-6900
+"['Segwit', 'Script', 'Security', 'Fees', 'Consensus', 'Soft Fork']",[],delving-bitcoin-2168-7-6916
+['UTXO'],[],delving-bitcoin-2215-19-6910
+"['Validation', 'Custody']",[],delving-bitcoin-2267-4-6912
+"['Bitcoin Core', 'Hard Fork', 'UTXO', 'Segregated Witness', 'Post-Quantum', 'ECDSA', 'Consensus', 'Cryptography', 'Soft Fork']",[],delving-bitcoin-2275-1-6917
+"['Custody', 'Hardware Wallet', 'Mempool', 'Package Relay', 'Verification']","['Documentation', 'Policy', 'Implementation', 'Open Source']",delving-bitcoin-2267-3-6911
+"['Mempool', 'Custody', 'Package Relay']",['Transparency'],delving-bitcoin-2267-2-6908
