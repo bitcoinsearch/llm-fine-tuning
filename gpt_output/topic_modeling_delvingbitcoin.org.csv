@@ -3990,3 +3990,9 @@ primary_topics,secondary_topics,source_id
 "['Bitcoin Core', 'Hard Fork', 'UTXO', 'Segregated Witness', 'Post-Quantum', 'ECDSA', 'Consensus', 'Cryptography', 'Soft Fork']",[],delving-bitcoin-2275-1-6917
 "['Custody', 'Hardware Wallet', 'Mempool', 'Package Relay', 'Verification']","['Documentation', 'Policy', 'Implementation', 'Open Source']",delving-bitcoin-2267-3-6911
 "['Mempool', 'Custody', 'Package Relay']",['Transparency'],delving-bitcoin-2267-2-6908
+"['Validation', 'Research', 'Cryptography']",[],delving-bitcoin-2277-2-6921
+"['Security', 'Bitcoin Core']","['Open-source projects', 'AI tooling', 'Vulnerabilities', 'Code review']",delving-bitcoin-2277-3-6926
+['Mempool'],"['Policy Compliance', 'Transaction Relay', 'Blockchain Technology', 'Policy Auditor', 'Technical Capabilities', 'Transaction Viability', 'Policy Regulations', 'VTXO', 'Structural Integrity', 'BIP-431']",delving-bitcoin-2267-6-6922
+"['Research', 'Security', 'Consensus', 'Mining', 'Bitcoin Core', 'Validation', 'Smart Contracts', 'Fees']",[],delving-bitcoin-2277-1-6920
+"['Validation', 'Taproot', 'Custody', 'Update Layer']",[],delving-bitcoin-2267-5-6919
+"['Security', 'Consensus', 'Custody', 'Trust', 'Validation', 'Client']","['Compliance', 'Policy Auditor']",delving-bitcoin-2267-7-6925
