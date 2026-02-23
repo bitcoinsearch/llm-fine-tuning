@@ -3996,3 +3996,10 @@ primary_topics,secondary_topics,source_id
 "['Research', 'Security', 'Consensus', 'Mining', 'Bitcoin Core', 'Validation', 'Smart Contracts', 'Fees']",[],delving-bitcoin-2277-1-6920
 "['Validation', 'Taproot', 'Custody', 'Update Layer']",[],delving-bitcoin-2267-5-6919
 "['Security', 'Consensus', 'Custody', 'Trust', 'Validation', 'Client']","['Compliance', 'Policy Auditor']",delving-bitcoin-2267-7-6925
+"['Bitcoin Core', 'Development', 'Fees', 'Security']",[],delving-bitcoin-303-80-6931
+"['Bitcoin Core', 'Blockchain', 'Research']",['Education'],delving-bitcoin-2283-1-6934
+['Bitcoin Core'],"['GUI', 'Innovation', 'User Interface', 'OpenRPC', 'Developments', 'RPC API', 'API specifications']",delving-bitcoin-2253-18-6929
+"['Libsecp256k1', 'Research', 'Cryptography', 'Development']",[],delving-bitcoin-2280-2-6935
+"['Cryptography', 'Secp256k1']","['Performance Optimization', 'Zero-Allocation', 'Platform-specific Implementations', 'Peer Review', 'RISC-V', 'Instruction Cache Efficiency', 'Portability', 'ARM64 Assembly', 'Field Representation', 'Embedded Systems', 'SHA-NI', 'GitHub Repository', 'Scalar Multiplication', 'Constant-time Operations', 'AVX2', 'SafeGCD Algorithm']",delving-bitcoin-2280-1-6927
+"['Bitcoin Core', 'Research']",['Bitcoin Core Development'],delving-bitcoin-1419-12-6930
+"['Consensus', 'Covenants']",[],delving-bitcoin-2249-9-6928
