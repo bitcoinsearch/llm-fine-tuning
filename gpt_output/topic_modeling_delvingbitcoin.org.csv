@@ -4003,3 +4003,5 @@ primary_topics,secondary_topics,source_id
 "['Cryptography', 'Secp256k1']","['Performance Optimization', 'Zero-Allocation', 'Platform-specific Implementations', 'Peer Review', 'RISC-V', 'Instruction Cache Efficiency', 'Portability', 'ARM64 Assembly', 'Field Representation', 'Embedded Systems', 'SHA-NI', 'GitHub Repository', 'Scalar Multiplication', 'Constant-time Operations', 'AVX2', 'SafeGCD Algorithm']",delving-bitcoin-2280-1-6927
 "['Bitcoin Core', 'Research']",['Bitcoin Core Development'],delving-bitcoin-1419-12-6930
 "['Consensus', 'Covenants']",[],delving-bitcoin-2249-9-6928
+"['Blockchain', 'Security', 'Covenants', 'Zero-Knowledge']","['Functionality', 'Efficient', 'Contracts', 'Circuit Compiler', 'zkVM', 'Versatile', 'Flexibility']",delving-bitcoin-2249-10-6937
+"['Security', 'Testing', 'Bitcoin Core', 'Consensus']","['Code Review', 'Automation', 'GitHub']",delving-bitcoin-2277-4-6936
