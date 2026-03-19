@@ -4005,3 +4005,72 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Covenants']",[],delving-bitcoin-2249-9-6928
 "['Blockchain', 'Security', 'Covenants', 'Zero-Knowledge']","['Functionality', 'Efficient', 'Contracts', 'Circuit Compiler', 'zkVM', 'Versatile', 'Flexibility']",delving-bitcoin-2249-10-6937
 "['Security', 'Testing', 'Bitcoin Core', 'Consensus']","['Code Review', 'Automation', 'GitHub']",delving-bitcoin-2277-4-6936
+"['Secp256k1', 'Hash', 'Zero-Knowledge', 'Public-key', 'Cryptography']",[],delving-bitcoin-2287-3-7036
+"['Bitcoin Core', 'Mempool', 'Wallet', 'Soft Fork']",[],delving-bitcoin-2253-22-7024
+"['Miners', 'Mining', 'Mempool', 'Fees', 'Raw-Transaction', 'Proof-of-Work', 'Validation', 'Script', 'Security', 'Consensus']",[],delving-bitcoin-2236-5-7056
+"['Transactions', 'Mempool', 'Segwit', 'Forks', 'Script', 'Block', 'Consensus']",['Bitcoin Core Development'],delving-bitcoin-2236-2-7020
+"['Taproot', 'Signature', 'Merkle Trees', 'Post-Quantum', 'Privacy', 'Security']",[],delving-bitcoin-2158-19-7044
+['Bitcoin Core'],"['Code Review', 'GitHub']",delving-bitcoin-2277-8-7030
+"['Taproot', 'Threshold Signatures', 'Research', 'Cryptography', 'Multisig']","['Compactness', 'Key Derivation']",delving-bitcoin-2324-1-7040
+"['Cryptography', 'Libsecp256k1']",[],delving-bitcoin-2280-8-7028
+"['Taproot', 'Mempool', 'Forks', 'Script', 'Signet', 'Consensus']",[],delving-bitcoin-2236-4-7023
+['Fuzzing'],['Libfuzzer'],delving-bitcoin-2316-3-7010
+"['Research', 'Fuzzing']",[],delving-bitcoin-1906-25-7035
+"['Threshold Signatures', 'Post-Quantum', 'Silent Payments']",['HD-Wallets'],delving-bitcoin-1854-4-7038
+"['Cryptography', 'Libsecp256k1']",[],delving-bitcoin-2286-10-7009
+"['Secp256k1', 'Cryptography']","['RISC-V', 'Benchmarking', 'BIP-340', 'Optimizations']",delving-bitcoin-2280-5-7019
+"['P2PKH', 'Signature', 'Hardware Wallet']","['Private Key', 'Proving Device']",delving-bitcoin-2287-5-7039
+"['Cryptography', 'Fuzzing']",[],delving-bitcoin-2316-2-7008
+"['Encryption', 'Backup', 'Wallet']","['Durability', 'Key Material', 'Inheritance', 'Dead Man Switch']",delving-bitcoin-1607-33-7064
+"['Cryptography', 'Libsecp256k1']",[],delving-bitcoin-2286-9-7004
+"['Cryptography', 'Libsecp256k1']",[],delving-bitcoin-2280-6-7026
+"['Cryptography', 'Post-Quantum', 'Proof-of-Stake']",[],delving-bitcoin-2158-20-7059
+"['Testnet', 'Testing', 'Schnorr', 'UTXO', 'Regtest']",['MuSig2'],delving-bitcoin-1143-35-7006
+"['Cryptography', 'Schnorr']",[],delving-bitcoin-2324-2-7076
+"['Signet', 'Soft Fork', 'Mempool', 'BIP']",[],delving-bitcoin-2236-3-7022
+"['Soft Fork', 'P2PKH', 'ECDSA']",['Public Key'],delving-bitcoin-2287-4-7037
+"['Schnorr', 'Soft Fork']","['Commitments', 'BIP32', 'ZKPs']",delving-bitcoin-2287-7-7043
+"['Research', 'Bitcoin Core', 'Testing', 'Fuzzing']",[],delving-bitcoin-2197-2-7048
+"['Cryptography', 'Secp256k1']",[],delving-bitcoin-2280-7-7027
+"['P2PKH', 'SHA-256', 'timestamping', 'secp256k1', 'ECDSA']",['Opentimestamps'],delving-bitcoin-2287-6-7041
+"['Bitcoin Core', 'Research', 'Python', 'Regtest']","['Github', 'Code', 'Empirical']",delving-bitcoin-2288-3-7075
+"['Silent Payments', 'Validation', 'Consensus']",[],delving-bitcoin-2203-7-7073
+['Testing'],['Code Review'],delving-bitcoin-2277-9-7034
+"['Smart Contracts', 'Layer 2', 'Proof-of-Stake', 'Lightning', 'Segwit', 'Forks', 'Validation', 'Hard Fork', 'Soft Fork', 'Fees', 'Proof-of-Work', 'Privacy', 'Cryptography', 'Consensus', 'Mining', 'Topology', 'Hardware Wallet', 'Ux', 'Security', 'Multisig', 'Testing', 'Taproot', 'PSBT', 'Research', 'Threshold Signatures', 'Script']",['Bitcoin Core Development'],delving-bitcoin-2338-1-7067
+"['Cryptography', 'Secp256k1']",['Optimizations'],delving-bitcoin-2280-10-7072
+"['Cryptography', 'Libsecp256k1']",[],delving-bitcoin-2311-3-7018
+"['Bitcoin Core', 'Validation', 'Python', 'Merkle Trees', 'Blockchain', 'Address', 'Taproot', 'Bech32', 'Hash', 'BIP', 'Script']","['Control Block', 'Witness', 'Tool', 'Repo', 'Reconstruction', 'Annex', 'Public Datasets', 'Batch Mode']",delving-bitcoin-2322-1-7025
+['Bitcoin Core'],"['QT GUI', 'experimental release', 'QML-based', 'design and development', 'Bitcoin Core App', 'GUI']",delving-bitcoin-2253-23-7045
+['Silent Payments'],[],delving-bitcoin-2203-6-7053
+"['Cryptography', 'Libsecp256k1']",['Optimizations'],delving-bitcoin-2280-9-7071
+"['Bitcoin Core', 'Mining', 'Encryption', 'Database', 'Cryptography', 'Script', 'Fuzzing', 'Security', 'Wallet']",['Descriptor'],delving-bitcoin-2316-1-7005
+"['Research', 'Bitcoin Core', 'Libsecp256k1']",[],delving-bitcoin-2280-4-6991
+"['Bitcoin Core', 'Research', 'Libsecp256k1', 'Cryptography', 'Security', 'Consensus']",['Bitcoin Core Development'],delving-bitcoin-2311-1-6995
+"['Covenants', 'Taproot', 'UTXO', 'MuSig', 'Threshold Signatures']","['Actuary', 'Simultaneous Online']",delving-bitcoin-2249-12-6952
+['Covenants'],"['Payment Channels', 'Multiparty Offchain Systems']",delving-bitcoin-2249-11-6951
+['Cryptography'],[],delving-bitcoin-2286-3-6955
+['Cryptography'],['License'],delving-bitcoin-2280-3-6989
+"['P2PKH', 'Segregated Witness', 'Proof-of-Stake', 'Proof-of-Work', 'Scalability']",[],delving-bitcoin-2287-2-6953
+"['Soft Fork', 'Script', 'Proof-of-Work', 'Consensus']",[],delving-bitcoin-2288-1-6950
+"['Smart Contracts', 'Bitcoin Core', 'Segregated Witness', 'Proof-of-Stake', 'Zero-Knowledge', 'Forks', 'Validation', 'Wallet', 'Schnorr', 'Merkle Trees', 'Proof-of-Work', 'Privacy', 'Cryptography', 'Consensus', 'Mining', 'UTXO', 'Network', 'Blockchain', 'Security', 'Multisig', 'Taproot', 'Transactions', 'Threshold Signatures', 'Research', 'API']",['Blind Signers'],delving-bitcoin-2285-1-6940
+"['Bitcoin Core', 'UTXO', 'Merkle Trees', 'Build Systems', 'Research', 'Forks', 'Validation', 'Cryptography', 'Script', 'C++', 'Consensus']",[],delving-bitcoin-2300-1-6979
+['Research'],"['Code Review', 'AI']",delving-bitcoin-2277-6-6947
+"['Cryptography', 'GPU']","['OpenCL', 'CUDA']",delving-bitcoin-2286-8-6982
+"['Bitcoin Core', 'Mempool', 'Soft Fork']","['RPC', 'GUI']",delving-bitcoin-2253-19-6960
+"['GPU', 'ECDSA', 'Schnorr']",[],delving-bitcoin-2286-5-6958
+[],"['Code Review', 'AI']",delving-bitcoin-2277-5-6938
+"['Bitcoin Core', 'bitcoin-cli', 'Wallet']","['Configuration', 'RPC port', 'GUI']",delving-bitcoin-2253-21-6962
+"['Cryptography', 'Libsecp256k1']",[],delving-bitcoin-2286-4-6956
+"['Algorithms', 'Fees']","['Optimization', 'Signatures']",delving-bitcoin-1760-3-6949
+"['Utxo', 'Assumeutxo']",[],delving-bitcoin-2201-11-6965
+['Libsecp256k1'],[],delving-bitcoin-2311-2-6996
+"['Bitcoin Core', 'Libsecp256k1']","['Performance', 'ECDSA verifications', 'Bandwidth']",delving-bitcoin-2286-7-6980
+"['Cryptography', 'Libsecp256k1']",[],delving-bitcoin-2286-6-6964
+"['Schnorr', 'Build Systems', 'Research', 'Libsecp256k1', 'Cryptography']",[],delving-bitcoin-2286-1-6945
+"['Lightning', 'Routing', 'Raspberry-Pi', 'P2P']","['Community-Structure', 'Gossip']",delving-bitcoin-2105-23-7000
+['BIP'],['Bitcoin Improvement Proposal'],delving-bitcoin-327-28-6966
+"['Soft Fork', 'Script', 'Mining', 'Consensus']",[],delving-bitcoin-2288-2-6959
+"['UTXO', 'IBD']",[],delving-bitcoin-2286-2-6954
+"['Research', 'Zero-Knowledge', 'Forks', 'Proof-of-Work', 'Validation', 'Cryptography', 'Security']",['Benchmarking'],delving-bitcoin-2287-1-6946
+"['Bitcoin Core', 'Wallet']",[],delving-bitcoin-2253-20-6961
+[],['Code Review'],delving-bitcoin-2277-7-6948
