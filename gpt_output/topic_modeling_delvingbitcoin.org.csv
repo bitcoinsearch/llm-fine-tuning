@@ -4074,3 +4074,9 @@ primary_topics,secondary_topics,source_id
 "['Research', 'Zero-Knowledge', 'Forks', 'Proof-of-Work', 'Validation', 'Cryptography', 'Security']",['Benchmarking'],delving-bitcoin-2287-1-6946
 "['Bitcoin Core', 'Wallet']",[],delving-bitcoin-2253-20-6961
 [],['Code Review'],delving-bitcoin-2277-7-6948
+"['Mining', 'BIP', 'Consensus', 'Validation', 'UTXO']",[],delving-bitcoin-710-93-7080
+"['Script', 'Security', 'Cryptography', 'Blockchain', 'Soft Fork', 'Consensus', 'Smart Contracts', 'Privacy']",[],delving-bitcoin-2288-4-7081
+"['Consensus', 'Schnorr', 'Covenants', 'Research']",[],delving-bitcoin-1509-86-7084
+"['Mempool', 'API', 'Security', 'PSBT', 'UTXO']","['Validator pipeline', 'Zero-Trust', 'Schema', 'Feedback', 'Bitcoin Improvement Proposal 174']",delving-bitcoin-2338-2-7079
+"['Schnorr', 'Security', 'GPU']","['Lightning Network', 'Affine', 'Library', 'CUDA', 'OpenCL', 'Batch Operations', 'Performance']",delving-bitcoin-2346-1-7085
+"['Assumeutxo', 'Utxo']",[],delving-bitcoin-2201-10-6963
