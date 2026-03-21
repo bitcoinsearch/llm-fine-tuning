@@ -4080,3 +4080,4 @@ primary_topics,secondary_topics,source_id
 "['Mempool', 'API', 'Security', 'PSBT', 'UTXO']","['Validator pipeline', 'Zero-Trust', 'Schema', 'Feedback', 'Bitcoin Improvement Proposal 174']",delving-bitcoin-2338-2-7079
 "['Schnorr', 'Security', 'GPU']","['Lightning Network', 'Affine', 'Library', 'CUDA', 'OpenCL', 'Batch Operations', 'Performance']",delving-bitcoin-2346-1-7085
 "['Assumeutxo', 'Utxo']",[],delving-bitcoin-2201-10-6963
+"['Schnorr', 'Cryptography', 'Research', 'Proof-of-Stake']",[],delving-bitcoin-2324-3-7087
