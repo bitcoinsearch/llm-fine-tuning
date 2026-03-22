@@ -4081,3 +4081,10 @@ primary_topics,secondary_topics,source_id
 "['Schnorr', 'Security', 'GPU']","['Lightning Network', 'Affine', 'Library', 'CUDA', 'OpenCL', 'Batch Operations', 'Performance']",delving-bitcoin-2346-1-7085
 "['Assumeutxo', 'Utxo']",[],delving-bitcoin-2201-10-6963
 "['Schnorr', 'Cryptography', 'Research', 'Proof-of-Stake']",[],delving-bitcoin-2324-3-7087
+"['Zero-Knowledge', 'Threshold Signatures', 'Cryptography']",[],delving-bitcoin-2324-4-7092
+"['Security', 'Backup', 'Custody']","['Private Key', 'Key Management', 'Heirs']",delving-bitcoin-1607-34-7090
+"['Consensus', 'Taproot', 'P2P', 'Fees', 'Routing', 'Lightning']",[],delving-bitcoin-2349-1-7095
+"['Proof-of-Stake', 'Cryptography', 'FROST', 'Schnorr', 'Taproot', 'Build Systems', 'Libsecp256k1', 'Fuzzing', 'ECDSA', 'Validation']","['GLV', 'ECDH', 'Batch Verification', 'Fault Injection Simulation', 'Supply Chain Security', 'CTScalar', 'MuSig2', 'Security Hardening', 'Performance Benchmarks', 'Nonce Uniqueness Monitor', 'ZK Proofs', 'Secure Memory Erasure Verification', 'Static Analysis', 'CTOps', 'Pedersen', 'CTPoint', 'CTField']",delving-bitcoin-2346-2-7096
+['Bitcoin Core'],"['RPC', 'Qt', 'Reproducible Builds', 'Maintenance', 'ZMQ', 'Cross-platform', 'GUI', 'Interfaces']",delving-bitcoin-2253-24-7091
+"['Backup', 'Wallet', 'Custody']",[],delving-bitcoin-1607-35-7093
+"['Ux', 'Bitcoin Core']",['CLI'],delving-bitcoin-2253-25-7094
