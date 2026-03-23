@@ -4088,3 +4088,6 @@ primary_topics,secondary_topics,source_id
 ['Bitcoin Core'],"['RPC', 'Qt', 'Reproducible Builds', 'Maintenance', 'ZMQ', 'Cross-platform', 'GUI', 'Interfaces']",delving-bitcoin-2253-24-7091
 "['Backup', 'Wallet', 'Custody']",[],delving-bitcoin-1607-35-7093
 "['Ux', 'Bitcoin Core']",['CLI'],delving-bitcoin-2253-25-7094
+"['Cryptography', 'Security', 'Segregated Witness', 'Consensus', 'Offline', 'Script', 'Taproot', 'Validation']",[],delving-bitcoin-2351-1-7101
+"['Cryptography', 'Schnorr', 'Zero-Knowledge', 'Research']",['Isogenies'],delving-bitcoin-2324-5-7099
+"['Difficulty', 'Consensus', 'Forks', 'Proof-of-Work', 'BIP', 'Mining', 'Hard Fork', 'Testing', 'Bitcoin Core']","['Bitcoin Improvement Proposal', 'Mailing List', 'Upgrade', 'Block Height', 'Epoch', 'GitHub']",delving-bitcoin-2350-1-7098
