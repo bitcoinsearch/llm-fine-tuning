@@ -4091,3 +4091,5 @@ primary_topics,secondary_topics,source_id
 "['Cryptography', 'Security', 'Segregated Witness', 'Consensus', 'Offline', 'Script', 'Taproot', 'Validation']",[],delving-bitcoin-2351-1-7101
 "['Cryptography', 'Schnorr', 'Zero-Knowledge', 'Research']",['Isogenies'],delving-bitcoin-2324-5-7099
 "['Difficulty', 'Consensus', 'Forks', 'Proof-of-Work', 'BIP', 'Mining', 'Hard Fork', 'Testing', 'Bitcoin Core']","['Bitcoin Improvement Proposal', 'Mailing List', 'Upgrade', 'Block Height', 'Epoch', 'GitHub']",delving-bitcoin-2350-1-7098
+"['Mempool', 'Bitcoin Core', 'Mining', 'ASIC', 'Network', 'Signet', 'Validation', 'Testnet']","['Premine', 'Community', 'Blocks', 'Adoption', 'CPU']",delving-bitcoin-2350-2-7102
+"['GPU', 'Scalability', 'Research', 'Cryptography']","['Optimizations', 'Batching', 'Throughput', 'Latency', 'Performance Characteristics', 'Protocol Overhead']",delving-bitcoin-2280-11-7104
