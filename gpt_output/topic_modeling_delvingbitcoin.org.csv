@@ -4093,3 +4093,7 @@ primary_topics,secondary_topics,source_id
 "['Difficulty', 'Consensus', 'Forks', 'Proof-of-Work', 'BIP', 'Mining', 'Hard Fork', 'Testing', 'Bitcoin Core']","['Bitcoin Improvement Proposal', 'Mailing List', 'Upgrade', 'Block Height', 'Epoch', 'GitHub']",delving-bitcoin-2350-1-7098
 "['Mempool', 'Bitcoin Core', 'Mining', 'ASIC', 'Network', 'Signet', 'Validation', 'Testnet']","['Premine', 'Community', 'Blocks', 'Adoption', 'CPU']",delving-bitcoin-2350-2-7102
 "['GPU', 'Scalability', 'Research', 'Cryptography']","['Optimizations', 'Batching', 'Throughput', 'Latency', 'Performance Characteristics', 'Protocol Overhead']",delving-bitcoin-2280-11-7104
+"['Security', 'Assumeutxo', 'Cryptography', 'Segregated Witness', 'UTXO', 'Taproot', 'Consensus']",[],delving-bitcoin-2322-2-7109
+"['Privacy', 'Cryptography', 'Security', 'Development']",[],delving-bitcoin-1750-3-7107
+"['Security', 'Wallet', 'Encryption', 'Privacy', 'Seed']","['Bitcoin', 'Data Availability Layer', 'Recovery', 'Open Source']",delving-bitcoin-1750-4-7108
+"['Signature', 'Blockchain', 'Security', 'UTXO', 'Taproot']","['Transaction', 'Authorization', 'Public Key']",delving-bitcoin-2236-6-7106
