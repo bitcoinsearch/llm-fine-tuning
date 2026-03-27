@@ -4097,3 +4097,5 @@ primary_topics,secondary_topics,source_id
 "['Privacy', 'Cryptography', 'Security', 'Development']",[],delving-bitcoin-1750-3-7107
 "['Security', 'Wallet', 'Encryption', 'Privacy', 'Seed']","['Bitcoin', 'Data Availability Layer', 'Recovery', 'Open Source']",delving-bitcoin-1750-4-7108
 "['Signature', 'Blockchain', 'Security', 'UTXO', 'Taproot']","['Transaction', 'Authorization', 'Public Key']",delving-bitcoin-2236-6-7106
+"['Wallet', 'Privacy']",[],delving-bitcoin-2354-1-7111
+"['Nodes', 'Cryptography', 'Mac', 'Wallet', 'Linux']","['Economics', 'Bitcoin', 'Off-chain network', 'Staking']",delving-bitcoin-1750-5-7110
