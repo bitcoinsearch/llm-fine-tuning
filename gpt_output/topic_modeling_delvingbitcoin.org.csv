@@ -4103,3 +4103,5 @@ primary_topics,secondary_topics,source_id
 "['Privacy', 'ECDSA', 'Signature', 'Electrum', 'Wallet', 'Bitcoin Core']",[],delving-bitcoin-2354-2-7113
 "['SHA256', 'Mempool', 'Signature', 'Script', 'UTXO']",['Oracle'],delving-bitcoin-2236-7-7116
 "['Testing', 'BIP', 'PSBT', 'UTXO', 'Wallet', 'Mempool']",[],delving-bitcoin-2215-20-7114
+"['UTXO', 'PSBT']","['Validator', 'Witness Data', 'Lexer', 'Implementation Checklist', 'Local Scope', 'Global Scope']",delving-bitcoin-2338-3-7119
+"['Blockchain', 'BIP', 'Wallet', 'Privacy', 'Fees', 'Consensus']",[],delving-bitcoin-2354-3-7120
