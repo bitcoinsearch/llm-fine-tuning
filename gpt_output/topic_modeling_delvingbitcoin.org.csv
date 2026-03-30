@@ -4105,3 +4105,6 @@ primary_topics,secondary_topics,source_id
 "['Testing', 'BIP', 'PSBT', 'UTXO', 'Wallet', 'Mempool']",[],delving-bitcoin-2215-20-7114
 "['UTXO', 'PSBT']","['Validator', 'Witness Data', 'Lexer', 'Implementation Checklist', 'Local Scope', 'Global Scope']",delving-bitcoin-2338-3-7119
 "['Blockchain', 'BIP', 'Wallet', 'Privacy', 'Fees', 'Consensus']",[],delving-bitcoin-2354-3-7120
+['Privacy'],[],delving-bitcoin-2354-5-7123
+['UTXO'],[],delving-bitcoin-2215-21-7124
+"['Wallet', 'Privacy']",[],delving-bitcoin-2354-4-7122
