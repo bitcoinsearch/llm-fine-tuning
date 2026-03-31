@@ -4108,3 +4108,7 @@ primary_topics,secondary_topics,source_id
 ['Privacy'],[],delving-bitcoin-2354-5-7123
 ['UTXO'],[],delving-bitcoin-2215-21-7124
 "['Wallet', 'Privacy']",[],delving-bitcoin-2354-4-7122
+"['Attacks', 'Lightning', 'Package Relay', 'Assumeutxo', 'Cryptography', 'P2P', 'Bitcoin Core', 'Consensus', 'Security', 'Fees', 'Mempool', 'Testing', 'Segwit', 'Proof-of-Work', 'Schnorr', 'FROST', 'Wallet', 'Research', 'Validation', 'Soft Fork', 'Mining']",[],delving-bitcoin-2215-23-7129
+"['Cryptography', 'Consensus', 'Research', 'Zero-Knowledge', 'Proof-of-Work']",[],delving-bitcoin-2056-23-7127
+"['Consensus', 'Transactions', 'Fees', 'Script', 'Package Relay', 'Mempool', 'P2P', 'Miners', 'Bitcoin Core', 'Segwit', 'Mining', 'UTXO']","['Aggregation', 'Standardness Rules', 'DoS Concern', 'Bandwidth', 'Optimal', 'Blockspace']",delving-bitcoin-2215-22-7128
+['Privacy'],[],delving-bitcoin-2354-6-7126
