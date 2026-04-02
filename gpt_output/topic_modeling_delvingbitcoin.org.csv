@@ -4117,3 +4117,10 @@ primary_topics,secondary_topics,source_id
 "['UTXO', 'OP_RETURN']",['Compact Block Relay'],delving-bitcoin-2215-25-7132
 "['Consensus', 'Forks', 'Build Systems', 'Bitcoin Core', 'BIP', 'Mining', 'Segregated Witness', 'Validation', 'Script', 'Security']","['Deployment', 'Activation']",delving-bitcoin-2360-1-7134
 "['Consensus', 'Fees', 'UTXO', 'Segregated Witness', 'Security', 'Privacy', 'Mempool']",[],delving-bitcoin-2215-26-7133
+"['Security', 'Consensus', 'Legal', 'Bitcoin Core']",['Peer-to-Peer'],delving-bitcoin-2360-2-7142
+"['Privacy', 'Cryptography']",[],delving-bitcoin-2354-7-7143
+"['BIP', 'Mempool', 'UTXO']",[],delving-bitcoin-2215-28-7136
+"['Nodes', 'Mining', 'Ethereum', 'Decentralization']",[],delving-bitcoin-2361-1-7138
+"['Relay', 'Mempool', 'Fees', 'UTXO', 'Miners']",[],delving-bitcoin-2215-29-7137
+"['Sphinx', 'Post-Quantum']",[],delving-bitcoin-2355-2-7139
+"['Relay', 'Mining', 'Fees', 'UTXO']","['DoS', 'Transaction', 'Miner']",delving-bitcoin-2215-27-7135
