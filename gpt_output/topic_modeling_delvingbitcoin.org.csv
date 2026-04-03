@@ -4124,3 +4124,12 @@ primary_topics,secondary_topics,source_id
 "['Relay', 'Mempool', 'Fees', 'UTXO', 'Miners']",[],delving-bitcoin-2215-29-7137
 "['Sphinx', 'Post-Quantum']",[],delving-bitcoin-2355-2-7139
 "['Relay', 'Mining', 'Fees', 'UTXO']","['DoS', 'Transaction', 'Miner']",delving-bitcoin-2215-27-7135
+"['Signet', 'Consensus']",[],delving-bitcoin-2367-3-7157
+"['Security', 'Attacks', 'Mining', 'Consensus', 'Decentralization']",[],delving-bitcoin-2361-2-7145
+"['Schnorr', 'Taproot', 'FROST', 'Covenants', 'Eltoo']",['BIP118'],delving-bitcoin-1370-2-7152
+"['Covenants', 'Consensus', 'Update Layer', 'Segwit', 'Script']",[],delving-bitcoin-2351-2-7155
+['Post-Quantum'],"['Hash-based Signatures', 'Key Derivation', 'Wallet Standards', 'BIP-32']",delving-bitcoin-2355-3-7149
+"['Bitcoin Core', 'Soft Fork', 'BIP', 'Nodes']","['Satoshi Nakamoto', 'Mining Power']",delving-bitcoin-2360-4-7146
+"['Bitcoin Core', 'Mempool', 'Signet', 'Mining', 'Consensus', 'IBD']",[],delving-bitcoin-2367-1-7153
+"['Bitcoin Core', 'Mempool', 'Decentralization', 'Consensus']",[],delving-bitcoin-2360-3-7144
+"['Signet', 'Consensus']",[],delving-bitcoin-2367-2-7154
