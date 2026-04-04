@@ -4133,3 +4133,11 @@ primary_topics,secondary_topics,source_id
 "['Bitcoin Core', 'Mempool', 'Signet', 'Mining', 'Consensus', 'IBD']",[],delving-bitcoin-2367-1-7153
 "['Bitcoin Core', 'Mempool', 'Decentralization', 'Consensus']",[],delving-bitcoin-2360-3-7144
 "['Signet', 'Consensus']",[],delving-bitcoin-2367-2-7154
+"['Miners', 'Atomic Swaps', 'Threshold Signatures', 'Timelocks', 'Script', 'Bitcoin Core', 'Blockchain', 'Taproot', 'UTXO', 'Merkle Trees', 'Hashlocks', 'Security', 'Proof-of-Work', 'Segwit', 'Soft Fork', 'Wallet', 'Schnorr', 'Client', 'P2pkh', 'Cryptography', 'Consensus', 'Forks', 'Covenants', 'Zero-Knowledge', 'API', 'Multisig', 'Privacy', 'Transactions', 'Validation', 'Mining', 'FROST', 'Research', 'Fees', 'Layer 2']","['Simplicity', 'TEE']",delving-bitcoin-2377-1-7170
+['Post-Quantum'],['Signatures'],delving-bitcoin-2355-4-7161
+"['Validation', 'Consensus']",['Debugging'],delving-bitcoin-2367-5-7169
+"['Zero-Knowledge', 'BIP']","['Stateless', 'UX/OpSec tradeoff', 'Implementation', 'Open-source', 'Split-Key OpSec']",delving-bitcoin-2369-1-7159
+"['Consensus', 'Testing', 'Bitcoin Core']",[],delving-bitcoin-2367-4-7166
+"['Accumulators', 'PSBT', 'Schnorr']","['AWS Nitro Enclave', 'Utreexo', 'Rustreexo', 'Trusted Execution Environment']",delving-bitcoin-2371-2-7172
+"['Consensus', 'Covenants', 'Research', 'Taproot', 'UTXO', 'Schnorr']",[],delving-bitcoin-1370-3-7175
+"['Utxo', 'Bitcoin Core', 'Blockchain', 'Mempool', 'Wallet', 'Cryptography', 'Forks', 'Assumeutxo', 'IBD', 'Validation']","['BIPs', 'SwiftSync', 'Wallet Integrations', 'Floresta', 'Specification', 'Electrum Personal Server', 'Integration', 'Developers', 'Accumulator', 'Proofless IBD', 'Full Node', 'Inclusion Proofs', 'CSN', 'Node']",delving-bitcoin-2371-1-7162
