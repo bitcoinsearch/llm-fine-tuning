@@ -4142,3 +4142,10 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Covenants', 'Research', 'Taproot', 'UTXO', 'Schnorr']",[],delving-bitcoin-1370-3-7175
 "['Utxo', 'Bitcoin Core', 'Blockchain', 'Mempool', 'Wallet', 'Cryptography', 'Forks', 'Assumeutxo', 'IBD', 'Validation']","['BIPs', 'SwiftSync', 'Wallet Integrations', 'Floresta', 'Specification', 'Electrum Personal Server', 'Integration', 'Developers', 'Accumulator', 'Proofless IBD', 'Full Node', 'Inclusion Proofs', 'CSN', 'Node']",delving-bitcoin-2371-1-7162
 "['Consensus', 'Mining', 'Fuzzing', 'Multisig', 'Security', 'Topology', 'Proof-of-Stake', 'Pools', 'Segregated Witness', 'Research', 'Bech32', 'Hashlocks', 'Forks', 'Assumeutxo', 'Lightning', 'Silent Payments', 'P2P', 'Timelocks', 'Segwit', 'Mempool', 'Proof-of-Work', 'Miners', 'Privacy', 'Smart Contracts', 'Fees', 'Merkle Trees', 'Ux', 'Cryptography', 'Validation', 'Zero-Knowledge']",[],delving-bitcoin-2386-1-7184
+"['Signet', 'Consensus']",[],delving-bitcoin-2367-7-7195
+"['Signature', 'Wallet', 'Post-Quantum', 'UTXO']","['Public Key', 'Key Derivation', 'Private Key']",delving-bitcoin-2355-6-7190
+"['bitcoin-core', 'Signet', 'Consensus']",['PR'],delving-bitcoin-2367-9-7197
+"['Forks', 'Bitcoin Core', 'Consensus', 'UTXO']",['Hashes'],delving-bitcoin-2371-3-7191
+"['Post-Quantum', 'Proof-of-Stake']",['BIP32-HD Wallets'],delving-bitcoin-2355-5-7189
+"['Signet', 'Consensus']",[],delving-bitcoin-2367-6-7193
+"['Signet', 'Consensus']",[],delving-bitcoin-2367-8-7196
