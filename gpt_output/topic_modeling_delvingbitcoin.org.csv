@@ -4149,3 +4149,11 @@ primary_topics,secondary_topics,source_id
 "['Post-Quantum', 'Proof-of-Stake']",['BIP32-HD Wallets'],delving-bitcoin-2355-5-7189
 "['Signet', 'Consensus']",[],delving-bitcoin-2367-6-7193
 "['Signet', 'Consensus']",[],delving-bitcoin-2367-8-7196
+"['Bitcoin Core', 'Fungibility', 'Scalability', 'Proof-of-Work', 'Mining', 'Assumeutxo', 'Hashlocks', 'UTXO', 'Miners', 'Validation', 'Merkle Trees', 'Privacy', 'Segwit', 'Fees', 'Ux', 'Cryptography', 'Consensus', 'P2pool']",[],delving-bitcoin-2360-9-7203
+"['Bitcoin Core', 'Mining', 'BIP', 'Segwit', 'Consensus']",[],delving-bitcoin-2360-7-7201
+"['PSBT', 'Validation', 'Balance']","['Chain', 'Algebraic', 'Error Mapping', 'Checker', 'Parsing', 'Predicate', 'Workflow', 'Outpoint', 'Repository', 'Binding', 'ScriptPubKey', 'Zero-Trust', 'Reference Specification', 'Specification', 'Parser', 'Implementation', 'Interoperability', 'Persistence']",delving-bitcoin-2338-4-7204
+"['Signet', 'Consensus']",[],delving-bitcoin-2367-11-7208
+"['Bitcoin Core', 'UTXO', 'BIP', 'Consensus']","['Spam', 'Transaction Fees']",delving-bitcoin-2360-6-7200
+"['Bitcoin Core', 'Compiling', 'Consensus']",[],delving-bitcoin-2367-10-7205
+"['Bitcoin Core', 'Mining', 'UTXO', 'Segregated Witness', 'Validation', 'Security', 'Forks', 'Consensus']",[],delving-bitcoin-2360-5-7198
+"['Bitcoin Core', 'Proof-of-Work', 'Miners', 'Segwit', 'Nodes', 'Consensus']",[],delving-bitcoin-2360-8-7202
