@@ -4183,3 +4183,15 @@ primary_topics,secondary_topics,source_id
 "['Update Layer', 'Miners', 'Mac', 'Build Systems', 'Validation', 'Consensus', 'Signet', 'Forks']",[],delving-bitcoin-2367-34-7249
 "['Signet', 'Ubuntu', 'Consensus']",['Core'],delving-bitcoin-2367-17-7220
 "['Signet', 'Consensus']",[],delving-bitcoin-2367-23-7227
+"['Legal', 'Cryptography', 'Consensus', 'Research', 'Bitcoin Core']",[],delving-bitcoin-2360-10-7266
+"['Bitcoin Core', 'Validation', 'Consensus']",['Raspberry Pi'],delving-bitcoin-2367-42-7261
+"['Ubuntu', 'Hardware Wallet', 'Consensus', 'Bitcoin Core']","['Kernel', 'Source Code']",delving-bitcoin-2367-37-7253
+"['Signet', 'Consensus']",[],delving-bitcoin-2367-35-7251
+"['Signet', 'Consensus']",[],delving-bitcoin-2367-36-7252
+"['Signet', 'Consensus']",[],delving-bitcoin-2367-40-7256
+"['Signet', 'Bitcoin Core', 'Consensus']",[],delving-bitcoin-2367-43-7262
+"['Signet', 'Consensus']",[],delving-bitcoin-2367-44-7263
+"['Attack', 'Mining', 'Transactions', 'Consensus', 'Signet', 'Mempool', 'IBD']","['Reorg', 'Core node', 'Invalidateblock', 'Blocks', 'Validate']",delving-bitcoin-2367-38-7254
+"['Validation', 'Consensus', 'Fees', 'Signet', 'Bitcoin Core', 'Mining']","['Debugging', 'Network Propagation', 'Benchmarking', 'CPU']",delving-bitcoin-2367-39-7255
+"['Signet', 'Consensus']",[],delving-bitcoin-2367-41-7257
+"['Taproot', 'UTXO']",['CHECKSIG'],delving-bitcoin-2351-3-7265
