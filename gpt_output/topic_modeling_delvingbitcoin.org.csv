@@ -4195,3 +4195,7 @@ primary_topics,secondary_topics,source_id
 "['Validation', 'Consensus', 'Fees', 'Signet', 'Bitcoin Core', 'Mining']","['Debugging', 'Network Propagation', 'Benchmarking', 'CPU']",delving-bitcoin-2367-39-7255
 "['Signet', 'Consensus']",[],delving-bitcoin-2367-41-7257
 "['Taproot', 'UTXO']",['CHECKSIG'],delving-bitcoin-2351-3-7265
+"['Mining', 'Build Systems', 'Fuzzing']",[],delving-bitcoin-1052-52-7269
+"['UTXO', 'Security', 'BIP']","['Public Key', 'Quantum']",delving-bitcoin-2215-31-7271
+"['Relay', 'PSBT']",[],delving-bitcoin-2369-2-7272
+"['Security', 'UTXO']",[],delving-bitcoin-2215-30-7268
