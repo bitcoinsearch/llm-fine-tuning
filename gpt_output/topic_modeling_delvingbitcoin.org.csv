@@ -4204,3 +4204,8 @@ primary_topics,secondary_topics,source_id
 "['Post-Quantum', 'BIP', 'UTXO']","['Authorization', 'Merkleized', 'Vault']",delving-bitcoin-2409-1-7276
 "['Schnorr', 'Segregated Witness', 'C++', 'BIP', 'Python', 'Validation', 'Taproot', 'UTXO', 'Consensus']",[],delving-bitcoin-2411-1-7278
 "['PSBT', 'Taproot']","['Policy', 'Code Review', 'Batching', 'Identity Rotation', 'Enclave', 'JSON Manifest', 'Rust', 'Bitcoin-focused']",delving-bitcoin-2410-2-7279
+"['Signet', 'Eltoo']",[],delving-bitcoin-2413-3-7283
+"['Libsecp256k1', 'Consensus', 'GPU', 'Research', 'Schnorr', 'FROST', 'Security', 'Validation', 'Cryptography']",[],delving-bitcoin-2416-1-7306
+"['Proof-of-Stake', 'Consensus', 'Signet', 'Lightning', 'UTXO', 'Segregated Witness', 'FROST', 'Schnorr', 'Proof-of-Work', 'Covenants', 'Taproot']",[],delving-bitcoin-2413-1-7281
+"['Signet', 'Research']",[],delving-bitcoin-2413-2-7282
+"['Proof-of-Stake', 'Proof-of-Work', 'Lightning', 'Fees', 'Onion', 'LND', 'Routing', 'Tor', 'Eclair']","['Channel Balances', 'Anonymity', 'Core Lightning', 'Flooding', 'AMP', 'Hub-Concentrated Topology', 'Lightning Network', 'Rate Limiting', 'Backpropagation-Based Rate Limiting', 'Mitigation', 'DDoS attack', 'BOLT 12']",delving-bitcoin-2414-1-7284
