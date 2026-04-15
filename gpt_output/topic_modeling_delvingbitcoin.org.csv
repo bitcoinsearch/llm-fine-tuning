@@ -4209,3 +4209,8 @@ primary_topics,secondary_topics,source_id
 "['Proof-of-Stake', 'Consensus', 'Signet', 'Lightning', 'UTXO', 'Segregated Witness', 'FROST', 'Schnorr', 'Proof-of-Work', 'Covenants', 'Taproot']",[],delving-bitcoin-2413-1-7281
 "['Signet', 'Research']",[],delving-bitcoin-2413-2-7282
 "['Proof-of-Stake', 'Proof-of-Work', 'Lightning', 'Fees', 'Onion', 'LND', 'Routing', 'Tor', 'Eclair']","['Channel Balances', 'Anonymity', 'Core Lightning', 'Flooding', 'AMP', 'Hub-Concentrated Topology', 'Lightning Network', 'Rate Limiting', 'Backpropagation-Based Rate Limiting', 'Mitigation', 'DDoS attack', 'BOLT 12']",delving-bitcoin-2414-1-7284
+"['Lightning', 'Onion', 'Lnd']",[],delving-bitcoin-2414-2-7307
+"['Cryptography', 'Lightning', 'Onion', 'Privacy']",[],delving-bitcoin-2414-5-7313
+"['Limitations', 'Lightning', 'Onion', 'Privacy', 'Routing']",[],delving-bitcoin-2414-4-7311
+"['Lightning', 'Onion']",[],delving-bitcoin-2414-3-7308
+"['Segwit', 'UTXO', 'Taproot']",[],delving-bitcoin-1591-28-7312
