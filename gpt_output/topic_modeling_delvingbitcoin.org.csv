@@ -4214,3 +4214,12 @@ primary_topics,secondary_topics,source_id
 "['Limitations', 'Lightning', 'Onion', 'Privacy', 'Routing']",[],delving-bitcoin-2414-4-7311
 "['Lightning', 'Onion']",[],delving-bitcoin-2414-3-7308
 "['Segwit', 'UTXO', 'Taproot']",[],delving-bitcoin-1591-28-7312
+"['Eltoo', 'Asmap', 'Pools', 'Mining', 'Validation', 'FROST', 'Taproot', 'Segwit', 'Threshold Signatures', 'Consensus', 'Cryptography', 'Covenants']",[],delving-bitcoin-1370-4-7318
+"['UTXO', 'Taproot']","['Witness', 'Rust-Simplicity', 'Bitcoin', 'Transaction Environment', 'State Transitions', 'CMR', 'Economic Invariants']",delving-bitcoin-2113-2-7323
+"['Security', 'UTXO', 'PSBT', 'Wallet']","['Standardization', 'Schema', 'Signatures']",delving-bitcoin-2338-5-7324
+"['Testing', 'Bitcoin Core']",[],delving-bitcoin-2197-3-7316
+"['Proof-of-Stake', 'Schnorr', 'UTXO', 'Validation', 'Cryptography', 'PSBT', 'Consensus', 'Topology', 'Segregated Witness', 'Covenants']",[],delving-bitcoin-2377-2-7320
+"['Post-Quantum', 'Signature']","['Commitments', 'Lamport Signatures', 'Public Key', 'Migration']",delving-bitcoin-2419-1-7317
+"['Signet', 'Validation', 'Nodes', 'Consensus', 'P2P']","['Hosts', 'CPU', 'Performance', 'Benchmarking']",delving-bitcoin-2367-46-7315
+"['C++', 'Script', 'Validation', 'Segwit', 'Forks', 'Consensus', 'Proof-of-Work', 'Bitcoin Core']","['Declarative', 'Rules']",delving-bitcoin-2420-1-7321
+"['Research', 'Privacy', 'Script', 'Build Systems', 'Validation', 'Segwit', 'Forks', 'Consensus', 'Topology', 'Hard Fork', 'Proof-of-Work', 'Bitcoin Core', 'Cryptography', 'Covenants']",[],delving-bitcoin-2420-2-7322
