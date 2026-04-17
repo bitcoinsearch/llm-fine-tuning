@@ -4223,3 +4223,9 @@ primary_topics,secondary_topics,source_id
 "['Signet', 'Validation', 'Nodes', 'Consensus', 'P2P']","['Hosts', 'CPU', 'Performance', 'Benchmarking']",delving-bitcoin-2367-46-7315
 "['C++', 'Script', 'Validation', 'Segwit', 'Forks', 'Consensus', 'Proof-of-Work', 'Bitcoin Core']","['Declarative', 'Rules']",delving-bitcoin-2420-1-7321
 "['Research', 'Privacy', 'Script', 'Build Systems', 'Validation', 'Segwit', 'Forks', 'Consensus', 'Topology', 'Hard Fork', 'Proof-of-Work', 'Bitcoin Core', 'Cryptography', 'Covenants']",[],delving-bitcoin-2420-2-7322
+['Mempool'],[],delving-bitcoin-1419-13-7330
+"['Silent Payments', 'Electrum', 'Server']",['Plugin'],delving-bitcoin-1816-17-7327
+"['Post-Quantum', 'Consensus', 'Bitcoin Core', 'Soft Fork', 'Taproot', 'BIP']","['Policy', 'Scheme Choice', 'Sighash Construction', 'Migration', 'PQ Signature', 'In-Tree Implementation', 'P2MR Output Type', 'ML-DSA-65', 'PQSighash', 'Witness Size', 'Epoch', 'BIP 9', 'liboqs Question', 'Bech32m', 'Sighash', 'Activation', 'Key-Path Spending', 'Fee Impact', 'Signature Scheme', 'Witness Version', 'FIPS 204', 'Validation Cost', 'NIST Level 3', 'Prior Discussions', 'Block Validation', 'Liboqs', 'Tradeoffs', 'Level 3', 'Ext_Flag', 'Tapscript Opcode', 'Script Flag']",delving-bitcoin-2422-1-7328
+"['Protocol', 'Attack', 'Routing', 'Lightning', 'Onion', 'Fees']","['Central Planning', 'Bandwidth', 'Compute', 'Market Pricing', 'Resource Allocation']",delving-bitcoin-2414-6-7334
+"['Security', 'Consensus', 'Cryptography', 'Forks', 'Proof-of-Work', 'Validation']",['Recovery'],delving-bitcoin-2421-1-7326
+"['Bitcoin Core', 'Testing']",[],delving-bitcoin-2197-4-7329
