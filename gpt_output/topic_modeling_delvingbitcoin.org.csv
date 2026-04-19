@@ -4230,3 +4230,4 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Consensus', 'Cryptography', 'Forks', 'Proof-of-Work', 'Validation']",['Recovery'],delving-bitcoin-2421-1-7326
 "['Bitcoin Core', 'Testing']",[],delving-bitcoin-2197-4-7329
 "['Lightning', 'Onion', 'Attack']","['Loop', 'Flood', 'Rate Limiting']",delving-bitcoin-2414-7-7335
+"['Covenants', 'Hard Fork', 'Consensus', 'Script', 'Segregated Witness', 'Proof-of-Stake', 'Forks', 'Cryptography', 'PSBT', 'Schnorr', 'Validation', 'Topology', 'Soft Fork', 'Merkle Trees']",[],delving-bitcoin-2338-6-7337
