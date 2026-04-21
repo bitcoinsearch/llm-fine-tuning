@@ -4232,3 +4232,4 @@ primary_topics,secondary_topics,source_id
 "['Lightning', 'Onion', 'Attack']","['Loop', 'Flood', 'Rate Limiting']",delving-bitcoin-2414-7-7335
 "['Covenants', 'Hard Fork', 'Consensus', 'Script', 'Segregated Witness', 'Proof-of-Stake', 'Forks', 'Cryptography', 'PSBT', 'Schnorr', 'Validation', 'Topology', 'Soft Fork', 'Merkle Trees']",[],delving-bitcoin-2338-6-7337
 "['Mining', 'Research', 'Bitcoin Core', 'Security', 'Fees']",['Raspberry Pi'],delving-bitcoin-2428-1-7340
+"['Segwit', 'Taproot', 'Lightning', 'Consensus', 'Proof-of-Stake', 'Validation', 'Mempool', 'Cryptography', 'Transactions', 'Proof-of-Work', 'Fees']",[],delving-bitcoin-2430-1-7346
