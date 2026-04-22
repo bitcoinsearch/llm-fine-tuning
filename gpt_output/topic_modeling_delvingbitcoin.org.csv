@@ -4233,3 +4233,10 @@ primary_topics,secondary_topics,source_id
 "['Covenants', 'Hard Fork', 'Consensus', 'Script', 'Segregated Witness', 'Proof-of-Stake', 'Forks', 'Cryptography', 'PSBT', 'Schnorr', 'Validation', 'Topology', 'Soft Fork', 'Merkle Trees']",[],delving-bitcoin-2338-6-7337
 "['Mining', 'Research', 'Bitcoin Core', 'Security', 'Fees']",['Raspberry Pi'],delving-bitcoin-2428-1-7340
 "['Segwit', 'Taproot', 'Lightning', 'Consensus', 'Proof-of-Stake', 'Validation', 'Mempool', 'Cryptography', 'Transactions', 'Proof-of-Work', 'Fees']",[],delving-bitcoin-2430-1-7346
+"['Threshold Signatures', 'Ux', 'Fungibility', 'Zero-Knowledge', 'Consensus', 'Cryptography', 'Covenants', 'Timelocks', 'Routing', 'Layer 2', 'Bech32', 'Research', 'Hashlocks', 'PSBT', 'Soft Fork', 'Segwit', 'Miners', 'Taproot', 'Assumeutxo', 'Validation']",[],delving-bitcoin-2442-1-7367
+"['Onion', 'Lightning', 'P2P']",[],delving-bitcoin-2414-10-7368
+"['Onion', 'Research', 'Security', 'Lightning', 'Privacy', 'Payment', 'Bitcoin Core', 'Consensus', 'Cryptography']",[],delving-bitcoin-2414-8-7360
+"['Onion', 'Fees', 'Lightning']",['HTLCs'],delving-bitcoin-2414-9-7365
+"['Onion', 'Routing', 'Pathfinding', 'Fees']","['Liquidity', 'HTLCs', 'Lightning Network']",delving-bitcoin-2414-11-7369
+[],[],delving-bitcoin-2441-1-7366
+"['Signet', 'Python', 'bitcoin-core', 'Taproot', 'Segwit']","['CTV', 'RPC']",delving-bitcoin-359-18-7362
