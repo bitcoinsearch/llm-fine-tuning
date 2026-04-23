@@ -4240,3 +4240,6 @@ primary_topics,secondary_topics,source_id
 "['Onion', 'Routing', 'Pathfinding', 'Fees']","['Liquidity', 'HTLCs', 'Lightning Network']",delving-bitcoin-2414-11-7369
 [],[],delving-bitcoin-2441-1-7366
 "['Signet', 'Python', 'bitcoin-core', 'Taproot', 'Segwit']","['CTV', 'RPC']",delving-bitcoin-359-18-7362
+"['Merkle Trees', 'Taproot']",[],delving-bitcoin-2442-2-7377
+"['Routing Failures', 'Taproot', 'Path-Finding', 'Fees', 'Lightning', 'Onion']","['Adversarial Simulations', 'Dynamic Fees']",delving-bitcoin-2414-12-7375
+"['Bitcoin Core', 'Consensus', 'Wallet']","['RPC', 'GUI', 'Monitoring']",delving-bitcoin-2253-26-7370
