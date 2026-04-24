@@ -4243,3 +4243,4 @@ primary_topics,secondary_topics,source_id
 "['Merkle Trees', 'Taproot']",[],delving-bitcoin-2442-2-7377
 "['Routing Failures', 'Taproot', 'Path-Finding', 'Fees', 'Lightning', 'Onion']","['Adversarial Simulations', 'Dynamic Fees']",delving-bitcoin-2414-12-7375
 "['Bitcoin Core', 'Consensus', 'Wallet']","['RPC', 'GUI', 'Monitoring']",delving-bitcoin-2253-26-7370
+"['Taproot', 'Atomic Swaps', 'Privacy']","['PSBT Flows', 'PSBT Workflows', 'Efficiency Improvements', 'Adaptor Signatures', 'Cryptographic Guarantees', 'Lending Primitives', 'DLC Builder Primitives', 'Censorship-Resistant', 'Contract Design', 'Non-Custodial', 'Discreet Log Contracts', 'Oracle Attestations', 'Trustless', 'Bitcoin-Native', 'Cross-Chain', 'Taproot Script Usage', 'Efficiency', 'Signing Logic', 'DLCs']",delving-bitcoin-2450-1-7381
