@@ -4244,3 +4244,7 @@ primary_topics,secondary_topics,source_id
 "['Routing Failures', 'Taproot', 'Path-Finding', 'Fees', 'Lightning', 'Onion']","['Adversarial Simulations', 'Dynamic Fees']",delving-bitcoin-2414-12-7375
 "['Bitcoin Core', 'Consensus', 'Wallet']","['RPC', 'GUI', 'Monitoring']",delving-bitcoin-2253-26-7370
 "['Taproot', 'Atomic Swaps', 'Privacy']","['PSBT Flows', 'PSBT Workflows', 'Efficiency Improvements', 'Adaptor Signatures', 'Cryptographic Guarantees', 'Lending Primitives', 'DLC Builder Primitives', 'Censorship-Resistant', 'Contract Design', 'Non-Custodial', 'Discreet Log Contracts', 'Oracle Attestations', 'Trustless', 'Bitcoin-Native', 'Cross-Chain', 'Taproot Script Usage', 'Efficiency', 'Signing Logic', 'DLCs']",delving-bitcoin-2450-1-7381
+"['Relay', 'Op-return', 'Electrum', 'Fraud']",['Proofs'],delving-bitcoin-2451-1-7382
+"['UTXO', 'Mining', 'Fees', 'Wallet', 'Threshold Signatures', 'Bitcoin Core', 'Consensus', 'Custody', 'Research', 'Build Systems', 'Security', 'Validation', 'Privacy']","['Backend', 'Coin Selection', 'Open Questions', 'Memory Compression', 'Algorithm', 'Tooling', 'Benchmarking', 'Optimization']",delving-bitcoin-2454-1-7385
+"['Segwit', 'Script', 'Taproot', 'Signet', 'BIP']",[],delving-bitcoin-2236-8-7388
+"['Fees', 'Segwit', 'Consensus', 'Research']",[],delving-bitcoin-2351-4-7387
