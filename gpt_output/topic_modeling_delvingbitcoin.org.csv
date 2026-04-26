@@ -4248,3 +4248,4 @@ primary_topics,secondary_topics,source_id
 "['UTXO', 'Mining', 'Fees', 'Wallet', 'Threshold Signatures', 'Bitcoin Core', 'Consensus', 'Custody', 'Research', 'Build Systems', 'Security', 'Validation', 'Privacy']","['Backend', 'Coin Selection', 'Open Questions', 'Memory Compression', 'Algorithm', 'Tooling', 'Benchmarking', 'Optimization']",delving-bitcoin-2454-1-7385
 "['Segwit', 'Script', 'Taproot', 'Signet', 'BIP']",[],delving-bitcoin-2236-8-7388
 "['Fees', 'Segwit', 'Consensus', 'Research']",[],delving-bitcoin-2351-4-7387
+['Post-Quantum'],[],delving-bitcoin-2419-2-7391
