@@ -4249,3 +4249,5 @@ primary_topics,secondary_topics,source_id
 "['Segwit', 'Script', 'Taproot', 'Signet', 'BIP']",[],delving-bitcoin-2236-8-7388
 "['Fees', 'Segwit', 'Consensus', 'Research']",[],delving-bitcoin-2351-4-7387
 ['Post-Quantum'],[],delving-bitcoin-2419-2-7391
+"['Incentives', 'Fees', 'Onion', 'Path-Finding', 'Lightning', 'Routing Failures']",['Dynamic Fees'],delving-bitcoin-2414-13-7398
+"['Privacy', 'Fuzzing', 'Research', 'Cryptography', 'Security', 'Mining', 'Wallet', 'Bitcoin Core']",[],delving-bitcoin-2428-2-7393
