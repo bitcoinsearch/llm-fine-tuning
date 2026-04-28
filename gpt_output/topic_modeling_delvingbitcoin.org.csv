@@ -4251,3 +4251,9 @@ primary_topics,secondary_topics,source_id
 ['Post-Quantum'],[],delving-bitcoin-2419-2-7391
 "['Incentives', 'Fees', 'Onion', 'Path-Finding', 'Lightning', 'Routing Failures']",['Dynamic Fees'],delving-bitcoin-2414-13-7398
 "['Privacy', 'Fuzzing', 'Research', 'Cryptography', 'Security', 'Mining', 'Wallet', 'Bitcoin Core']",[],delving-bitcoin-2428-2-7393
+"['BIP', 'Consensus', 'Regtest', 'Testing', 'Segregated Witness', 'Cryptography', 'Bitcoin Core', 'JSON-RPC', 'Soft Fork']",[],delving-bitcoin-2462-1-7408
+"['Mining', 'Pools', 'BIP', 'Consensus']",[],delving-bitcoin-710-94-7410
+"['ECDSA', 'UTXO', 'Assumeutxo']",[],delving-bitcoin-2451-3-7405
+"['Onion', 'Path-Finding', 'Lightning', 'Fees']",['Simulation'],delving-bitcoin-2414-14-7406
+['UTXO'],['Funding Transaction'],delving-bitcoin-2451-2-7400
+"['Consensus', 'Testing', 'P2P', 'Bitcoin Core', 'Mining', 'Security', 'Fees']",[],delving-bitcoin-1988-4-7407
