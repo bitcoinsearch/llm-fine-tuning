@@ -4257,3 +4257,12 @@ primary_topics,secondary_topics,source_id
 "['Onion', 'Path-Finding', 'Lightning', 'Fees']",['Simulation'],delving-bitcoin-2414-14-7406
 ['UTXO'],['Funding Transaction'],delving-bitcoin-2451-2-7400
 "['Consensus', 'Testing', 'P2P', 'Bitcoin Core', 'Mining', 'Security', 'Fees']",[],delving-bitcoin-1988-4-7407
+"['Privacy', 'Security', 'Fees', 'Custody', 'Covenants', 'Cryptography', 'Threshold Signatures', 'Consensus', 'Validation']",[],delving-bitcoin-2465-3-7421
+"['Security', 'Encryption', 'Wallet', 'Miniscript', 'PSBT', 'Xpub']","['Firmware Version', 'Signing', 'Descriptor', 'QR', 'JSON']",delving-bitcoin-2464-1-7413
+"['Hash', 'BIP']","['Algorithm', 'Graph']",delving-bitcoin-2428-4-7419
+['Miniscript'],[],delving-bitcoin-2464-3-7415
+"['Taproot', 'Miniscript']",[],delving-bitcoin-2464-2-7414
+"['Blockchain', 'Research', 'Testing', 'Wallet', 'Forks', 'Validation']","['Benchmarking', 'Bandwidth', 'Filtering', 'CPU load']",delving-bitcoin-2428-3-7418
+"['Privacy', 'Ux', 'Covenants', 'Threshold Signatures', 'Consensus']",[],delving-bitcoin-2465-2-7420
+"['Security', 'Bitcoin Core', 'Cryptography', 'Lightning', 'Consensus']",[],delving-bitcoin-2465-1-7417
+"['Signature', 'Security', 'Forks', 'UTXO', 'Schnorr', 'Segwit', 'Mempool', 'Consensus', 'Script', 'Validation']",[],delving-bitcoin-1591-29-7416
