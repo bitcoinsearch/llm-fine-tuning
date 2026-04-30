@@ -4266,3 +4266,6 @@ primary_topics,secondary_topics,source_id
 "['Privacy', 'Ux', 'Covenants', 'Threshold Signatures', 'Consensus']",[],delving-bitcoin-2465-2-7420
 "['Security', 'Bitcoin Core', 'Cryptography', 'Lightning', 'Consensus']",[],delving-bitcoin-2465-1-7417
 "['Signature', 'Security', 'Forks', 'UTXO', 'Schnorr', 'Segwit', 'Mempool', 'Consensus', 'Script', 'Validation']",[],delving-bitcoin-1591-29-7416
+"['UTXO', 'MuSig']","['Trust Assumptions', 'Signers']",delving-bitcoin-2465-4-7424
+"['Blockchain', 'Network', 'Post-Quantum', 'Validation', 'ECDSA', 'Consensus', 'Signature', 'Security', 'UTXO', 'Fees', 'Soft Fork', 'Hash', 'Mempool']","['Migration', 'Transaction', 'Commitment', 'Reveal', 'Public Key']",delving-bitcoin-2467-1-7423
+"['Fuzzing', 'P2P', 'Security', 'Consensus', 'Privacy', 'Research', 'Timestamping', 'Topology']",[],delving-bitcoin-2466-1-7422
