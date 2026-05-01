@@ -4269,3 +4269,5 @@ primary_topics,secondary_topics,source_id
 "['UTXO', 'MuSig']","['Trust Assumptions', 'Signers']",delving-bitcoin-2465-4-7424
 "['Blockchain', 'Network', 'Post-Quantum', 'Validation', 'ECDSA', 'Consensus', 'Signature', 'Security', 'UTXO', 'Fees', 'Soft Fork', 'Hash', 'Mempool']","['Migration', 'Transaction', 'Commitment', 'Reveal', 'Public Key']",delving-bitcoin-2467-1-7423
 "['Fuzzing', 'P2P', 'Security', 'Consensus', 'Privacy', 'Research', 'Timestamping', 'Topology']",[],delving-bitcoin-2466-1-7422
+"['Research', 'Forks', 'Multisig', 'Covenants', 'Validation', 'Security', 'Consensus', 'Privacy', 'UTXO']",[],delving-bitcoin-2465-5-7425
+['Bitcoin Core'],[],delving-bitcoin-624-10-7426
