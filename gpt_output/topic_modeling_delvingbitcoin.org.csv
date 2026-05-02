@@ -4271,3 +4271,10 @@ primary_topics,secondary_topics,source_id
 "['Fuzzing', 'P2P', 'Security', 'Consensus', 'Privacy', 'Research', 'Timestamping', 'Topology']",[],delving-bitcoin-2466-1-7422
 "['Research', 'Forks', 'Multisig', 'Covenants', 'Validation', 'Security', 'Consensus', 'Privacy', 'UTXO']",[],delving-bitcoin-2465-5-7425
 ['Bitcoin Core'],[],delving-bitcoin-624-10-7426
+"['Covenants', 'Consensus', 'Schnorr', 'Research', 'Security', 'Validation', 'Forks']",[],delving-bitcoin-2473-1-7434
+['Post-Quantum'],['Bitcoin'],delving-bitcoin-2419-3-7439
+"['Consensus', 'Multisig', 'P2SH', 'Cryptography', 'Hardware Wallet', 'Security', 'UTXO']","['Offline Verification', 'Open Questions', 'Secure Enclave', 'Proof of Concept', 'Proof-of-Concept']",delving-bitcoin-2470-1-7429
+['Multisig'],"['Private Key', 'Trust Model']",delving-bitcoin-2470-3-7435
+"['Multisig', 'Cryptography', 'Taproot', 'Threshold Signatures', 'UTXO', 'ECDSA']",[],delving-bitcoin-2470-4-7438
+"['JSON-RPC', 'PSBT', 'Multisig', 'Miniscript']","['Transport Layer', 'Error Codes', 'QR']",delving-bitcoin-2464-4-7436
+"['Multisig', 'Schnorr', 'UTXO', 'ECDSA']","['X25519', 'Mainnet', 'ECDLP', 'BIP32 HD Wallets']",delving-bitcoin-2470-2-7431
