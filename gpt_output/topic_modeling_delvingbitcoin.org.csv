@@ -4280,3 +4280,6 @@ primary_topics,secondary_topics,source_id
 "['Multisig', 'Schnorr', 'UTXO', 'ECDSA']","['X25519', 'Mainnet', 'ECDLP', 'BIP32 HD Wallets']",delving-bitcoin-2470-2-7431
 ['Research'],[],delving-bitcoin-2419-4-7441
 ['Post-Quantum'],[],delving-bitcoin-2419-5-7442
+"['Zero-Knowledge', 'UTXO', 'Timelocks']",[],delving-bitcoin-2475-1-7443
+"['Multisig', 'Zero-Knowledge', 'Consensus', 'Taproot', 'Covenants']",[],delving-bitcoin-2475-2-7446
+"['Research', 'Zero-Knowledge', 'Lightning']",[],delving-bitcoin-2475-3-7447
