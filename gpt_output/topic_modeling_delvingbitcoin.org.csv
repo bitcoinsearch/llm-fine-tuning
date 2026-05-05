@@ -4283,3 +4283,4 @@ primary_topics,secondary_topics,source_id
 "['Zero-Knowledge', 'UTXO', 'Timelocks']",[],delving-bitcoin-2475-1-7443
 "['Multisig', 'Zero-Knowledge', 'Consensus', 'Taproot', 'Covenants']",[],delving-bitcoin-2475-2-7446
 "['Research', 'Zero-Knowledge', 'Lightning']",[],delving-bitcoin-2475-3-7447
+"['Security', 'Research', 'Mining', 'Bitcoin Core', 'P2P', 'Fuzzing']",['Grafana'],delving-bitcoin-1988-5-7448
