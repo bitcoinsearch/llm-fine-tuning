@@ -4284,3 +4284,8 @@ primary_topics,secondary_topics,source_id
 "['Multisig', 'Zero-Knowledge', 'Consensus', 'Taproot', 'Covenants']",[],delving-bitcoin-2475-2-7446
 "['Research', 'Zero-Knowledge', 'Lightning']",[],delving-bitcoin-2475-3-7447
 "['Security', 'Research', 'Mining', 'Bitcoin Core', 'P2P', 'Fuzzing']",['Grafana'],delving-bitcoin-1988-5-7448
+"['BIP', 'Fuzzing']",[],delving-bitcoin-2428-5-7456
+['Cryptography'],['Contracts'],delving-bitcoin-2473-2-7455
+"['BIP', 'Testing']",[],delving-bitcoin-2428-6-7459
+"['OP_RETURN', 'Bitcoin Core', 'UTXO', 'BIP', 'Privacy', 'Testing', 'Mempool']",[],delving-bitcoin-2215-32-7461
+"['Sphinx', 'Topology', 'Consensus', 'Hash', 'Proof-of-Work', 'Schnorr', 'Validation', 'Taproot', 'Public-key', 'Merkle Trees', 'Proof-of-Stake', 'ECDSA', 'Path-Finding', 'Lightning', 'Cryptography', 'Forks', 'Post-Quantum', 'Security', 'Layer 2', 'Onion', 'Signature']","['BIPs', 'Gossip Authentication', 'P2P Bandwidth', 'Payment Hash', 'Lattice', 'Combiner', 'BOLTs', 'Transport Layer', 'KEM', 'Signature Aggregation', 'Hybrid Cryptography', 'Bandwidth Usage', 'Quantum', 'PQC', 'Digital Signatures', 'Discovery Layer', 'ECDH']",delving-bitcoin-2479-1-7450
