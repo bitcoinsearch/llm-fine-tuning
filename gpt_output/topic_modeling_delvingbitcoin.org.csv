@@ -4290,3 +4290,7 @@ primary_topics,secondary_topics,source_id
 "['OP_RETURN', 'Bitcoin Core', 'UTXO', 'BIP', 'Privacy', 'Testing', 'Mempool']",[],delving-bitcoin-2215-32-7461
 "['Sphinx', 'Topology', 'Consensus', 'Hash', 'Proof-of-Work', 'Schnorr', 'Validation', 'Taproot', 'Public-key', 'Merkle Trees', 'Proof-of-Stake', 'ECDSA', 'Path-Finding', 'Lightning', 'Cryptography', 'Forks', 'Post-Quantum', 'Security', 'Layer 2', 'Onion', 'Signature']","['BIPs', 'Gossip Authentication', 'P2P Bandwidth', 'Payment Hash', 'Lattice', 'Combiner', 'BOLTs', 'Transport Layer', 'KEM', 'Signature Aggregation', 'Hybrid Cryptography', 'Bandwidth Usage', 'Quantum', 'PQC', 'Digital Signatures', 'Discovery Layer', 'ECDH']",delving-bitcoin-2479-1-7450
 "['UTXO', 'Mempool', 'Schnorr', 'Taproot', 'Forks', 'Validation', 'Cryptography', 'Consensus', 'Segwit']",[],delving-bitcoin-2483-1-7462
+['Zero-Knowledge'],[],delving-bitcoin-2475-4-7464
+"['Lightning', 'Routing']","['Capital Markets', 'Treasury', 'Centralization', 'ROIC Framework', 'Infrastructure Integrity', 'Returns', 'Bitcoin', 'Economics']",delving-bitcoin-2487-1-7468
+['Fuzzing'],[],delving-bitcoin-2466-2-7466
+"['Script', 'Consensus', 'Taproot', 'Soft Fork']",[],delving-bitcoin-2483-2-7469
