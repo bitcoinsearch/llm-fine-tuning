@@ -4294,3 +4294,6 @@ primary_topics,secondary_topics,source_id
 "['Lightning', 'Routing']","['Capital Markets', 'Treasury', 'Centralization', 'ROIC Framework', 'Infrastructure Integrity', 'Returns', 'Bitcoin', 'Economics']",delving-bitcoin-2487-1-7468
 ['Fuzzing'],[],delving-bitcoin-2466-2-7466
 "['Script', 'Consensus', 'Taproot', 'Soft Fork']",[],delving-bitcoin-2483-2-7469
+"['Proof-of-Work', 'Testnet', 'Atomic Swaps', 'Zero-Knowledge', 'Security']","['Bitcoin', 'Lightning Network', 'Payment Channels', 'Formal Foundations', 'Bulletproofs']",delving-bitcoin-1409-13-7472
+"['Segregated Witness', 'Cryptography', 'Proof-of-Work', 'Post-Quantum', 'Security', 'Soft Fork']",[],delving-bitcoin-2422-2-7479
+"['Tor', 'P2P']","['Fingerprinting', 'Seed Nodes']",delving-bitcoin-2466-3-7475
