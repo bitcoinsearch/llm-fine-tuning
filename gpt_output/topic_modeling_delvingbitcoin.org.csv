@@ -4297,3 +4297,14 @@ primary_topics,secondary_topics,source_id
 "['Proof-of-Work', 'Testnet', 'Atomic Swaps', 'Zero-Knowledge', 'Security']","['Bitcoin', 'Lightning Network', 'Payment Channels', 'Formal Foundations', 'Bulletproofs']",delving-bitcoin-1409-13-7472
 "['Segregated Witness', 'Cryptography', 'Proof-of-Work', 'Post-Quantum', 'Security', 'Soft Fork']",[],delving-bitcoin-2422-2-7479
 "['Tor', 'P2P']","['Fingerprinting', 'Seed Nodes']",delving-bitcoin-2466-3-7475
+"['Security', 'Testing', 'P2P', 'Python']",['Networking'],delving-bitcoin-2497-3-7488
+"['Research', 'Segregated Witness', 'Proof-of-Stake', 'Security', 'Consensus', 'Proof-of-Work', 'Privacy', 'Validation', 'Cryptography', 'Multisig', 'Threshold Signatures', 'Taproot', 'Bitcoin Core']",[],delving-bitcoin-2498-1-7493
+"['Research', 'Security', 'Consensus', 'P2P', 'Bitcoin Core']",['Networking'],delving-bitcoin-2497-1-7486
+"['Tor', 'Network', 'Onion', 'Privacy', 'P2P', 'Protocol', 'Bitcoin Core']","['Coordination', 'AS', 'I2P', 'STUN Service', 'Hole Punching', 'TCP', 'BIP-155', 'NAT', 'Clearnet']",delving-bitcoin-2497-6-7492
+['P2P'],[],delving-bitcoin-2497-4-7489
+['P2P'],"['CGNAT', 'Firewall', 'IPv6', 'TCP hole punching', 'NAT', 'IPv4']",delving-bitcoin-2497-2-7487
+"['Backup', 'Python']","['HTML', 'GitHub Actions', 'GitLab']",delving-bitcoin-624-11-7490
+"['Threshold Signatures', 'Research', 'FROST']",[],delving-bitcoin-2498-2-7504
+"['Topology', 'Trust', 'Routing', 'P2P']",[],delving-bitcoin-2497-7-7494
+['P2P'],['NAT'],delving-bitcoin-2497-5-7491
+"['Research', 'Forks', 'Consensus', 'Privacy', 'Validation', 'P2P', 'Bitcoin Core']",[],delving-bitcoin-2466-4-7502
