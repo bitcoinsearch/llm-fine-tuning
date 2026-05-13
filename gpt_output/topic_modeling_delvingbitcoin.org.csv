@@ -4308,3 +4308,12 @@ primary_topics,secondary_topics,source_id
 "['Topology', 'Trust', 'Routing', 'P2P']",[],delving-bitcoin-2497-7-7494
 ['P2P'],['NAT'],delving-bitcoin-2497-5-7491
 "['Research', 'Forks', 'Consensus', 'Privacy', 'Validation', 'P2P', 'Bitcoin Core']",[],delving-bitcoin-2466-4-7502
+"['P2P', 'TOR', 'Privacy']",[],delving-bitcoin-2497-9-7507
+"['Proof-of-Stake', 'Cryptography', 'Zero-Knowledge']",[],delving-bitcoin-2498-6-7513
+['P2P'],"['Networking', 'NAT']",delving-bitcoin-2497-12-7512
+"['Proof-of-Stake', 'Mempool', 'Schnorr', 'Cryptography', 'Consensus']",[],delving-bitcoin-2498-5-7511
+"['Secp256k1', 'Cryptography']",[],delving-bitcoin-2498-3-7505
+"['Protocol', 'P2P']","['TCP', 'Trade-off', 'Transport', 'Hole Punching', 'UDP', 'QUIC', 'Implementation', 'Application Layer', 'Stateful']",delving-bitcoin-2497-10-7508
+"['Protocol', 'P2P', 'Tor']","['TCP', 'UDP', 'Core']",delving-bitcoin-2497-11-7510
+"['P2P', 'Cryptography', 'Research']",['UDP'],delving-bitcoin-2497-8-7506
+"['Proof-of-Work', 'Cryptography']",['Reward Schedule'],delving-bitcoin-2498-4-7509
