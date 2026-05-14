@@ -4317,3 +4317,6 @@ primary_topics,secondary_topics,source_id
 "['Protocol', 'P2P', 'Tor']","['TCP', 'UDP', 'Core']",delving-bitcoin-2497-11-7510
 "['P2P', 'Cryptography', 'Research']",['UDP'],delving-bitcoin-2497-8-7506
 "['Proof-of-Work', 'Cryptography']",['Reward Schedule'],delving-bitcoin-2498-4-7509
+"['Scalability', 'Consensus']",[],delving-bitcoin-2503-1-7514
+"['Cryptography', 'Secp256k1', 'Schnorr', 'Proof-of-Work', 'Segregated Witness']",[],delving-bitcoin-2498-7-7515
+"['Validation', 'Schnorr', 'Consensus', 'Segregated Witness', 'Taproot', 'Forks', 'Mempool']",[],delving-bitcoin-2483-3-7516
