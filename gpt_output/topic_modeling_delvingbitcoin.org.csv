@@ -4320,3 +4320,8 @@ primary_topics,secondary_topics,source_id
 "['Scalability', 'Consensus']",[],delving-bitcoin-2503-1-7514
 "['Cryptography', 'Secp256k1', 'Schnorr', 'Proof-of-Work', 'Segregated Witness']",[],delving-bitcoin-2498-7-7515
 "['Validation', 'Schnorr', 'Consensus', 'Segregated Witness', 'Taproot', 'Forks', 'Mempool']",[],delving-bitcoin-2483-3-7516
+"['Wallet', 'UTXO', 'BIP']",['Bitcoin'],delving-bitcoin-2215-33-7522
+"['Linux', 'Mac', 'P2P', 'Topology']","['IPv6', 'Networking', 'Router']",delving-bitcoin-2497-13-7524
+"['Cryptography', 'Secp256k1']",['Quantum'],delving-bitcoin-2498-9-7520
+"['Research', 'Assumeutxo', 'Bitcoin Core', 'Cryptography', 'Proof-of-Work']",[],delving-bitcoin-2498-8-7519
+['P2P'],['NAT'],delving-bitcoin-2497-14-7525
