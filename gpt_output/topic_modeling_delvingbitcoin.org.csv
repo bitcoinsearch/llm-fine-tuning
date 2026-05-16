@@ -4325,3 +4325,8 @@ primary_topics,secondary_topics,source_id
 "['Cryptography', 'Secp256k1']",['Quantum'],delving-bitcoin-2498-9-7520
 "['Research', 'Assumeutxo', 'Bitcoin Core', 'Cryptography', 'Proof-of-Work']",[],delving-bitcoin-2498-8-7519
 ['P2P'],['NAT'],delving-bitcoin-2497-14-7525
+['Timestamping'],[],delving-bitcoin-2466-5-7527
+['P2P'],['Firewall'],delving-bitcoin-2497-16-7528
+"['UTXO', 'Taproot']","['Quantum Threat', 'Public Key']",delving-bitcoin-2215-34-7530
+"['P2P', 'Nodes', 'Routing']",[],delving-bitcoin-2466-6-7529
+"['Encryption', 'Routing', 'P2P', 'Security', 'Tor']",[],delving-bitcoin-2497-15-7526
