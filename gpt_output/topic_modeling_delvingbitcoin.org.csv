@@ -4337,3 +4337,4 @@ primary_topics,secondary_topics,source_id
 "['Miners', 'Soft Fork', 'UTXO']","['Replay Protection', 'Replay Attack', 'Hash Rate']",delving-bitcoin-2506-1-7531
 "['Libsecp256k1', 'Verification', 'Bitcoin Core']","['Shim-Based Integration', 'Continuous Assurance Architecture System', 'Performance', 'Benchmarking', 'Audit', 'Engineering', 'Multi-Agent Review Workflows', 'Reproducibility', 'Cross-Platform', 'Integration']",delving-bitcoin-2508-1-7535
 "['Threshold Signatures', 'Cryptography', 'Research', 'Multisig']",['Isogeny'],delving-bitcoin-2324-6-7536
+"['Research', 'Bitcoin Core', 'Cryptography', 'Libsecp256k1', 'Schnorr']",[],delving-bitcoin-2509-2-7539
