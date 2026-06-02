@@ -4338,3 +4338,49 @@ primary_topics,secondary_topics,source_id
 "['Libsecp256k1', 'Verification', 'Bitcoin Core']","['Shim-Based Integration', 'Continuous Assurance Architecture System', 'Performance', 'Benchmarking', 'Audit', 'Engineering', 'Multi-Agent Review Workflows', 'Reproducibility', 'Cross-Platform', 'Integration']",delving-bitcoin-2508-1-7535
 "['Threshold Signatures', 'Cryptography', 'Research', 'Multisig']",['Isogeny'],delving-bitcoin-2324-6-7536
 "['Research', 'Bitcoin Core', 'Cryptography', 'Libsecp256k1', 'Schnorr']",[],delving-bitcoin-2509-2-7539
+"['UTXO', 'Privacy']",['Transaction Fees'],delving-bitcoin-2215-36-7569
+"['Post-Quantum', 'Taproot', 'UTXO', 'Privacy', 'Schnorr']",[],delving-bitcoin-2525-5-7576
+"['Fuzzing', 'BIP']","['Filtering Solutions', 'Golomb Coded Set (GCS)']",delving-bitcoin-2428-9-7582
+"['Taproot', 'Miniscript', 'PSBT']","['Signing', 'Descriptor']",delving-bitcoin-2464-5-7605
+"['Security', 'Update Layer', 'Testing', 'Research']",[],delving-bitcoin-87-8-7543
+"['Post-Quantum', 'Taproot']","['Authentication', 'Public Key', 'Lamport', 'Bitcoin Proposal', 'Hashing', 'Winternitz']",delving-bitcoin-2525-3-7573
+"['Cryptography', 'Post-Quantum', 'Schnorr']",['Signatures'],delving-bitcoin-2514-3-7567
+"['Hardware Wallet', 'Security', 'Taproot', 'Research', 'Cryptography', 'Validation', 'Threshold Signatures', 'Forks', 'Timelocks', 'Privacy', 'Segregated Witness', 'Covenants', 'Consensus']","['STARK-based verification systems', 'Vault', 'OP_CHECKTEMPLATEVERIFY']",delving-bitcoin-2539-1-7601
+"['Post-Quantum', 'Taproot', 'UTXO', 'Scalability', 'Privacy']",[],delving-bitcoin-2525-4-7574
+"['Security', 'Schnorr', 'Post-Quantum', 'Research', 'Proof-of-Work', 'Bitcoin Core', 'Fees', 'Privacy', 'Consensus']",[],delving-bitcoin-2525-6-7577
+"['Script', 'Limitations']","['Technical', 'Optimization', 'Enhancement']",delving-bitcoin-2539-2-7602
+"['Research', 'Bitcoin Core', 'Protocol', 'Lightning']","['Bitcoin', 'Archived', 'Github']",delving-bitcoin-2539-4-7608
+"['Security', 'Post-Quantum', 'Research', 'Cryptography', 'Signature', 'Schnorr']",[],delving-bitcoin-2514-1-7546
+['Research'],"['Software Development', 'Documentation']",delving-bitcoin-2539-5-7609
+"['Security', 'Cryptography', 'Onion', 'Fees', 'Lightning', 'Routing', 'Consensus']",[],delving-bitcoin-2414-15-7564
+[],"['Online Forums', 'Archival Methodologies', 'Moderation Policies', 'Archiving']",delving-bitcoin-87-10-7553
+"['Fuzzing', 'BIP', 'Testing', 'Research']",[],delving-bitcoin-2428-7-7544
+"['Multisig', 'Research', 'Cryptography', 'Segwit', 'Schnorr']","['Hybrid Schemes', 'BIP340']",delving-bitcoin-2514-4-7610
+"['Security', 'Multisig', 'Post-Quantum', 'Research', 'Cryptography', 'UTXO']",['Lightning Network'],delving-bitcoin-2530-6-7604
+"['Security', 'Testing', 'Mining', 'Bitcoin Core', 'Wallet', 'bitcoin-cli', 'Script', 'P2P']",[],delving-bitcoin-2497-17-7542
+"['Backup', 'Wallet', 'BIP']",[],delving-bitcoin-1607-36-7558
+"['Security', 'Post-Quantum', 'Cryptography', 'UTXO', 'Privacy', 'Signature']",[],delving-bitcoin-2530-4-7591
+"['Cryptography', 'Post-Quantum', 'Consensus', 'Research']",[],delving-bitcoin-2522-3-7595
+"['Post-Quantum', 'UTXO', 'Replace-by-Fee']","['CPFP', 'Pay-to-Taproot', 'Witness', 'Pay-to-Witness-One-Time-Signature', 'P2TR', 'Winternitz Signatures', 'P2WOTS', 'Signatures']",delving-bitcoin-2530-3-7588
+"['Security', 'Post-Quantum', 'Cryptography', 'Bitcoin Core', 'Proof-of-Work', 'Transactions', 'Blockchain', 'Public-Key']",[],delving-bitcoin-2525-2-7568
+"['Development', 'Bitcoin Core', 'Consensus', 'Research']",[],delving-bitcoin-2522-2-7559
+"['Security', 'Mining', 'UTXO', 'Fees', 'Privacy', 'Consensus']",[],delving-bitcoin-2215-38-7572
+"['Validation', 'Script', 'Segwit', 'Forks', 'Consensus']",[],delving-bitcoin-2539-3-7603
+"['Post-Quantum', 'Ethereum', 'Research', 'Cryptography', 'UTXO', 'C++', 'Segregated Witness']",['Lightning Network'],delving-bitcoin-2525-7-7579
+['UTXO'],[],delving-bitcoin-2215-39-7575
+"['Mining', 'Research', 'Consensus', 'Blockchain']","['Economic Theory', 'Opportunity Costs']",delving-bitcoin-2524-2-7580
+"['UTXO', 'Privacy', 'Security']",['Transaction Fees'],delving-bitcoin-2215-37-7571
+"['Security', 'Post-Quantum', 'Cryptography', 'Signature', 'Schnorr']",['Bitcoin'],delving-bitcoin-2514-2-7566
+"['Schnorr', 'Post-Quantum', 'Taproot', 'Cryptography', 'Research', 'Smart Contracts']",[],delving-bitcoin-2525-1-7562
+"['Cryptography', 'Research', 'Consensus']",['Quantum Attack'],delving-bitcoin-2524-1-7560
+"['Security', 'Post-Quantum', 'Update Layer', 'Research', 'UTXO', 'Merkle Trees']",[],delving-bitcoin-2530-5-7592
+"['Schnorr', 'Post-Quantum', 'Ethereum', 'Taproot', 'UTXO', 'Bitcoin Core', 'Hard Fork', 'Multi-sig', 'Smart Contracts']","['Lightning Network', 'BIP-141', 'Winternitz Signatures']",delving-bitcoin-2530-1-7581
+"['Security', 'Multi-Signature', 'UTXO', 'Transactions', 'BIP']","['Private Key', 'Flexibility']",delving-bitcoin-2530-2-7587
+"['Cryptography', 'Post-Quantum', 'Consensus', 'Research']",[],delving-bitcoin-2522-1-7556
+['BIP'],"['Filters', 'Bandwidth', 'Technical Details', 'Data Synchronization', 'Optimization', 'GCS', 'Index Sizes', 'Performance']",delving-bitcoin-2428-8-7561
+"['Asmap', 'Eclair', 'Submarine Swaps', 'Accumulators', 'Altcoin', 'Bitcoin Core', 'Hard Fork', 'Sidechains', 'Academia', 'Package Relay', 'Fees', 'Assumeutxo', 'Privacy', 'PSBT', 'Multiple-Path Payments', 'RGB', 'Testing', 'Hardware Wallet', 'Fuzzing', 'Mining', 'Sphinx', 'Taproot', 'Cryptography', 'Wallet', 'Mempool', 'Onion', 'P2pool', 'C-Lightning', 'Script', 'Layer 2', 'Ux', 'Musig', 'Stratum-V2', 'Lightning', 'P2P', 'Attacks', 'IBD', 'FROST', 'Eltoo', 'Segwit', 'Fungibility', 'Scalability', 'Silent Payments', 'Pools', 'Libsecp256k1', 'Signet', 'Limitations', 'Forks', 'Routing', 'Soft Fork', 'Schnorr', 'Consensus', 'Multisig', 'Security', 'Smart Contracts', 'Update Layer', 'Research', 'Miniscript', 'Threshold Signatures', 'Regulation', 'Routing Failures', 'Libbitcoin Kernel', 'Splicing', 'Lnd', 'Path-Finding', 'Covenants']",['Zero'],delving-bitcoin-2360-13-7357
+"['Mining', 'Bitcoin Core', 'Fees', 'Segregated Witness', 'BIP', 'Consensus']",[],delving-bitcoin-2360-12-7356
+"['Bitcoin Core', 'Tor']","['Centralization', 'Bitcoin Improvement Proposal (BIP)']",delving-bitcoin-2360-14-7358
+"['Multisig', 'Segregated Witness', 'Schnorr']","['Deterministic Signing Algorithms', 'Space-Saving in Hybrid Schemes', 'Hybrid Cryptographic Schemes', 'Quantum Computing', 'BIP340']",delving-bitcoin-2514-5-7611
+"['Security', 'Post-Quantum', 'Cryptography', 'Scalability', 'Soft Fork']",[],delving-bitcoin-2422-3-7623
+"['Bitcoin Core', 'Research']",[],delving-bitcoin-2360-16-7624
