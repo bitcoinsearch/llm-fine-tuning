@@ -4392,3 +4392,22 @@ primary_topics,secondary_topics,source_id
 "['Blockchain', 'Signet']","['Node', 'Networking Systems']",delving-bitcoin-2549-3-7632
 "['Research', 'Cryptography']",['Source Code'],delving-bitcoin-2552-1-7634
 "['Testing', 'Signet', 'Wallet', 'Post-Quantum']","['Developers', 'GitHub']",delving-bitcoin-2557-1-7639
+"['Fees', 'Consensus', 'Research', 'Bitcoin Core', 'Mining']",[],delving-bitcoin-2524-3-7690
+"['Consensus', 'Security', 'Privacy', 'Research', 'Forks', 'Blockchain']",[],delving-bitcoin-2591-5-7694
+"['Forks', 'Assumeutxo', 'Blockchain', 'Consensus']",[],delving-bitcoin-2591-7-7697
+"['Blockchain', 'Signet']","['Testnet4', 'Reorganizations']",delving-bitcoin-2591-3-7692
+"['Cryptography', 'Mining', 'Proof-of-Work', 'Consensus']",[],delving-bitcoin-2524-4-7700
+['Forks'],"['Block Validity', 'Chain Reorganization']",delving-bitcoin-2549-4-7698
+"['Schnorr', 'post-quantum', 'secp256k1']","['BIP340', 'hybrid signing schemes', 'signature malleation']",delving-bitcoin-2514-6-7701
+"['Consensus', 'Security', 'Forks', 'Blockchain', 'Testing', 'Validation']",[],delving-bitcoin-2591-2-7691
+"['Consensus', 'Forks', 'Segregated Witness', 'Testing', 'Validation', 'History']",[],delving-bitcoin-2591-1-7688
+"['Mining', 'Pools', 'Limitations', 'Consensus', 'Security', 'Forks', 'Blockchain', 'Testing', 'Validation']",[],delving-bitcoin-2591-6-7695
+"['Forks', 'Testing', 'Validation', 'Consensus']",[],delving-bitcoin-2591-4-7693
+"['Merkle Trees', 'Proof-of-Work', 'Schnorr', 'Consensus', 'Segregated Witness', 'Validation', 'Hashlocks']",[],delving-bitcoin-2603-1-7717
+"['Cryptography', 'Schnorr', 'Post-Quantum']","['Soft Forks', 'Isogenies', 'Hybrid Schemes', 'Elliptic Curve', 'Lattices']",delving-bitcoin-2514-8-7715
+"['Cryptography', 'Post-Quantum', 'Research', 'Schnorr']",[],delving-bitcoin-2514-7-7702
+"['Cryptography', 'Fees', 'Segwit', 'Consensus', 'Privacy', 'Bitcoin Core', 'Validation']",[],delving-bitcoin-2604-1-7719
+"['Cryptography', 'Proof-of-Work', 'Signature', 'Script', 'Security', 'Public-Key', 'BIP', 'Validation']","['Commitment', 'Transaction Processing']",delving-bitcoin-2603-3-7720
+"['Research', 'Bitcoin Core']","['Bitcoin Stack Exchange', 'Education']",delving-bitcoin-2550-4-7722
+"['Merkle Trees', 'Privacy', 'BIP', 'MuSig']","['Batch Validation', 'Efficiency', 'Signature Scheme', 'Pay-to-Taproot', 'Pay-to-Merkle-root', 'Data Encoding']",delving-bitcoin-2603-2-7718
+"['Cryptography', 'Taproot', 'Segregated Witness']",[],delving-bitcoin-2603-4-7721
