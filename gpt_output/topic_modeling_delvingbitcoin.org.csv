@@ -4411,3 +4411,16 @@ primary_topics,secondary_topics,source_id
 "['Research', 'Bitcoin Core']","['Bitcoin Stack Exchange', 'Education']",delving-bitcoin-2550-4-7722
 "['Merkle Trees', 'Privacy', 'BIP', 'MuSig']","['Batch Validation', 'Efficiency', 'Signature Scheme', 'Pay-to-Taproot', 'Pay-to-Merkle-root', 'Data Encoding']",delving-bitcoin-2603-2-7718
 "['Cryptography', 'Taproot', 'Segregated Witness']",[],delving-bitcoin-2603-4-7721
+"['Security', 'Public-Key', 'BIP']","['Key-Reuse', 'Chaincode', 'EC', 'P2MR', 'Quantum']",delving-bitcoin-2603-6-7727
+"['Testing', 'Consensus']",[],delving-bitcoin-2591-9-7725
+"['Multisig', 'xpub', 'Consensus']","['BIP32', 'Quantum Computing', 'Public Key']",delving-bitcoin-2603-10-7732
+"['Security', 'Consensus', 'Forks', 'Blockchain']",[],delving-bitcoin-2591-8-7723
+"['Security', 'Segregated Witness', 'Bitcoin Core', 'Cryptography']","['Batch Validation', 'Efficiency', 'Optimizations', 'Public Key', 'Performance']",delving-bitcoin-2603-5-7724
+"['Validation', 'Consensus', 'Bitcoin Core', 'Assumeutxo', 'Research']",[],delving-bitcoin-2550-6-7728
+['Schnorr'],"['BIP32', 'BIP39', 'Public Key', 'Signature Scheme']",delving-bitcoin-2603-11-7733
+"['Research', 'Bitcoin Core', 'Cryptography']",[],delving-bitcoin-2550-5-7726
+"['Validation', 'Segwit', 'Schnorr', 'Consensus', 'Soft Fork', 'Research', 'Taproot']",[],delving-bitcoin-2603-7-7729
+"['Validation', 'Segwit', 'Consensus', 'Scalability', 'Soft Fork', 'Cryptography', 'Privacy']",['Efficiency'],delving-bitcoin-2603-9-7731
+"['Security', 'Validation', 'Schnorr', 'Post-Quantum', 'ECDSA', 'Public-Key']","['Hardened-Keys', 'Extended-Public-Key', 'Hash-Based-Signatures', 'Batchable-Signatures', 'Chaincode', 'Cryptographic-Applications', 'Quantum', 'Pubkey-Recovery', 'Blockchain-Technology']",delving-bitcoin-2603-8-7730
+"['Security', 'Public-Key']","['Elliptic-Curve', 'BIP32', 'MuSig2', 'Cryptographic-Standards', 'Isogeny-Based-Cryptography', 'Quantum-Computing']",delving-bitcoin-2603-13-7735
+[],"['BIP32', 'Security Measures', 'BIP39', 'Public Key', 'Cryptographic Standards']",delving-bitcoin-2603-12-7734
