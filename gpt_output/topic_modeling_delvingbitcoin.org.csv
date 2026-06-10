@@ -4424,3 +4424,6 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Validation', 'Schnorr', 'Post-Quantum', 'ECDSA', 'Public-Key']","['Hardened-Keys', 'Extended-Public-Key', 'Hash-Based-Signatures', 'Batchable-Signatures', 'Chaincode', 'Cryptographic-Applications', 'Quantum', 'Pubkey-Recovery', 'Blockchain-Technology']",delving-bitcoin-2603-8-7730
 "['Security', 'Public-Key']","['Elliptic-Curve', 'BIP32', 'MuSig2', 'Cryptographic-Standards', 'Isogeny-Based-Cryptography', 'Quantum-Computing']",delving-bitcoin-2603-13-7735
 [],"['BIP32', 'Security Measures', 'BIP39', 'Public Key', 'Cryptographic Standards']",delving-bitcoin-2603-12-7734
+"['Security', 'Validation', 'Cryptography', 'Research']",['Isogeny'],delving-bitcoin-2324-7-7738
+"['Public-Key', 'Post-Quantum', 'Security']","['Infrastructure-Development', 'Descriptors', 'Quantum-Computing', 'Transition', 'Bitcoin-Ecosystem', 'Tooling']",delving-bitcoin-2603-14-7736
+"['Post-Quantum', 'Security', 'Public-key', 'Cryptography']","['Scripting', 'Migration', 'Elliptic Curve', 'Cryptographic Solutions']",delving-bitcoin-2603-15-7737
