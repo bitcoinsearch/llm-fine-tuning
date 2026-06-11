@@ -4427,3 +4427,8 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Validation', 'Cryptography', 'Research']",['Isogeny'],delving-bitcoin-2324-7-7738
 "['Public-Key', 'Post-Quantum', 'Security']","['Infrastructure-Development', 'Descriptors', 'Quantum-Computing', 'Transition', 'Bitcoin-Ecosystem', 'Tooling']",delving-bitcoin-2603-14-7736
 "['Post-Quantum', 'Security', 'Public-key', 'Cryptography']","['Scripting', 'Migration', 'Elliptic Curve', 'Cryptographic Solutions']",delving-bitcoin-2603-15-7737
+"['Schnorr', 'Consensus', 'Signature', 'Hash', 'Public-Key', 'Cryptography']",[],delving-bitcoin-2603-16-7745
+"['Bitcoin Core', 'Research', 'Consensus']","['Dataset', 'GitHub', 'Source Code']",delving-bitcoin-2550-10-7744
+"['bitcoin-core-development', 'Bitcoin Core', 'History', 'Research']",[],delving-bitcoin-2550-7-7740
+"['Privacy', 'Research']",[],delving-bitcoin-2550-9-7743
+"['Bitcoin Core', 'Libsecp256k1', 'Research']","['Metadata', 'Development History', 'Cryptographic Functions', 'Documentation', 'GitHub', 'BIPs']",delving-bitcoin-2550-8-7742
