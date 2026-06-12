@@ -4432,3 +4432,5 @@ primary_topics,secondary_topics,source_id
 "['bitcoin-core-development', 'Bitcoin Core', 'History', 'Research']",[],delving-bitcoin-2550-7-7740
 "['Privacy', 'Research']",[],delving-bitcoin-2550-9-7743
 "['Bitcoin Core', 'Libsecp256k1', 'Research']","['Metadata', 'Development History', 'Cryptographic Functions', 'Documentation', 'GitHub', 'BIPs']",delving-bitcoin-2550-8-7742
+"['Validation', 'Segregated Witness', 'Consensus', 'Fuzzing', 'Research', 'Bitcoin Core', 'Libbitcoin Kernel', 'Cryptography']","['Bitcoin Core Development', 'Source Code']",delving-bitcoin-2550-11-7747
+"['Package Relay', 'Mempool', 'Assumeutxo', 'P2P', 'Fuzzing', 'Research', 'Bitcoin Core', 'Asmap', 'Libbitcoin Kernel']",[],delving-bitcoin-2550-12-7749
