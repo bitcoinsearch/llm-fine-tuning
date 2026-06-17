@@ -4436,3 +4436,6 @@ primary_topics,secondary_topics,source_id
 "['Package Relay', 'Mempool', 'Assumeutxo', 'P2P', 'Fuzzing', 'Research', 'Bitcoin Core', 'Asmap', 'Libbitcoin Kernel']",[],delving-bitcoin-2550-12-7749
 "['BIP', 'Fuzzing']","['Filters', 'Filtering', 'Data Handling']",delving-bitcoin-2428-11-7751
 "['Research', 'Privacy', 'Testing', 'Limitations', 'Fuzzing']",['Hierarchical Constructions'],delving-bitcoin-2428-10-7750
+"['Bitcoin Core', 'Taproot', 'Consensus', 'Soft Fork', 'Segregated Witness']","['Bitcoin BIPs pull request', 'BIP341', 'Bitcoin Core PR 27926', 'BIP141', 'Witness']",delving-bitcoin-2620-1-7768
+"['Bitcoin Core', 'C++', 'Research', 'Segwit', 'Consensus']","['IRC', 'Bitcoin-specific queries', 'Bitcoin history', 'Training', 'Bitcoin technology']",delving-bitcoin-2550-13-7766
+"['Security', 'Smart Contracts', 'Privacy']",[],delving-bitcoin-2550-14-7767
