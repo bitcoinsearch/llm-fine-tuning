@@ -4439,3 +4439,7 @@ primary_topics,secondary_topics,source_id
 "['Bitcoin Core', 'Taproot', 'Consensus', 'Soft Fork', 'Segregated Witness']","['Bitcoin BIPs pull request', 'BIP341', 'Bitcoin Core PR 27926', 'BIP141', 'Witness']",delving-bitcoin-2620-1-7768
 "['Bitcoin Core', 'C++', 'Research', 'Segwit', 'Consensus']","['IRC', 'Bitcoin-specific queries', 'Bitcoin history', 'Training', 'Bitcoin technology']",delving-bitcoin-2550-13-7766
 "['Security', 'Smart Contracts', 'Privacy']",[],delving-bitcoin-2550-14-7767
+"['Accumulators', 'FROST', 'Validation', 'Cryptography', 'Storage', 'Security', 'Miners', 'Threshold Signatures', 'Multisig']",[],delving-bitcoin-2395-4-7771
+"['Segregated Witness', 'P2P', 'Fees', 'Mempool', 'Bitcoin Core', 'Privacy', 'Consensus', 'Research']",[],delving-bitcoin-2620-2-7772
+"['Fees', 'Scalability', 'Mining', 'Security', 'Bitcoin Core', 'Consensus', 'Lightning']",[],delving-bitcoin-2395-3-7770
+"['Security', 'Cryptography', 'Consensus', 'Research']",[],delving-bitcoin-2395-2-7769
