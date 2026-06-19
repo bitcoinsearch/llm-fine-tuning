@@ -4443,3 +4443,11 @@ primary_topics,secondary_topics,source_id
 "['Segregated Witness', 'P2P', 'Fees', 'Mempool', 'Bitcoin Core', 'Privacy', 'Consensus', 'Research']",[],delving-bitcoin-2620-2-7772
 "['Fees', 'Scalability', 'Mining', 'Security', 'Bitcoin Core', 'Consensus', 'Lightning']",[],delving-bitcoin-2395-3-7770
 "['Security', 'Cryptography', 'Consensus', 'Research']",[],delving-bitcoin-2395-2-7769
+"['Replace-By-Fee', 'Proof-of-Stake', 'Cryptography', 'Proof-of-Work', 'Blockchain', 'Segregated Witness']",['Quantum Computing'],delving-bitcoin-2603-19-7777
+"['Privacy', 'Fees', 'Silent Payments', 'Regulation', 'Bitcoin Core', 'Layer 2', 'Consensus', 'Segregated Witness', 'Wallet']","['Cross-Input Signature Aggregation (CISA)', 'Lightning Network', 'CoinJoin']",delving-bitcoin-2622-1-7778
+"['Security', 'Soft Fork', 'Blockchain', 'Taproot']","['Efficiency', 'Quantum']",delving-bitcoin-2603-21-7780
+"['Security', 'Research', 'Lightning-Network', 'Validation', 'Fuzzing', 'Zero-Knowledge', 'Lnd', 'Testing']",['Gossip'],delving-bitcoin-2621-1-7776
+"['Script', 'Security', 'Cryptography', 'Post-Quantum', 'Public-Key', 'Mempool']",[],delving-bitcoin-2603-18-7775
+"['Security', 'Cryptography', 'Multisig', 'Threshold Signatures']",['MuSig2'],delving-bitcoin-2395-5-7774
+"['Security', 'Schnorr', 'Forks', 'Taproot']","['Quantum', 'Public Key', 'EC']",delving-bitcoin-2603-20-7779
+"['Security', 'Public-Key', 'Taproot']",['Quantum Computing'],delving-bitcoin-2603-17-7773
