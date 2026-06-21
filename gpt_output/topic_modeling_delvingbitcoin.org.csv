@@ -4451,3 +4451,11 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Cryptography', 'Multisig', 'Threshold Signatures']",['MuSig2'],delving-bitcoin-2395-5-7774
 "['Security', 'Schnorr', 'Forks', 'Taproot']","['Quantum', 'Public Key', 'EC']",delving-bitcoin-2603-20-7779
 "['Security', 'Public-Key', 'Taproot']",['Quantum Computing'],delving-bitcoin-2603-17-7773
+"['Privacy', 'Forks', 'Bitcoin Core', 'Research', 'Wallet', 'Cryptography', 'Proof-of-Work', 'Development']",[],delving-bitcoin-2622-2-7784
+"['Tor', 'Security', 'Privacy', 'UTXO', 'Cryptography', 'Limitations']","['Decoy Techniques', 'Address Reuse', 'Provenance Tags', 'CoinJoins']",delving-bitcoin-2625-1-7783
+"['Security', 'Privacy', 'Taproot', 'Fees', 'Lightning', 'Cryptography', 'Routing']",[],delving-bitcoin-2622-5-7787
+"['Scalability', 'Research', 'Blockchain', 'Storage']","['Efficiency', 'Fountain Codes']",delving-bitcoin-2624-1-7782
+"['Security', 'Multisig', 'Lightning', 'Decentralization', 'Threshold Signatures']","['Elliptic Curve Diffie-Hellman (ECDH)', 'Shared Secrets', 'Blockchain Technologies', 'MuSig2']",delving-bitcoin-2623-1-7781
+"['Security', 'Privacy', 'Blockchain', 'Transactions', 'Decentralization']",['Cryptocurrency'],delving-bitcoin-2622-6-7788
+"['Privacy', 'Offline']",['Bitcoin'],delving-bitcoin-2622-3-7785
+"['Security', 'Privacy', 'Bitcoin Core', 'Blockchain', 'BIP', 'Transactions', 'Soft Fork']",[],delving-bitcoin-2622-4-7786
