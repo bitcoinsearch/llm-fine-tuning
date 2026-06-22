@@ -4459,3 +4459,9 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Privacy', 'Blockchain', 'Transactions', 'Decentralization']",['Cryptocurrency'],delving-bitcoin-2622-6-7788
 "['Privacy', 'Offline']",['Bitcoin'],delving-bitcoin-2622-3-7785
 "['Security', 'Privacy', 'Bitcoin Core', 'Blockchain', 'BIP', 'Transactions', 'Soft Fork']",[],delving-bitcoin-2622-4-7786
+"['UTXO', 'Silent Payments', 'Privacy']","['PayJoin', 'CoinJoin']",delving-bitcoin-2622-8-7800
+"['UTXO', 'Taproot', 'Privacy']","['WabiSabi', 'Anonymity Set', 'Sybil Attacks', 'PayJoin', 'Address Reuse', 'CoinJoin']",delving-bitcoin-2622-9-7801
+"['Storage', 'Blockchain']","['Network Dynamics', 'Data Integrity', 'Initial Block Download (IBD)', 'Block Size', 'Serialization Sizes', 'Economic Theory', 'Peer Reliability']",delving-bitcoin-2624-2-7793
+"['Halving', 'Consensus', 'Fees', 'Mining', 'Research']",[],delving-bitcoin-2626-1-7789
+"['UTXO', 'Silent Payments']","['Cross-Input Signature Aggregation', 'Confidential Transactions', 'CoinJoin']",delving-bitcoin-2622-7-7795
+"['Privacy', 'Security']","['Data Synchronization Techniques', 'Reed-Solomon Codes', 'Blockchain Storage Costs', 'Fountain Codes', ""Berlekamp's Algorithm"", 'Network Design', 'Anonymity', 'Peer Reliability', 'Node Fingerprinting', 'RS Codes']",delving-bitcoin-2624-3-7798
