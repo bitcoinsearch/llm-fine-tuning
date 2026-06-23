@@ -4465,3 +4465,15 @@ primary_topics,secondary_topics,source_id
 "['Halving', 'Consensus', 'Fees', 'Mining', 'Research']",[],delving-bitcoin-2626-1-7789
 "['UTXO', 'Silent Payments']","['Cross-Input Signature Aggregation', 'Confidential Transactions', 'CoinJoin']",delving-bitcoin-2622-7-7795
 "['Privacy', 'Security']","['Data Synchronization Techniques', 'Reed-Solomon Codes', 'Blockchain Storage Costs', 'Fountain Codes', ""Berlekamp's Algorithm"", 'Network Design', 'Anonymity', 'Peer Reliability', 'Node Fingerprinting', 'RS Codes']",delving-bitcoin-2624-3-7798
+"['Privacy', 'Fees', 'Consensus', 'Mining', 'Scalability', 'Bitcoin Core']",[],delving-bitcoin-2622-10-7808
+"['Synchronization', 'Consensus', 'Mining', 'Forks', 'Validation', 'Security', 'Cryptography']",[],delving-bitcoin-2624-5-7803
+"['Privacy', 'Development']","['Technology', 'Scaling']",delving-bitcoin-2622-13-7816
+"['Privacy', 'Fees', 'Scalability', 'Security', 'UTXO', 'Bitcoin Core', 'Lightning']",['Coinjoin'],delving-bitcoin-2622-11-7814
+['Wallet'],"['Mnemonic', 'Localization', 'Cryptographic Processes', 'Bitcoin Development', 'Feedback', 'BIP39', 'Implementation', 'Compatibility', 'User Experience']",delving-bitcoin-2637-1-7812
+"['Topology', 'Consensus', 'Storage', 'Forks', 'Validation', 'Scalability']",[],delving-bitcoin-2624-4-7802
+"['Consensus', 'Storage', 'Fuzzing', 'Validation', 'Peer-discovery', 'Block-validity']",['Recovery'],delving-bitcoin-2624-8-7806
+"['Validation', 'Consensus', 'Merkle Trees', 'Storage']",[],delving-bitcoin-2624-7-7805
+"['Privacy', 'Consensus', 'Validation', 'Network', 'Security']",[],delving-bitcoin-2624-6-7804
+"['Fees', 'Blockchain', 'Mining', 'Transactions', 'Mempool', 'Signet']","['Network Performance', 'Reliability', 'Reorgs']",delving-bitcoin-2549-5-7818
+"['Privacy', 'Research', 'Consensus']",[],delving-bitcoin-2622-12-7815
+"['Blockchain', 'Storage']","['Reed-Solomon', 'Initial Block Download (IBD)', 'Memory Resources', 'Encoding Methods', 'Data Recovery', 'Anonymity Groups', 'Bandwidth Utilization', 'Error Detection']",delving-bitcoin-2624-9-7807
