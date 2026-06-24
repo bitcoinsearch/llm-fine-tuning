@@ -4477,3 +4477,32 @@ primary_topics,secondary_topics,source_id
 "['Fees', 'Blockchain', 'Mining', 'Transactions', 'Mempool', 'Signet']","['Network Performance', 'Reliability', 'Reorgs']",delving-bitcoin-2549-5-7818
 "['Privacy', 'Research', 'Consensus']",[],delving-bitcoin-2622-12-7815
 "['Blockchain', 'Storage']","['Reed-Solomon', 'Initial Block Download (IBD)', 'Memory Resources', 'Encoding Methods', 'Data Recovery', 'Anonymity Groups', 'Bandwidth Utilization', 'Error Detection']",delving-bitcoin-2624-9-7807
+"['Consensus', 'Bitcoin Core', 'Mining', 'Proof-of-Stake', 'Fees', 'Scalability', 'Privacy', 'Cryptography', 'Segregated Witness', 'Post-Quantum']",['BIP32'],delving-bitcoin-2640-4-7847
+"['UTXO', 'Custody', 'Silent Payments', 'Privacy']",[],delving-bitcoin-2622-19-7827
+"['Custody', 'Consensus', 'Silent Payments', 'Privacy']",[],delving-bitcoin-2622-17-7825
+"['Security', 'Silent Payments', 'Privacy']",['Anonymity'],delving-bitcoin-2622-14-7820
+"['Validation', 'Consensus', 'Forks', 'Merkle Trees', 'Segregated Witness', 'Soft Fork', 'UTXO', 'Script']",['Peer Services'],delving-bitcoin-2641-1-7838
+"['Consensus', 'OP_RETURN', 'Forks', 'Blockchain', 'Merkle Trees', 'Segregated Witness', 'Soft Fork', 'Storage', 'Validation']",['Transaction Verification'],delving-bitcoin-2641-2-7840
+"['Fees', 'Research', 'Consensus', 'Soft Fork']",[],delving-bitcoin-2626-2-7836
+"['UTXO', 'Silent Payments']",[],delving-bitcoin-2622-21-7829
+"['Incentives', 'Consensus', 'Mining']",['Economic Theory'],delving-bitcoin-2640-3-7839
+"['Forks', 'Validation', 'Consensus', 'Segregated Witness']",[],delving-bitcoin-2641-5-7845
+"['Wallet', 'Custody', 'Privacy', 'Validation', 'Silent Payments']",['Address Reuse'],delving-bitcoin-2622-20-7828
+"['Silent Payments', 'Privacy']",[],delving-bitcoin-2622-18-7826
+['Privacy'],"['Hierarchical Deterministic Wallets', 'Address Generation', 'Transaction Privacy']",delving-bitcoin-2622-24-7832
+"['Security', 'BIP']","['Normalization', 'Multilingual', 'Interoperability', 'Recovery', 'Checksum']",delving-bitcoin-2637-3-7823
+"['Blockchain', 'Taproot', 'Smart Contracts', 'UTXO', 'Covenants']",[],delving-bitcoin-1900-8-7846
+"['Security', 'Wallet', 'Privacy']","['Public Key', 'Hierarchical Deterministic Wallets']",delving-bitcoin-2622-23-7831
+"['Validation', 'Consensus', 'Blockchain', 'Privacy', 'Segregated Witness', 'Storage', 'Timestamping', 'Decentralization', 'Script']",[],delving-bitcoin-2641-4-7844
+"['Bitcoin Core', 'Consensus', 'Mining', 'Testing', 'Fees', 'Privacy', 'History', 'Research']",[],delving-bitcoin-2640-6-7849
+"['Consensus', 'Security', 'Mining', 'Proof-of-Stake', 'Fees', 'Incentives', 'Decentralization']",[],delving-bitcoin-2640-1-7835
+[],"['Source Code', 'Archives', 'Bitcoin']",delving-bitcoin-87-12-7834
+"['Security', 'Wallet', 'Electrum', 'Privacy', 'Research']","['Transaction Privacy', 'Address Reuse', 'Chain Surveillance', 'Full Node', 'BIP157/158', 'Documentation']",delving-bitcoin-2622-25-7833
+"['Consensus', 'Mining', 'Halving', 'Fees', 'Ux', 'Segregated Witness', 'Fungibility', 'UTXO', 'Proof-of-Work', 'Assumeutxo', 'P2pool', 'Covenants']",[],delving-bitcoin-2640-2-7837
+"['Mempool', 'Signet', 'Transactions']",[],delving-bitcoin-2549-6-7819
+"['UTXO', 'Privacy', 'Silent Payments']",['Address Reuse'],delving-bitcoin-2622-22-7830
+"['Consensus', 'OP_RETURN', 'IBD', 'Segregated Witness', 'Timestamping']",[],delving-bitcoin-2641-3-7843
+"['Blockchain', 'Privacy']","['Digital Transactions', 'Static Addresses', 'Address Reuse', 'Anonymity']",delving-bitcoin-2622-16-7824
+"['Wallet', 'Transactions', 'Silent Payments', 'Privacy']",[],delving-bitcoin-2622-15-7821
+"['Bitcoin Core', 'Consensus', 'Mining', 'Fees']",[],delving-bitcoin-2640-5-7848
+[],"['Bitcoin Improvement Proposal (BIP)', 'Entropy', 'BIP39', 'Checksum', 'Wordlists']",delving-bitcoin-2637-2-7822
