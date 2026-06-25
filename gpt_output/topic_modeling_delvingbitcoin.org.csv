@@ -4506,3 +4506,17 @@ primary_topics,secondary_topics,source_id
 "['Wallet', 'Transactions', 'Silent Payments', 'Privacy']",[],delving-bitcoin-2622-15-7821
 "['Bitcoin Core', 'Consensus', 'Mining', 'Fees']",[],delving-bitcoin-2640-5-7848
 [],"['Bitcoin Improvement Proposal (BIP)', 'Entropy', 'BIP39', 'Checksum', 'Wordlists']",delving-bitcoin-2637-2-7822
+"['Blockchain', 'OP_Return']","['Wallet Services', 'Blockchain Explorers', 'User-Friendly Features', 'Adoption']",delving-bitcoin-2648-1-7865
+"['Forks', 'UTXO', 'Proof-of-Work', 'Bitcoin Core', 'Privacy', 'Cryptography', 'P2pool', 'Segwit', 'Ux', 'Hard Fork', 'Pools', 'Assumeutxo', 'Mining', 'Fees', 'Consensus']",[],delving-bitcoin-2640-11-7858
+"['Network', 'Validation', 'Cryptography', 'Ux', 'Segregated Witness', 'Storage', 'Forks', 'Consensus']",['Resource Management'],delving-bitcoin-2641-7-7864
+"['Bitcoin Core', 'Mining', 'Fees']","['Cryptocurrency Valuations', 'USD Value', 'Block Reward']",delving-bitcoin-2640-7-7854
+"['Security', 'Hard Fork', 'Soft Fork', 'Fees', 'Consensus']",[],delving-bitcoin-2640-12-7866
+"['Mining', 'Fees', 'Consensus']",[],delving-bitcoin-2640-9-7856
+"['Multisig', 'Signature']","['Vulnerability', 'Quantum Sunset Economics', 'Scripting Methods', 'Quantum Computing', 'Cryptocurrency Transaction Types', 'Redeem Script', 'Risk Profile', 'Public Key', 'Software Error', 'UTXOs', 'Exposure Risks', 'Pay-to-Script-Hash (P2SH)', 'Transaction Types', 'Security Implications']",delving-bitcoin-2645-2-7859
+"['Halving', 'Mining', 'Fees']","['Reward Schedule', 'Economic Theory']",delving-bitcoin-2640-10-7857
+[],"['Fountain Codes', 'Blockchain Storage Costs']",delving-bitcoin-2624-10-7860
+['Security'],"['BIP32', 'Chain Reorganization', 'Public Key']",delving-bitcoin-2645-3-7861
+['Tor'],"['Bitcoin software', 'Upgrade process']",delving-bitcoin-2647-1-7862
+"['IBD', 'Soft Fork', 'Segregated Witness', 'Consensus']",[],delving-bitcoin-2641-6-7863
+"['Mining', 'Privacy', 'Research', 'Fees', 'Consensus']",[],delving-bitcoin-2640-8-7855
+"['UTXO', 'Privacy', 'Multisig', 'Regulation']",['Bitcoin Improvement Proposals (BIPs)'],delving-bitcoin-2645-1-7852
