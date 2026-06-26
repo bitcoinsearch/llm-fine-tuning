@@ -4520,3 +4520,19 @@ primary_topics,secondary_topics,source_id
 "['IBD', 'Soft Fork', 'Segregated Witness', 'Consensus']",[],delving-bitcoin-2641-6-7863
 "['Mining', 'Privacy', 'Research', 'Fees', 'Consensus']",[],delving-bitcoin-2640-8-7855
 "['UTXO', 'Privacy', 'Multisig', 'Regulation']",['Bitcoin Improvement Proposals (BIPs)'],delving-bitcoin-2645-1-7852
+"['Segregated Witness', 'UTXO']",[],delving-bitcoin-2641-13-7882
+"['Script', 'Blockchain', 'Consensus', 'Privacy', 'Segwit', 'Multisig', 'Smart Contracts', 'Segregated Witness', 'Forks', 'Security']","['Bitcoin Core Development', 'Historical Trade Data']",delving-bitcoin-2641-10-7878
+"['Consensus', 'Storage', 'Segregated Witness', 'Forks', 'Validation']",[],delving-bitcoin-2641-8-7870
+['Segregated Witness'],[],delving-bitcoin-2641-18-7887
+"['Segregated Witness', 'Decentralization', 'Security']","['Data Storage', 'Blockchain Technologies']",delving-bitcoin-2641-16-7885
+"['Blockchain', 'BIP', 'Segregated Witness']","['Block Construction Methodologies', 'Peer Services']",delving-bitcoin-2641-11-7879
+"['Segregated Witness', 'Consensus', 'Soft Fork']",[],delving-bitcoin-2641-9-7877
+"['Consensus', 'Mining', 'Incentives']","['Bitcoin', 'Economic Theory']",delving-bitcoin-2641-17-7886
+"['Protocol', 'Blockchain', 'Mining', 'Network']","['Timing', 'User Interface']",delving-bitcoin-2654-3-7876
+"['IBD', 'Blockchain', 'Segregated Witness', 'Validation']","['Full Node', 'Hashes']",delving-bitcoin-2641-12-7880
+"['Hard Fork', 'Fees', 'Soft Fork', 'Mining']",['Block Size Increase'],delving-bitcoin-2640-13-7875
+"['Segregated Witness', 'Op-return', 'Taproot']",[],delving-bitcoin-2641-15-7884
+"['Consensus', 'Block', 'Mining', 'Blockchain']",[],delving-bitcoin-2654-2-7874
+"['Segregated Witness', 'IBD', 'Storage']",['Bandwidth Efficiency'],delving-bitcoin-2641-14-7883
+"['Network', 'Research', 'Development', 'Bitcoin Core']",[],delving-bitcoin-2652-1-7871
+"['Mempool', 'Blockchain', 'Development', 'Fees', 'Network']","['Bitcoin', 'Feedback', 'User Experience', 'Languages', 'Explorer']",delving-bitcoin-2654-1-7873
