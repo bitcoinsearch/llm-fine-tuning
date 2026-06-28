@@ -4546,3 +4546,6 @@ primary_topics,secondary_topics,source_id
 "['Transactions', 'Security', 'Consensus', 'Blockchain', 'Segregated Witness', 'Bitcoin Core', 'Fees', 'Privacy']",[],delving-bitcoin-2641-22-7896
 "['Cryptography', 'Assumeutxo', 'Consensus', 'Mining', 'Proof-of-Stake', 'P2pool', 'Soft Fork', 'Proof-of-Work', 'Miners', 'Segregated Witness', 'Bitcoin Core', 'Forks', 'Decentralization', 'Fees', 'Segwit', 'Privacy', 'Validation', 'Hard Fork']",[],delving-bitcoin-2640-15-7901
 "['Topology', 'Update Layer', 'Path-Finding', 'Limitations', 'Research', 'Asmap']",[],delving-bitcoin-2652-3-7900
+"['Privacy', 'Cryptography', 'Research', 'Lightning', 'Segwit', 'Fees', 'Consensus', 'Attacks', 'Soft Fork', 'Mempool', 'Security', 'Routing']","['Chainstate-based monitoring', 'BIP68', 'Preimage', 'OP_CSV', 'OP_LOCKTIME', 'Opcode', 'HTLC']",delving-bitcoin-2663-1-7907
+"['Post-Quantum', 'Multisig', 'UTXO', 'P2SH']",['Quantum'],delving-bitcoin-2645-4-7906
+"['Blockchain', 'Segregated Witness', 'Consensus']",[],delving-bitcoin-2641-25-7908
