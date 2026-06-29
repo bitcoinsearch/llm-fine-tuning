@@ -4549,3 +4549,7 @@ primary_topics,secondary_topics,source_id
 "['Privacy', 'Cryptography', 'Research', 'Lightning', 'Segwit', 'Fees', 'Consensus', 'Attacks', 'Soft Fork', 'Mempool', 'Security', 'Routing']","['Chainstate-based monitoring', 'BIP68', 'Preimage', 'OP_CSV', 'OP_LOCKTIME', 'Opcode', 'HTLC']",delving-bitcoin-2663-1-7907
 "['Post-Quantum', 'Multisig', 'UTXO', 'P2SH']",['Quantum'],delving-bitcoin-2645-4-7906
 "['Blockchain', 'Segregated Witness', 'Consensus']",[],delving-bitcoin-2641-25-7908
+"['Merkle Trees', 'Hashlocks', 'Mempool', 'Validation', 'Timelocks', 'Research', 'Consensus', 'Privacy', 'Forks']",[],delving-bitcoin-2667-1-7915
+"['Asmap', 'Security']","['Technologies', 'Network management', 'Network infrastructure', 'IP addresses']",delving-bitcoin-2652-5-7914
+"['Asmap', 'Nodes', 'P2P', 'Bitcoin Core', 'Security', 'Network']",[],delving-bitcoin-2652-4-7911
+"['Consensus', 'Mining', 'Research']",[],delving-bitcoin-2626-3-7912
