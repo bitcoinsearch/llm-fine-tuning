@@ -4553,3 +4553,24 @@ primary_topics,secondary_topics,source_id
 "['Asmap', 'Security']","['Technologies', 'Network management', 'Network infrastructure', 'IP addresses']",delving-bitcoin-2652-5-7914
 "['Asmap', 'Nodes', 'P2P', 'Bitcoin Core', 'Security', 'Network']",[],delving-bitcoin-2652-4-7911
 "['Consensus', 'Mining', 'Research']",[],delving-bitcoin-2626-3-7912
+"['Fees', 'Bitcoin Core', 'Mining', 'Proof-of-Work', 'Security', 'Consensus']","['Economic Theory', 'Quantum Computing', 'Centralization']",delving-bitcoin-2640-18-7935
+['Error'],"['Feedback', 'Peer Review', 'Collaboration']",delving-bitcoin-2667-13-7942
+"['Segwit', 'Script', 'Validation', 'Consensus']",[],delving-bitcoin-2667-9-7934
+"['Segwit', 'Consensus', 'Validation', 'Script', 'Cryptography']",[],delving-bitcoin-2667-6-7928
+"['Forks', 'Segregated Witness', 'Mining', 'Security', 'Consensus', 'Blockchain', 'Transactions']",[],delving-bitcoin-2667-3-7918
+"['Forks', 'Segregated Witness', 'UTXO', 'Consensus', 'Pruning', 'Validation', 'Blockchain']",[],delving-bitcoin-2641-28-7941
+"['Post-Quantum', 'Fees', 'Mining', 'Consensus', 'Research']",[],delving-bitcoin-2640-16-7919
+"['Research', 'Privacy', 'Development']",[],delving-bitcoin-2622-26-7926
+"['Custody', 'Proof-of-Stake', 'Forks', 'Segregated Witness', 'Proof-of-Work', 'Consensus', 'Validation']",[],delving-bitcoin-2641-26-7932
+"['Fees', 'Mining', 'Miners']","['Hashrate', 'Block Reward', 'Blockchain Infrastructure', 'Security Budget']",delving-bitcoin-2640-17-7920
+"['Custody', 'Privacy', 'Security']","['Quantum', 'Institutional Frameworks', 'Public Key']",delving-bitcoin-2645-5-7922
+"['Security', 'Consensus', 'Smart Contracts', 'Blockchain', 'Transactions']",[],delving-bitcoin-2667-8-7931
+"['Transaction-Verification', 'Consensus', 'Timelocks', 'Validation', 'Merkle Trees']",[],delving-bitcoin-2667-11-7938
+"['Fees', 'Routing', 'Attacks', 'Lightning', 'Security', 'Relay', 'Transactions']",['Refund'],delving-bitcoin-2663-2-7923
+[],['Transaction Expiry'],delving-bitcoin-2667-12-7939
+"['Bitcoin Core', 'Testing']","['GitHub', 'Release Notes', 'Source Code', 'Community Participation']",delving-bitcoin-2669-1-7924
+"['Mining', 'Consensus', 'Timestamping', 'Blockchain', 'Transactions']",[],delving-bitcoin-2667-2-7917
+"['Forks', 'Segregated Witness', 'Hashlocks', 'Security', 'Consensus', 'Timelocks', 'Validation', 'Script', 'Cryptography']",[],delving-bitcoin-2667-5-7927
+"['Fees', 'Privacy', 'Transaction-Verification', 'Hashlocks', 'Security', 'Multisig', 'Timelocks', 'Smart Contracts']",[],delving-bitcoin-2667-4-7921
+"['Post-Quantum', 'Security', 'Validation', 'Cryptography', 'Seed']","['KeyGen', 'MasterSeedGen', 'Sign']",delving-bitcoin-2158-21-7943
+"['Lightning', 'Timelocks']","['CSV', 'Bitcoin Scripting', 'CLTV', 'Transaction Delays']",delving-bitcoin-2667-10-7936
