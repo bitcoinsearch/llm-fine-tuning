@@ -4574,3 +4574,9 @@ primary_topics,secondary_topics,source_id
 "['Fees', 'Privacy', 'Transaction-Verification', 'Hashlocks', 'Security', 'Multisig', 'Timelocks', 'Smart Contracts']",[],delving-bitcoin-2667-4-7921
 "['Post-Quantum', 'Security', 'Validation', 'Cryptography', 'Seed']","['KeyGen', 'MasterSeedGen', 'Sign']",delving-bitcoin-2158-21-7943
 "['Lightning', 'Timelocks']","['CSV', 'Bitcoin Scripting', 'CLTV', 'Transaction Delays']",delving-bitcoin-2667-10-7936
+[],['Deleted discussion'],delving-bitcoin-2674-1-7951
+"['Miners', 'Blockchain', 'Soft Fork', 'Consensus']","['Hashrate', 'Node Enforcement']",delving-bitcoin-2641-29-7948
+"['Blockchain', 'Pruning', 'Segregated Witness', 'Consensus']","['Commitment', 'Data Availability', 'Coinbase Transaction', 'Data Integrity', 'Node Policy']",delving-bitcoin-2641-31-7950
+"['Segregated Witness', 'Consensus', 'Op-return', 'Mining', 'Incentives']",['Historical Trade Data'],delving-bitcoin-2641-33-7953
+"['Cryptography', 'Research', 'Schnorr']",[],delving-bitcoin-2514-9-7946
+"['Fees', 'Mining', 'Segregated Witness', 'Consensus', 'Privacy']",[],delving-bitcoin-2641-32-7952
