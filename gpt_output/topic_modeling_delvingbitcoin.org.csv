@@ -4580,3 +4580,6 @@ primary_topics,secondary_topics,source_id
 "['Segregated Witness', 'Consensus', 'Op-return', 'Mining', 'Incentives']",['Historical Trade Data'],delving-bitcoin-2641-33-7953
 "['Cryptography', 'Research', 'Schnorr']",[],delving-bitcoin-2514-9-7946
 "['Fees', 'Mining', 'Segregated Witness', 'Consensus', 'Privacy']",[],delving-bitcoin-2641-32-7952
+"['Encryption', 'Backup', 'Privacy', 'Security', 'Seed', 'Post-Quantum', 'Storage', 'Scalability', 'Cryptography']",['HD Wallet'],delving-bitcoin-2158-22-7954
+"['Script', 'OP_RETURN']","['Blockchain Networks', 'Payload Size', 'Propagation Delays', 'Transaction Confirmations']",delving-bitcoin-2641-34-7956
+"['Forks', 'Blockchain', 'Pruning', 'Op-return', 'Consensus', 'Incentives', 'Segregated Witness']","['Node', 'Operator', 'Collaboration', 'Economic Theory']",delving-bitcoin-2641-35-7960
