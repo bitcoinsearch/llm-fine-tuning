@@ -4583,3 +4583,8 @@ primary_topics,secondary_topics,source_id
 "['Encryption', 'Backup', 'Privacy', 'Security', 'Seed', 'Post-Quantum', 'Storage', 'Scalability', 'Cryptography']",['HD Wallet'],delving-bitcoin-2158-22-7954
 "['Script', 'OP_RETURN']","['Blockchain Networks', 'Payload Size', 'Propagation Delays', 'Transaction Confirmations']",delving-bitcoin-2641-34-7956
 "['Forks', 'Blockchain', 'Pruning', 'Op-return', 'Consensus', 'Incentives', 'Segregated Witness']","['Node', 'Operator', 'Collaboration', 'Economic Theory']",delving-bitcoin-2641-35-7960
+"['Relay', 'Consensus', 'Script', 'Blockchain', 'Block', 'Bitcoin Core', 'Transactions', 'Fees', 'Segregated Witness']",[],delving-bitcoin-2641-37-7967
+"['Testing', 'Bitcoin Core', 'Hardware Wallet', 'Ubuntu']","['Kernel', 'Stability', 'Performance']",delving-bitcoin-2669-2-7969
+"['Proof-of-Work', 'Server', 'Mining', 'Signet', 'ASIC', 'Stratum-V2']",[],delving-bitcoin-937-7-7961
+"['Public-Key', 'Security']","['Post-Quantum Cryptography', 'Address Reuse', 'Complexity', 'Hashrate Majority', 'Utility', 'Elliptical Curve Cryptography']",delving-bitcoin-2603-22-7968
+"['Proof-of-Work', 'Consensus', 'Validation', 'Fees', 'Segregated Witness']",['Economic Theory'],delving-bitcoin-2641-36-7966
