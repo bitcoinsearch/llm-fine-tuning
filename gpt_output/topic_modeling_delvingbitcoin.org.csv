@@ -4588,3 +4588,9 @@ primary_topics,secondary_topics,source_id
 "['Proof-of-Work', 'Server', 'Mining', 'Signet', 'ASIC', 'Stratum-V2']",[],delving-bitcoin-937-7-7961
 "['Public-Key', 'Security']","['Post-Quantum Cryptography', 'Address Reuse', 'Complexity', 'Hashrate Majority', 'Utility', 'Elliptical Curve Cryptography']",delving-bitcoin-2603-22-7968
 "['Proof-of-Work', 'Consensus', 'Validation', 'Fees', 'Segregated Witness']",['Economic Theory'],delving-bitcoin-2641-36-7966
+"['Merkle Trees', 'Bitcoin Core']","['Formal Verification', 'Canonicality', 'Schnorr Signatures', 'Bitcoin Improvement Proposal (BIP)']",delving-bitcoin-2684-1-7978
+"['Security', 'Block-Size-Increase', 'Post-Quantum', 'Signature', 'Public-Key']","['Overhead', 'ECC']",delving-bitcoin-2603-23-7970
+"['Hash', 'Cryptography', 'Forks', 'Hashlocks', 'Zero-Knowledge', 'Proof-of-Work', 'Schnorr', 'Proof-of-Stake', 'Consensus']",[],delving-bitcoin-1409-15-7980
+"['Pruning', 'Blockchain', 'Fees', 'Segregated Witness', 'Validation', 'Consensus', 'Nodes']",['Economic Theory'],delving-bitcoin-2641-38-7979
+"['Security', 'Blockchain', 'Block', 'Transaction-ID', 'Cryptography', 'Transactions', 'Segregated Witness', 'Proof-of-Work', 'Mining', 'Signature']",[],delving-bitcoin-2682-1-7971
+"['Security', 'Cryptography', 'Fairness', 'Taproot', 'Zero-Knowledge', 'MuSig']","['Adaptor Signatures', 'ZKPs', 'Sigma Protocols', 'Chaum-Pedersen']",delving-bitcoin-1409-14-7976
