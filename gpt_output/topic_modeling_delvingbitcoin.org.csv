@@ -4595,3 +4595,5 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Blockchain', 'Block', 'Transaction-ID', 'Cryptography', 'Transactions', 'Segregated Witness', 'Proof-of-Work', 'Mining', 'Signature']",[],delving-bitcoin-2682-1-7971
 "['Security', 'Cryptography', 'Fairness', 'Taproot', 'Zero-Knowledge', 'MuSig']","['Adaptor Signatures', 'ZKPs', 'Sigma Protocols', 'Chaum-Pedersen']",delving-bitcoin-1409-14-7976
 "['Signature', 'Proof-of-Work', 'Public-Key', 'Post-Quantum', 'Mining', 'Fees', 'Schnorr']","['Hybridization', 'Block Space', 'Threat Models', 'BIP 360', 'Cryptographic Measures']",delving-bitcoin-2514-10-7994
+"['BIP', 'Bitcoin Core', 'Consensus', 'Fees', 'Research', 'Development']",[],delving-bitcoin-2622-28-7999
+"['Research', 'Cryptography', 'Bitcoin Core', 'Security']",[],delving-bitcoin-2622-27-7997
