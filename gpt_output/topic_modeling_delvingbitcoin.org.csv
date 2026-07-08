@@ -4597,3 +4597,4 @@ primary_topics,secondary_topics,source_id
 "['Signature', 'Proof-of-Work', 'Public-Key', 'Post-Quantum', 'Mining', 'Fees', 'Schnorr']","['Hybridization', 'Block Space', 'Threat Models', 'BIP 360', 'Cryptographic Measures']",delving-bitcoin-2514-10-7994
 "['BIP', 'Bitcoin Core', 'Consensus', 'Fees', 'Research', 'Development']",[],delving-bitcoin-2622-28-7999
 "['Research', 'Cryptography', 'Bitcoin Core', 'Security']",[],delving-bitcoin-2622-27-7997
+"['Cryptography', 'Merkle Trees', 'Post-Quantum', 'BIP', 'Public-Key', 'Script', 'Security']",['EC'],delving-bitcoin-2603-24-8002
