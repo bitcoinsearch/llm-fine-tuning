@@ -4598,3 +4598,13 @@ primary_topics,secondary_topics,source_id
 "['BIP', 'Bitcoin Core', 'Consensus', 'Fees', 'Research', 'Development']",[],delving-bitcoin-2622-28-7999
 "['Research', 'Cryptography', 'Bitcoin Core', 'Security']",[],delving-bitcoin-2622-27-7997
 "['Cryptography', 'Merkle Trees', 'Post-Quantum', 'BIP', 'Public-Key', 'Script', 'Security']",['EC'],delving-bitcoin-2603-24-8002
+"['BIP', 'Security', 'Bitcoin Core', 'Cryptography', 'Segregated Witness', 'Consensus']",[],delving-bitcoin-2603-28-8009
+"['Privacy', 'Security', 'Bitcoin Core', 'P2P', 'Wallet', 'Build Systems', 'Validation', 'Consensus', 'Testing']",[],delving-bitcoin-2696-1-8005
+"['BIP', 'UTXO']","['Unspent Transaction Output', 'Elliptic Curve cryptography', 'EC']",delving-bitcoin-2603-27-8008
+"['Privacy', 'Segregated Witness']","['Output Types', 'Bitcoin Improvement Proposals (BIPs)']",delving-bitcoin-2603-26-8007
+"['Security', 'Cryptography', 'Hardware-Wallet', 'Public-Key', 'Post-Quantum']","['On-Chain', 'Cost-Incentives', 'Adoption', 'Quantum-Computing', 'Migration', 'Threats', 'Exposure', 'Auditing', 'Implementation-Costs', 'P2MR', 'EC', 'PQC']",delving-bitcoin-2603-29-8012
+"['BIP', 'Security', 'Multisig', 'Post-Quantum', 'Taproot']","['Elliptic Curve Cryptography', 'Public Key']",delving-bitcoin-2603-25-8003
+"['Fees', 'Proof-of-Work', 'Mining', 'Consensus', 'Scalability']",['Economic Theory'],delving-bitcoin-2640-19-8004
+"['Security', 'Bitcoin Core', 'Segregated Witness', 'Lightning', 'Post-Quantum']","['Marketing Strategy', 'Outputs', 'Public Key', 'Batch Verification', 'Cryptographic Methods']",delving-bitcoin-2603-30-8013
+"['Bitcoin Core', 'Fees', 'UTXO', 'Post-Quantum']","['Source Code', 'Mining Pools', 'CTV', 'Transaction Fees']",delving-bitcoin-2698-1-8010
+"['Bitcoin Core', 'Fees', 'Mining', 'Blockchain']","['Optimization', 'Transaction Processing', 'CTV', 'Cryptocurrency', 'Miner Profitability']",delving-bitcoin-1753-19-8011
