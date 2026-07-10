@@ -4608,3 +4608,14 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Bitcoin Core', 'Segregated Witness', 'Lightning', 'Post-Quantum']","['Marketing Strategy', 'Outputs', 'Public Key', 'Batch Verification', 'Cryptographic Methods']",delving-bitcoin-2603-30-8013
 "['Bitcoin Core', 'Fees', 'UTXO', 'Post-Quantum']","['Source Code', 'Mining Pools', 'CTV', 'Transaction Fees']",delving-bitcoin-2698-1-8010
 "['Bitcoin Core', 'Fees', 'Mining', 'Blockchain']","['Optimization', 'Transaction Processing', 'CTV', 'Cryptocurrency', 'Miner Profitability']",delving-bitcoin-1753-19-8011
+"['Fees', 'P2pool', 'Mining', 'Fairness', 'Mempool', 'API']","['Transaction Fees', 'Fee Bumping']",delving-bitcoin-2698-5-8023
+"['Validation', 'Blockchain', 'Segregated Witness', 'Forks', 'Consensus']",[],delving-bitcoin-2641-39-8022
+"['Pools', 'Fees', 'Privacy', 'Decentralization', 'Post-Quantum', 'Custody', 'Mining', 'Trust', 'Consensus']",['Off-chain'],delving-bitcoin-2698-6-8024
+"['Fees', 'Post-Quantum', 'ECDSA', 'BIP', 'Security', 'Public-Key', 'Mempool', 'Consensus', 'Proof-of-Stake']",[],delving-bitcoin-2603-31-8015
+"['Fees', 'Mining', 'Mempool', 'Package Relay', 'API']",[],delving-bitcoin-2698-3-8017
+"['Fees', 'Decentralization', 'Miners', 'Security', 'Mining', 'Incentives', 'Bitcoin Core', 'Consensus']",[],delving-bitcoin-2640-20-8020
+"['Pools', 'Fees', 'Miners', 'Security', 'Mining', 'Bitcoin Core', 'Package Relay', 'Consensus']",[],delving-bitcoin-2698-2-8014
+"['Privacy', 'Blockchain', 'Security', 'Zero-Knowledge', 'Research']",['Bitcoin'],delving-bitcoin-2699-3-8025
+"['Research', 'Consensus', 'Proof-of-Stake']",[],delving-bitcoin-2603-32-8016
+"['Privacy', 'Cryptography', 'Zero-Knowledge', 'Taproot', 'Research', 'Merkle Trees', 'Schnorr', 'UTXO']",['Proof-of-Hodl'],delving-bitcoin-2699-1-8018
+"['Mining', 'Bitcoin Core']","['Contributions', 'Core Developers']",delving-bitcoin-2698-4-8019
