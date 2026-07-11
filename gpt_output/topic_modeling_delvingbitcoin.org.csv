@@ -4619,3 +4619,12 @@ primary_topics,secondary_topics,source_id
 "['Research', 'Consensus', 'Proof-of-Stake']",[],delving-bitcoin-2603-32-8016
 "['Privacy', 'Cryptography', 'Zero-Knowledge', 'Taproot', 'Research', 'Merkle Trees', 'Schnorr', 'UTXO']",['Proof-of-Hodl'],delving-bitcoin-2699-1-8018
 "['Mining', 'Bitcoin Core']","['Contributions', 'Core Developers']",delving-bitcoin-2698-4-8019
+"['Cryptography', 'Mining', 'Network', 'Storage', 'Post-Quantum', 'Segwit']","['Transaction Identification', 'Peer-to-Peer (P2P)', 'Blockchain Technology', 'Bandwidth']",delving-bitcoin-2702-1-8036
+"['Market', 'Mining', 'Fees']","['Profitability', 'Economic Theory']",delving-bitcoin-2640-21-8034
+"['UTXO', 'Schnorr', 'Merkle Trees', 'Multisig', 'Threshold Signatures', 'Taproot', 'Lightning', 'Privacy', 'BIP', 'Zero-Knowledge', 'Proof-of-Stake']",['Bitcoin Script'],delving-bitcoin-2699-4-8026
+"['Scalability', 'Forks', 'Mining', 'Blockchain', 'Consensus', 'Validation']",[],delving-bitcoin-2624-12-8035
+"['BIP', 'Segregated Witness']","['Repository', 'Bitcoin Improvement Proposal']",delving-bitcoin-2641-41-8032
+"['Security', 'Scalability', 'Mining', 'Incentives', 'Consensus', 'Privacy', 'Fees', 'Proof-of-Work']",['Economic Theory'],delving-bitcoin-2640-22-8037
+"['Cryptography', 'Security', 'Miners', 'Mempool', 'Research', 'Consensus', 'Lightning', 'Privacy', 'Zero-Knowledge', 'Ux', 'Segwit', 'Fuzzing', 'Assumeutxo', 'Validation']",[],delving-bitcoin-2699-5-8033
+"['OP_RETURN', 'BIP', 'Segregated Witness']","['Mailing List', 'Data', 'Pull Request', 'Bitcoin Improvement Proposal']",delving-bitcoin-2641-40-8031
+"['ASIC', 'Mining', 'Incentives', 'Blockchain', 'Altcoin', 'Fees', 'Fairness']","['Bitcoin', 'Economic Theory', 'Cryptocurrency']",delving-bitcoin-2640-23-8038
