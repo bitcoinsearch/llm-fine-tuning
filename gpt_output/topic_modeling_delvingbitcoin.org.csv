@@ -4631,3 +4631,9 @@ primary_topics,secondary_topics,source_id
 "['Incentives', 'Blockchain', 'Research', 'Fees', 'Mining', 'Consensus']",[],delving-bitcoin-2640-24-8040
 "['Privacy', 'Security', 'Transactions', 'BIP']",[],delving-bitcoin-2622-29-8039
 "['Relay', 'Mempool', 'Research', 'Fees', 'Consensus', 'Transactions']",[],delving-bitcoin-2663-3-8041
+"['Security', 'Segwit', 'Post-Quantum']","['Witness Data', 'Consensus Rules', 'Witness Format', 'Serialization', 'Node Capabilities', 'Backward Compatibility', 'Transaction Input', 'Peer-to-Peer', 'Script Validations']",delving-bitcoin-2702-3-8048
+"['Privacy', 'Signet', 'Zero-Knowledge', 'Testing']","['Steganographic obfuscation', 'BIP324']",delving-bitcoin-2704-1-8045
+"['Scalability', 'Privacy', 'Lightning', 'Proof-of-Stake', 'Cryptography', 'Zero-Knowledge', 'Taproot', 'UTXO', 'Consensus', 'Segregated Witness']",[],delving-bitcoin-2699-6-8047
+"['Security', 'Segwit', 'Cryptography', 'ECDSA', 'Post-Quantum']",['Quantum'],delving-bitcoin-2702-2-8046
+"['Security', 'Fees', 'Relay']",[],delving-bitcoin-2663-4-8044
+"['Hashlocks', 'Transaction-Verification', 'Validation', 'Forks', 'Consensus', 'Segregated Witness']",['Hash Time Locked Contracts'],delving-bitcoin-2667-14-8043
