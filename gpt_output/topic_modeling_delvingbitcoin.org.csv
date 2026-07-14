@@ -4637,3 +4637,9 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Segwit', 'Cryptography', 'ECDSA', 'Post-Quantum']",['Quantum'],delving-bitcoin-2702-2-8046
 "['Security', 'Fees', 'Relay']",[],delving-bitcoin-2663-4-8044
 "['Hashlocks', 'Transaction-Verification', 'Validation', 'Forks', 'Consensus', 'Segregated Witness']",['Hash Time Locked Contracts'],delving-bitcoin-2667-14-8043
+"['Security', 'Fees', 'UTXO', 'MuSig', 'Timelocks', 'Consensus', 'Scalability', 'Lightning']","['Network Reorganizations', 'Double-Sign Defense', 'Interoperability', 'Timeouts', 'Covenant Applications', 'Watchtower', 'Aggregate Signatures']",delving-bitcoin-2705-1-8049
+"['Segregated Witness', 'Forks', 'Taproot', 'Script', 'Validation', 'Consensus', 'Cryptography']",[],delving-bitcoin-2483-4-8057
+"['Security', 'Research']",[],delving-bitcoin-1242-3-8051
+"['Segwit', 'Validation', 'Post-Quantum']","['Annex Entry', 'Weight Ratio', 'Commitment', 'Authorization Types', 'Transaction Elements', 'Extensions', 'Witness Data', 'Network Compatibility', 'Composite Approaches', 'Witness Data Collapsing', 'Network Nodes', 'Style Byte', 'Per-Input Lock Times', 'Annex Commitment', 'Backward Compatibility', 'Transaction Authorization', 'Encoding', 'Proposal', 'Rescue Protocols', 'Block Hashes']",delving-bitcoin-2702-4-8056
+"['Zero-Knowledge', 'Cryptography', 'Research']",[],delving-bitcoin-2623-2-8052
+"['BIP', 'Public-key']",[],delving-bitcoin-2603-33-8050
