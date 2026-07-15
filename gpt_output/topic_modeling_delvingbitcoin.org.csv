@@ -4643,3 +4643,18 @@ primary_topics,secondary_topics,source_id
 "['Segwit', 'Validation', 'Post-Quantum']","['Annex Entry', 'Weight Ratio', 'Commitment', 'Authorization Types', 'Transaction Elements', 'Extensions', 'Witness Data', 'Network Compatibility', 'Composite Approaches', 'Witness Data Collapsing', 'Network Nodes', 'Style Byte', 'Per-Input Lock Times', 'Annex Commitment', 'Backward Compatibility', 'Transaction Authorization', 'Encoding', 'Proposal', 'Rescue Protocols', 'Block Hashes']",delving-bitcoin-2702-4-8056
 "['Zero-Knowledge', 'Cryptography', 'Research']",[],delving-bitcoin-2623-2-8052
 "['BIP', 'Public-key']",[],delving-bitcoin-2603-33-8050
+"['Onion', 'Privacy', 'Security', 'Lightning']",[],delving-bitcoin-2414-17-8064
+"['Cryptography', 'Fees', 'Research', 'Privacy']",['Coinjoin'],delving-bitcoin-2704-2-8067
+"['P2pkh', 'Bitcoin Core', 'Fees', 'Assumeutxo', 'Hard Fork', 'Research', 'Mining', 'Privacy', 'UTXO', 'Segwit']",[],delving-bitcoin-2713-1-8070
+"['Mining', 'Consensus', 'Research']",[],delving-bitcoin-2626-7-8076
+"['Decentralization', 'UTXO', 'Scalability', 'Consensus', 'Post-Quantum', 'Segwit']",[],delving-bitcoin-2702-6-8078
+"['Decentralization', 'Cryptography', 'Trust', 'Security']",['Distributed Systems'],delving-bitcoin-2249-13-8074
+"['Mining', 'Consensus', 'Research']",[],delving-bitcoin-2626-5-8069
+"['Lightning', 'Onion', 'Privacy', 'Routing', 'Security', 'Incentives']","['HTLCs', 'DoS']",delving-bitcoin-2414-16-8061
+"['Bitcoin Core', 'Research', 'Mining', 'Fuzzing']","['BitcoinSearch App', 'GitHub', 'Machine Learning']",delving-bitcoin-2550-15-8077
+"['Lightning', 'Bitcoin Core', 'Segregated Witness', 'Schnorr', 'Cryptography', 'Consensus', 'Layer 2', 'Post-Quantum']",['Bitcoin Core Development'],delving-bitcoin-2715-1-8073
+"['Storage', 'Script', 'UTXO', 'Post-Quantum', 'Segwit']","['CPU Usage', 'Weighting', 'Serialization', 'Bandwidth Requirements', 'Witness', 'Transaction Processing', 'Blockchain Technology']",delving-bitcoin-2702-5-8075
+"['Onion', 'Privacy', 'Lightning']",[],delving-bitcoin-2414-18-8065
+"['Validation', 'Fees', 'Research', 'Mining', 'Incentives', 'Security', 'Consensus']",['Economic Theory'],delving-bitcoin-2626-4-8060
+"['Mining', 'Security', 'Consensus', 'Research']",[],delving-bitcoin-2626-6-8072
+"['Timestamping', 'Segregated Witness', 'Proof-of-Stake', 'Consensus', 'Post-Quantum']","['Elliptic Curve Cryptography', 'Hierarchical Proofs', 'Recovery', 'BIP32 HD Wallets', 'Commitments', 'Private Key']",delving-bitcoin-2714-1-8071
