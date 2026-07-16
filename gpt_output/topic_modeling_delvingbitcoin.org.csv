@@ -4658,3 +4658,11 @@ primary_topics,secondary_topics,source_id
 "['Validation', 'Fees', 'Research', 'Mining', 'Incentives', 'Security', 'Consensus']",['Economic Theory'],delving-bitcoin-2626-4-8060
 "['Mining', 'Security', 'Consensus', 'Research']",[],delving-bitcoin-2626-6-8072
 "['Timestamping', 'Segregated Witness', 'Proof-of-Stake', 'Consensus', 'Post-Quantum']","['Elliptic Curve Cryptography', 'Hierarchical Proofs', 'Recovery', 'BIP32 HD Wallets', 'Commitments', 'Private Key']",delving-bitcoin-2714-1-8071
+"['Consensus', 'Timelocks', 'Transactions']","['Transaction expiry', 'Zero-confirmation inputs', 'BIP68', 'Confirmation']",delving-bitcoin-2667-15-8091
+"['Cryptography', 'Proof-of-Work', 'Research', 'UTXO', 'Zero-Knowledge', 'Taproot']",[],delving-bitcoin-2699-7-8092
+"['Miniscript', 'Validation', 'Testing', 'Cryptography', 'PSBT', 'Research', 'UTXO', 'Blockchain', 'Script']",[],delving-bitcoin-2550-16-8084
+"['Research', 'Limitations']",['Game Theory'],delving-bitcoin-2626-9-8081
+"['Miners', 'Mining', 'Output']","['Hashrate', 'Algorithm Configurations', 'Efficiency']",delving-bitcoin-2718-2-8093
+"['Testing', 'Validation', 'Mining', 'Fairness', 'Forks', 'Scalability', 'Fee Management', 'Proof-of-Work', 'Consensus', 'Stratum-V2', 'Incentives', 'Fees', 'Pools']",[],delving-bitcoin-2718-1-8083
+"['Research', 'Security', 'Consensus', 'Mining']",[],delving-bitcoin-2626-8-8079
+"['Testing', 'Lightning', 'Forks', 'Research', 'Update Layer', 'Routing', 'Path-Finding']",['GitHub'],delving-bitcoin-1672-6-8089
