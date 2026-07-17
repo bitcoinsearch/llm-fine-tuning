@@ -4666,3 +4666,15 @@ primary_topics,secondary_topics,source_id
 "['Testing', 'Validation', 'Mining', 'Fairness', 'Forks', 'Scalability', 'Fee Management', 'Proof-of-Work', 'Consensus', 'Stratum-V2', 'Incentives', 'Fees', 'Pools']",[],delving-bitcoin-2718-1-8083
 "['Research', 'Security', 'Consensus', 'Mining']",[],delving-bitcoin-2626-8-8079
 "['Testing', 'Lightning', 'Forks', 'Research', 'Update Layer', 'Routing', 'Path-Finding']",['GitHub'],delving-bitcoin-1672-6-8089
+"['Zero-Knowledge', 'UTXO', 'Proof-of-Work', 'Taproot']",['Bulletproofs'],delving-bitcoin-2699-8-8096
+"['Blockchain', 'Segregated Witness', 'Soft Fork', 'Post-Quantum']",['Peer-to-Peer (P2P)'],delving-bitcoin-2702-8-8109
+"['Testing', 'Mining']","['Resilience', 'Firmware', 'Recovery Processes', 'Control Systems', 'Hashrate', 'Disturbances']",delving-bitcoin-2718-3-8103
+"['Research', 'Blockchain', 'Wallet', 'Smart Contracts', 'Bitcoin Core', 'Privacy', 'Transactions', 'Update Layer', 'Security', 'Academia']",[],delving-bitcoin-2704-4-8104
+[],"['Open Source', 'Collaborative Development', 'Community-driven Innovation']",delving-bitcoin-2550-17-8099
+"['Soft Fork', 'Consensus', 'Post-Quantum', 'Segwit']",[],delving-bitcoin-2702-7-8101
+"['UTXO', 'Fees', 'Incentives', 'Consensus', 'Mining', 'Miners', 'Validation']",[],delving-bitcoin-2667-17-8106
+"['Segwit', 'Merkle Trees', 'Proof-of-Work', 'Privacy', 'Soft Fork', 'P2P', 'Consensus', 'Proof-of-Stake', 'PSBT', 'Hashlocks', 'Bech32', 'Onion', 'Accumulators', 'Scalability', 'Smart Contracts', 'Testing', 'FROST', 'Attacks', 'Fees', 'P2pool', 'Update Layer', 'Mining', 'Fungibility', 'Assumeutxo', 'Zero-Knowledge', 'Schnorr', 'Path-Finding', 'Threshold Signatures', 'Hard Fork', 'Mempool', 'Fuzzing', 'Segregated Witness', 'Cryptography', 'Sidechains', 'Routing Failures', 'Security', 'Miners', 'Validation', 'Research', 'Multisig', 'Pools', 'Topology', 'Regulation', 'Libbitcoin Kernel', 'Silent Payments', 'Timelocks']",[],delving-bitcoin-2111-2-8097
+"['Research', 'Consensus', 'Mining']",[],delving-bitcoin-2626-10-8102
+['transactions'],['confirmation'],delving-bitcoin-2667-16-8105
+"['Blockchain', 'Transactions', 'Consensus', 'Forks', 'Security', 'Validation']","['State-Contingent Claims', 'Chain Reorganization']",delving-bitcoin-2667-18-8107
+"['Privacy', 'Security', 'Consensus', 'Routing']",[],delving-bitcoin-2704-3-8100
