@@ -4684,3 +4684,7 @@ primary_topics,secondary_topics,source_id
 "['Research', 'Security', 'Consensus']",['Double Spend'],delving-bitcoin-2626-11-8116
 "['P2P', 'Consensus', 'Soft Fork', 'Segwit', 'Transactions', 'Post-Quantum']","['Peer-to-Peer', 'Weight Units']",delving-bitcoin-2702-9-8113
 "['Security', 'Consensus', 'Validation', 'Blockchain', 'Forks', 'Transactions']",[],delving-bitcoin-2726-1-8114
+"['Development', 'Ux', 'Scalability', 'Research']",[],delving-bitcoin-2728-2-8122
+"['Consensus', 'Fees', 'Stratum-V2', 'Pools', 'Forks', 'Mining', 'Hashlocks', 'Validation', 'Miners']",[],delving-bitcoin-2718-4-8124
+"['Consensus', 'Limitations', 'Research']",[],delving-bitcoin-2626-12-8121
+"['Proof-of-Stake', 'Consensus', 'Blockchain', 'Bitcoin Core', 'P2pool']",[],delving-bitcoin-2093-26-8123
