@@ -4689,3 +4689,5 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Limitations', 'Research']",[],delving-bitcoin-2626-12-8121
 "['Proof-of-Stake', 'Consensus', 'Blockchain', 'Bitcoin Core', 'P2pool']",[],delving-bitcoin-2093-26-8123
 "['Fuzzing', 'Research', 'Security', 'Lightning', 'C-Lightning']",[],delving-bitcoin-2731-1-8126
+"['Pools', 'Mining']","['Stability', 'Proxy', 'Efficiency', 'Monitoring']",delving-bitcoin-2718-5-8127
+"['Validation', 'Hardware Wallet', 'Build Systems', 'Security']",['Energy Consumption'],delving-bitcoin-2728-3-8128
