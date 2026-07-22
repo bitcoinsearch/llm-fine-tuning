@@ -4691,3 +4691,6 @@ primary_topics,secondary_topics,source_id
 "['Fuzzing', 'Research', 'Security', 'Lightning', 'C-Lightning']",[],delving-bitcoin-2731-1-8126
 "['Pools', 'Mining']","['Stability', 'Proxy', 'Efficiency', 'Monitoring']",delving-bitcoin-2718-5-8127
 "['Validation', 'Hardware Wallet', 'Build Systems', 'Security']",['Energy Consumption'],delving-bitcoin-2728-3-8128
+"['Script', 'Research', 'Development', 'Bitcoin Core', 'Blockchain']",[],delving-bitcoin-2550-18-8131
+"['Pools', 'Mining', 'Consensus']",[],delving-bitcoin-2718-6-8133
+"['Consensus', 'Topology', 'Validation', 'Mining', 'Pools', 'Stratum-V2', 'Forks']",[],delving-bitcoin-2734-1-8132
