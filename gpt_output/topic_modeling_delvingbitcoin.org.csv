@@ -4694,3 +4694,11 @@ primary_topics,secondary_topics,source_id
 "['Script', 'Research', 'Development', 'Bitcoin Core', 'Blockchain']",[],delving-bitcoin-2550-18-8131
 "['Pools', 'Mining', 'Consensus']",[],delving-bitcoin-2718-6-8133
 "['Consensus', 'Topology', 'Validation', 'Mining', 'Pools', 'Stratum-V2', 'Forks']",[],delving-bitcoin-2734-1-8132
+"['Bitcoin Core', 'Segregated Witness', 'Consensus', 'Signet', 'BIP']",['PR'],delving-bitcoin-2739-1-8144
+"['Validation', 'Bitcoin Core', 'Blockchain', 'Research', 'Script', 'Consensus', 'Transactions']",['Bitcoin Core Development'],delving-bitcoin-2550-19-8136
+"['Fees', 'Research', 'Consensus', 'Testing', 'BIP']",['Filtering'],delving-bitcoin-2735-1-8135
+"['Validation', 'Cryptography', 'Fees', 'Mining', 'P2P', 'Research', 'Consensus', 'Privacy', 'Security']",[],delving-bitcoin-2735-2-8139
+"['Stratum-V2', 'Fees', 'Update Layer', 'Mining', 'Consensus']",[],delving-bitcoin-2718-7-8134
+"['Signature', 'Validation', 'Bitcoin Core', 'Segregated Witness', 'BIP']",['Benchmarking'],delving-bitcoin-2550-21-8138
+[],"['Blockchain Technologies', 'Satoshi Nakamoto', 'Bitcoin Improvement Proposals']",delving-bitcoin-2550-20-8137
+['Research'],[],delving-bitcoin-2550-22-8143
