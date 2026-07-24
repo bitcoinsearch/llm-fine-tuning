@@ -4702,3 +4702,7 @@ primary_topics,secondary_topics,source_id
 "['Signature', 'Validation', 'Bitcoin Core', 'Segregated Witness', 'BIP']",['Benchmarking'],delving-bitcoin-2550-21-8138
 [],"['Blockchain Technologies', 'Satoshi Nakamoto', 'Bitcoin Improvement Proposals']",delving-bitcoin-2550-20-8137
 ['Research'],[],delving-bitcoin-2550-22-8143
+"['Consensus', 'Zero-Knowledge', 'Proof-of-Stake', 'Signature', 'Security', 'Blockchain', 'Segregated Witness', 'Timestamping', 'Encryption', 'Forks']","['Recovery', 'Commitment', 'Quantum Computing', 'Commit-Reveal Migration Scheme', 'Xpub Derivation', 'Private Key', 'P2TR', 'BIP32 HD Wallets', 'Block Space', 'Stateful Timestamped Proofs', 'Transaction Verification', 'Public Key', 'Blockchain Confirmations', 'Hashed Addresses']",delving-bitcoin-2714-2-8149
+"['Fees', 'Consensus', 'Incentives', 'Miners', 'Mining']",['Economic Theory'],delving-bitcoin-2640-27-8148
+"['Fees', 'Fee Management', 'Scalability', 'Consensus', 'Segregated Witness', 'Soft Fork', 'Protocol', 'Forks', 'Proof-of-Stake', 'Mining', 'Hard Fork', 'Halving', 'Incentives']","['Bitcoin Core Development', 'Economic Theory']",delving-bitcoin-2640-26-8147
+"['Security', 'Fees', 'Consensus', 'Bitcoin Core', 'Mining']",['Economic Theory'],delving-bitcoin-2640-25-8146
