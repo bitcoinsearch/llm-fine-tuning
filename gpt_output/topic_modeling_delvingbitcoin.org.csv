@@ -4707,3 +4707,5 @@ primary_topics,secondary_topics,source_id
 "['Fees', 'Fee Management', 'Scalability', 'Consensus', 'Segregated Witness', 'Soft Fork', 'Protocol', 'Forks', 'Proof-of-Stake', 'Mining', 'Hard Fork', 'Halving', 'Incentives']","['Bitcoin Core Development', 'Economic Theory']",delving-bitcoin-2640-26-8147
 "['Security', 'Fees', 'Consensus', 'Bitcoin Core', 'Mining']",['Economic Theory'],delving-bitcoin-2640-25-8146
 "['Mining', 'Forks', 'Validation', 'Consensus', 'Pools']",[],delving-bitcoin-2718-8-8153
+['Research'],[],delving-bitcoin-2734-2-8155
+"['Taproot', 'Security', 'Silent Payments', 'Installation']",['BIP21'],delving-bitcoin-2743-1-8154
