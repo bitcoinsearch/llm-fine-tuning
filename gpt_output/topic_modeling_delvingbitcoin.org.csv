@@ -4709,3 +4709,20 @@ primary_topics,secondary_topics,source_id
 "['Mining', 'Forks', 'Validation', 'Consensus', 'Pools']",[],delving-bitcoin-2718-8-8153
 ['Research'],[],delving-bitcoin-2734-2-8155
 "['Taproot', 'Security', 'Silent Payments', 'Installation']",['BIP21'],delving-bitcoin-2743-1-8154
+"['Lightning', 'UTXO', 'Threshold Signatures', 'Blockchain', 'Multisig']","['Public Key', 'Anonymity']",delving-bitcoin-2249-14-8164
+"['Security', 'Soft Fork', 'Consensus', 'Post-Quantum']","['BIP-340', 'P2TRv2', 'Public Key Recovery']",delving-bitcoin-2749-1-8174
+"['Development', 'Research', 'Client', 'API']",[],delving-bitcoin-2705-2-8163
+"['Bitcoin Core', 'Forks', 'BIP']","['Core', 'Signaling', 'Node', 'Chain Split']",delving-bitcoin-2746-3-8165
+"['Security', 'Privacy', 'P2P', 'Segregated Witness', 'Bitcoin Core', 'Consensus', 'Scalability', 'Package Relay', 'Transactions', 'Testing', 'Forks', 'Fees', 'Mining', 'Blockchain', 'Validation', 'Update Layer']",[],delving-bitcoin-2744-1-8158
+"['Proof-of-Work', 'Consensus', 'Incentives', 'Forks', 'Mining', 'Blockchain']",['Economic Theory'],delving-bitcoin-2746-4-8168
+"['Soft Fork', 'Miners', 'Consensus', 'UTXO']","['Chain Splits', 'Enforcement', 'BIP110']",delving-bitcoin-2746-1-8160
+"['Security', 'Soft Fork', 'Consensus', 'Hard Fork', 'Forks', 'Mining']",[],delving-bitcoin-2093-27-8178
+"['Timestamping', 'Consensus', 'Validation']",[],delving-bitcoin-2739-2-8157
+"['Security', 'Segregated Witness', 'Consensus', 'Proof-of-Stake', 'Cryptography', 'Mining', 'Fees', 'Post-Quantum', 'Validation']",[],delving-bitcoin-2749-2-8175
+"['Segregated Witness', 'Bitcoin Core', 'BIP']","['GitHub', 'Bitcoin Improvement Proposals']",delving-bitcoin-2641-42-8176
+"['Lightning', 'MuSig', 'Threshold Signatures', 'Cryptography', 'Taproot']",[],delving-bitcoin-2623-3-8162
+"['Lightning', 'Security', 'Cryptography', 'Privacy']",[],delving-bitcoin-2745-1-8159
+"['Network', 'Lightning', 'Proof-of-Stake', 'Transactions', 'Fees', 'Protocol']","['Peer Connections', 'Reputation', 'Channel', 'Rate Limiting', 'Risk Management', 'Resource Allocation']",delving-bitcoin-2414-19-8169
+"['P2P', 'Nodes']","['System Behaviors', 'Monitoring']",delving-bitcoin-2744-2-8167
+"['Consensus', 'BIP']","['Open-source projects', 'Bitcoin Improvement Proposals', 'Community']",delving-bitcoin-2641-43-8177
+"['Python', 'JavaScript']","['Cybersecurity', 'Artificial Intelligence']",delving-bitcoin-2746-2-8161
