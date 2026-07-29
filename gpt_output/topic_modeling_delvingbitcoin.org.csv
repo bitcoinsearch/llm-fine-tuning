@@ -4726,3 +4726,14 @@ primary_topics,secondary_topics,source_id
 "['P2P', 'Nodes']","['System Behaviors', 'Monitoring']",delving-bitcoin-2744-2-8167
 "['Consensus', 'BIP']","['Open-source projects', 'Bitcoin Improvement Proposals', 'Community']",delving-bitcoin-2641-43-8177
 "['Python', 'JavaScript']","['Cybersecurity', 'Artificial Intelligence']",delving-bitcoin-2746-2-8161
+['Research'],"['Algorithmic Strategies', 'Data Management']",delving-bitcoin-1419-14-8179
+"['Security', 'Routing', 'Onion', 'Privacy', 'Lightning']",['Reputation'],delving-bitcoin-2414-21-8188
+"['Validation', 'Consensus', 'Segregated Witness', 'Scriptsig']","['Block Validity', 'Economic Theory']",delving-bitcoin-2641-44-8181
+['Transactions'],[],delving-bitcoin-2744-3-8187
+"['Consensus', 'Segregated Witness', 'UTXO']",[],delving-bitcoin-2641-45-8183
+"['BIP', 'Testing', 'Bitcoin Core', 'Validation', 'Consensus', 'Research']",[],delving-bitcoin-1811-32-8190
+"['BIP', 'Taproot', 'Testing', 'Bitcoin Core', 'Validation', 'Consensus', 'Segregated Witness']",[],delving-bitcoin-2751-1-8189
+"['Routing', 'Onion', 'Lightning']","['Feedback', 'Spam', 'Reputation', 'Rate Limits', 'HTLCs', 'Network Management']",delving-bitcoin-2414-20-8182
+"['Segwit', 'UTXO', 'Storage', 'Bitcoin Core', 'Proof-of-Work', 'Fees', 'Validation', 'Consensus', 'Research', 'Mining', 'Blockchain']",['Source Code'],delving-bitcoin-2750-1-8180
+"['Forks', 'Validation', 'Privacy', 'Consensus', 'Segregated Witness', 'Decentralization', 'Scalability', 'Blockchain']",[],delving-bitcoin-2641-46-8186
+"['Consensus', 'Mining']",[],delving-bitcoin-2746-6-8185
