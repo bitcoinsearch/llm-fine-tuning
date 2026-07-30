@@ -4737,3 +4737,5 @@ primary_topics,secondary_topics,source_id
 "['Segwit', 'UTXO', 'Storage', 'Bitcoin Core', 'Proof-of-Work', 'Fees', 'Validation', 'Consensus', 'Research', 'Mining', 'Blockchain']",['Source Code'],delving-bitcoin-2750-1-8180
 "['Forks', 'Validation', 'Privacy', 'Consensus', 'Segregated Witness', 'Decentralization', 'Scalability', 'Blockchain']",[],delving-bitcoin-2641-46-8186
 "['Consensus', 'Mining']",[],delving-bitcoin-2746-6-8185
+"['P2P', 'Fees', 'Privacy', 'Consensus', 'Validation']",[],delving-bitcoin-2744-4-8193
+"['Script', 'Bitcoin Core', 'Research', 'BIP', 'Proof-of-Work', 'Segregated Witness', 'Consensus', 'Regtest', 'Validation']","['P2TR', 'Transaction Efficiency', 'Blockchain Space Utilization']",delving-bitcoin-2749-3-8192
