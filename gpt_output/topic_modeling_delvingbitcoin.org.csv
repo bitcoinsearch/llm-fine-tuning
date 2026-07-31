@@ -4739,3 +4739,9 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Mining']",[],delving-bitcoin-2746-6-8185
 "['P2P', 'Fees', 'Privacy', 'Consensus', 'Validation']",[],delving-bitcoin-2744-4-8193
 "['Script', 'Bitcoin Core', 'Research', 'BIP', 'Proof-of-Work', 'Segregated Witness', 'Consensus', 'Regtest', 'Validation']","['P2TR', 'Transaction Efficiency', 'Blockchain Space Utilization']",delving-bitcoin-2749-3-8192
+"['Fees', 'Security', 'Consensus', 'Onion', 'Routing']",['Lightning Network'],delving-bitcoin-2414-23-8201
+"['Post-Quantum', 'Research', 'Cryptography']",[],delving-bitcoin-2749-4-8197
+"['Consensus', 'Soft Fork', 'Segregated Witness']",[],delving-bitcoin-2641-47-8200
+"['Nodes', 'Lightning', 'Relay', 'Onion', 'Routing', 'Network']","['Channel', 'Data', 'Support', 'Adoption', 'Feature']",delving-bitcoin-1058-3-8198
+"['Consensus', 'Decentralization', 'Incentives', 'Segregated Witness']",[],delving-bitcoin-2641-48-8202
+"['Lightning', 'Onion', 'Routing', 'Network']","['Node', 'Reputation']",delving-bitcoin-2414-22-8199
