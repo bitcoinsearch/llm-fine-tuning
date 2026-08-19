@@ -20,6 +20,23 @@ class ElasticSearchClient:
             http_auth=(self._es_username, self._es_password),
         )
 
+    def get_domain_counts(self, index_name, domain):
+        """Function to get the total counts for the given 'domain' field from Elasticsearch index."""
+        body = {
+            "query": {
+                "term": {
+                    "domain.keyword": domain
+                }
+            }
+        }
+
+        try:
+            resp = self.es_client.count(index=index_name, body=body)
+            return resp['count']
+        except Exception as e:
+            logger.error(f"Error fetching domain counts: {e}")
+            return None
+
     @property
     def es_client(self):
         return self._es_client
