@@ -4823,3 +4823,8 @@ primary_topics,secondary_topics,source_id
 "['Bitcoin Core', 'Consensus', 'Segwit', 'Proof-of-Work', 'Mining', 'Merkle Trees', 'Taproot', 'Validation', 'Forks']","['Hashrate', 'Blockchain Anchoring']",delving-bitcoin-2811-3-8323
 "['Consensus', 'Hashlocks', 'Security', 'Mining', 'Timelocks', 'Validation']",[],delving-bitcoin-2792-5-8263
 "['Consensus', 'Blockchain', 'Security', 'Fees', 'Privacy', 'Validation', 'Cryptography', 'Post-Quantum', 'Segregated Witness']",['Economic Theory'],delving-bitcoin-2749-6-8340
+"['Segwit', 'Post-Quantum', 'SHA256', 'Consensus']","['Witness', 'Signatures', 'Transaction Verification', 'Serialization']",delving-bitcoin-2702-10-8346
+"['Security', 'Custody', 'Backup', 'Validation', 'Wallet']",[],delving-bitcoin-2768-6-8343
+['Cryptography'],[],delving-bitcoin-2814-3-8344
+"['Soft Fork', 'Mining', 'Security', 'Segwit', 'Covenants', 'Lightning', 'Fees', 'Bitcoin Core', 'Research', 'Validation', 'Consensus', 'Schnorr']",[],delving-bitcoin-2816-1-8345
+"['Security', 'Seed', 'Encryption', 'Backup', 'Wallet']",[],delving-bitcoin-2814-2-8342
