@@ -4828,3 +4828,8 @@ primary_topics,secondary_topics,source_id
 ['Cryptography'],[],delving-bitcoin-2814-3-8344
 "['Soft Fork', 'Mining', 'Security', 'Segwit', 'Covenants', 'Lightning', 'Fees', 'Bitcoin Core', 'Research', 'Validation', 'Consensus', 'Schnorr']",[],delving-bitcoin-2816-1-8345
 "['Security', 'Seed', 'Encryption', 'Backup', 'Wallet']",[],delving-bitcoin-2814-2-8342
+"['Research', 'Cryptography', 'Scalability', 'Post-Quantum']","['Block Size', 'SNARKs', 'Falcon', 'Consensus Mechanisms', 'LaBRADOR', 'BIP340']",delving-bitcoin-2749-7-8353
+"['Security', 'Wallet']",[],delving-bitcoin-2239-4-8347
+"['Backup', 'Java']","['Redundancy', 'Recovery Checklist', 'Disaster Recovery Preparedness', 'System Management', 'Fault Tolerance']",delving-bitcoin-2239-6-8351
+"['Backup', 'Security', 'Wallet']",['Recovery'],delving-bitcoin-2239-5-8350
+"['Security', 'Utxo']",[],delving-bitcoin-2816-2-8349
