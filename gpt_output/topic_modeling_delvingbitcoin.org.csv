@@ -4833,3 +4833,6 @@ primary_topics,secondary_topics,source_id
 "['Backup', 'Java']","['Redundancy', 'Recovery Checklist', 'Disaster Recovery Preparedness', 'System Management', 'Fault Tolerance']",delving-bitcoin-2239-6-8351
 "['Backup', 'Security', 'Wallet']",['Recovery'],delving-bitcoin-2239-5-8350
 "['Security', 'Utxo']",[],delving-bitcoin-2816-2-8349
+"['Segwit', 'Consensus', 'Post-Quantum', 'Cryptography', 'Bip']",[],delving-bitcoin-2702-11-8354
+"['Fees', 'Blockchain', 'Proof-of-Work', 'Consensus', 'Validation', 'Post-Quantum', 'Scalability', 'Soft Fork', 'Pruning', 'Storage']","['Block Size Increase', 'Quantum Threats', 'Forward Error Correction', 'Archival Nodes', 'CPU', 'Multithreaded Verification', 'Bandwidth']",delving-bitcoin-2749-8-8355
+"['Segwit', 'Fees', 'Consensus', 'Post-Quantum', 'Validation', 'Cryptography', 'Privacy', 'Script']",['Witness Data'],delving-bitcoin-2702-12-8356
