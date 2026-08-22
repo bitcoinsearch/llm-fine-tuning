@@ -4836,3 +4836,4 @@ primary_topics,secondary_topics,source_id
 "['Segwit', 'Consensus', 'Post-Quantum', 'Cryptography', 'Bip']",[],delving-bitcoin-2702-11-8354
 "['Fees', 'Blockchain', 'Proof-of-Work', 'Consensus', 'Validation', 'Post-Quantum', 'Scalability', 'Soft Fork', 'Pruning', 'Storage']","['Block Size Increase', 'Quantum Threats', 'Forward Error Correction', 'Archival Nodes', 'CPU', 'Multithreaded Verification', 'Bandwidth']",delving-bitcoin-2749-8-8355
 "['Segwit', 'Fees', 'Consensus', 'Post-Quantum', 'Validation', 'Cryptography', 'Privacy', 'Script']",['Witness Data'],delving-bitcoin-2702-12-8356
+"['BIP', 'Security', 'Encryption']","['Checksum', 'KDF', 'Bitcoin Improvement Proposal']",delving-bitcoin-2767-7-8357
