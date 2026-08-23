@@ -4837,3 +4837,5 @@ primary_topics,secondary_topics,source_id
 "['Fees', 'Blockchain', 'Proof-of-Work', 'Consensus', 'Validation', 'Post-Quantum', 'Scalability', 'Soft Fork', 'Pruning', 'Storage']","['Block Size Increase', 'Quantum Threats', 'Forward Error Correction', 'Archival Nodes', 'CPU', 'Multithreaded Verification', 'Bandwidth']",delving-bitcoin-2749-8-8355
 "['Segwit', 'Fees', 'Consensus', 'Post-Quantum', 'Validation', 'Cryptography', 'Privacy', 'Script']",['Witness Data'],delving-bitcoin-2702-12-8356
 "['BIP', 'Security', 'Encryption']","['Checksum', 'KDF', 'Bitcoin Improvement Proposal']",delving-bitcoin-2767-7-8357
+"['Cryptography', 'Seed', 'Security']","['BIP39', 'Key', 'GitHub', 'Reliability', 'Rust', 'Entropy']",delving-bitcoin-2822-1-8362
+"['Mempool', 'Post-Quantum', 'Consensus']","['SHRINCS', 'Block Sizes', 'Computational Costs', 'Node Interaction', 'Hash-based Signature Schemes', 'Witness Extension', 'Transaction Validation', 'Hash-based Signatures', 'Initial Block Download (IBD)', 'CPU Costs', 'Signature Aggregation', 'Block Data', 'Bandwidth', 'Forward Error Correction (FEC)']",delving-bitcoin-2749-9-8363
