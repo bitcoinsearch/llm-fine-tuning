@@ -4839,3 +4839,8 @@ primary_topics,secondary_topics,source_id
 "['BIP', 'Security', 'Encryption']","['Checksum', 'KDF', 'Bitcoin Improvement Proposal']",delving-bitcoin-2767-7-8357
 "['Cryptography', 'Seed', 'Security']","['BIP39', 'Key', 'GitHub', 'Reliability', 'Rust', 'Entropy']",delving-bitcoin-2822-1-8362
 "['Mempool', 'Post-Quantum', 'Consensus']","['SHRINCS', 'Block Sizes', 'Computational Costs', 'Node Interaction', 'Hash-based Signature Schemes', 'Witness Extension', 'Transaction Validation', 'Hash-based Signatures', 'Initial Block Download (IBD)', 'CPU Costs', 'Signature Aggregation', 'Block Data', 'Bandwidth', 'Forward Error Correction (FEC)']",delving-bitcoin-2749-9-8363
+"['Cryptography', 'BIP', 'Privacy', 'Consensus', 'Post-Quantum', 'Segregated Witness', 'Proof-of-Work']","['Peer Review', 'Community Consensus']",delving-bitcoin-2749-11-8371
+"['Merkle Trees', 'Taproot', 'Covenants']","['BIPs', 'Educational Efforts', 'Compliance', 'Scripts']",delving-bitcoin-2826-1-8370
+"['Proof-of-Work', 'Scalability', 'Consensus', 'Decentralization']",[],delving-bitcoin-2749-10-8365
+"['Backup', 'Encryption']",['Paper Wallet'],delving-bitcoin-2767-8-8367
+"['Cryptography', 'Backup', 'Security', 'Encryption']","['Checksum', 'Base58']",delving-bitcoin-2767-9-8368
