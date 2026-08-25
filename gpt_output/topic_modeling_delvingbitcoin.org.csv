@@ -4844,3 +4844,10 @@ primary_topics,secondary_topics,source_id
 "['Proof-of-Work', 'Scalability', 'Consensus', 'Decentralization']",[],delving-bitcoin-2749-10-8365
 "['Backup', 'Encryption']",['Paper Wallet'],delving-bitcoin-2767-8-8367
 "['Cryptography', 'Backup', 'Security', 'Encryption']","['Checksum', 'Base58']",delving-bitcoin-2767-9-8368
+"['UTXO', 'Privacy', 'Segwit', 'Scalability', 'Taproot', 'Post-Quantum', 'Soft Fork']","['Block Propagation', 'Cryptographic Methods', 'Security Measures', 'Community Consensus']",delving-bitcoin-2749-12-8380
+"['Custody', 'Security']","['Coercion', 'Trade-offs', 'Duress', 'Remote Co-signer', 'Physical Attacks', 'Transparency', 'Race Conditions']",delving-bitcoin-2832-1-8378
+"['Seed', 'Cryptography']",[],delving-bitcoin-2822-2-8374
+"['Hashlocks', 'Merkle Trees', 'Segwit', 'Proof-of-Work', 'Research', 'Consensus', 'Validation', 'Mining', 'Fees', 'Bitcoin Core']",[],delving-bitcoin-2834-2-8383
+"['Testing', 'Seed', 'Hash', 'Verification']","['Unit Test', 'Reproducible Results', 'Tool']",delving-bitcoin-2822-3-8379
+"['Silent Payments', 'Blockchain', 'Privacy', 'Security', 'Stratum-V2']","['Mining Pools', 'Bitcoin Improvement Proposal (BIP)', 'Coinbase Transaction', 'BIP352', 'Lightning Network']",delving-bitcoin-2833-1-8381
+"['Hashlocks', 'Validation', 'Consensus', 'P2P', 'Research', 'Fuzzing', 'Bitcoin Core']",[],delving-bitcoin-2834-1-8382
