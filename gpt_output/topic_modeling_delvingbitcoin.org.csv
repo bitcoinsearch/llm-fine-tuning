@@ -4851,3 +4851,10 @@ primary_topics,secondary_topics,source_id
 "['Testing', 'Seed', 'Hash', 'Verification']","['Unit Test', 'Reproducible Results', 'Tool']",delving-bitcoin-2822-3-8379
 "['Silent Payments', 'Blockchain', 'Privacy', 'Security', 'Stratum-V2']","['Mining Pools', 'Bitcoin Improvement Proposal (BIP)', 'Coinbase Transaction', 'BIP352', 'Lightning Network']",delving-bitcoin-2833-1-8381
 "['Hashlocks', 'Validation', 'Consensus', 'P2P', 'Research', 'Fuzzing', 'Bitcoin Core']",[],delving-bitcoin-2834-1-8382
+"['MuSig', 'UTXO', 'Segwit', 'Taproot']","['Quantum Technologies', 'Lightning Network', 'Economic Incentives', 'Blockchain Technology Adoption', 'Cost Reduction']",delving-bitcoin-2749-15-8389
+['Covenants'],[],delving-bitcoin-2826-2-8393
+"['API', 'P2P', 'Bitcoin Core', 'Hardware Wallet', 'LND', 'Electrum', 'Security', 'Lightning', 'Mempool', 'Layer 2']",[],delving-bitcoin-2836-1-8386
+"['Cryptography', 'Security', 'Lightning']",['Private Key'],delving-bitcoin-2816-3-8390
+"['Mempool', 'Musig', 'FROST', 'Taproot', 'Lightning', 'Segwit', 'Timelocks', 'Fees', 'Multisig', 'Hashlocks']","['Blockchain Technology', 'HTLCs', 'Block Sizes', 'Core Updates', 'Peer-to-Peer Messaging Formats', 'Post-Quantum Cryptographic Signatures']",delving-bitcoin-2749-13-8385
+"['Assumeutxo', 'Segregated Witness', 'P2P', 'Scalability', 'Proof-of-Stake', 'Validation', 'Security', 'Timelocks', 'Research', 'Cryptography', 'UTXO', 'Smart Contracts', 'Mempool', 'Silent Payments', 'Miners', 'Fuzzing', 'Proof-of-Work', 'Consensus', 'Privacy', 'Mining', 'Lightning', 'Hashlocks']",[],delving-bitcoin-2704-6-8387
+"['Segregated Witness', 'Bitcoin Core', 'Proof-of-Work', 'Taproot', 'Multisig', 'Post-Quantum']","['Transaction Limit', 'Node Anonymity', 'Peer-to-Peer', 'Blockchain Management']",delving-bitcoin-2749-14-8388
