@@ -4858,3 +4858,16 @@ primary_topics,secondary_topics,source_id
 "['Mempool', 'Musig', 'FROST', 'Taproot', 'Lightning', 'Segwit', 'Timelocks', 'Fees', 'Multisig', 'Hashlocks']","['Blockchain Technology', 'HTLCs', 'Block Sizes', 'Core Updates', 'Peer-to-Peer Messaging Formats', 'Post-Quantum Cryptographic Signatures']",delving-bitcoin-2749-13-8385
 "['Assumeutxo', 'Segregated Witness', 'P2P', 'Scalability', 'Proof-of-Stake', 'Validation', 'Security', 'Timelocks', 'Research', 'Cryptography', 'UTXO', 'Smart Contracts', 'Mempool', 'Silent Payments', 'Miners', 'Fuzzing', 'Proof-of-Work', 'Consensus', 'Privacy', 'Mining', 'Lightning', 'Hashlocks']",[],delving-bitcoin-2704-6-8387
 "['Segregated Witness', 'Bitcoin Core', 'Proof-of-Work', 'Taproot', 'Multisig', 'Post-Quantum']","['Transaction Limit', 'Node Anonymity', 'Peer-to-Peer', 'Blockchain Management']",delving-bitcoin-2749-14-8388
+"['Lightning', 'Forks', 'Mining', 'Security', 'Libbitcoin Kernel', 'UTXO', 'Consensus', 'Proof-of-Work']",['Utreexo'],delving-bitcoin-2842-1-8401
+"['Lightning', 'Security', 'Hard Fork', 'Consensus', 'Proof-of-Work']","['Utreexo', 'Full Node']",delving-bitcoin-2842-7-8413
+"['Forks', 'Consensus', 'P2P', 'Zero-Knowledge']",[],delving-bitcoin-2842-6-8412
+"['Mempool', 'Segwit', 'Post-Quantum', 'Mining', 'Fees', 'Signature', 'Consensus']",['Mining Reward'],delving-bitcoin-2702-13-8404
+"['Mempool', 'Segwit', 'Post-Quantum', 'Mining', 'Security', 'Network', 'Validation', 'Fees', 'P2p', 'Attacks', 'Transactions', 'Consensus']","['Block Validation', 'Caching', 'Denial-of-Service']",delving-bitcoin-2702-15-8409
+"['Lightning', 'Zero-Knowledge', 'Validation', 'Consensus', 'Proof-of-Work', 'Utxo']",[],delving-bitcoin-2842-3-8406
+"['Zero-Knowledge', 'Security', 'Decentralization', 'UTXO', 'Consensus', 'Proof-of-Work']","['Bandwidth', 'Lightweight Clients', 'Cryptographic Proofs', 'Blockchain Networks']",delving-bitcoin-2842-5-8408
+"['Custody', 'Security']",['Bitcoin'],delving-bitcoin-2832-3-8402
+"['Custody', 'Privacy', 'Security']",[],delving-bitcoin-2832-2-8395
+"['Libbitcoin Kernel', 'Consensus', 'Zero-Knowledge', 'Soft Fork']",[],delving-bitcoin-2842-4-8407
+"['Research', 'Covenants']",[],delving-bitcoin-2826-3-8399
+"['Post-Quantum', 'Taproot', 'Validation', 'Segregated Witness', 'Multisig', 'BIP', 'Consensus', 'Proof-of-Work']",[],delving-bitcoin-2702-14-8405
+['Consensus'],[],delving-bitcoin-2842-2-8403
