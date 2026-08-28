@@ -4871,3 +4871,15 @@ primary_topics,secondary_topics,source_id
 "['Research', 'Covenants']",[],delving-bitcoin-2826-3-8399
 "['Post-Quantum', 'Taproot', 'Validation', 'Segregated Witness', 'Multisig', 'BIP', 'Consensus', 'Proof-of-Work']",[],delving-bitcoin-2702-14-8405
 ['Consensus'],[],delving-bitcoin-2842-2-8403
+"['Mempool', 'Post-Quantum', 'Blockchain', 'Taproot', 'Security', 'Cryptography', 'Privacy']","['Transaction Processing', 'Implementation Challenges', 'AI', 'Adoption', 'Technology', 'PQC', 'Communication', 'Upgrades']",delving-bitcoin-2749-16-8416
+"['Forks', 'Miners', 'Consensus']","['Rules', 'Node operators', 'Blockchain environment', 'Bitcoin Improvement Proposals (BIPs)', 'Transparency']",delving-bitcoin-2842-9-8415
+"['Blockchain', 'Forks', 'Security', 'Validation', 'Lightning', 'Consensus']","['Peer Discovery', 'Chain Reorganization']",delving-bitcoin-2842-13-8423
+"['Hashpower', 'Mining', 'Forks', 'Consensus']","['Market Dynamics', 'Miner Incentives', 'Network Stability', 'Miner Support', 'Blockchain Dynamics']",delving-bitcoin-2842-11-8421
+"['Forks', 'UTXO', 'Taproot', 'Proof-of-Work', 'Consensus']",['Bitcoin Cash'],delving-bitcoin-2842-12-8422
+"['Validation', 'Forks', 'Proof-of-Work', 'Consensus']",[],delving-bitcoin-2842-10-8418
+"['Hard Fork', 'Forks', 'UTXO', 'Soft Fork', 'Proof-of-Work', 'Consensus']",[],delving-bitcoin-2842-8-8414
+[],"['Bitcoin Improvement Proposal', 'Compact Block Relay']",delving-bitcoin-2834-3-8428
+"['Bitcoin Core', 'Security', 'Privacy', 'Research', 'Consensus']",[],delving-bitcoin-2239-7-8427
+['Mempool'],[],delving-bitcoin-2836-2-8419
+"['Consensus', 'Lightning', 'Bitcoin Core', 'Security']",[],delving-bitcoin-2846-1-8424
+"['Post-Quantum', 'Cryptography', 'Security']",[],delving-bitcoin-2749-17-8425
