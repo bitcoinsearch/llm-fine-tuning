@@ -4883,3 +4883,4 @@ primary_topics,secondary_topics,source_id
 ['Mempool'],[],delving-bitcoin-2836-2-8419
 "['Consensus', 'Lightning', 'Bitcoin Core', 'Security']",[],delving-bitcoin-2846-1-8424
 "['Post-Quantum', 'Cryptography', 'Security']",[],delving-bitcoin-2749-17-8425
+"['Miners', 'Silent Payments', 'Update Layer', 'Wallet']","['Compatibility', 'Software Compatibility', 'Digital Transactions']",delving-bitcoin-2833-2-8432
