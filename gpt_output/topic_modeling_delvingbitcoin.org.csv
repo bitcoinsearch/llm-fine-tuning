@@ -4884,3 +4884,6 @@ primary_topics,secondary_topics,source_id
 "['Consensus', 'Lightning', 'Bitcoin Core', 'Security']",[],delving-bitcoin-2846-1-8424
 "['Post-Quantum', 'Cryptography', 'Security']",[],delving-bitcoin-2749-17-8425
 "['Miners', 'Silent Payments', 'Update Layer', 'Wallet']","['Compatibility', 'Software Compatibility', 'Digital Transactions']",delving-bitcoin-2833-2-8432
+"['ASIC', 'Mining', 'Consensus', 'Testnet', 'Difficulty']",['Protocol Rules'],delving-bitcoin-2350-4-8437
+"['Timestamping', 'Mining', 'Consensus']",[],delving-bitcoin-2350-3-8435
+['Silent Payments'],"['BIP34', 'Consensus Limit', 'Extranonce', 'Transaction Data Space']",delving-bitcoin-2833-3-8436
