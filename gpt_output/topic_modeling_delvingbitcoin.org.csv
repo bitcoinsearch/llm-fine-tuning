@@ -4887,3 +4887,5 @@ primary_topics,secondary_topics,source_id
 "['ASIC', 'Mining', 'Consensus', 'Testnet', 'Difficulty']",['Protocol Rules'],delving-bitcoin-2350-4-8437
 "['Timestamping', 'Mining', 'Consensus']",[],delving-bitcoin-2350-3-8435
 ['Silent Payments'],"['BIP34', 'Consensus Limit', 'Extranonce', 'Transaction Data Space']",delving-bitcoin-2833-3-8436
+"['Blockchain', 'Silent Payments']",['BIP323'],delving-bitcoin-2833-5-8439
+"['Wallet', 'Silent Payments', 'Security']",[],delving-bitcoin-2833-4-8438
