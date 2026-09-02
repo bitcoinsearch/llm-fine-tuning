@@ -4889,3 +4889,6 @@ primary_topics,secondary_topics,source_id
 ['Silent Payments'],"['BIP34', 'Consensus Limit', 'Extranonce', 'Transaction Data Space']",delving-bitcoin-2833-3-8436
 "['Blockchain', 'Silent Payments']",['BIP323'],delving-bitcoin-2833-5-8439
 "['Wallet', 'Silent Payments', 'Security']",[],delving-bitcoin-2833-4-8438
+"['Taproot', 'Nonce', 'Security', 'Custody', 'MuSig']",['Transport'],delving-bitcoin-2047-14-8443
+"['Cryptography', 'Validation', 'Consensus', 'Smart Contracts']","['Hashed Timelock Contracts', 'Cross-Chain Recovery Techniques']",delving-bitcoin-2772-3-8446
+"['PSBT', 'Taproot', 'Research', 'Nonce', 'Security', 'Decentralization', 'Custody', 'MuSig']","['Coordination', 'Relays']",delving-bitcoin-2852-1-8442
