@@ -4892,3 +4892,4 @@ primary_topics,secondary_topics,source_id
 "['Taproot', 'Nonce', 'Security', 'Custody', 'MuSig']",['Transport'],delving-bitcoin-2047-14-8443
 "['Cryptography', 'Validation', 'Consensus', 'Smart Contracts']","['Hashed Timelock Contracts', 'Cross-Chain Recovery Techniques']",delving-bitcoin-2772-3-8446
 "['PSBT', 'Taproot', 'Research', 'Nonce', 'Security', 'Decentralization', 'Custody', 'MuSig']","['Coordination', 'Relays']",delving-bitcoin-2852-1-8442
+"['Trust', 'Relay', 'PSBT', 'Wallet']","['Failure', 'Recovery']",delving-bitcoin-2852-2-8450
