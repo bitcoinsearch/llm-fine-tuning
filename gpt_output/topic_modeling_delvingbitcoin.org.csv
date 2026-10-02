@@ -5041,3 +5041,11 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Post-Quantum', 'Lightning']",[],delving-bitcoin-2715-6-8690
 "['Xpub', 'Encryption']","['BIP32 HD Wallets', 'Public Key']",delving-bitcoin-1607-38-8691
 "['Security', 'Layer 2', 'Post-Quantum']",[],delving-bitcoin-2715-2-8684
+"['Proof-of-Stake', 'Consensus', 'Segregated Witness', 'Post-Quantum', 'Soft Fork', 'Cryptography']",[],delving-bitcoin-2749-39-8695
+"['Research', 'SPV', 'Proof-of-Work']",[],delving-bitcoin-2912-10-8704
+['Post-Quantum'],"['QR code', 'Lightning Network']",delving-bitcoin-2893-4-8699
+"['Custody', 'Encryption', 'Segregated Witness', 'Xpub', 'Taproot', 'Backup']",['Recovery'],delving-bitcoin-1607-39-8694
+"['Privacy', 'Atomic Swaps']",[],delving-bitcoin-2912-8-8700
+"['Lightning', 'Sidechains']",[],delving-bitcoin-2912-9-8701
+"['Lightning', 'Fuzzing', 'Testing', 'Cryptography', 'Security']",[],delving-bitcoin-2928-1-8705
+"['UTXO', 'Proof-of-Stake', 'Consensus', 'Segregated Witness', 'Zero-Knowledge', 'Privacy']",[],delving-bitcoin-2912-7-8698
