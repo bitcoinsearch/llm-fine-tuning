@@ -5049,3 +5049,8 @@ primary_topics,secondary_topics,source_id
 "['Lightning', 'Sidechains']",[],delving-bitcoin-2912-9-8701
 "['Lightning', 'Fuzzing', 'Testing', 'Cryptography', 'Security']",[],delving-bitcoin-2928-1-8705
 "['UTXO', 'Proof-of-Stake', 'Consensus', 'Segregated Witness', 'Zero-Knowledge', 'Privacy']",[],delving-bitcoin-2912-7-8698
+"['Segregated Witness', 'SPV']","['Bitcoin Script', 'Chain Reorganization']",delving-bitcoin-2912-11-8711
+"['Sidechains', 'OP_RETURN', 'Segregated Witness', 'Proof-of-Work']",[],delving-bitcoin-2912-12-8714
+"['Layer 2', 'Post-Quantum']",[],delving-bitcoin-2715-7-8707
+"['Custody', 'Lightning', 'UTXO', 'Soft Fork']","['SIGHASH_ANYPREVOU', 'BIP-118']",delving-bitcoin-2929-1-8706
+"['Security', 'Post-Quantum', 'Forks', 'Proof-of-Stake', 'Segregated Witness', 'Cryptography', 'Consensus', 'Validation']","['P2TRv2', 'P2MR']",delving-bitcoin-2749-40-8713
