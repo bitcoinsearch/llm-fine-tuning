@@ -5054,3 +5054,7 @@ primary_topics,secondary_topics,source_id
 "['Layer 2', 'Post-Quantum']",[],delving-bitcoin-2715-7-8707
 "['Custody', 'Lightning', 'UTXO', 'Soft Fork']","['SIGHASH_ANYPREVOU', 'BIP-118']",delving-bitcoin-2929-1-8706
 "['Security', 'Post-Quantum', 'Forks', 'Proof-of-Stake', 'Segregated Witness', 'Cryptography', 'Consensus', 'Validation']","['P2TRv2', 'P2MR']",delving-bitcoin-2749-40-8713
+"['BIP', 'Script', 'Bitcoin Core', 'Security', 'Segregated Witness', 'Hardware Wallet']","['Lightning Network', 'Private Key']",delving-bitcoin-2935-1-8720
+"['Security', 'Lightning', 'Wallet', 'Eclair']",[],delving-bitcoin-2928-2-8723
+"['SPV', 'Fee Management', 'Timelocks']","['Bitcoin', 'Header Submission Costs', 'P2WSH', 'Handling Reorgs']",delving-bitcoin-2939-1-8726
+"['Lightning', 'Eclair', 'Security']","['Maintenance', 'Updates']",delving-bitcoin-2928-3-8724
