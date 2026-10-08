@@ -5058,3 +5058,4 @@ primary_topics,secondary_topics,source_id
 "['Security', 'Lightning', 'Wallet', 'Eclair']",[],delving-bitcoin-2928-2-8723
 "['SPV', 'Fee Management', 'Timelocks']","['Bitcoin', 'Header Submission Costs', 'P2WSH', 'Handling Reorgs']",delving-bitcoin-2939-1-8726
 "['Lightning', 'Eclair', 'Security']","['Maintenance', 'Updates']",delving-bitcoin-2928-3-8724
+"['Mining', 'Blockchain', 'SPV', 'Segwit', 'Block', 'Consensus', 'Forks', 'Lightning', 'Validation']","['Genesis Block', 'Transaction Values', 'Reorgs', 'Scaling Method']",delving-bitcoin-2939-2-8733
