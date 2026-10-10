@@ -5060,3 +5060,4 @@ primary_topics,secondary_topics,source_id
 "['Lightning', 'Eclair', 'Security']","['Maintenance', 'Updates']",delving-bitcoin-2928-3-8724
 "['Mining', 'Blockchain', 'SPV', 'Segwit', 'Block', 'Consensus', 'Forks', 'Lightning', 'Validation']","['Genesis Block', 'Transaction Values', 'Reorgs', 'Scaling Method']",delving-bitcoin-2939-2-8733
 "['Routing', 'Layer 2', 'Lightning']","['Rust implementation', 'Multi-hop payments', 'Hash Time Locked Contracts (HTLCs)', 'Offline receipt of funds', 'Reputation system', 'Payment protocol']",delving-bitcoin-2952-1-8754
+"['BIP', 'Verification', 'Script']","['JSON', 'TLV', 'Oracle', 'Timelock']",delving-bitcoin-2955-1-8758
