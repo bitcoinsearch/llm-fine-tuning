@@ -5061,3 +5061,11 @@ primary_topics,secondary_topics,source_id
 "['Mining', 'Blockchain', 'SPV', 'Segwit', 'Block', 'Consensus', 'Forks', 'Lightning', 'Validation']","['Genesis Block', 'Transaction Values', 'Reorgs', 'Scaling Method']",delving-bitcoin-2939-2-8733
 "['Routing', 'Layer 2', 'Lightning']","['Rust implementation', 'Multi-hop payments', 'Hash Time Locked Contracts (HTLCs)', 'Offline receipt of funds', 'Reputation system', 'Payment protocol']",delving-bitcoin-2952-1-8754
 "['BIP', 'Verification', 'Script']","['JSON', 'TLV', 'Oracle', 'Timelock']",delving-bitcoin-2955-1-8758
+"['Security', 'P2P', 'Nodes', 'Mempool']","['Data Synchronization', 'Network Load Optimization', 'Authentication', 'VPN', 'Networking']",delving-bitcoin-2497-19-8766
+"['Security', 'Post-Quantum', 'Cryptography', 'Consensus', 'Layer 2']",[],delving-bitcoin-2715-8-8763
+"['Validation', 'Security', 'Testing', 'Hardware Wallet', 'Segregated Witness', 'PSBT', 'Multisig']","['Rust', 'PostgreSQL', 'Open-source']",delving-bitcoin-2957-1-8765
+"['P2P', 'Bitcoin Core', 'Tor', 'Decentralization', 'Privacy']",[],delving-bitcoin-2497-18-8762
+"['Security', 'Silent Payments', 'Privacy']","['Coinbase Transaction', 'Off-chain Transactions', 'Cryptographic Techniques', 'On-chain Transactions', 'Public Key', 'Anonymity', 'ECDH Scheme']",delving-bitcoin-2833-7-8764
+"['Validation', 'Security', 'Post-Quantum', 'Cryptography', 'Bitcoin Core', 'Segregated Witness', 'Consensus', 'Script', 'Layer 2']",[],delving-bitcoin-2715-9-8767
+"['Security', 'P2P', 'Cryptography', 'Peer-Discovery', 'Privacy']","['RPC', 'VPN']",delving-bitcoin-2497-20-8768
+"['Mining', 'Libbitcoin Kernel', 'Bitcoin Core', 'Research', 'Consensus']",[],delving-bitcoin-2918-2-8761
