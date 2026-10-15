@@ -5069,3 +5069,7 @@ primary_topics,secondary_topics,source_id
 "['Validation', 'Security', 'Post-Quantum', 'Cryptography', 'Bitcoin Core', 'Segregated Witness', 'Consensus', 'Script', 'Layer 2']",[],delving-bitcoin-2715-9-8767
 "['Security', 'P2P', 'Cryptography', 'Peer-Discovery', 'Privacy']","['RPC', 'VPN']",delving-bitcoin-2497-20-8768
 "['Mining', 'Libbitcoin Kernel', 'Bitcoin Core', 'Research', 'Consensus']",[],delving-bitcoin-2918-2-8761
+"['Bitcoin Core', 'Testing']","['GitHub', 'Feedback', 'Release', 'Contributors']",delving-bitcoin-2958-1-8770
+"['Proof-of-Work', 'Decentralization', 'Proof-of-Stake', 'Fairness', 'Segregated Witness', 'Smart Contracts', 'Mining', 'Fees', 'Altcoin', 'Security', 'Bitcoin Core', 'Soft Fork', 'Fungibility', 'Cryptography', 'Incentives', 'Hard Fork', 'Consensus', 'Halving', 'Scalability', 'Privacy']",['Economic Theory'],delving-bitcoin-2959-1-8774
+"['Cryptography', 'Post-Quantum', 'Security']","['Bitcoin Script', 'Elliptic Curve Digital Signature Algorithm (ECDSA)']",delving-bitcoin-2715-10-8772
+"['Consensus', 'Cryptography', 'Research', 'Post-Quantum', 'Forks', 'Security']",[],delving-bitcoin-2715-11-8773
