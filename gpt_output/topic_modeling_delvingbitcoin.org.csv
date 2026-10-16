@@ -5073,3 +5073,6 @@ primary_topics,secondary_topics,source_id
 "['Proof-of-Work', 'Decentralization', 'Proof-of-Stake', 'Fairness', 'Segregated Witness', 'Smart Contracts', 'Mining', 'Fees', 'Altcoin', 'Security', 'Bitcoin Core', 'Soft Fork', 'Fungibility', 'Cryptography', 'Incentives', 'Hard Fork', 'Consensus', 'Halving', 'Scalability', 'Privacy']",['Economic Theory'],delving-bitcoin-2959-1-8774
 "['Cryptography', 'Post-Quantum', 'Security']","['Bitcoin Script', 'Elliptic Curve Digital Signature Algorithm (ECDSA)']",delving-bitcoin-2715-10-8772
 "['Consensus', 'Cryptography', 'Research', 'Post-Quantum', 'Forks', 'Security']",[],delving-bitcoin-2715-11-8773
+"['FROST', 'Silent Payments', 'secp256k1']","['Computational Problems', 'Partially Signed Bitcoin Transactions (PSBT)', 'Cryptographic Security', 'Nested MuSig2', 'BLISK', 'Two-Round Protocol', 'BIP-374', 'Cryptographic Analysis', 'BIP-375', 'Bitcoin Improvement Proposals (BIPs)', 'Efficiency', 'MuSig2', 'Elliptic Curve Cryptography', 'Weighted Elliptic Curve Diffie-Hellman (ECDH)', 'Discrete Logarithm Equality (DLEQ) proof', 'Multiparty Wallets', 'AggDLEQ']",delving-bitcoin-2960-1-8776
+"['Tor', 'Bitcoin Core', 'Security', 'Network', 'P2P']",[],delving-bitcoin-2497-21-8777
+"['Hardware Wallet', 'Multisig', 'Wallet', 'Security', 'Backup']",[],delving-bitcoin-2957-2-8775
