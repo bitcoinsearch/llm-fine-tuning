@@ -5076,3 +5076,6 @@ primary_topics,secondary_topics,source_id
 "['FROST', 'Silent Payments', 'secp256k1']","['Computational Problems', 'Partially Signed Bitcoin Transactions (PSBT)', 'Cryptographic Security', 'Nested MuSig2', 'BLISK', 'Two-Round Protocol', 'BIP-374', 'Cryptographic Analysis', 'BIP-375', 'Bitcoin Improvement Proposals (BIPs)', 'Efficiency', 'MuSig2', 'Elliptic Curve Cryptography', 'Weighted Elliptic Curve Diffie-Hellman (ECDH)', 'Discrete Logarithm Equality (DLEQ) proof', 'Multiparty Wallets', 'AggDLEQ']",delving-bitcoin-2960-1-8776
 "['Tor', 'Bitcoin Core', 'Security', 'Network', 'P2P']",[],delving-bitcoin-2497-21-8777
 "['Hardware Wallet', 'Multisig', 'Wallet', 'Security', 'Backup']",[],delving-bitcoin-2957-2-8775
+"['Bitcoin Core', 'Validation', 'Libbitcoin Kernel', 'Research', 'Consensus', 'Build Systems']",[],delving-bitcoin-2918-3-8778
+"['Attacks', 'Consensus', 'Security']",[],delving-bitcoin-2497-23-8782
+"['Privacy', 'Blockchain', 'Hashlocks', 'Security', 'Mining', 'Consensus', 'P2P', 'Cryptography']",[],delving-bitcoin-2497-22-8779
